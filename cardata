@@ -1,0 +1,42 @@
+{
+                    ID: 1,
+                    Name: "Toyota",
+                    Model: "Corolla",
+                    Value: 8500,
+                    Mileage: 54000,
+                    YearOfManu: "2017",
+                    CatStat: "Clean",
+                    MotExp: "2025-01-01",
+                    FuelType: "Petrol",
+                    KeyNo: 2,
+                    Transmission: "Manual",
+                    Image: "https://via.placeholder.com/400x250"
+                },
+                {
+                    ID: 2,
+                    Name: "BMW",
+                    Model: "320d",
+                    Value: 11500,
+                    Mileage: 42000,
+                    YearOfManu: "2018",
+                    CatStat: "Clean",
+                    MotExp: "2025-03-01",
+                    FuelType: "Diesel",
+                    KeyNo: 1,
+                    Transmission: "Automatic",
+                    Image: "https://via.placeholder.com/400x250"
+                },
+                {
+                    ID: 3,
+                    Name: "Ford",
+                    Model: "Focus",
+                    Value: 6200,
+                    Mileage: 67000,
+                    YearOfManu: "2016",
+                    CatStat: "Cat N",
+                    MotExp: "2024-12-01",
+                    FuelType: "Petrol",
+                    KeyNo: 1,
+                    Transmission: "Manual",
+                    Image: "https://via.placeholder.com/400x250"
+                }
