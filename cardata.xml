@@ -1,19 +1,44 @@
-<cars>
-  <car>
-    <ID>1</ID>
-    <Name>Audi</Name>
-    <Model>A4</Model>
-    <Value>9995</Value>
-    <Mileage>45000</Mileage>
-    <CatStat>Clear</CatStat>
-    <Image>https://example.com/audi.jpg</Image>
-    <YearOfManu>2017</YearOfManu>
-    <Transmission>Manual</Transmission>
-    <MotExp>2025-08-01</MotExp>
-    <KeyNo>2</KeyNo>
-    <Colour>Grey</Colour>
-    <FuelType>Petrol</FuelType>
-    <ExtraFeatures>Heated seats, Parking sensors</ExtraFeatures>
-    <Description>Sporty look - Clean interior - Runs smooth</Description>
-  </car>
-</cars>
+<Cars>
+    <Car>
+        <ID>1</ID>
+        <Name>Toyota</Name>
+        <Model>Corolla</Model>
+        <Value>8500</Value>
+        <Mileage>54000</Mileage>
+        <YearOfManu>2017</YearOfManu>
+        <CatStat>Clean</CatStat>
+        <MotExp>2025-01-01</MotExp>
+        <FuelType>Petrol</FuelType>
+        <KeyNo>2</KeyNo>
+        <Transmission>Manual</Transmission>
+        <Image>https://via.placeholder.com/400x250</Image>
+    </Car>
+    <Car>
+        <ID>2</ID>
+        <Name>BMW</Name>
+        <Model>320d</Model>
+        <Value>11500</Value>
+        <Mileage>42000</Mileage>
+        <YearOfManu>2018</YearOfManu>
+        <CatStat>Clean</CatStat>
+        <MotExp>2025-03-01</MotExp>
+        <FuelType>Diesel</FuelType>
+        <KeyNo>1</KeyNo>
+        <Transmission>Automatic</Transmission>
+        <Image>https://via.placeholder.com/400x250</Image>
+    </Car>
+    <Car>
+        <ID>3</ID>
+        <Name>Ford</Name>
+        <Model>Focus</Model>
+        <Value>6200</Value>
+        <Mileage>67000</Mileage>
+        <YearOfManu>2016</YearOfManu>
+        <CatStat>Cat N</CatStat>
+        <MotExp>2024-12-01</MotExp>
+        <FuelType>Petrol</FuelType>
+        <KeyNo>1</KeyNo>
+        <Transmission>Manual</Transmission>
+        <Image>https://via.placeholder.com/400x250</Image>
+    </Car>
+</Cars>
