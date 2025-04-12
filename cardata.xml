@@ -3,6 +3,7 @@
         <ID>1</ID>
         <Name>Toyota</Name>
         <Model>Corolla</Model>
+        <Description>Nice car ya know</Description>
         <Value>8500</Value>
         <Mileage>54000</Mileage>
         <YearOfManu>2017</YearOfManu>
