@@ -1,11 +1,11 @@
 <Cars>
     <Car>
-          <ID>DK13RUH</ID>
+          <ID>1</ID>
           <Name>VAUXHALL</Name>
           <Model>ASTRA GTC</Model>
           <Description>CAR IS CAR</Description>
           <Value>2499</Value>
-          <Mileage>90,000 MILES</Mileage>
+          <Mileage>90000</Mileage>
           <YearOfManu>2013</YearOfManu>
           <CatStat>cat_n</CatStat>
           <MotExp>2012</MotExp>
