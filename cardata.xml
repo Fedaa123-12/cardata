@@ -4,62 +4,18 @@
           <Name>VAUXHALL</Name>
           <Model>ASTRA GTC</Model>
           <Description>CAR IS CAR</Description>
+          <Value>2499</Value>
           <Mileage>90,000 MILES</Mileage>
           <YearOfManu>2013</YearOfManu>
+          <CatStat>cat_n</CatStat>
           <MotExp>2012</MotExp>
+          <FuelType>Petrol</FuelType>
+          <Transmission>Manual</Transmission>
+          <Colour>black</Colour>
+          <ExtraFeatures>N/A</ExtraFeatures>
           <Reg>DK13RUH</Reg>
           <KeyNo>delete</KeyNo>
-          <CatStat>cat_n</CatStat>
-          <Colour>black</Colour>
-          <Value>2499</Value>
-          <FuelType>Petrol</FuelType>
-          <ExtraFeatures>N/A</ExtraFeatures>
           <Image>https://i.imgur.com/b0rUkvC.png, https://i.imgur.com/sEQy76o.png, https://i.imgur.com/6pwBGFC.png, https://i.imgur.com/QL8LYKD.png, https://i.imgur.com/d7SZ54u.png, https://i.imgur.com/LBmRbB3.png, https://i.imgur.com/JrKVFkf.jpeg, https://i.imgur.com/5vTFik5.jpeg, https://i.imgur.com/RhYrxKX.jpeg, https://i.imgur.com/fxVLPmv.jpeg, https://i.imgur.com/wQnOvYA.jpeg, https://i.imgur.com/sCDpI6K.jpeg, https://i.imgur.com/gLWARK0.jpeg, https://i.imgur.com/F7qLANQ.jpeg, https://i.imgur.com/jWQl6zY.jpeg, https://i.imgur.com/sZR8htN.jpeg, https://i.imgur.com/3Pw9O1P.jpeg, https://i.imgur.com/OnS1krP.jpeg, https://i.imgur.com/qLGkFEK.jpeg, https://i.imgur.com/LkLU9jG.jpeg, https://i.imgur.com/j0cyp2h.jpeg, https://i.imgur.com/UiTfRb8.jpeg, https://i.imgur.com/ccIUfvR.jpeg, https://i.imgur.com/unIJGoI.jpeg, https://i.imgur.com/L9erHtp.jpeg, https://i.imgur.com/CwiA7yP.jpeg, https://i.imgur.com/3duQa8T.jpeg, https://i.imgur.com/oDl2epi.jpeg, https://i.imgur.com/Nb2Egsu.jpeg, https://i.imgur.com/1HNGrEF.jpeg, https://i.imgur.com/2kvvQpO.jpeg, https://i.imgur.com/Rjw7LT8.jpeg, https://i.imgur.com/fGflnyo.jpeg</Image>
           <Video></Video>
-    </Car>
-    <Car>
-        <ID>1</ID>
-        <Name>Toyota</Name>
-        <Model>Corolla</Model>
-        <Description>Nice car ya know</Description>
-        <Value>8500</Value>
-        <Mileage>54000</Mileage>
-        <YearOfManu>2017</YearOfManu>
-        <CatStat>Clean</CatStat>
-        <MotExp>2025-01-01</MotExp>
-        <FuelType>Petrol</FuelType>
-        <KeyNo>2</KeyNo>
-        <Transmission>Manual</Transmission>
-        <Image>
-            https://i.imgur.com/7kkGjy7.jpeg,https://i.imgur.com/emP2nRy.jpeg,https://i.imgur.com/KLBTKok.jpeg,https://i.imgur.com/E1zLxmJ.jpeg,https://i.imgur.com/dOleixb.jpeg,https://i.imgur.com/9mk54WP.jpeg,https://i.imgur.com/inE9CPy.jpeg,https://i.imgur.com/Zv3Q1rx.jpeg,https://i.imgur.com/sNw75HL.jpeg,https://i.imgur.com/cgsv81U.jpeg,https://i.imgur.com/mJvxg3S.jpeg,https://i.imgur.com/cT9pAxH.jpeg,https://i.imgur.com/b6AVVnh.jpeg,https://i.imgur.com/q5ykF2Y.jpeg,https://i.imgur.com/lnIhlIe.jpeg,https://i.imgur.com/DLLLXAs.jpeg,https://i.imgur.com/amgmFz4.jpeg,https://i.imgur.com/Vw2tBbt.jpeg,https://i.imgur.com/JicVjC8.jpeg,https://i.imgur.com/6q12xU1.jpeg,https://i.imgur.com/1uKkxCn.jpeg,https://i.imgur.com/peMBsG7.jpeg,https://i.imgur.com/iEX7hNZ.jpeg,https://i.imgur.com/KZypcrY.jpeg,https://i.imgur.com/BBNHgMQ.jpeg,https://i.imgur.com/BPLJENx.jpeg,https://i.imgur.com/rXWv0rp.jpeg,https://i.imgur.com/o6uF4k2.jpeg,https://i.imgur.com/5Nef56H.jpeg,https://i.imgur.com/zbcDUNQ.jpeg,https://i.imgur.com/SCuHlPW.jpeg
-        </Image>
-    </Car>
-    <Car>
-        <ID>2</ID>
-        <Name>BMW</Name>
-        <Model>320d</Model>
-        <Value>11500</Value>
-        <Mileage>42000</Mileage>
-        <YearOfManu>2018</YearOfManu>
-        <CatStat>Clean</CatStat>
-        <MotExp>2025-03-01</MotExp>
-        <FuelType>Diesel</FuelType>
-        <KeyNo>1</KeyNo>
-        <Transmission>Automatic</Transmission>
-        <Image>https://i.imgur.com/WbwKHuQ.jpeg,https://i.imgur.com/pt94MiE.jpeg,https://i.imgur.com/FA2ubIS.jpeg,https://i.imgur.com/uibkUtP.jpeg,https://i.imgur.com/eBWuYNe.jpeg,https://i.imgur.com/UQ1pSiC.jpeg,https://i.imgur.com/8TPtP3h.jpeg,https://i.imgur.com/j9P4dyj.jpeg,https://i.imgur.com/xU8L1mR.jpeg,https://i.imgur.com/bgwdVnH.jpeg,https://i.imgur.com/Co1vzcb.jpeg,https://i.imgur.com/sVPkIkG.jpeg,https://i.imgur.com/DumuOER.jpeg,https://i.imgur.com/aOle6hi.jpeg,https://i.imgur.com/jCMlLH9.jpeg,https://i.imgur.com/I5Q0fdf.jpeg,https://i.imgur.com/ZpbzYvS.jpeg,https://i.imgur.com/oJvOK0E.jpeg,https://i.imgur.com/2FTJ59G.jpeg,https://i.imgur.com/XXh6nrK.jpeg,https://i.imgur.com/xkLrJcY.jpeg,https://i.imgur.com/LHlojCO.jpeg,https://i.imgur.com/hxVPmvO.jpeg,https://i.imgur.com/RAfgDTi.jpeg,https://i.imgur.com/qt1Pdrr.jpeg,https://i.imgur.com/BVt36ud.jpeg,https://i.imgur.com/zA1TVqh.jpeg,https://i.imgur.com/mChqoze.jpeg,https://i.imgur.com/CD2Lctr.jpeg,https://i.imgur.com/pNahYHA.jpeg,https://i.imgur.com/Sae5CFb.jpeg,https://i.imgur.com/TR8M8QQ.jpeg,https://i.imgur.com/EYgfRvm.jpeg,https://i.imgur.com/HiSIo4O.jpeg,https://i.imgur.com/Ps24IVz.jpeg,https://i.imgur.com/RBqPi4n.jpeg</Image>
-    </Car>
-    <Car>
-        <ID>3</ID>
-        <Name>Ford</Name>
-        <Model>Focus</Model>
-        <Value>6200</Value>
-        <Mileage>67000</Mileage>
-        <YearOfManu>2016</YearOfManu>
-        <CatStat>Cat N</CatStat>
-        <MotExp>2024-12-01</MotExp>
-        <FuelType>Petrol</FuelType>
-        <KeyNo>1</KeyNo>
-        <Transmission>Manual</Transmission>
-        <Image>https://via.placeholder.com/400x250</Image>
     </Car>
 </Cars>
