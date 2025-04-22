@@ -1,28 +1,32 @@
-<Cars>
-
-    <Car>
-      
-
-         <ID>1</ID>
-           <Name>VAUXHALL</Name>
-           <Model>ASTRA GTC</Model>
-           <FullModel>1.4T SRi Coupe 3dr Petrol Manual Euro 5</FullModel>
-           <EyeCatcher>Mot?AC?Mot?Service history</EyeCatcher>
- <Description>
-               CAR IS CAR 
-               - Car IS CAR
-           </Description>
-<Value>2499</Value>
-           <Mileage>90000</Mileage>
-           <YearOfManu>2013</YearOfManu>
-           <CatStat>cat_n</CatStat>
-           <FuelType>Petrol</FuelType>
-           <Transmission>Manual</Transmission>
-           <Colour>black</Colour>
-           <ExtraFeatures></ExtraFeatures>
-           <Reg>DK13RUH</Reg>
-           <Image>https://i.imgur.com/b0rUkvC.png, https://i.imgur.com/sEQy76o.png, https://i.imgur.com/6pwBGFC.png, https://i.imgur.com/QL8LYKD.png, https://i.imgur.com/d7SZ54u.png, https://i.imgur.com/LBmRbB3.png, https://i.imgur.com/JrKVFkf.jpeg, https://i.imgur.com/5vTFik5.jpeg, https://i.imgur.com/RhYrxKX.jpeg, https://i.imgur.com/fxVLPmv.jpeg, https://i.imgur.com/wQnOvYA.jpeg, https://i.imgur.com/sCDpI6K.jpeg, https://i.imgur.com/gLWARK0.jpeg, https://i.imgur.com/F7qLANQ.jpeg, https://i.imgur.com/jWQl6zY.jpeg, https://i.imgur.com/sZR8htN.jpeg, https://i.imgur.com/3Pw9O1P.jpeg, https://i.imgur.com/OnS1krP.jpeg, https://i.imgur.com/qLGkFEK.jpeg, https://i.imgur.com/LkLU9jG.jpeg, https://i.imgur.com/j0cyp2h.jpeg, https://i.imgur.com/UiTfRb8.jpeg, https://i.imgur.com/ccIUfvR.jpeg, https://i.imgur.com/unIJGoI.jpeg, https://i.imgur.com/L9erHtp.jpeg, https://i.imgur.com/CwiA7yP.jpeg, https://i.imgur.com/3duQa8T.jpeg, https://i.imgur.com/oDl2epi.jpeg, https://i.imgur.com/Nb2Egsu.jpeg, https://i.imgur.com/1HNGrEF.jpeg, https://i.imgur.com/2kvvQpO.jpeg, https://i.imgur.com/Rjw7LT8.jpeg, https://i.imgur.com/fGflnyo.jpeg</Image>
- <Video></Video>
-           <MetaTag></MetaTag>
+<Car>
+          <ID>361543</ID>
+          <Name>Vauxhall</Name>
+          <Model>Astra GTC</Model>
+          <FullModel>1.4T SRi Coupe 3dr Petrol Manual Euro 5 (s/s) (140 ps)</FullModel>
+          <EyeCatcher>Full MOT | Serviced | Warranty</EyeCatcher>
+          <Description>
+              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+              - Let us help you find a car you’ll love, at a price you can feel good about.
+              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+              - 
+              - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder turbo charged engine, it delivers approximately 140 horsepower and is paired with 6-speed manual transmision.
+              - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. Additional tech includes Bluetooth connectivity, USB ports, voice command functionality, contact for more information.
+              - 
+              - Technical data:
+              - ULEZ, MPG, INSURANCE GROUP, TAX PER YEAR.
+              - Fuel efficiency ranges from 47.1 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+          </Description>
+          <Value>2699</Value>
+          <Mileage>98800</Mileage>
+          <YearOfManu>2013</YearOfManu>
+          <CatStat>Clear</CatStat>
+          <FuelType>Petrol</FuelType>
+          <Transmission>Manual</Transmission>
+          <Colour>Black</Colour>
+          <ExtraFeatures></ExtraFeatures>
+          <Reg>DK13 RUH</Reg>
+          <Image>https://i.imgur.com/b0rUkvC.png, https://i.imgur.com/sEQy76o.png, https://i.imgur.com/6pwBGFC.png, https://i.imgur.com/QL8LYKD.png, https://i.imgur.com/d7SZ54u.png, https://i.imgur.com/LBmRbB3.png, https://i.imgur.com/JrKVFkf.jpeg, https://i.imgur.com/5vTFik5.jpeg, https://i.imgur.com/RhYrxKX.jpeg, https://i.imgur.com/fxVLPmv.jpeg, https://i.imgur.com/wQnOvYA.jpeg, https://i.imgur.com/sCDpI6K.jpeg, https://i.imgur.com/gLWARK0.jpeg, https://i.imgur.com/F7qLANQ.jpeg, https://i.imgur.com/jWQl6zY.jpeg, https://i.imgur.com/sZR8htN.jpeg, https://i.imgur.com/3Pw9O1P.jpeg, https://i.imgur.com/OnS1krP.jpeg, https://i.imgur.com/qLGkFEK.jpeg, https://i.imgur.com/LkLU9jG.jpeg, https://i.imgur.com/j0cyp2h.jpeg, https://i.imgur.com/UiTfRb8.jpeg, https://i.imgur.com/ccIUfvR.jpeg, https://i.imgur.com/unIJGoI.jpeg, https://i.imgur.com/L9erHtp.jpeg, https://i.imgur.com/CwiA7yP.jpeg, https://i.imgur.com/3duQa8T.jpeg, https://i.imgur.com/oDl2epi.jpeg, https://i.imgur.com/Nb2Egsu.jpeg, https://i.imgur.com/1HNGrEF.jpeg, https://i.imgur.com/2kvvQpO.jpeg, https://i.imgur.com/Rjw7LT8.jpeg, https://i.imgur.com/fGflnyo.jpeg</Image>
+          <Video></Video>
+          <MetaTag>2013 Vauxhall Astra GTC for Sale Northeast, best prices at Aw trade centre, located in Billingham, North Yorkshire.</MetaTag>
 </Car>
-</Cars>
