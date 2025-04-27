@@ -133,4 +133,36 @@
           <Video></Video>
           <MetaTag></MetaTag>
 </Car>
+
+          <Car>
+          <ID>5</ID>
+          <Name>Audi</Name>
+          <Model>A4 Avant Black Edition</Model>
+          <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
+          <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
+          <Description>
+              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+              - Let us help you find a car you’ll love, at a price you can feel good about.
+              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+              - 
+              - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 174 horsepower and is paired with 6-speed manual transmission.
+              - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
+              - 
+              - Technical data:
+              - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+          </Description>
+          <Value>6750</Value>
+          <Mileage>140000</Mileage>
+          <YearOfManu>2015</YearOfManu>
+          <CatStat>Cat N</CatStat>
+          <FuelType>Diesel</FuelType>
+          <Transmission>Manual</Transmission>
+          <Colour>Blue</Colour>
+          <ExtraFeatures></ExtraFeatures>
+          <Reg>YY15 GYZ</Reg>
+          <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
+          <Video></Video>
+          <MetaTag></MetaTag>
+</Car>
 </Cars>
