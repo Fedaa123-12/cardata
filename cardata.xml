@@ -102,7 +102,7 @@
 </Car>
 
           <Car>
-          <ID>827008</ID>
+          <ID>4</ID>
           <Name>SEAT</Name>
           <Model>Ibiza Sport</Model>
           <FullModel>1.4 16V Sport Sport Coupe 3dr Petrol Manual Euro 4 (85 ps)</FullModel>
@@ -121,7 +121,7 @@
               - 
           </Description>
           <Value>1899</Value>
-          <Mileage>110,000</Mileage>
+          <Mileage>110000</Mileage>
           <YearOfManu>2009</YearOfManu>
           <CatStat>Clear</CatStat>
           <FuelType>Petrol</FuelType>
