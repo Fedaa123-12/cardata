@@ -165,4 +165,36 @@
           <Video></Video>
           <MetaTag></MetaTag>
 </Car>
+
+          <Car>
+          <ID>6</ID>
+          <Name>Ford</Name>
+          <Model>Fiesta Ghia</Model>
+          <FullModel>1.6 Ghia Hatchback 5dr Petrol Manual (153 g/km, 99 bhp)</FullModel>
+          <EyeCatcher>ULEZ | New Clutch | Serviced</EyeCatcher>
+          <Description>
+              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+              - Let us help you find a car you’ll love, at a price you can feel good about.
+              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+              - 
+              - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.6L 4-cylinder engine, it delivers approximately 99 horsepower and is paired with 5-speed manual transmission.
+              - Inside, the vehicle features a spacious cabin with seating for five, full leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+              - 
+              - Technical data:
+              - Fuel efficiency ranges from 42.8 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+          </Description>
+          <Value>1200</Value>
+          <Mileage>80000</Mileage>
+          <YearOfManu>2006</YearOfManu>
+          <CatStat>Cat N</CatStat>
+          <FuelType>Petrol</FuelType>
+          <Transmission>Manual</Transmission>
+          <Colour>Blue</Colour>
+          <ExtraFeatures></ExtraFeatures>
+          <Reg>BL55 OOC</Reg>
+          <Image>https://i.imgur.com/0HwCCz6.png,https://i.imgur.com/aCaqplq.png,https://i.imgur.com/YXc9het.png,https://i.imgur.com/dh7Gjw3.png,https://i.imgur.com/7wt1ytg.png,https://i.imgur.com/NlGeXOs.png,https://i.imgur.com/4ii3l8S.jpeg,https://i.imgur.com/79Y0e8G.jpeg,https://i.imgur.com/rB01chg.jpeg,https://i.imgur.com/eJzaazp.jpeg,https://i.imgur.com/sZ1JKwD.jpeg,https://i.imgur.com/KuoWRG1.jpeg,https://i.imgur.com/amrFi7G.jpeg,https://i.imgur.com/DcvCPVs.jpeg,https://i.imgur.com/Rb6MpPH.jpeg,https://i.imgur.com/NpP4HA6.jpeg,https://i.imgur.com/9mwBQHt.jpeg,https://i.imgur.com/fHFG6dR.jpeg,https://i.imgur.com/ctqGuQK.jpeg,https://i.imgur.com/VF6mVhY.jpeg</Image>
+          <Video></Video>
+          <MetaTag></MetaTag>
+</Car>
 </Cars>
