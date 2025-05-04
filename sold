@@ -1,0 +1,32 @@
+<Car>
+          <ID>3</ID>
+          <Name>Ford</Name>
+          <Model>Focus Zetec </Model>
+          <FullModel>1.6 TDCi Zetec Hatchback 5dr Diesel Manual Euro 5 (s/s) (115 ps)</FullModel>
+          <EyeCatcher>Serviced | Warranty | Nationwide Delivery</EyeCatcher>
+          <Description>
+              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+              - Let us help you find a car you’ll love, at a price you can feel good about.
+              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+              - 
+              - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.6L 4-cylinder turbo charged engine, it delivers approximately 113 horsepower and is paired with 6-speed manual transmision.
+              - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. Additional tech includes Bluetooth connectivity, USB ports, voice command functionality, contact for more information.
+              - 
+              - Technical data:
+              - Fuel efficiency ranges from 67.3 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+              - 
+          </Description>
+          <Value>3299</Value>
+          <Mileage>89500</Mileage>
+          <YearOfManu>2012</YearOfManu>
+          <CatStat>Clear</CatStat>
+          <FuelType>Diesel</FuelType>
+          <Transmission>Manual</Transmission>
+          <Colour>Grey</Colour>
+          <ExtraFeatures>16in Alloy Wheels - 5x2 Spoke, Air Conditioning, Bluetooth Handsfree and Voice Control, Bright Finish on Upper Door Line, Centre Console with open Stowage Bins, Chrome Finish on Upper Door Line, Door Mirrors - Heated - Electric - Integrated Side Indicators - Body Coloured, EBD - Electronic Brakeforce Distribution, ESP - Electronic Stability Programme, Emergency Brake Lights, Ford DAB Audio System, Ford Easy-Fuel Capless Refuelling System, Ford SYNC, Front Fog Lights, Front suspension - Independent with MacPherson Struts, IPS - Intelligent Protection System, Pollen Filter, Rear Spoiler, Seats - 60-40 Rear Split Back, Seats - Front Sports, TVC - Torque Vectoring Control, Thatcham Category 1 Alarm, Traction Control - TC, USB Connection - iPod Connectivity, Voice Control - Audio</ExtraFeatures>
+          <Reg>HV62 FYL</Reg>
+          <Image>https://i.imgur.com/5o90Tky.jpeg,https://i.imgur.com/u2jjJmF.png,https://i.imgur.com/2rTZgE1.png,https://i.imgur.com/7LyKK93.png,https://i.imgur.com/VSUa64d.png,https://i.imgur.com/RZcGFAr.png,https://i.imgur.com/seDuXcS.jpeg,https://i.imgur.com/lQhXpaI.jpeg,https://i.imgur.com/WWPP6Dy.jpeg,https://i.imgur.com/j53LdRO.jpeg,https://i.imgur.com/gQfhC2K.jpeg,https://i.imgur.com/fF0Q3DB.jpeg,https://i.imgur.com/dkXyggF.jpeg,https://i.imgur.com/kVsW35t.jpeg,https://i.imgur.com/VqEQHNZ.jpeg,https://i.imgur.com/tTSQtay.jpeg,https://i.imgur.com/d7W96Me.jpeg,https://i.imgur.com/mi4R4hz.jpeg,https://i.imgur.com/JLOod9R.jpeg,https://i.imgur.com/aaBgV8B.jpeg,https://i.imgur.com/80M6v3R.jpeg,https://i.imgur.com/rkzfaSt.jpeg,https://i.imgur.com/LdCbAP5.jpeg,https://i.imgur.com/P21F5Gj.jpeg,https://i.imgur.com/8ifgFnu.jpeg,https://i.imgur.com/TWYKX5k.jpeg,https://i.imgur.com/FAlBw0P.jpeg,https://i.imgur.com/RkTfgHr.jpeg,https://i.imgur.com/CFg7gHA.jpeg,https://i.imgur.com/rhkF3ja.jpeg</Image>
+          <Video></Video>
+          <MetaTag>2012 Ford Focus Zetec, £20 12 months road tax, for Sale Northeast, best prices at Aw trade centre, located in Billingham, North Yorkshire</MetaTag>
+</Car>
