@@ -17,7 +17,7 @@
               - Technical data:
               - Fuel efficiency ranges from 47.1 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
           </Description>
-          <Value>2699</Value>
+          <Value>2499</Value>
           <Mileage>98800</Mileage>
           <YearOfManu>2013</YearOfManu>
           <CatStat>Clear</CatStat>
@@ -56,7 +56,7 @@
               - 
               - Vehicle registered: 13/08/2013
           </Description>
-          <Value>3499</Value>
+          <Value>3199</Value>
           <Mileage>85200</Mileage>
           <YearOfManu>2013</YearOfManu>
           <CatStat>Clear</CatStat>
@@ -121,7 +121,7 @@
               - Technical data:
               - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
           </Description>
-          <Value>6499</Value>
+          <Value>6199</Value>
           <Mileage>140000</Mileage>
           <YearOfManu>2015</YearOfManu>
           <CatStat>Cat N</CatStat>
@@ -201,7 +201,7 @@
           <Car>
           <ID>1</ID>
           <Name>Ford</Name>
-          <Model>Focus </Model>
+          <Model>Focus</Model>
           <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
           <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
           <Description>
@@ -217,7 +217,7 @@
               - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
               - 
           </Description>
-          <Value>4999</Value>
+          <Value>4699</Value>
           <Mileage>90500</Mileage>
           <YearOfManu>2012</YearOfManu>
           <CatStat>Clear</CatStat>
