@@ -1,263 +1,223 @@
 <Cars>
-<Car>
-          <ID>8</ID>
-          <Name>Vauxhall</Name>
-          <Model>Astra GTC</Model>
-          <FullModel>1.4T SRi Coupe 3dr Petrol Manual Euro 5 (s/s) (140 ps)</FullModel>
-          <EyeCatcher>Full MOT | Serviced | Warranty</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder turbo charged engine, it delivers approximately 140 horsepower and is paired with 6-speed manual transmision.
-              - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. Additional tech includes Bluetooth connectivity, USB ports, voice command functionality, contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 47.1 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-          </Description>
-          <Value>2499</Value>
-          <Mileage>98800</Mileage>
-          <YearOfManu>2013</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Petrol</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>Black</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>DK13 RUH</Reg>
-          <Image>https://i.imgur.com/qxCHECj.jpeg, https://i.imgur.com/sEQy76o.png, https://i.imgur.com/6pwBGFC.png, https://i.imgur.com/QL8LYKD.png, https://i.imgur.com/d7SZ54u.png, https://i.imgur.com/LBmRbB3.png, https://i.imgur.com/JrKVFkf.jpeg, https://i.imgur.com/5vTFik5.jpeg, https://i.imgur.com/RhYrxKX.jpeg, https://i.imgur.com/fxVLPmv.jpeg, https://i.imgur.com/wQnOvYA.jpeg, https://i.imgur.com/sCDpI6K.jpeg, https://i.imgur.com/gLWARK0.jpeg, https://i.imgur.com/F7qLANQ.jpeg, https://i.imgur.com/jWQl6zY.jpeg, https://i.imgur.com/sZR8htN.jpeg, https://i.imgur.com/3Pw9O1P.jpeg, https://i.imgur.com/OnS1krP.jpeg, https://i.imgur.com/qLGkFEK.jpeg, https://i.imgur.com/LkLU9jG.jpeg, https://i.imgur.com/j0cyp2h.jpeg, https://i.imgur.com/UiTfRb8.jpeg, https://i.imgur.com/ccIUfvR.jpeg, https://i.imgur.com/unIJGoI.jpeg, https://i.imgur.com/L9erHtp.jpeg, https://i.imgur.com/CwiA7yP.jpeg, https://i.imgur.com/3duQa8T.jpeg, https://i.imgur.com/oDl2epi.jpeg, https://i.imgur.com/Nb2Egsu.jpeg, https://i.imgur.com/1HNGrEF.jpeg, https://i.imgur.com/2kvvQpO.jpeg, https://i.imgur.com/Rjw7LT8.jpeg, https://i.imgur.com/fGflnyo.jpeg</Image>
-          <Video></Video>
-          <MetaTag>2013 Vauxhall Astra GTC for Sale Northeast, best prices at Aw trade centre, located in Billingham, North Yorkshire.</MetaTag>
-</Car>
-
-
-          
-
-
-          <Car>
-          <ID>4</ID>
-          <Name>SEAT</Name>
-          <Model>Ibiza Sport</Model>
-          <FullModel>1.4 16V Sport Sport Coupe 3dr Petrol Manual Euro 4 (85 ps)</FullModel>
-          <EyeCatcher>Serviced | 3 Owners | Nationwide Delivery</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder engine, it delivers approximately 86 horsepower and is paired with 5-speed manual transmision.
-              - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 45.6 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-              - 
-          </Description>
-          <Value>1599</Value>
-          <Mileage>110000</Mileage>
-          <YearOfManu>2009</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Petrol</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>Red</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>CX59 UBT</Reg>
-          <Image>https://i.imgur.com/bJWsZ6v.png,https://i.imgur.com/0tbhKqL.png,https://i.imgur.com/bBHbeMB.png,https://i.imgur.com/Wqs7KQ7.png,https://i.imgur.com/55RY39z.png,https://i.imgur.com/e7AnVKS.png,https://i.imgur.com/icj958x.jpeg,https://i.imgur.com/u7c5455.jpeg,https://i.imgur.com/92ZjaHN.jpeg,https://i.imgur.com/gX36AIt.jpeg,https://i.imgur.com/BF8YZ2l.jpeg,https://i.imgur.com/aBkhjwU.jpeg,https://i.imgur.com/vw8dHQA.jpeg,https://i.imgur.com/S5M1tYu.jpeg,https://i.imgur.com/MrPoZ5j.jpeg,https://i.imgur.com/kuZ15At.jpeg,https://i.imgur.com/1LakGcm.jpeg,https://i.imgur.com/49dTVrN.jpeg,https://i.imgur.com/Ij4XvhN.jpeg,https://i.imgur.com/fiaObIM.jpeg,https://i.imgur.com/Pu6uTp2.jpeg,https://i.imgur.com/ooBkDZ1.jpeg,https://i.imgur.com/30Wyjec.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-
-          <Car>
-          <ID>5</ID>
-          <Name>Audi</Name>
-          <Model>A4 Avant Black Edition</Model>
-          <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
-          <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 174 horsepower and is paired with 6-speed manual transmission.
-              - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-          </Description>
-          <Value>6199</Value>
-          <Mileage>140000</Mileage>
-          <YearOfManu>2015</YearOfManu>
-          <CatStat>Cat N</CatStat>
-          <FuelType>Diesel</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>Blue</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>YY15 GYZ</Reg>
-          <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-
-          <Car>
-          <ID>6</ID>
-          <Name>Ford</Name>
-          <Model>Fiesta Ghia</Model>
-          <FullModel>1.6 Ghia Hatchback 5dr Petrol Manual (153 g/km, 99 bhp)</FullModel>
-          <EyeCatcher>ULEZ | New Clutch | Serviced</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.6L 4-cylinder engine, it delivers approximately 99 horsepower and is paired with 5-speed manual transmission.
-              - Inside, the vehicle features a spacious cabin with seating for five, full leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 42.8 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-          </Description>
-          <Value>1200</Value>
-          <Mileage>80000</Mileage>
-          <YearOfManu>2006</YearOfManu>
-          <CatStat>Cat N</CatStat>
-          <FuelType>Petrol</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>Blue</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>BL55 OOC</Reg>
-          <Image>https://i.imgur.com/0HwCCz6.png,https://i.imgur.com/aCaqplq.png,https://i.imgur.com/YXc9het.png,https://i.imgur.com/dh7Gjw3.png,https://i.imgur.com/7wt1ytg.png,https://i.imgur.com/NlGeXOs.png,https://i.imgur.com/4ii3l8S.jpeg,https://i.imgur.com/79Y0e8G.jpeg,https://i.imgur.com/rB01chg.jpeg,https://i.imgur.com/eJzaazp.jpeg,https://i.imgur.com/sZ1JKwD.jpeg,https://i.imgur.com/KuoWRG1.jpeg,https://i.imgur.com/amrFi7G.jpeg,https://i.imgur.com/DcvCPVs.jpeg,https://i.imgur.com/Rb6MpPH.jpeg,https://i.imgur.com/NpP4HA6.jpeg,https://i.imgur.com/9mwBQHt.jpeg,https://i.imgur.com/fHFG6dR.jpeg,https://i.imgur.com/ctqGuQK.jpeg,https://i.imgur.com/VF6mVhY.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-          <Car>
-          <ID>1</ID>
-          <Name>Ford</Name>
-          <Model>Focus</Model>
-          <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
-          <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 163 horsepower and is paired with 6-speed automatic transmission.
-              - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-              - 
-          </Description>
-          <Value>4400</Value>
-          <Mileage>90500</Mileage>
-          <YearOfManu>2012</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Diesel</FuelType>
-          <Transmission>Automatic</Transmission>
-          <Colour>Blue</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>FT12 YLF</Reg>
-          <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-          <Car>
-          <ID>2</ID>
-          <Name>Ford</Name>
-          <Model>Galaxy Titanium X</Model>
-          <FullModel>2.0 TDCi Titanium X MPV 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
-          <EyeCatcher>Fresh Gearbox | Full MOT | Serviced</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Family Multi-Purpose Vehicle offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 163 horsepower and is paired with 6-speed powershift automatic transmission, which has recently been refurbished and serviced.
-              - Inside, the vehicle features a spacious cabin with seating for seven, full leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 49.6 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-          </Description>
-          <Value>6299</Value>
-          <Mileage>81000</Mileage>
-          <YearOfManu>2013</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Diesel</FuelType>
-          <Transmission>Automatic</Transmission>
-          <Colour>Black</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>PN63 WXO</Reg>
-          <Image>https://i.imgur.com/LWk98aj.png, https://i.imgur.com/YlWH7T9.png, https://i.imgur.com/Pn8FOR2.png, https://i.imgur.com/T8D3hLk.png, https://i.imgur.com/C920xCV.png, https://i.imgur.com/eN0hCqe.png, https://i.imgur.com/CyYxk3f.png, https://i.imgur.com/f95Gwm2.png, https://i.imgur.com/GBUIArn.jpeg, https://i.imgur.com/GOqwam5.jpeg, https://i.imgur.com/rc5qAnK.jpeg, https://i.imgur.com/Gq0wyVa.jpeg, https://i.imgur.com/cfJt2vP.jpeg, https://i.imgur.com/fXYIHt5.jpeg, https://i.imgur.com/wnmshfN.jpeg, https://i.imgur.com/We5N5aL.jpeg, https://i.imgur.com/sr6RhxW.jpeg, https://i.imgur.com/1kVVhPF.jpeg, https://i.imgur.com/gtve7v9.jpeg, https://i.imgur.com/t1qofwb.jpeg, https://i.imgur.com/IPkZ8kC.jpeg, https://i.imgur.com/t5UR2NT.jpeg, https://i.imgur.com/9G7ZTMe.jpeg, https://i.imgur.com/hr6wUz3.jpeg, https://i.imgur.com/PB1R9ay.jpeg, https://i.imgur.com/44FjnPR.jpeg, https://i.imgur.com/ZUkopLF.jpeg, https://i.imgur.com/NoEftDY.jpeg, https://i.imgur.com/BlgzOhy.jpeg, https://i.imgur.com/aoeHiu3.jpeg, https://i.imgur.com/3eWJz6A.jpeg, https://i.imgur.com/B2PY6hj.jpeg, https://i.imgur.com/GINGKbg.jpeg, https://i.imgur.com/ZhiJqR7.jpeg, https://i.imgur.com/u8YHOUk.jpeg, https://i.imgur.com/hYF4L5R.jpeg, https://i.imgur.com/303gRr1.jpeg, https://i.imgur.com/n8b3KFq.jpeg, https://i.imgur.com/4unkBtL.jpeg, https://i.imgur.com/HopKdDn.jpeg, https://i.imgur.com/paGXsWE.jpeg, https://i.imgur.com/bZr8dwz.jpeg, https://i.imgur.com/91RzIh6.jpeg, https://i.imgur.com/FnT8I3h.jpeg, https://i.imgur.com/cFVCnAL.jpeg, https://i.imgur.com/8tFeGys.jpeg, https://i.imgur.com/fDZG9sc.jpeg, https://i.imgur.com/bJDotsJ.jpeg, https://i.imgur.com/lbr7slt.jpeg, https://i.imgur.com/yAYvlOS.jpeg, https://i.imgur.com/epOWBtF.jpeg, https://i.imgur.com/Yddtoww.jpeg, https://i.imgur.com/PLap0va.jpeg, https://i.imgur.com/bhtFCey.jpeg, https://i.imgur.com/OM0cIS0.jpeg, https://i.imgur.com/NLde8Qq.jpeg, https://i.imgur.com/KLdtkT7.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-          <Car>
-          <ID>844169</ID>
-          <Name>Peugeot</Name>
-          <Model>208 Active</Model>
-          <FullModel>1.0 VTi PureTech Active Hatchback 5dr Petrol Manual Euro 5 (68 ps)</FullModel>
-          <EyeCatcher>FULL MOT | SERVICED | £0 TAX</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Compact Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.0L 3-cylinder engine, it delivers approximately 68 horsepower and is paired with 5-speed transmission.
-              - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 65.7 MPG combined as stated by the manufacturers, £0 Road Tax and a low insurance group.
-              - Cargo space is generous, with rear seats that fold down to expand storage capacity.
-              - 
-          </Description>
-          <Value>3699</Value>
-          <Mileage>55000</Mileage>
-          <YearOfManu>2015</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Petrol</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>White</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>XJZ 4502</Reg>
-          <Image>https://i.imgur.com/XI8xSTk.png, https://i.imgur.com/CmNPka5.png, https://i.imgur.com/Gf3fsAj.png, https://i.imgur.com/QbyPLaF.png, https://i.imgur.com/CHinKQe.png, https://i.imgur.com/TwWK3Rn.png, https://i.imgur.com/Nnvrtsr.png, https://i.imgur.com/CwESByv.jpeg, https://i.imgur.com/cyrd2n7.jpeg, https://i.imgur.com/ToKBe8P.jpeg, https://i.imgur.com/vfiLGsD.jpeg, https://i.imgur.com/Kt8hLZc.jpeg, https://i.imgur.com/JYszfBj.jpeg, https://i.imgur.com/J7vWzcD.jpeg, https://i.imgur.com/lrKCzHE.jpeg, https://i.imgur.com/Q8SiY3b.jpeg, https://i.imgur.com/c37eaHl.jpeg, https://i.imgur.com/UJ9JJbn.jpeg, https://i.imgur.com/j2qjRuf.jpeg, https://i.imgur.com/ajMLuTP.jpeg, https://i.imgur.com/2Oe93u2.jpeg, https://i.imgur.com/3rgdeCT.jpeg, https://i.imgur.com/dOQF2Q9.jpeg, https://i.imgur.com/aHpMTpx.jpeg, https://i.imgur.com/BPj8I7k.jpeg, https://i.imgur.com/hHbpyMa.jpeg, https://i.imgur.com/fj6ssqB.jpeg, https://i.imgur.com/hWsaJtV.jpeg, https://i.imgur.com/FSLTp8E.jpeg, https://i.imgur.com/Xt24BAd.jpeg, https://i.imgur.com/M9CVA9Q.jpeg, https://i.imgur.com/IEPoKLU.jpeg, https://i.imgur.com/hNCJZJh.jpeg, https://i.imgur.com/VdHZule.jpeg, https://i.imgur.com/BO4dgZG.jpeg, https://i.imgur.com/o8ZMwy3.jpeg, https://i.imgur.com/iigKr0S.jpeg, https://i.imgur.com/tpEG4BW.jpeg, https://i.imgur.com/LclRF4a.jpeg, https://i.imgur.com/m3v78D3.jpeg, https://i.imgur.com/ZnKyAsz.jpeg, https://i.imgur.com/iKDBfwF.jpeg, https://i.imgur.com/zWKWz0K.jpeg, https://i.imgur.com/wHV0oVy.jpeg, https://i.imgur.com/wtLJtg9.jpeg, https://i.imgur.com/GwzNAWd.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
-          <Car>
-          <ID>488429</ID>
-          <Name>Vauxhall</Name>
-          <Model>Corsa SRi</Model>
-          <FullModel>1.4i ecoFLEX SRi Hatchback 5dr Petrol Manual Euro 6 (90ps)</FullModel>
-          <EyeCatcher>SERVICED | 3 OWNERS | NATIONWIDE DELIVERY</EyeCatcher>
-          <Description>
-              At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you&apos;re searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
-              - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
-              - Let us help you find a car you’ll love, at a price you can feel good about.
-              - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
-              - 
-              - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder engine, it delivers approximately 90 horsepower and is paired with 5-speed transmission.
-              - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-              - 
-              - Technical data:
-              - Fuel efficiency ranges from 55.4 MPG combined as stated by the manufacturers combined with a low insurance group.
-              - Cargo space is generous, with rear seats that fold down to expand storage capacity.
-              - 
-          </Description>
-          <Value>3099</Value>
-          <Mileage>98100</Mileage>
-          <YearOfManu>2015</YearOfManu>
-          <CatStat>Clear</CatStat>
-          <FuelType>Petrol</FuelType>
-          <Transmission>Manual</Transmission>
-          <Colour>Grey</Colour>
-          <ExtraFeatures></ExtraFeatures>
-          <Reg>BL15 AVX</Reg>
-          <Image>https://i.imgur.com/bDEhHef.png, https://i.imgur.com/q8K6hIp.png, https://i.imgur.com/10jyCRh.png, https://i.imgur.com/wfTLIYE.png, https://i.imgur.com/TQpLuqX.png, https://i.imgur.com/8izbkbl.png, https://i.imgur.com/1PIb5Aw.png, https://i.imgur.com/U78PskR.png, https://i.imgur.com/XbyuSLz.jpeg, https://i.imgur.com/Fk6TD3R.jpeg, https://i.imgur.com/fa9l1Ii.jpeg, https://i.imgur.com/ICemsep.jpeg, https://i.imgur.com/M7SWolj.jpeg, https://i.imgur.com/klaHtk6.jpeg, https://i.imgur.com/y30apKE.jpeg, https://i.imgur.com/XNG3uvd.jpeg, https://i.imgur.com/yqV6h0t.jpeg, https://i.imgur.com/NHnXJLY.jpeg, https://i.imgur.com/5jry16I.jpeg, https://i.imgur.com/QgDYs67.jpeg, https://i.imgur.com/sHpy8tg.jpeg, https://i.imgur.com/ckQlVYc.jpeg, https://i.imgur.com/1zpKPrw.jpeg, https://i.imgur.com/PbpKPkM.jpeg, https://i.imgur.com/zL5BbNu.jpeg, https://i.imgur.com/NvPd3KK.jpeg, https://i.imgur.com/oVsNjIV.jpeg, https://i.imgur.com/Lzzxc2T.jpeg, https://i.imgur.com/sg5mKrc.jpeg, https://i.imgur.com/VRdkrXv.jpeg, https://i.imgur.com/0ARAWiI.jpeg, https://i.imgur.com/5JN9FdW.jpeg, https://i.imgur.com/zlrJrU9.jpeg, https://i.imgur.com/wKGP6oS.jpeg, https://i.imgur.com/9h6Bcdf.jpeg, https://i.imgur.com/Ove6IGK.jpeg, https://i.imgur.com/cuXulWd.jpeg, https://i.imgur.com/Igyc86c.jpeg, https://i.imgur.com/KkmNCsR.jpeg, https://i.imgur.com/4mxipPi.jpeg, https://i.imgur.com/pOWz3kt.jpeg, https://i.imgur.com/9dJXrOY.jpeg, https://i.imgur.com/G7jhDzX.jpeg</Image>
-          <Video></Video>
-          <MetaTag></MetaTag>
-</Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Astra GTC</Model>
+    <FullModel>1.4T SRi Coupe 3dr Petrol Manual Euro 5 (s/s) (140 ps)</FullModel>
+    <EyeCatcher>Full MOT | Serviced | Warranty</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>98800</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DK13 RUH</Reg>
+    <Video></Video>
+    <MetaTag>2013 Vauxhall Astra GTC for Sale Northeast, best prices at Aw trade centre, located in Billingham, North Yorkshire.</MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder turbo charged engine, it delivers approximately 140 horsepower and is paired with 6-speed manual transmision.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. Additional tech includes Bluetooth connectivity, USB ports, voice command functionality, contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 47.1 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/qxCHECj.jpeg, https://i.imgur.com/sEQy76o.png, https://i.imgur.com/6pwBGFC.png, https://i.imgur.com/QL8LYKD.png, https://i.imgur.com/d7SZ54u.png, https://i.imgur.com/LBmRbB3.png, https://i.imgur.com/JrKVFkf.jpeg, https://i.imgur.com/5vTFik5.jpeg, https://i.imgur.com/RhYrxKX.jpeg, https://i.imgur.com/fxVLPmv.jpeg, https://i.imgur.com/wQnOvYA.jpeg, https://i.imgur.com/sCDpI6K.jpeg, https://i.imgur.com/gLWARK0.jpeg, https://i.imgur.com/F7qLANQ.jpeg, https://i.imgur.com/jWQl6zY.jpeg, https://i.imgur.com/sZR8htN.jpeg, https://i.imgur.com/3Pw9O1P.jpeg, https://i.imgur.com/OnS1krP.jpeg, https://i.imgur.com/qLGkFEK.jpeg, https://i.imgur.com/LkLU9jG.jpeg, https://i.imgur.com/j0cyp2h.jpeg, https://i.imgur.com/UiTfRb8.jpeg, https://i.imgur.com/ccIUfvR.jpeg, https://i.imgur.com/unIJGoI.jpeg, https://i.imgur.com/L9erHtp.jpeg, https://i.imgur.com/CwiA7yP.jpeg, https://i.imgur.com/3duQa8T.jpeg, https://i.imgur.com/oDl2epi.jpeg, https://i.imgur.com/Nb2Egsu.jpeg, https://i.imgur.com/1HNGrEF.jpeg, https://i.imgur.com/2kvvQpO.jpeg, https://i.imgur.com/Rjw7LT8.jpeg, https://i.imgur.com/fGflnyo.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Name>SEAT</Name>
+    <Model>Ibiza Sport</Model>
+    <FullModel>1.4 16V Sport Sport Coupe 3dr Petrol Manual Euro 4 (85 ps)</FullModel>
+    <EyeCatcher>Serviced | 3 Owners | Nationwide Delivery</EyeCatcher>
+    <Value>1599</Value>
+    <Mileage>110000</Mileage>
+    <YearOfManu>2009</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>CX59 UBT</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder engine, it delivers approximately 86 horsepower and is paired with 5-speed manual transmision.
+      - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 45.6 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      -
+    </Description>
+    <Image>https://i.imgur.com/bJWsZ6v.png,https://i.imgur.com/0tbhKqL.png,https://i.imgur.com/bBHbeMB.png,https://i.imgur.com/Wqs7KQ7.png,https://i.imgur.com/55RY39z.png,https://i.imgur.com/e7AnVKS.png,https://i.imgur.com/icj958x.jpeg,https://i.imgur.com/u7c5455.jpeg,https://i.imgur.com/92ZjaHN.jpeg,https://i.imgur.com/gX36AIt.jpeg,https://i.imgur.com/BF8YZ2l.jpeg,https://i.imgur.com/aBkhjwU.jpeg,https://i.imgur.com/vw8dHQA.jpeg,https://i.imgur.com/S5M1tYu.jpeg,https://i.imgur.com/MrPoZ5j.jpeg,https://i.imgur.com/kuZ15At.jpeg,https://i.imgur.com/1LakGcm.jpeg,https://i.imgur.com/49dTVrN.jpeg,https://i.imgur.com/Ij4XvhN.jpeg,https://i.imgur.com/fiaObIM.jpeg,https://i.imgur.com/Pu6uTp2.jpeg,https://i.imgur.com/ooBkDZ1.jpeg,https://i.imgur.com/30Wyjec.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Name>Audi</Name>
+    <Model>A4 Avant Black Edition</Model>
+    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
+    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
+    <Value>6199</Value>
+    <Mileage>140000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Cat N</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YY15 GYZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 174 horsepower and is paired with 6-speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta Ghia</Model>
+    <FullModel>1.6 Ghia Hatchback 5dr Petrol Manual (153 g/km, 99 bhp)</FullModel>
+    <EyeCatcher>ULEZ | New Clutch | Serviced</EyeCatcher>
+    <Value>1200</Value>
+    <Mileage>80000</Mileage>
+    <YearOfManu>2006</YearOfManu>
+    <CatStat>Cat N</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>BL55 OOC</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.6L 4-cylinder engine, it delivers approximately 99 horsepower and is paired with 5-speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, full leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 42.8 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/0HwCCz6.png,https://i.imgur.com/aCaqplq.png,https://i.imgur.com/YXc9het.png,https://i.imgur.com/dh7Gjw3.png,https://i.imgur.com/7wt1ytg.png,https://i.imgur.com/NlGeXOs.png,https://i.imgur.com/4ii3l8S.jpeg,https://i.imgur.com/79Y0e8G.jpeg,https://i.imgur.com/rB01chg.jpeg,https://i.imgur.com/eJzaazp.jpeg,https://i.imgur.com/sZ1JKwD.jpeg,https://i.imgur.com/KuoWRG1.jpeg,https://i.imgur.com/amrFi7G.jpeg,https://i.imgur.com/DcvCPVs.jpeg,https://i.imgur.com/Rb6MpPH.jpeg,https://i.imgur.com/NpP4HA6.jpeg,https://i.imgur.com/9mwBQHt.jpeg,https://i.imgur.com/fHFG6dR.jpeg,https://i.imgur.com/ctqGuQK.jpeg,https://i.imgur.com/VF6mVhY.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>1</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
+    <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
+    <Value>4400</Value>
+    <Mileage>90500</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FT12 YLF</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 163 horsepower and is paired with 6-speed automatic transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      -
+    </Description>
+    <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>2</ID>
+    <Name>Ford</Name>
+    <Model>Galaxy Titanium X</Model>
+    <FullModel>2.0 TDCi Titanium X MPV 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
+    <EyeCatcher>Fresh Gearbox | Full MOT | Serviced</EyeCatcher>
+    <Value>6299</Value>
+    <Mileage>81000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PN63 WXO</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This Family Multi-Purpose Vehicle offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4-cylinder engine, it delivers approximately 163 horsepower and is paired with 6-speed powershift automatic transmission, which has recently been refurbished and serviced.
+      - Inside, the vehicle features a spacious cabin with seating for seven, full leather upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 49.6 MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/LWk98aj.png, https://i.imgur.com/YlWH7T9.png, https://i.imgur.com/Pn8FOR2.png, https://i.imgur.com/T8D3hLk.png, https://i.imgur.com/C920xCV.png, https://i.imgur.com/eN0hCqe.png, https://i.imgur.com/CyYxk3f.png, https://i.imgur.com/f95Gwm2.png, https://i.imgur.com/GBUIArn.jpeg, https://i.imgur.com/GOqwam5.jpeg, https://i.imgur.com/rc5qAnK.jpeg, https://i.imgur.com/Gq0wyVa.jpeg, https://i.imgur.com/cfJt2vP.jpeg, https://i.imgur.com/fXYIHt5.jpeg, https://i.imgur.com/wnmshfN.jpeg, https://i.imgur.com/We5N5aL.jpeg, https://i.imgur.com/sr6RhxW.jpeg, https://i.imgur.com/1kVVhPF.jpeg, https://i.imgur.com/gtve7v9.jpeg, https://i.imgur.com/t1qofwb.jpeg, https://i.imgur.com/IPkZ8kC.jpeg, https://i.imgur.com/t5UR2NT.jpeg, https://i.imgur.com/9G7ZTMe.jpeg, https://i.imgur.com/hr6wUz3.jpeg, https://i.imgur.com/PB1R9ay.jpeg, https://i.imgur.com/44FjnPR.jpeg, https://i.imgur.com/ZUkopLF.jpeg, https://i.imgur.com/NoEftDY.jpeg, https://i.imgur.com/BlgzOhy.jpeg, https://i.imgur.com/aoeHiu3.jpeg, https://i.imgur.com/3eWJz6A.jpeg, https://i.imgur.com/B2PY6hj.jpeg, https://i.imgur.com/GINGKbg.jpeg, https://i.imgur.com/ZhiJqR7.jpeg, https://i.imgur.com/u8YHOUk.jpeg, https://i.imgur.com/hYF4L5R.jpeg, https://i.imgur.com/303gRr1.jpeg, https://i.imgur.com/n8b3KFq.jpeg, https://i.imgur.com/4unkBtL.jpeg, https://i.imgur.com/HopKdDn.jpeg, https://i.imgur.com/paGXsWE.jpeg, https://i.imgur.com/bZr8dwz.jpeg, https://i.imgur.com/91RzIh6.jpeg, https://i.imgur.com/FnT8I3h.jpeg, https://i.imgur.com/cFVCnAL.jpeg, https://i.imgur.com/8tFeGys.jpeg, https://i.imgur.com/fDZG9sc.jpeg, https://i.imgur.com/bJDotsJ.jpeg, https://i.imgur.com/lbr7slt.jpeg, https://i.imgur.com/yAYvlOS.jpeg, https://i.imgur.com/epOWBtF.jpeg, https://i.imgur.com/Yddtoww.jpeg, https://i.imgur.com/PLap0va.jpeg, https://i.imgur.com/bhtFCey.jpeg, https://i.imgur.com/OM0cIS0.jpeg, https://i.imgur.com/NLde8Qq.jpeg, https://i.imgur.com/KLdtkT7.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>488429</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa SRi</Model>
+    <FullModel>1.4i ecoFLEX SRi Hatchback 5dr Petrol Manual Euro 6 (90ps)</FullModel>
+    <EyeCatcher>SERVICED | 3 OWNERS | NATIONWIDE DELIVERY</EyeCatcher>
+    <Value>3099</Value>
+    <Mileage>98100</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>BL15 AVX</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      At AW Trade Centre, we pride ourselves on delivering superb customer service and offering a wide selection of quality used cars. Whether you're searching for a reliable daily driver or a unique find, we make it easy to discover the perfect vehicle to suit your needs.
+      - Every car comes with the care, expertise, and attention to detail that have become the hallmark of AW Trade Centre. Our friendly team is here to guide you through every step of the journey — from browsing to driving away making your car-buying experience smooth and enjoyable.
+      - Let us help you find a car you’ll love, at a price you can feel good about.
+      - Buy with confidence: all our cars are fully inspected, test-driven, and serviced. Plus, every vehicle comes with a comprehensive warranty for your peace of mind. (Please note: our process for part exchanges differs—get in touch for more information).
+      -
+      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4-cylinder engine, it delivers approximately 90 horsepower and is paired with 5-speed transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user-friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 55.4 MPG combined as stated by the manufacturers combined with a low insurance group.
+      - Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      -
+    </Description>
+    <Image>https://i.imgur.com/bDEhHef.png, https://i.imgur.com/q8K6hIp.png, https://i.imgur.com/10jyCRh.png, https://i.imgur.com/wfTLIYE.png, https://i.imgur.com/TQpLuqX.png, https://i.imgur.com/8izbkbl.png, https://i.imgur.com/1PIb5Aw.png, https://i.imgur.com/U78PskR.png, https://i.imgur.com/XbyuSLz.jpeg, https://i.imgur.com/Fk6TD3R.jpeg, https://i.imgur.com/fa9l1Ii.jpeg, https://i.imgur.com/ICemsep.jpeg, https://i.imgur.com/M7SWolj.jpeg, https://i.imgur.com/klaHtk6.jpeg, https://i.imgur.com/y30apKE.jpeg, https://i.imgur.com/XNG3uvd.jpeg, https://i.imgur.com/yqV6h0t.jpeg, https://i.imgur.com/NHnXJLY.jpeg, https://i.imgur.com/5jry16I.jpeg, https://i.imgur.com/QgDYs67.jpeg, https://i.imgur.com/sHpy8tg.jpeg, https://i.imgur.com/ckQlVYc.jpeg, https://i.imgur.com/1zpKPrw.jpeg, https://i.imgur.com/PbpKPkM.jpeg, https://i.imgur.com/zL5BbNu.jpeg, https://i.imgur.com/NvPd3KK.jpeg, https://i.imgur.com/oVsNjIV.jpeg, https://i.imgur.com/Lzzxc2T.jpeg, https://i.imgur.com/sg5mKrc.jpeg, https://i.imgur.com/VRdkrXv.jpeg, https://i.imgur.com/0ARAWiI.jpeg, https://i.imgur.com/5JN9FdW.jpeg, https://i.imgur.com/zlrJrU9.jpeg, https://i.imgur.com/wKGP6oS.jpeg, https://i.imgur.com/9h6Bcdf.jpeg, https://i.imgur.com/Ove6IGK.jpeg, https://i.imgur.com/cuXulWd.jpeg, https://i.imgur.com/Igyc86c.jpeg, https://i.imgur.com/KkmNCsR.jpeg, https://i.imgur.com/4mxipPi.jpeg, https://i.imgur.com/pOWz3kt.jpeg, https://i.imgur.com/9dJXrOY.jpeg, https://i.imgur.com/G7jhDzX.jpeg</Image>
+  </Car>
 </Cars>
