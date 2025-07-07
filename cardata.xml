@@ -2,32 +2,49 @@
   <Car>
     <ID>1</ID>
     <Name>Ford</Name>
-    <Model>Focus Titanium X</Model>
-    <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
-    <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
-    <Value>4199</Value>
-    <Mileage>90500</Mileage>
-    <YearOfManu>2012</YearOfManu>
+    <Model>Fiesta Zetec</Model>
+    <FullModel>1.0T EcoBoost Zetec Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>T-BELT | £20 R’TAX | WARRANTY</EyeCatcher>
+    <Value>5299</Value>
+    <Mileage>63000</Mileage>
+    <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Blue</Colour>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>FT12 YLF</Reg>
+    <Reg>CU16 XDG</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>195</Tax>
-    <Insurance>22E</Insurance>
-    <Mpg>54.3</Mpg>
+    <Tax>20</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>65.7</Mpg>
     <Description>
-      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4 cylinder engine, it delivers approximately 163 horsepower and is paired with 6 speed automatic transmission.
-      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-      -
-      - Technical data:
-      - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-      -
+      Now available is this Ford Fiesta Zetec, one of the UK’s most popular hatchbacks—loved for its sharp handling, great fuel economy, and low running costs. This model features the award-winning 1.0L EcoBoost petrol engine, offering the perfect balance of performance and efficiency.
+      
+      Major selling point: The timing belt kit has been replaced, saving you hundreds in future maintenance costs and offering peace of mind to the next owner.
+      
+      Key features include:
+      •	15” Alloy Wheels
+      •	DAB Radio and Bluetooth
+      •	Heated Windscreen (Quickclear)
+      •	Air Conditioning
+      •	Electric Windows and Mirrors
+      •	ISOFIX Child Seat Mounts
+      •	LED Daytime Running Lights
+      •	USB and AUX Ports
+      
+      Smooth to drive, excellent on fuel, and £0 annual road tax. No warning lights, bangs, or mechanical issues.
+      •	Timing belt kit recently replaced
+      •	Recently serviced and inspected
+      •	MOT expires 22/03/2026
+      •	5 former keepers
+      •	ULEZ compliant
+      
+      Drive away today. Secure this vehicle with a deposit for viewing or delivery.
+      Nationwide delivery available.
     </Description>
-    <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
+    <Image>https://i.imgur.com/8CQDLzI.png,https://i.imgur.com/5UigKpv.png,https://i.imgur.com/umFUcuK.png,https://i.imgur.com/lkx49eu.png,https://i.imgur.com/5pcqLIc.png,https://i.imgur.com/I3PEHv0.png,https://i.imgur.com/YMgkkZx.jpeg,https://i.imgur.com/hPtupeY.jpeg,https://i.imgur.com/mRWbaJB.jpeg,https://i.imgur.com/kQUsc8Z.jpeg,https://i.imgur.com/ugkQRrg.jpeg,https://i.imgur.com/xA6iewm.jpeg,https://i.imgur.com/6ASuqQh.jpeg,https://i.imgur.com/IcG0xC5.jpeg,https://i.imgur.com/sEHZHgJ.jpeg,https://i.imgur.com/fu3f38h.jpeg,https://i.imgur.com/BJwW4kD.jpeg,https://i.imgur.com/K8JnLfx.jpeg,https://i.imgur.com/l1L0tQL.jpeg,https://i.imgur.com/3fGf1yo.jpeg,https://i.imgur.com/1m0PtW9.jpeg,https://i.imgur.com/jiRkeko.jpeg,https://i.imgur.com/1Fmz1TZ.jpeg,https://i.imgur.com/hiVQ5Na.jpeg,https://i.imgur.com/3HZahIm.jpeg,https://i.imgur.com/8dkiDx7.jpeg,https://i.imgur.com/qOc17hJ.jpeg,https://i.imgur.com/q4F4GIf.jpeg,https://i.imgur.com/gVAYx9E.jpeg,https://i.imgur.com/DQ91Rje.jpeg,https://i.imgur.com/W2T68yv.jpeg,https://i.imgur.com/aVoQHMv.jpeg,https://i.imgur.com/7UtK4Oz.jpeg,https://i.imgur.com/4goxcxe.jpeg,https://i.imgur.com/aVyJf6n.jpeg,https://i.imgur.com/WiVankR.jpeg,https://i.imgur.com/gSufNJb.jpeg,https://i.imgur.com/0jAaFr7.jpeg,https://i.imgur.com/bYMaSeX.jpeg,https://i.imgur.com/gmvGrJx.jpeg,https://i.imgur.com/XPvvtmW.jpeg,https://i.imgur.com/tCzyxnv.jpeg,https://i.imgur.com/gKkNXuX.jpeg,https://i.imgur.com/QzBaeE8.jpeg,https://i.imgur.com/PliIkKM.jpeg</Image>
   </Car>
   <Car>
     <ID>2</ID>
@@ -288,5 +305,35 @@
       Please note: some vehicles may still be undergoing preparation. Contact us to confirm availability or to arrange viewing.
     </Description>
     <Image>https://i.imgur.com/WFYd6Hc.png,https://i.imgur.com/7UgXrTe.png,https://i.imgur.com/Jwrxdxy.png,https://i.imgur.com/yJRMEGE.png,https://i.imgur.com/rS50JTQ.png,https://i.imgur.com/CeEKNp3.png,https://i.imgur.com/YCexDaG.jpeg,https://i.imgur.com/Hp5ptHK.jpeg,https://i.imgur.com/6Tzt8dw.jpeg,https://i.imgur.com/RFRPFeM.jpeg,https://i.imgur.com/ZcZfTP1.jpeg,https://i.imgur.com/U6BIffs.jpeg,https://i.imgur.com/L54kNRd.jpeg,https://i.imgur.com/iAeBKyT.jpeg,https://i.imgur.com/snjkZFV.jpeg,https://i.imgur.com/c5bE0nS.jpeg,https://i.imgur.com/KS24uoR.jpeg,https://i.imgur.com/y4gNTxW.jpeg,https://i.imgur.com/3GgNpcp.jpeg,https://i.imgur.com/8fLqz8C.jpeg,https://i.imgur.com/v3BtZuv.jpeg,https://i.imgur.com/wKcaApq.jpeg,https://i.imgur.com/ISO97A9.jpeg,https://i.imgur.com/Oo1IdXM.jpeg,https://i.imgur.com/Nc5onla.jpeg,https://i.imgur.com/nG8QGwE.jpeg,https://i.imgur.com/tAUurNw.jpeg,https://i.imgur.com/YPFSzhZ.jpeg,https://i.imgur.com/5trH7Lm.jpeg,https://i.imgur.com/ReNm2V4.jpeg,https://i.imgur.com/An5c3vN.jpeg,https://i.imgur.com/Fba9LvV.jpeg,https://i.imgur.com/zyiRaiW.jpeg,https://i.imgur.com/QfGwXT4.jpeg,https://i.imgur.com/oqLWLTj.jpeg,https://i.imgur.com/4TNlGlT.jpeg,https://i.imgur.com/mCNUP3M.jpeg,https://i.imgur.com/KBvskG8.jpeg,https://i.imgur.com/zE4xfrO.jpeg,https://i.imgur.com/1L7EDgl.jpeg,https://i.imgur.com/hqCJJqx.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Ford</Name>
+    <Model>Focus Titanium X</Model>
+    <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
+    <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
+    <Value>4199</Value>
+    <Mileage>90500</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FT12 YLF</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>22E</Insurance>
+    <Mpg>54.3</Mpg>
+    <Description>
+      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4 cylinder engine, it delivers approximately 163 horsepower and is paired with 6 speed automatic transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      -
+    </Description>
+    <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
   </Car>
 </Cars>
