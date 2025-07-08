@@ -100,51 +100,47 @@
   </Car>
   <Car>
     <ID>3</ID>
-    <Name>Vauxhall</Name>
-    <Model>Adam Glam</Model>
-    <FullModel>1.2 16v GLAM Euro 5 3dr</FullModel>
-    <EyeCatcher>SUNROOF | SERVICED | WARRANTY</EyeCatcher>
-    <Value>5499</Value>
-    <Mileage>34200</Mileage>
-    <YearOfManu>2014</YearOfManu>
+    <Name>Ford</Name>
+    <Model>Focus Zetec</Model>
+    <FullModel>1.0T EcoBoost Zetec Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>SERVICED | WARRANTY | £20 R’TAX</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>83000</Mileage>
+    <YearOfManu>2015</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Red</Colour>
+    <Colour>Blue</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>PY64 LJF</Reg>
-    <Video>https://www.youtube.com/embed/83Y80ri6xes?si=ABAcbJzBqOiZ3ifG</Video>
+    <Reg>GC15 ETD</Reg>
+    <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>165</Tax>
-    <Insurance>3E</Insurance>
-    <Mpg>53.3</Mpg>
     <Description>
-      - Presenting this well maintained and very low mileage 2014 Vauxhall Adam Glam, a premium 5 seater hatchback that blends luxury, practicality, and comfort.
-      - Perfect for newer drivers or anyone looking to upgrade.
+      Introducing this clean and well-maintained Ford Focus Zetec, equipped with Ford’s renowned 1.0L EcoBoost petrol engine—a perfect blend of performance, economy, and low emissions. This model is ideal for families, commuters, or anyone looking for a reliable and modern hatchback with excellent features.
+      
+      - Highlights include:
+      -	•	16” Alloy Wheels
+      -	•	DAB Radio with Bluetooth and Voice Control
+      -	•	Air Conditioning
+      -	•	Heated Front Windscreen (Quickclear)
+      -	•	Multifunction Steering Wheel
+      -	•	USB and AUX Connectivity
+      -	•	Electric Windows and Mirrors
+      -	•	Spacious Boot with Split-Folding Rear Seats
+      -	•	ISOFIX Mounts for Child Seats
       -
-      - This model includes:
-      - Alloy Wheels
-      - User friendly infotainment system (upgrade available   contact us for details)
-      - Bluetooth
-      - Cruise Control
-      - Sunroof
-      - Rear Parking Sensors
+      - Drives spot on with no mechanical issues, warning lights, or knocks. Very economical to run and ULEZ compliant for city driving.
+      -	•	Recently serviced and inspected
+      -	•	MOT expires 1/7/26
+      -	•	£20 annual road tax
       -
-      - The car starts and drives perfectly with smooth gear changes and strong performance throughout.
-      - No unwanted knocks, bangs, warning lights, or mechanical faults.
-      - Recently serviced and fully inspected
-      - MOT expires April
-      - 3 former keepers
-      -
-      - Ready to drive away today.
-      - A refundable £100 deposit secures the vehicle for viewing or delivery.
-      -
-      - Nationwide delivery available at competitive rates.
-      -
-      - Please note: some vehicles may still be undergoing preparation.
-      - Contact us to confirm availability or to arrange viewing.
+      -✅ Drive away today. Reserve with a refundable £100 deposit for viewing or delivery.
+      -🚚 Nationwide delivery available.
     </Description>
-    <Image>https://i.imgur.com/E1LgZLF.jpeg,https://i.imgur.com/beGIH5U.jpeg,https://i.imgur.com/sZoigM4.jpeg,https://i.imgur.com/2Po76NV.jpeg,https://i.imgur.com/OlWdw1A.jpeg,https://i.imgur.com/deoAm0e.jpeg,https://i.imgur.com/lQOweXK.jpeg,https://i.imgur.com/LYjRaB1.jpeg,https://i.imgur.com/i9qRtBM.jpeg,https://i.imgur.com/Tw2USNi.jpeg,https://i.imgur.com/vvmCi0D.jpeg,https://i.imgur.com/IRgoZ6V.jpeg,https://i.imgur.com/8WYqnwP.jpeg,https://i.imgur.com/mdURNGP.jpeg,https://i.imgur.com/Nmd4V8e.jpeg,https://i.imgur.com/R5lWM8B.jpeg,https://i.imgur.com/xRp8VT1.jpeg,https://i.imgur.com/dEqpYm9.jpeg,https://i.imgur.com/aF14unV.jpeg,https://i.imgur.com/jvrJRIH.jpeg,https://i.imgur.com/vOtTPFd.jpeg,https://i.imgur.com/sMpeI7w.jpeg,https://i.imgur.com/b0zpZCB.jpeg,https://i.imgur.com/zqLHxa2.jpeg,https://i.imgur.com/4Yh7vA7.jpeg,https://i.imgur.com/CdSbFQU.jpeg,https://i.imgur.com/t0CnkHD.jpeg,https://i.imgur.com/nUhKSXp.jpeg,https://i.imgur.com/jjAaJUC.jpeg,https://i.imgur.com/94UC6eN.jpeg,https://i.imgur.com/uKx6b17.jpeg,https://i.imgur.com/lE06wJE.jpeg,https://i.imgur.com/QKG5TQx.jpeg,https://i.imgur.com/kiba27Z.jpeg,https://i.imgur.com/bHRv7Hs.jpeg,https://i.imgur.com/KjZUKvC.jpeg,https://i.imgur.com/AwWkfrb.jpeg,https://i.imgur.com/lbgg8Rh.jpeg,https://i.imgur.com/pqK2s2l.jpeg</Image>
+    <Image>https://i.imgur.com/ckuCqyA.png,https://i.imgur.com/W8cLMTW.png,https://i.imgur.com/fyUmDmW.png,https://i.imgur.com/tyxMN2g.png,https://i.imgur.com/tyH4D9F.png,https://i.imgur.com/p9rJcWT.png,https://i.imgur.com/ff19dVW.jpeg,https://i.imgur.com/HMmqZlh.jpeg,https://i.imgur.com/lB9w5qw.jpeg,https://i.imgur.com/2Ic80Ty.jpeg,https://i.imgur.com/YfkDoUG.jpeg,https://i.imgur.com/DB4YiEs.jpeg,https://i.imgur.com/fIqfvfe.jpeg,https://i.imgur.com/C5txcpJ.jpeg,https://i.imgur.com/0q4M80t.jpeg,https://i.imgur.com/ikf2Zdn.jpeg,https://i.imgur.com/oJ7oldF.jpeg,https://i.imgur.com/w84wDoD.jpeg,https://i.imgur.com/BuNVWob.jpeg,https://i.imgur.com/rBKWQgK.jpeg,https://i.imgur.com/CIKRt87.jpeg,https://i.imgur.com/rkvsi0b.jpeg,https://i.imgur.com/6OgsqgK.jpeg,https://i.imgur.com/Mfgycml.jpeg,https://i.imgur.com/7uZwNso.jpeg,https://i.imgur.com/R9bZ0Xy.jpeg,https://i.imgur.com/FQiWKrh.jpeg,https://i.imgur.com/SejNUib.jpeg,https://i.imgur.com/nCZizCQ.jpeg,https://i.imgur.com/sJQqnom.jpeg,https://i.imgur.com/Zk6vyTn.jpeg,https://i.imgur.com/4FxoEFI.jpeg,https://i.imgur.com/GTb9CZ8.jpeg,https://i.imgur.com/0YFeKmM.jpeg,https://i.imgur.com/rJlBeho.jpeg,https://i.imgur.com/ebwWxKz.jpeg,https://i.imgur.com/lb7g9hy.jpeg,https://i.imgur.com/9vy5AkK.jpeg,https://i.imgur.com/50viAi4.jpeg,https://i.imgur.com/uKDhAjq.jpeg</Image>
+    <Tax>20</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>61.4</Mpg>
   </Car>
   <Car>
     <ID>4</ID>
@@ -335,5 +331,53 @@
       -
     </Description>
     <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Vauxhall</Name>
+    <Model>Adam Glam</Model>
+    <FullModel>1.2 16v GLAM Euro 5 3dr</FullModel>
+    <EyeCatcher>SUNROOF | SERVICED | WARRANTY</EyeCatcher>
+    <Value>5499</Value>
+    <Mileage>34200</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PY64 LJF</Reg>
+    <Video>https://www.youtube.com/embed/83Y80ri6xes?si=ABAcbJzBqOiZ3ifG</Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>3E</Insurance>
+    <Mpg>53.3</Mpg>
+    <Description>
+      - Presenting this well maintained and very low mileage 2014 Vauxhall Adam Glam, a premium 5 seater hatchback that blends luxury, practicality, and comfort.
+      - Perfect for newer drivers or anyone looking to upgrade.
+      -
+      - This model includes:
+      - Alloy Wheels
+      - User friendly infotainment system (upgrade available   contact us for details)
+      - Bluetooth
+      - Cruise Control
+      - Sunroof
+      - Rear Parking Sensors
+      -
+      - The car starts and drives perfectly with smooth gear changes and strong performance throughout.
+      - No unwanted knocks, bangs, warning lights, or mechanical faults.
+      - Recently serviced and fully inspected
+      - MOT expires April
+      - 3 former keepers
+      -
+      - Ready to drive away today.
+      - A refundable £100 deposit secures the vehicle for viewing or delivery.
+      -
+      - Nationwide delivery available at competitive rates.
+      -
+      - Please note: some vehicles may still be undergoing preparation.
+      - Contact us to confirm availability or to arrange viewing.
+    </Description>
+    <Image>https://i.imgur.com/E1LgZLF.jpeg,https://i.imgur.com/beGIH5U.jpeg,https://i.imgur.com/sZoigM4.jpeg,https://i.imgur.com/2Po76NV.jpeg,https://i.imgur.com/OlWdw1A.jpeg,https://i.imgur.com/deoAm0e.jpeg,https://i.imgur.com/lQOweXK.jpeg,https://i.imgur.com/LYjRaB1.jpeg,https://i.imgur.com/i9qRtBM.jpeg,https://i.imgur.com/Tw2USNi.jpeg,https://i.imgur.com/vvmCi0D.jpeg,https://i.imgur.com/IRgoZ6V.jpeg,https://i.imgur.com/8WYqnwP.jpeg,https://i.imgur.com/mdURNGP.jpeg,https://i.imgur.com/Nmd4V8e.jpeg,https://i.imgur.com/R5lWM8B.jpeg,https://i.imgur.com/xRp8VT1.jpeg,https://i.imgur.com/dEqpYm9.jpeg,https://i.imgur.com/aF14unV.jpeg,https://i.imgur.com/jvrJRIH.jpeg,https://i.imgur.com/vOtTPFd.jpeg,https://i.imgur.com/sMpeI7w.jpeg,https://i.imgur.com/b0zpZCB.jpeg,https://i.imgur.com/zqLHxa2.jpeg,https://i.imgur.com/4Yh7vA7.jpeg,https://i.imgur.com/CdSbFQU.jpeg,https://i.imgur.com/t0CnkHD.jpeg,https://i.imgur.com/nUhKSXp.jpeg,https://i.imgur.com/jjAaJUC.jpeg,https://i.imgur.com/94UC6eN.jpeg,https://i.imgur.com/uKx6b17.jpeg,https://i.imgur.com/lE06wJE.jpeg,https://i.imgur.com/QKG5TQx.jpeg,https://i.imgur.com/kiba27Z.jpeg,https://i.imgur.com/bHRv7Hs.jpeg,https://i.imgur.com/KjZUKvC.jpeg,https://i.imgur.com/AwWkfrb.jpeg,https://i.imgur.com/lbgg8Rh.jpeg,https://i.imgur.com/pqK2s2l.jpeg</Image>
   </Car>
 </Cars>
