@@ -304,36 +304,6 @@
   </Car>
   <Car>
     <ID>9</ID>
-    <Name>Ford</Name>
-    <Model>Focus Titanium X</Model>
-    <FullModel>2.0 TDCi Titanium X Hatchback 5dr Diesel Powershift Euro 5 (163 ps)</FullModel>
-    <EyeCatcher>Serviced | Automatic | Full Mot</EyeCatcher>
-    <Value>4199</Value>
-    <Mileage>90500</Mileage>
-    <YearOfManu>2012</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Blue</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>FT12 YLF</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>195</Tax>
-    <Insurance>22E</Insurance>
-    <Mpg>54.3</Mpg>
-    <Description>
-      - This Hatchback offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4 cylinder engine, it delivers approximately 163 horsepower and is paired with 6 speed automatic transmission.
-      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
-      -
-      - Technical data:
-      - Fuel efficiency ranges from 54.3  MPG combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-      -
-    </Description>
-    <Image>https://i.imgur.com/sLrAkqe.png,https://i.imgur.com/NmmcWhY.png,https://i.imgur.com/7hntWK7.png,https://i.imgur.com/x3rfQHG.png,https://i.imgur.com/GN13cBZ.png,https://i.imgur.com/ajJkpND.png,https://i.imgur.com/dNQXk8p.jpeg,https://i.imgur.com/UkMIy9Z.jpeg,https://i.imgur.com/h5J0ImL.jpeg,https://i.imgur.com/SApTvNB.jpeg,https://i.imgur.com/sAXM835.jpeg,https://i.imgur.com/MGjAivE.jpeg,https://i.imgur.com/gQUqcWR.jpeg,https://i.imgur.com/hVY24eU.jpeg,https://i.imgur.com/sfpBepD.jpeg,https://i.imgur.com/Ep9JpbF.jpeg,https://i.imgur.com/4HRLU96.jpeg,https://i.imgur.com/9zl0F5m.jpeg,https://i.imgur.com/hpwY3zx.jpeg,https://i.imgur.com/5ggZCEE.jpeg,https://i.imgur.com/YE20SCp.jpeg,https://i.imgur.com/deKduKp.jpeg,https://i.imgur.com/RLbhRJC.jpeg,https://i.imgur.com/j9tdeS5.jpeg,https://i.imgur.com/55uzBIl.jpeg,https://i.imgur.com/LwLM9vp.jpeg,https://i.imgur.com/3szwgI8.jpeg,https://i.imgur.com/8KAzJAx.jpeg,https://i.imgur.com/XinoTNe.jpeg,https://i.imgur.com/kvTRDgO.jpeg,https://i.imgur.com/kJ61dgw.jpeg,https://i.imgur.com/p6i9611.jpeg,https://i.imgur.com/vlpV5B6.jpeg,https://i.imgur.com/hYAMWvH.jpeg,https://i.imgur.com/zfYB5gU.jpeg,https://i.imgur.com/dtaFxDq.jpeg,https://i.imgur.com/Lj2Jhzo.jpeg,https://i.imgur.com/NvSwZ23.jpeg,https://i.imgur.com/mTwkeIQ.jpeg,https://i.imgur.com/yyFeavr.jpeg,https://i.imgur.com/gBBjYIQ.jpeg,https://i.imgur.com/O9MrFAP.jpeg,https://i.imgur.com/CSDFeFp.jpeg,https://i.imgur.com/v4xJByX.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>10</ID>
     <Name>Vauxhall</Name>
     <Model>Adam Glam</Model>
     <FullModel>1.2 16v GLAM Euro 5 3dr</FullModel>
@@ -381,7 +351,7 @@
     <Image>https://i.imgur.com/E1LgZLF.jpeg,https://i.imgur.com/beGIH5U.jpeg,https://i.imgur.com/sZoigM4.jpeg,https://i.imgur.com/2Po76NV.jpeg,https://i.imgur.com/OlWdw1A.jpeg,https://i.imgur.com/deoAm0e.jpeg,https://i.imgur.com/lQOweXK.jpeg,https://i.imgur.com/LYjRaB1.jpeg,https://i.imgur.com/i9qRtBM.jpeg,https://i.imgur.com/Tw2USNi.jpeg,https://i.imgur.com/vvmCi0D.jpeg,https://i.imgur.com/IRgoZ6V.jpeg,https://i.imgur.com/8WYqnwP.jpeg,https://i.imgur.com/mdURNGP.jpeg,https://i.imgur.com/Nmd4V8e.jpeg,https://i.imgur.com/R5lWM8B.jpeg,https://i.imgur.com/xRp8VT1.jpeg,https://i.imgur.com/dEqpYm9.jpeg,https://i.imgur.com/aF14unV.jpeg,https://i.imgur.com/jvrJRIH.jpeg,https://i.imgur.com/vOtTPFd.jpeg,https://i.imgur.com/sMpeI7w.jpeg,https://i.imgur.com/b0zpZCB.jpeg,https://i.imgur.com/zqLHxa2.jpeg,https://i.imgur.com/4Yh7vA7.jpeg,https://i.imgur.com/CdSbFQU.jpeg,https://i.imgur.com/t0CnkHD.jpeg,https://i.imgur.com/nUhKSXp.jpeg,https://i.imgur.com/jjAaJUC.jpeg,https://i.imgur.com/94UC6eN.jpeg,https://i.imgur.com/uKx6b17.jpeg,https://i.imgur.com/lE06wJE.jpeg,https://i.imgur.com/QKG5TQx.jpeg,https://i.imgur.com/kiba27Z.jpeg,https://i.imgur.com/bHRv7Hs.jpeg,https://i.imgur.com/KjZUKvC.jpeg,https://i.imgur.com/AwWkfrb.jpeg,https://i.imgur.com/lbgg8Rh.jpeg,https://i.imgur.com/pqK2s2l.jpeg</Image>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>10</ID>
     <Name>Toyota</Name>
     <Model>Yaris</Model>
     <FullModel>1.33 Dual VVT-i TR Euro 4 (s/s) 5dr</FullModel>
@@ -397,6 +367,9 @@
     <Reg>NU60 BEY</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>7E</Insurance>
+    <Mpg>55.4</Mpg>
     <Description>
       Presenting this well-maintained 2010 Toyota Yaris TR, a reliable and economical 5-door hatchback that offers great practicality, low running costs, and a smooth driving experience. Ideal for first-time drivers, city commuters, or anyone seeking a dependable daily runner.
       
@@ -418,8 +391,5 @@
       -🚚 Nationwide delivery available at competitive rates.
     </Description>
     <Image>https://i.imgur.com/E1MCeSq.png,https://i.imgur.com/dOba39n.png,https://i.imgur.com/VVYElwT.png,https://i.imgur.com/SbeVErv.png,https://i.imgur.com/KYyeNko.png,https://i.imgur.com/Ro6iaCw.png,https://i.imgur.com/FwEUfXN.jpeg,https://i.imgur.com/V31xgBI.jpeg,https://i.imgur.com/6SdG8qp.jpeg,https://i.imgur.com/ttlsEGY.jpeg,https://i.imgur.com/jI582JR.jpeg,https://i.imgur.com/LoioHtJ.jpeg,https://i.imgur.com/V2ygphV.jpeg,https://i.imgur.com/qZQj3Tx.jpeg,https://i.imgur.com/l2DaUVP.jpeg,https://i.imgur.com/Q2YyKqj.jpeg,https://i.imgur.com/Xyso7YF.jpeg,https://i.imgur.com/rUdN52T.jpeg,https://i.imgur.com/SJSsMwY.jpeg,https://i.imgur.com/oq47GHN.jpeg,https://i.imgur.com/eNzaZGx.jpeg,https://i.imgur.com/itjEyS7.jpeg,https://i.imgur.com/B9Sm3Ma.jpeg,https://i.imgur.com/hLZ9kye.jpeg,https://i.imgur.com/eGjoLFI.jpeg,https://i.imgur.com/Snac5KX.jpeg,https://i.imgur.com/bP4JOFc.jpeg,https://i.imgur.com/yr8Gl5H.jpeg,https://i.imgur.com/sD4PCFq.jpeg,https://i.imgur.com/AkWmXTR.jpeg,https://i.imgur.com/gCBkSh3.jpeg,https://i.imgur.com/afyqbJl.jpeg,https://i.imgur.com/VJKZF3W.jpeg,https://i.imgur.com/nUxOEka.jpeg,https://i.imgur.com/XUmuy1D.jpeg,https://i.imgur.com/jWw7PKN.jpeg,https://i.imgur.com/W6hnZRY.jpeg,https://i.imgur.com/aNwqQVx.jpeg</Image>
-    <Tax>35</Tax>
-    <Insurance>7E</Insurance>
-    <Mpg>55.4</Mpg>
   </Car>
 </Cars>
