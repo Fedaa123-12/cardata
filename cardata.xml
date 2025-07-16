@@ -52,9 +52,9 @@
     <Model>S-max Titanium X</Model>
     <FullModel>2.0 TDCi Titanium X Sport Powershift Euro 5 5dr</FullModel>
     <EyeCatcher>AUTO | MEGA-SPEC | SUNROOF</EyeCatcher>
-    <Value>6999</Value>
+    <Value>7999</Value>
     <Mileage>86600</Mileage>
-    <YearOfManu>2012</YearOfManu>
+    <YearOfManu>2013</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Diesel</FuelType>
     <Transmission>Automatic</Transmission>
@@ -411,6 +411,9 @@
     <Reg>PN63 ZPS</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>8E</Insurance>
+    <Mpg>53.3</Mpg>
     <Description>
       - Now available is this Kia Rio, one of the UK’s most popular hatchbacks—loved for its smooth and high quality drive, great fuel economy, and low running costs. Powered by Kia’s refined 1.4L engine, this model delivers the ideal blend of responsive performance and impressive fuel efficiency.
       -
@@ -433,8 +436,5 @@
       - 🚚 Nationwide delivery available.
     </Description>
     <Image>https://i.imgur.com/OsqmtuM.png,https://i.imgur.com/5rf4iUl.png,https://i.imgur.com/xTVHQus.png,https://i.imgur.com/cVP0DKp.png,https://i.imgur.com/stmJMyz.png,https://i.imgur.com/JbqDmm0.png,https://i.imgur.com/9eAxejy.jpeg,https://i.imgur.com/6TIzKIY.jpeg,https://i.imgur.com/hP9Z3gz.jpeg,https://i.imgur.com/NBDjEpz.jpeg,https://i.imgur.com/sDl8SCs.jpeg,https://i.imgur.com/C9H4xOO.jpeg,https://i.imgur.com/rD8edw6.jpeg,https://i.imgur.com/5icEdSz.jpeg,https://i.imgur.com/khWpsnf.jpeg,https://i.imgur.com/fSTGXMQ.jpeg,https://i.imgur.com/OtxMS0j.jpeg,https://i.imgur.com/eYFylFu.jpeg,https://i.imgur.com/SEINcUN.jpeg,https://i.imgur.com/WcCoOfj.jpeg,https://i.imgur.com/BFzkKa0.jpeg,https://i.imgur.com/frtoWN2.jpeg,https://i.imgur.com/Z54fFpu.jpeg,https://i.imgur.com/vUKToQv.jpeg,https://i.imgur.com/hqe35Dk.jpeg,https://i.imgur.com/HdvXLds.jpeg,https://i.imgur.com/lFZcDoe.jpeg,https://i.imgur.com/1sWW5dS.jpeg,https://i.imgur.com/TRQp72S.jpeg,https://i.imgur.com/dzKNFz8.jpeg,https://i.imgur.com/fHYB55l.jpeg,https://i.imgur.com/7lfBIdv.jpeg,https://i.imgur.com/3fN0o5u.jpeg,https://i.imgur.com/5V7l3ml.jpeg,https://i.imgur.com/6ZuOplr.jpeg,https://i.imgur.com/OQKsJ43.jpeg,https://i.imgur.com/rlvAI9s.jpeg,https://i.imgur.com/STXbj9l.jpeg,https://i.imgur.com/YHQDIMa.jpeg,https://i.imgur.com/CMc6DVk.jpeg,https://i.imgur.com/Dw9JUfu.jpeg,https://i.imgur.com/VKTKW0k.jpeg,https://i.imgur.com/vkumw3C.jpeg</Image>
-    <Tax>165</Tax>
-    <Insurance>8E</Insurance>
-    <Mpg>53.3</Mpg>
   </Car>
 </Cars>
