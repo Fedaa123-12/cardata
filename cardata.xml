@@ -500,6 +500,9 @@
     <Reg>FM64 ATX</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>60.1</Mpg>
     <Description>
       - Now available is this Ford Fiesta Zetec, one of the UK’s most popular hatchbacks—loved for its sharp handling, great fuel economy, and low running costs. This model features the award-winning 1.0L EcoBoost petrol engine, offering the perfect balance of performance and efficiency.
       -
@@ -526,8 +529,30 @@
       - 🚚 Nationwide delivery available.
     </Description>
     <Image>https://i.imgur.com/AYKErBc.png,https://i.imgur.com/Z87K87h.png,https://i.imgur.com/TbKnJ7M.png,https://i.imgur.com/QcK0T4f.png,https://i.imgur.com/zNlEfaF.png,https://i.imgur.com/jELc3fX.png,https://i.imgur.com/yVYmNIK.jpeg,https://i.imgur.com/B9TFG0X.jpeg,https://i.imgur.com/wh3MNFT.jpeg,https://i.imgur.com/ElxspC0.jpeg,https://i.imgur.com/ZdSX2iS.jpeg,https://i.imgur.com/PPI3qSj.jpeg,https://i.imgur.com/gtFSiZq.jpeg,https://i.imgur.com/aKt4aDW.jpeg,https://i.imgur.com/ate5jTv.jpeg,https://i.imgur.com/LyqQhzo.jpeg,https://i.imgur.com/RdWktOj.jpeg,https://i.imgur.com/NwblfVH.jpeg,https://i.imgur.com/inYu6UW.jpeg,https://i.imgur.com/rpsgGa4.jpeg,https://i.imgur.com/W12xv7v.jpeg,https://i.imgur.com/Ia7KjWt.jpeg,https://i.imgur.com/HE9TPET.jpeg,https://i.imgur.com/ntZWO9L.jpeg,https://i.imgur.com/XofkdNZ.jpeg,https://i.imgur.com/d2uMidA.jpeg,https://i.imgur.com/mVrxOny.jpeg,https://i.imgur.com/QL3F8v4.jpeg,https://i.imgur.com/Uhnobui.jpeg,https://i.imgur.com/rzUik5z.jpeg,https://i.imgur.com/BwlDViK.jpeg,https://i.imgur.com/2GSivzL.jpeg,https://i.imgur.com/tTYeZ4n.jpeg,https://i.imgur.com/0PboJJq.jpeg,https://i.imgur.com/YrlloNO.jpeg,https://i.imgur.com/fgsh6Ir.jpeg,https://i.imgur.com/55WA6Jj.jpeg</Image>
-    <Tax>20</Tax>
-    <Insurance>14E</Insurance>
-    <Mpg>60.1</Mpg>
+  </Car>
+  <Car>
+    <ID>14</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta Zetec</Model>
+    <FullModel>Fiesta 1.25 Zetec Hatchback 3dr Petrol Manual Euro 5 (82 ps)</FullModel>
+    <EyeCatcher>Coming soon</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>107000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NA14YAD</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Coming Soon
+    </Description>
+    <Image>https://i.imgur.com/KRfmixM.png,https://i.imgur.com/SyzveAi.png,https://i.imgur.com/iTbJutB.png,https://i.imgur.com/iZDFJVx.png,https://i.imgur.com/wBWB8gw.png,https://i.imgur.com/7EdUPxP.png</Image>
+    <Tax>35</Tax>
+    <Insurance>7E</Insurance>
+    <Mpg>54.3</Mpg>
   </Car>
 </Cars>
