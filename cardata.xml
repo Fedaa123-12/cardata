@@ -457,6 +457,9 @@
     <Reg>AF14 RFN</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>20E</Insurance>
+    <Mpg>54.3</Mpg>
     <Description>
       - Up for sale is this smart-looking Ford Focus Titanium, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 2.0TDCI Turbocharged Diesel engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
       -
@@ -479,8 +482,52 @@
       - 🚚 Nationwide delivery available at affordable rates.
     </Description>
     <Image>https://i.imgur.com/kSP7JA7.png,https://i.imgur.com/6Agagat.png,https://i.imgur.com/DQ6rM2m.png,https://i.imgur.com/8SENyZp.png,https://i.imgur.com/Hx9iJrm.png,https://i.imgur.com/Jt5IXdp.png,https://i.imgur.com/rNj6kAe.png,https://i.imgur.com/TQ5rdGd.png,https://i.imgur.com/YO0eYm8.jpeg,https://i.imgur.com/KRH5P91.jpeg,https://i.imgur.com/boIb3qS.jpeg,https://i.imgur.com/hKpQcp2.jpeg,https://i.imgur.com/Asih7Ac.jpeg,https://i.imgur.com/AYuntCU.jpeg,https://i.imgur.com/cpES7sc.jpeg,https://i.imgur.com/2QkkNcw.jpeg,https://i.imgur.com/ZAK34wa.jpeg,https://i.imgur.com/pNIplL0.jpeg,https://i.imgur.com/0nLzCxd.jpeg,https://i.imgur.com/EAjvRP1.jpeg,https://i.imgur.com/zrkQAAR.jpeg,https://i.imgur.com/VTrhWvr.jpeg,https://i.imgur.com/COdxjKN.jpeg,https://i.imgur.com/3YEkr3M.jpeg,https://i.imgur.com/1xzDByT.jpeg,https://i.imgur.com/yjllYDd.jpeg,https://i.imgur.com/UXReh6i.jpeg,https://i.imgur.com/RrqNqNC.jpeg,https://i.imgur.com/uYRnhn5.jpeg,https://i.imgur.com/5V3XVZQ.jpeg,https://i.imgur.com/GSu0hc8.jpeg,https://i.imgur.com/cdJHBk5.jpeg,https://i.imgur.com/vwOyMGM.jpeg,https://i.imgur.com/WXEPjX3.jpeg,https://i.imgur.com/xOA134f.jpeg,https://i.imgur.com/leHAlXl.jpeg,https://i.imgur.com/mZ2tHEZ.jpeg,https://i.imgur.com/SWhNAeP.jpeg,https://i.imgur.com/nnOiWzD.jpeg,https://i.imgur.com/7i6s0MM.jpeg,https://i.imgur.com/fHIMh8p.jpeg</Image>
-    <Tax>195</Tax>
-    <Insurance>20E</Insurance>
-    <Mpg>54.3</Mpg>
+  </Car>
+  <Car>
+    <ID>13</ID>
+    <Name>Ford</Name>
+    <Model>Focus Zetect</Model>
+    <FullModel>Focus 1.0T EcoBoost Zetec Hatchback 5dr Petrol Manual Euro 6 (s/s) (125 ps)</FullModel>
+    <EyeCatcher>T' Belt | Serviced | Delivery</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>88000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FM64 ATX</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Now available is this Ford Fiesta Zetec, one of the UK’s most popular hatchbacks—loved for its sharp handling, great fuel economy, and low running costs. This model features the award-winning 1.0L EcoBoost petrol engine, offering the perfect balance of performance and efficiency.
+      -
+      - ✅ Major selling point: The timing belt kit has been replaced, saving you hundreds in future maintenance costs and offering peace of mind to the next owner.
+      -
+      - Key features include:
+      - •	15” Alloy Wheels
+      - •	DAB Radio and Bluetooth
+      - •	Heated Windscreen (Quickclear)
+      - •	Air Conditioning
+      - •	Electric Windows and Mirrors
+      - •	ISOFIX Child Seat Mounts
+      - •	LED Daytime Running Lights
+      - •	USB and AUX Ports
+      -
+      - Smooth to drive, excellent on fuel, and £0 annual road tax. No warning lights, bangs, or mechanical issues.
+      - •	Timing belt kit recently replaced
+      - •	Recently serviced and inspected
+      - •	MOT expires 22/03/2026
+      - •	5 former keepers
+      - •	ULEZ compliant
+      -
+      - ✅ Drive away today. Secure this vehicle with a refundable £100 deposit for viewing or delivery.
+      - 🚚 Nationwide delivery available.
+    </Description>
+    <Image>https://i.imgur.com/AYKErBc.png,https://i.imgur.com/Z87K87h.png,https://i.imgur.com/TbKnJ7M.png,https://i.imgur.com/QcK0T4f.png,https://i.imgur.com/zNlEfaF.png,https://i.imgur.com/jELc3fX.png,https://i.imgur.com/yVYmNIK.jpeg,https://i.imgur.com/B9TFG0X.jpeg,https://i.imgur.com/wh3MNFT.jpeg,https://i.imgur.com/ElxspC0.jpeg,https://i.imgur.com/ZdSX2iS.jpeg,https://i.imgur.com/PPI3qSj.jpeg,https://i.imgur.com/gtFSiZq.jpeg,https://i.imgur.com/aKt4aDW.jpeg,https://i.imgur.com/ate5jTv.jpeg,https://i.imgur.com/LyqQhzo.jpeg,https://i.imgur.com/RdWktOj.jpeg,https://i.imgur.com/NwblfVH.jpeg,https://i.imgur.com/inYu6UW.jpeg,https://i.imgur.com/rpsgGa4.jpeg,https://i.imgur.com/W12xv7v.jpeg,https://i.imgur.com/Ia7KjWt.jpeg,https://i.imgur.com/HE9TPET.jpeg,https://i.imgur.com/ntZWO9L.jpeg,https://i.imgur.com/XofkdNZ.jpeg,https://i.imgur.com/d2uMidA.jpeg,https://i.imgur.com/mVrxOny.jpeg,https://i.imgur.com/QL3F8v4.jpeg,https://i.imgur.com/Uhnobui.jpeg,https://i.imgur.com/rzUik5z.jpeg,https://i.imgur.com/BwlDViK.jpeg,https://i.imgur.com/2GSivzL.jpeg,https://i.imgur.com/tTYeZ4n.jpeg,https://i.imgur.com/0PboJJq.jpeg,https://i.imgur.com/YrlloNO.jpeg,https://i.imgur.com/fgsh6Ir.jpeg,https://i.imgur.com/55WA6Jj.jpeg</Image>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>60.1</Mpg>
   </Car>
 </Cars>
