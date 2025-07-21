@@ -262,49 +262,7 @@
     </Description>
     <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
   </Car>
-  <Car>
-    <ID>8</ID>
-    <Name>Ford</Name>
-    <Model>Focus Titanium</Model>
-    <FullModel>1.0T EcoBoost Titanium Hatchback 5dr Petrol Manual Euro 6 (s/s) (125 ps)</FullModel>
-    <EyeCatcher>SERVICED | FULL MOT | WARRANTY</EyeCatcher>
-    <Value>4099</Value>
-    <Mileage>72200</Mileage>
-    <YearOfManu>2015</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>MC15 KFL</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>20</Tax>
-    <Insurance>12E</Insurance>
-    <Mpg>60.1</Mpg>
-    <Description>
-      - Presenting this well-maintained 2015 Ford Focus Titanium, a premium 5-seater hatchback that blends luxury, practicality, and comfort. Perfect for newer drivers or anyone looking to upgrade.
-      -
-      - This model includes:
-      - Alloy Wheels
-      - User-friendly infotainment system (upgrade available - contact us for details)
-      - Bluetooth
-      - Cruise Control
-      - Auto Lights and Wipers
-      -
-      - The car starts and drives perfectly with smooth gear changes and strong performance throughout. No unwanted knocks, bangs, warning lights, or mechanical faults.
-      - Recently serviced and fully inspected
-      - Full MOT
-      - 2 former keepers
-      -
-      - Ready to drive away today. A refundable £100 deposit secures the vehicle for viewing or delivery.
-      -
-      - Nationwide delivery available at competitive rates.
-      -
-      - Please note: some vehicles may still be undergoing preparation. Contact us to confirm availability or to arrange viewing.
-    </Description>
-    <Image>https://i.imgur.com/WFYd6Hc.png,https://i.imgur.com/7UgXrTe.png,https://i.imgur.com/Jwrxdxy.png,https://i.imgur.com/yJRMEGE.png,https://i.imgur.com/rS50JTQ.png,https://i.imgur.com/CeEKNp3.png,https://i.imgur.com/YCexDaG.jpeg,https://i.imgur.com/Hp5ptHK.jpeg,https://i.imgur.com/6Tzt8dw.jpeg,https://i.imgur.com/RFRPFeM.jpeg,https://i.imgur.com/ZcZfTP1.jpeg,https://i.imgur.com/U6BIffs.jpeg,https://i.imgur.com/L54kNRd.jpeg,https://i.imgur.com/iAeBKyT.jpeg,https://i.imgur.com/snjkZFV.jpeg,https://i.imgur.com/c5bE0nS.jpeg,https://i.imgur.com/KS24uoR.jpeg,https://i.imgur.com/y4gNTxW.jpeg,https://i.imgur.com/3GgNpcp.jpeg,https://i.imgur.com/8fLqz8C.jpeg,https://i.imgur.com/v3BtZuv.jpeg,https://i.imgur.com/wKcaApq.jpeg,https://i.imgur.com/ISO97A9.jpeg,https://i.imgur.com/Oo1IdXM.jpeg,https://i.imgur.com/Nc5onla.jpeg,https://i.imgur.com/nG8QGwE.jpeg,https://i.imgur.com/tAUurNw.jpeg,https://i.imgur.com/YPFSzhZ.jpeg,https://i.imgur.com/5trH7Lm.jpeg,https://i.imgur.com/ReNm2V4.jpeg,https://i.imgur.com/An5c3vN.jpeg,https://i.imgur.com/Fba9LvV.jpeg,https://i.imgur.com/zyiRaiW.jpeg,https://i.imgur.com/QfGwXT4.jpeg,https://i.imgur.com/oqLWLTj.jpeg,https://i.imgur.com/4TNlGlT.jpeg,https://i.imgur.com/mCNUP3M.jpeg,https://i.imgur.com/KBvskG8.jpeg,https://i.imgur.com/zE4xfrO.jpeg,https://i.imgur.com/1L7EDgl.jpeg,https://i.imgur.com/hqCJJqx.jpeg</Image>
-  </Car>
+  
   <Car>
     <ID>9</ID>
     <Name>Vauxhall</Name>
