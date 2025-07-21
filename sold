@@ -358,3 +358,28 @@
     </Description>
     <Image>https://i.imgur.com/WFYd6Hc.png,https://i.imgur.com/7UgXrTe.png,https://i.imgur.com/Jwrxdxy.png,https://i.imgur.com/yJRMEGE.png,https://i.imgur.com/rS50JTQ.png,https://i.imgur.com/CeEKNp3.png,https://i.imgur.com/YCexDaG.jpeg,https://i.imgur.com/Hp5ptHK.jpeg,https://i.imgur.com/6Tzt8dw.jpeg,https://i.imgur.com/RFRPFeM.jpeg,https://i.imgur.com/ZcZfTP1.jpeg,https://i.imgur.com/U6BIffs.jpeg,https://i.imgur.com/L54kNRd.jpeg,https://i.imgur.com/iAeBKyT.jpeg,https://i.imgur.com/snjkZFV.jpeg,https://i.imgur.com/c5bE0nS.jpeg,https://i.imgur.com/KS24uoR.jpeg,https://i.imgur.com/y4gNTxW.jpeg,https://i.imgur.com/3GgNpcp.jpeg,https://i.imgur.com/8fLqz8C.jpeg,https://i.imgur.com/v3BtZuv.jpeg,https://i.imgur.com/wKcaApq.jpeg,https://i.imgur.com/ISO97A9.jpeg,https://i.imgur.com/Oo1IdXM.jpeg,https://i.imgur.com/Nc5onla.jpeg,https://i.imgur.com/nG8QGwE.jpeg,https://i.imgur.com/tAUurNw.jpeg,https://i.imgur.com/YPFSzhZ.jpeg,https://i.imgur.com/5trH7Lm.jpeg,https://i.imgur.com/ReNm2V4.jpeg,https://i.imgur.com/An5c3vN.jpeg,https://i.imgur.com/Fba9LvV.jpeg,https://i.imgur.com/zyiRaiW.jpeg,https://i.imgur.com/QfGwXT4.jpeg,https://i.imgur.com/oqLWLTj.jpeg,https://i.imgur.com/4TNlGlT.jpeg,https://i.imgur.com/mCNUP3M.jpeg,https://i.imgur.com/KBvskG8.jpeg,https://i.imgur.com/zE4xfrO.jpeg,https://i.imgur.com/1L7EDgl.jpeg,https://i.imgur.com/hqCJJqx.jpeg</Image>
   </Car>
+ <Car>
+    <ID>12</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta Zetec</Model>
+    <FullModel>Fiesta 1.25 Zetec Hatchback 3dr Petrol Manual Euro 5 (82 ps)</FullModel>
+    <EyeCatcher>Coming soon</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>107000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NA14YAD</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>7E</Insurance>
+    <Mpg>54.3</Mpg>
+    <Description>
+      - Coming Soon
+    </Description>
+    <Image>https://i.imgur.com/KRfmixM.png,https://i.imgur.com/SyzveAi.png,https://i.imgur.com/iTbJutB.png,https://i.imgur.com/iZDFJVx.png,https://i.imgur.com/wBWB8gw.png,https://i.imgur.com/7EdUPxP.png</Image>
+  </Car>
