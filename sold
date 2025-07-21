@@ -383,3 +383,34 @@
     </Description>
     <Image>https://i.imgur.com/KRfmixM.png,https://i.imgur.com/SyzveAi.png,https://i.imgur.com/iTbJutB.png,https://i.imgur.com/iZDFJVx.png,https://i.imgur.com/wBWB8gw.png,https://i.imgur.com/7EdUPxP.png</Image>
   </Car>
+<Car>
+    <ID>6</ID>
+    <Name>SEAT</Name>
+    <Model>Ibiza Sport</Model>
+    <FullModel>1.4 16V Sport Sport Coupe 3dr Petrol Manual Euro 4 (85 ps)</FullModel>
+    <EyeCatcher>Serviced | 3 Owners | Nationwide Delivery</EyeCatcher>
+    <Value>1399</Value>
+    <Mileage>110000</Mileage>
+    <YearOfManu>2009</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>CX59 UBT</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>215</Tax>
+    <Insurance>8E</Insurance>
+    <Mpg>45.6</Mpg>
+    <Description>
+      - !PX to Clear!
+      - This hatchback offers a balance of performance, efficiency, and technology. Powered by a 1.4L 4_cylinder engine, it delivers approximately 86 horsepower and is paired with 5_speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, cloth upholstery, and a user friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 45.6 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      -
+    </Description>
+    <Image>https://i.imgur.com/bJWsZ6v.png,https://i.imgur.com/0tbhKqL.png,https://i.imgur.com/bBHbeMB.png,https://i.imgur.com/Wqs7KQ7.png,https://i.imgur.com/55RY39z.png,https://i.imgur.com/e7AnVKS.png,https://i.imgur.com/icj958x.jpeg,https://i.imgur.com/u7c5455.jpeg,https://i.imgur.com/92ZjaHN.jpeg,https://i.imgur.com/gX36AIt.jpeg,https://i.imgur.com/BF8YZ2l.jpeg,https://i.imgur.com/aBkhjwU.jpeg,https://i.imgur.com/vw8dHQA.jpeg,https://i.imgur.com/S5M1tYu.jpeg,https://i.imgur.com/MrPoZ5j.jpeg,https://i.imgur.com/kuZ15At.jpeg,https://i.imgur.com/1LakGcm.jpeg,https://i.imgur.com/49dTVrN.jpeg,https://i.imgur.com/Ij4XvhN.jpeg,https://i.imgur.com/fiaObIM.jpeg,https://i.imgur.com/Pu6uTp2.jpeg,https://i.imgur.com/ooBkDZ1.jpeg,https://i.imgur.com/30Wyjec.jpeg</Image>
+  </Car>
