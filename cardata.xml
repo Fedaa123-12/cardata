@@ -1,50 +1,48 @@
 <Cars>
   <Car>
     <ID>1</ID>
-    <Name>Ford</Name>
-    <Model>Focus Zetect</Model>
-    <FullModel>Focus 1.0T EcoBoost Zetec Hatchback 5dr Petrol Manual Euro 6 (s/s) (125 ps)</FullModel>
-    <EyeCatcher>T' Belt | Serviced | Delivery</EyeCatcher>
-    <Value>3499</Value>
-    <Mileage>88000</Mileage>
-    <YearOfManu>2014</YearOfManu>
+    <Name>Peugeot</Name>
+    <Model>208</Model>
+    <FullModel>1.0 VTi PureTech Active Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅WARRANTY✅ULEZ</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>49000</Mileage>
+    <YearOfManu>2015</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
     <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>FM64 ATX</Reg>
+    <Reg>DA15XLF</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
     <Tax>20</Tax>
-    <Insurance>14E</Insurance>
-    <Mpg>60.1</Mpg>
+    <Insurance>6E</Insurance>
+    <Mpg>65.7</Mpg>
     <Description>
-      - Now available is this Ford Fiesta Zetec, one of the UK’s most popular hatchbacks—loved for its sharp handling, great fuel economy, and low running costs. This model features the award-winning 1.0L EcoBoost petrol engine, offering the perfect balance of performance and efficiency.
+      - Up for sale is this stylish and economical Peugeot 208 1.0 VTi PureTech, a fantastic choice for first-time drivers, city commuters, or anyone looking for a practical and efficient hatchback. With £0 road tax and low insurance, it’s cheap to run and easy to drive.
       -
-      - ✅ Major selling point: The timing belt kit has been replaced, saving you hundreds in future maintenance costs and offering peace of mind to the next owner.
+      - Powered by Peugeot’s reliable 1.0L PureTech petrol engine, this car delivers excellent fuel economy without compromising on comfort or style.
       -
-      - Key features include:
-      - •	15” Alloy Wheels
-      - •	DAB Radio and Bluetooth
-      - •	Heated Windscreen (Quickclear)
+      - Key Features Include:
+      - •	Touchscreen Media System
+      - •	Bluetooth Connectivity and DAB Radio
+      - •	USB and AUX Input
       - •	Air Conditioning
+      - •	Cruise Control and Speed Limiter
       - •	Electric Windows and Mirrors
-      - •	ISOFIX Child Seat Mounts
-      - •	LED Daytime Running Lights
-      - •	USB and AUX Ports
+      - •	Daytime Running Lights
+      - •	ISOFIX Mounts
+      - •	Split-Folding Rear Seats
       -
-      - Smooth to drive, excellent on fuel, and £0 annual road tax. No warning lights, bangs, or mechanical issues.
-      - •	Timing belt kit recently replaced
+      - The car drives brilliantly—quiet, smooth, and efficient. No warning lights or mechanical issues.
       - •	Recently serviced and inspected
-      - •	MOT expires 22/03/2026
-      - •	5 former keepers
+      - •	MOT expires June 2026
       - •	ULEZ compliant
-      -
-      - ✅ Drive away today. Secure this vehicle with a refundable £100 deposit for viewing or delivery.
-      - 🚚 Nationwide delivery available.
+      - •	£20 annual road tax
+      - 🚚 Nationwide delivery available at affordable rates.
     </Description>
-    <Image>https://i.imgur.com/SkVqrQP.png, https://i.imgur.com/eplnXx3.png, https://i.imgur.com/hboD0ns.png, https://i.imgur.com/UtHsJZ5.png, https://i.imgur.com/9JblUTs.png, https://i.imgur.com/aWPp37r.png, https://i.imgur.com/ate5jTv.jpeg, https://i.imgur.com/LyqQhzo.jpeg, https://i.imgur.com/yVYmNIK.jpeg, https://i.imgur.com/wh3MNFT.jpeg, https://i.imgur.com/B9TFG0X.jpeg, https://i.imgur.com/RdWktOj.jpeg, https://i.imgur.com/inYu6UW.jpeg, https://i.imgur.com/ElxspC0.jpeg, https://i.imgur.com/NwblfVH.jpeg, https://i.imgur.com/rpsgGa4.jpeg, https://i.imgur.com/ZdSX2iS.jpeg, https://i.imgur.com/PPI3qSj.jpeg, https://i.imgur.com/gtFSiZq.jpeg, https://i.imgur.com/HE9TPET.jpeg, https://i.imgur.com/W12xv7v.jpeg, https://i.imgur.com/aKt4aDW.jpeg, https://i.imgur.com/Ia7KjWt.jpeg, https://i.imgur.com/XofkdNZ.jpeg, https://i.imgur.com/ntZWO9L.jpeg, https://i.imgur.com/mVrxOny.jpeg, https://i.imgur.com/QL3F8v4.jpeg, https://i.imgur.com/d2uMidA.jpeg, https://i.imgur.com/rzUik5z.jpeg, https://i.imgur.com/Uhnobui.jpeg, https://i.imgur.com/BwlDViK.jpeg, https://i.imgur.com/2GSivzL.jpeg, https://i.imgur.com/fgsh6Ir.jpeg, https://i.imgur.com/tTYeZ4n.jpeg, https://i.imgur.com/0PboJJq.jpeg, https://i.imgur.com/YrlloNO.jpeg, https://i.imgur.com/55WA6Jj.jpeg</Image>
+    <Image>https://i.imgur.com/yfPmELR.png,https://i.imgur.com/Kx1hl6C.png,https://i.imgur.com/r8ViWDS.png,https://i.imgur.com/QPrmBe8.png,https://i.imgur.com/D80F6qw.png,https://i.imgur.com/KHZ4EYZ.png,https://i.imgur.com/12Aaib7.jpeg,https://i.imgur.com/8mGHpf6.jpeg,https://i.imgur.com/dcOExWI.jpeg,https://i.imgur.com/RRtnK36.jpeg,https://i.imgur.com/D3baCOr.jpeg,https://i.imgur.com/3Pz24BO.jpeg,https://i.imgur.com/2GxGnOX.jpeg,https://i.imgur.com/o8ffrEr.jpeg,https://i.imgur.com/zHwgDSW.jpeg,https://i.imgur.com/6dMN0pP.jpeg,https://i.imgur.com/fZFn57w.jpeg,https://i.imgur.com/osEFs1R.jpeg,https://i.imgur.com/sSytwRP.jpeg,https://i.imgur.com/gJNx7Hv.jpeg,https://i.imgur.com/ykMr5GL.jpeg,https://i.imgur.com/4z9l70o.jpeg,https://i.imgur.com/oAV9sNe.jpeg,https://i.imgur.com/yycGijg.jpeg,https://i.imgur.com/71nIHLr.jpeg,https://i.imgur.com/m871w4e.jpeg,https://i.imgur.com/rcSLLdi.jpeg,https://i.imgur.com/bB54RXO.jpeg,https://i.imgur.com/SPIezeQ.jpeg,https://i.imgur.com/zDGegT6.jpeg,https://i.imgur.com/cq6FuUh.jpeg,https://i.imgur.com/1le90Fc.jpeg,https://i.imgur.com/n7bzxFj.jpeg,https://i.imgur.com/5YxTfnU.jpeg,https://i.imgur.com/BuRhj6g.jpeg,https://i.imgur.com/0sBZfSX.jpeg,https://i.imgur.com/JTjkwvN.jpeg,https://i.imgur.com/o3xW6XU.jpeg,https://i.imgur.com/IAzXzuf.jpeg,https://i.imgur.com/vg2xb4V.jpeg,https://i.imgur.com/JP7KiTn.jpeg,https://i.imgur.com/XfKJvo0.jpeg,https://i.imgur.com/k5gI725.jpeg,https://i.imgur.com/twkXib4.jpeg</Image>
   </Car>
   <Car>
     <ID>2</ID>
@@ -290,7 +288,8 @@
       - Please note: some vehicles may still be undergoing preparation.
       - Contact us to confirm availability or to arrange viewing.
     </Description>
-    <Image>https://i.imgur.com/39mIL3y.png,https://i.imgur.com/KwVwFmj.png,https://i.imgur.com/fOBp87a.png,https://i.imgur.com/lzYUkdR.png,https://i.imgur.com/zKTYNHH.png,https://i.imgur.com/CuE8X6L.png,https://i.imgur.com/WZB2j1f.jpeg,https://i.imgur.com/xbJOYeo.jpeg,https://i.imgur.com/i0Dkoxr.jpeg,https://i.imgur.com/ro7Pjad.jpeg,https://i.imgur.com/hBdr1bm.jpeg,https://i.imgur.com/UfUPO0W.jpeg,https://i.imgur.com/sVtpx5b.jpeg,https://i.imgur.com/R31xHYj.jpeg,https://i.imgur.com/YCX379h.jpeg,https://i.imgur.com/KPbx0lK.jpeg,https://i.imgur.com/th7Lmrh.jpeg,https://i.imgur.com/E8v4YP6.jpeg,https://i.imgur.com/TC3EXlL.jpeg,https://i.imgur.com/bdH7y4x.jpeg,https://i.imgur.com/YRH3Bnq.jpeg,https://i.imgur.com/Atbb5uA.jpeg,https://i.imgur.com/Jl6Ov15.jpeg,https://i.imgur.com/Tta33tq.jpeg,https://i.imgur.com/haj73pg.jpeg,https://i.imgur.com/5EWYR6k.jpeg,https://i.imgur.com/TNHbGKd.jpeg,https://i.imgur.com/ApASBGf.jpeg,https://i.imgur.com/SDoFva1.jpeg,https://i.imgur.com/qnmwqtE.jpeg,https://i.imgur.com/aY75PNw.jpeg,https://i.imgur.com/6GmHUep.jpeg,https://i.imgur.com/FOWVIdm.jpeg,https://i.imgur.com/sb82BtB.jpeg,https://i.imgur.com/NcLhwN7.jpeg,https://i.imgur.com/3BLJUth.jpeg,https://i.imgur.com/cTd0Lsm.jpeg,https://i.imgur.com/qwUQEhp.jpeg,https://i.imgur.com/jqgXXwm.jpeg</Image> </Car>
+    <Image>https://i.imgur.com/39mIL3y.png,https://i.imgur.com/KwVwFmj.png,https://i.imgur.com/fOBp87a.png,https://i.imgur.com/lzYUkdR.png,https://i.imgur.com/zKTYNHH.png,https://i.imgur.com/CuE8X6L.png,https://i.imgur.com/WZB2j1f.jpeg,https://i.imgur.com/xbJOYeo.jpeg,https://i.imgur.com/i0Dkoxr.jpeg,https://i.imgur.com/ro7Pjad.jpeg,https://i.imgur.com/hBdr1bm.jpeg,https://i.imgur.com/UfUPO0W.jpeg,https://i.imgur.com/sVtpx5b.jpeg,https://i.imgur.com/R31xHYj.jpeg,https://i.imgur.com/YCX379h.jpeg,https://i.imgur.com/KPbx0lK.jpeg,https://i.imgur.com/th7Lmrh.jpeg,https://i.imgur.com/E8v4YP6.jpeg,https://i.imgur.com/TC3EXlL.jpeg,https://i.imgur.com/bdH7y4x.jpeg,https://i.imgur.com/YRH3Bnq.jpeg,https://i.imgur.com/Atbb5uA.jpeg,https://i.imgur.com/Jl6Ov15.jpeg,https://i.imgur.com/Tta33tq.jpeg,https://i.imgur.com/haj73pg.jpeg,https://i.imgur.com/5EWYR6k.jpeg,https://i.imgur.com/TNHbGKd.jpeg,https://i.imgur.com/ApASBGf.jpeg,https://i.imgur.com/SDoFva1.jpeg,https://i.imgur.com/qnmwqtE.jpeg,https://i.imgur.com/aY75PNw.jpeg,https://i.imgur.com/6GmHUep.jpeg,https://i.imgur.com/FOWVIdm.jpeg,https://i.imgur.com/sb82BtB.jpeg,https://i.imgur.com/NcLhwN7.jpeg,https://i.imgur.com/3BLJUth.jpeg,https://i.imgur.com/cTd0Lsm.jpeg,https://i.imgur.com/qwUQEhp.jpeg,https://i.imgur.com/jqgXXwm.jpeg</Image>
+  </Car>
   <Car>
     <ID>8</ID>
     <Name>Kia</Name>
@@ -405,5 +404,108 @@
       - Fuel efficiency ranges from 42.8 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
     </Description>
     <Image>https://i.imgur.com/0HwCCz6.png,https://i.imgur.com/aCaqplq.png,https://i.imgur.com/YXc9het.png,https://i.imgur.com/dh7Gjw3.png,https://i.imgur.com/7wt1ytg.png,https://i.imgur.com/NlGeXOs.png,https://i.imgur.com/4ii3l8S.jpeg,https://i.imgur.com/79Y0e8G.jpeg,https://i.imgur.com/rB01chg.jpeg,https://i.imgur.com/eJzaazp.jpeg,https://i.imgur.com/sZ1JKwD.jpeg,https://i.imgur.com/KuoWRG1.jpeg,https://i.imgur.com/amrFi7G.jpeg,https://i.imgur.com/DcvCPVs.jpeg,https://i.imgur.com/Rb6MpPH.jpeg,https://i.imgur.com/NpP4HA6.jpeg,https://i.imgur.com/9mwBQHt.jpeg,https://i.imgur.com/fHFG6dR.jpeg,https://i.imgur.com/ctqGuQK.jpeg,https://i.imgur.com/VF6mVhY.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>11</ID>
+    <Name>Ford</Name>
+    <Model>Focuc</Model>
+    <FullModel>Focus 1.6 Zetec 5dr</FullModel>
+    <EyeCatcher>SERVICED✅WARRANTY✅DELIVERY</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>70100</Mileage>
+    <YearOfManu>2011</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NX11 XMA</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>265</Tax>
+    <Insurance>10E</Insurance>
+    <Mpg>42.2</Mpg>
+    <Description>
+      - Up for grabs is this smart-looking Ford Focus Zetec, offering great practicality, comfort, and reliability. Powered by the trusted 1.6L petrol engine, this Focus delivers smooth performance and solid fuel economy—perfect for families, daily commuting, or first-time drivers.
+      -
+      - Key Features:
+      - •	16” Alloy Wheels
+      - •	Heated Front Windscreen (Quickclear)
+      - •	Air Conditioning
+      - •	Bluetooth with Voice Control
+      - •	Electric Windows and Mirrors
+      - •	CD Player with AUX/USB Input
+      - •	ISOFIX Child Seat Mounts
+      - •	Multifunction Steering Wheel
+      - •	Spacious Boot and Rear Seating
+      -
+      - Drives beautifully with no unwanted noises, warning lights, or mechanical issues. Clean inside and out, with a great service history to back it up.
+      - •	Recently serviced and inspected
+      - •	MOT expires March 2026
+      - •	ULEZ compliant
+      -
+      - 🚚 Nationwide delivery available at competitive rates.
+      -
+      - ⸻
+      -
+      - Why Buy from AW Trade Centre?
+      -
+      - We guarantee:
+      - •	Full pre-sale inspection
+      - •	Complimentary warranty included
+      - •	HPI clear (unless otherwise stated)
+      - •	Professional interior and exterior valet
+      - •	Honest, friendly, no-pressure service
+      -
+      - 📞 Contact us today to reserve NX11 XMA or arrange a test drive.
+    </Description>
+    <Image>https://i.imgur.com/N5qqpb8.png,https://i.imgur.com/BIJpvrE.png,https://i.imgur.com/yiaqeqD.png,https://i.imgur.com/Sv9ptIx.png,https://i.imgur.com/OfIcbtA.png,https://i.imgur.com/iRtNZmc.png,https://i.imgur.com/xvJCGl9.jpeg,https://i.imgur.com/JEltWqR.jpeg,https://i.imgur.com/GPIp5bz.jpeg,https://i.imgur.com/Mscm3jQ.jpeg,https://i.imgur.com/TlP3CJ6.jpeg,https://i.imgur.com/um3Igcq.jpeg,https://i.imgur.com/6Wb15Gg.jpeg,https://i.imgur.com/3IoMs0W.jpeg,https://i.imgur.com/U08jfr8.jpeg,https://i.imgur.com/7KJSFH5.jpeg,https://i.imgur.com/VQeSszO.jpeg,https://i.imgur.com/fJTEc8A.jpeg,https://i.imgur.com/Pxgnx3u.jpeg,https://i.imgur.com/YXl659R.jpeg,https://i.imgur.com/4mwVG4I.jpeg,https://i.imgur.com/eqfqPHP.jpeg,https://i.imgur.com/jq8cGST.jpeg,https://i.imgur.com/JNSrIy2.jpeg,https://i.imgur.com/DHPpWgg.jpeg,https://i.imgur.com/jGLWYCL.jpeg,https://i.imgur.com/6j4bYyv.jpeg,https://i.imgur.com/NRPZ3Ms.jpeg,https://i.imgur.com/Refea0V.jpeg,https://i.imgur.com/qwWuWKq.jpeg,https://i.imgur.com/CPVsf5Q.jpeg,https://i.imgur.com/XI5qdAo.jpeg,https://i.imgur.com/SefQGnk.jpeg,https://i.imgur.com/b0ft6ou.jpeg,https://i.imgur.com/VlTfNxd.jpeg,https://i.imgur.com/5IFwId8.jpeg,https://i.imgur.com/Hjambuc.jpeg,https://i.imgur.com/h1HIwMR.jpeg,https://i.imgur.com/imqAC2x.jpeg,https://i.imgur.com/X3JuDoP.jpeg,https://i.imgur.com/1IPpClA.jpeg,https://i.imgur.com/YfkphzA.jpeg,https://i.imgur.com/XIX4g4j.jpeg,https://i.imgur.com/cusAOrL.jpeg,https://i.imgur.com/0sADxoo.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>12</ID>
+    <Name>Ford</Name>
+    <Model>Focus Zetect</Model>
+    <FullModel>Focus 1.0T EcoBoost Zetec Hatchback 5dr Petrol Manual Euro 6 (s/s) (125 ps)</FullModel>
+    <EyeCatcher>T' Belt | Serviced | Delivery</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>88000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FM64 ATX</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>60.1</Mpg>
+    <Description>
+      - Now available is this Ford Fiesta Zetec, one of the UK’s most popular hatchbacks—loved for its sharp handling, great fuel economy, and low running costs. This model features the award-winning 1.0L EcoBoost petrol engine, offering the perfect balance of performance and efficiency.
+      -
+      - ✅ Major selling point: The timing belt kit has been replaced, saving you hundreds in future maintenance costs and offering peace of mind to the next owner.
+      -
+      - Key features include:
+      - •	15” Alloy Wheels
+      - •	DAB Radio and Bluetooth
+      - •	Heated Windscreen (Quickclear)
+      - •	Air Conditioning
+      - •	Electric Windows and Mirrors
+      - •	ISOFIX Child Seat Mounts
+      - •	LED Daytime Running Lights
+      - •	USB and AUX Ports
+      -
+      - Smooth to drive, excellent on fuel, and £0 annual road tax. No warning lights, bangs, or mechanical issues.
+      - •	Timing belt kit recently replaced
+      - •	Recently serviced and inspected
+      - •	MOT expires 22/03/2026
+      - •	5 former keepers
+      - •	ULEZ compliant
+      -
+      - ✅ Drive away today. Secure this vehicle with a refundable £100 deposit for viewing or delivery.
+      - 🚚 Nationwide delivery available.
+    </Description>
+    <Image>https://i.imgur.com/SkVqrQP.png, https://i.imgur.com/eplnXx3.png, https://i.imgur.com/hboD0ns.png, https://i.imgur.com/UtHsJZ5.png, https://i.imgur.com/9JblUTs.png, https://i.imgur.com/aWPp37r.png, https://i.imgur.com/ate5jTv.jpeg, https://i.imgur.com/LyqQhzo.jpeg, https://i.imgur.com/yVYmNIK.jpeg, https://i.imgur.com/wh3MNFT.jpeg, https://i.imgur.com/B9TFG0X.jpeg, https://i.imgur.com/RdWktOj.jpeg, https://i.imgur.com/inYu6UW.jpeg, https://i.imgur.com/ElxspC0.jpeg, https://i.imgur.com/NwblfVH.jpeg, https://i.imgur.com/rpsgGa4.jpeg, https://i.imgur.com/ZdSX2iS.jpeg, https://i.imgur.com/PPI3qSj.jpeg, https://i.imgur.com/gtFSiZq.jpeg, https://i.imgur.com/HE9TPET.jpeg, https://i.imgur.com/W12xv7v.jpeg, https://i.imgur.com/aKt4aDW.jpeg, https://i.imgur.com/Ia7KjWt.jpeg, https://i.imgur.com/XofkdNZ.jpeg, https://i.imgur.com/ntZWO9L.jpeg, https://i.imgur.com/mVrxOny.jpeg, https://i.imgur.com/QL3F8v4.jpeg, https://i.imgur.com/d2uMidA.jpeg, https://i.imgur.com/rzUik5z.jpeg, https://i.imgur.com/Uhnobui.jpeg, https://i.imgur.com/BwlDViK.jpeg, https://i.imgur.com/2GSivzL.jpeg, https://i.imgur.com/fgsh6Ir.jpeg, https://i.imgur.com/tTYeZ4n.jpeg, https://i.imgur.com/0PboJJq.jpeg, https://i.imgur.com/YrlloNO.jpeg, https://i.imgur.com/55WA6Jj.jpeg</Image>
   </Car>
 </Cars>
