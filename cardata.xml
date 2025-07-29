@@ -405,64 +405,9 @@
     </Description>
     <Image>https://i.imgur.com/0HwCCz6.png,https://i.imgur.com/aCaqplq.png,https://i.imgur.com/YXc9het.png,https://i.imgur.com/dh7Gjw3.png,https://i.imgur.com/7wt1ytg.png,https://i.imgur.com/NlGeXOs.png,https://i.imgur.com/4ii3l8S.jpeg,https://i.imgur.com/79Y0e8G.jpeg,https://i.imgur.com/rB01chg.jpeg,https://i.imgur.com/eJzaazp.jpeg,https://i.imgur.com/sZ1JKwD.jpeg,https://i.imgur.com/KuoWRG1.jpeg,https://i.imgur.com/amrFi7G.jpeg,https://i.imgur.com/DcvCPVs.jpeg,https://i.imgur.com/Rb6MpPH.jpeg,https://i.imgur.com/NpP4HA6.jpeg,https://i.imgur.com/9mwBQHt.jpeg,https://i.imgur.com/fHFG6dR.jpeg,https://i.imgur.com/ctqGuQK.jpeg,https://i.imgur.com/VF6mVhY.jpeg</Image>
   </Car>
+ 
   <Car>
     <ID>11</ID>
-    <Name>Ford</Name>
-    <Model>Focuc</Model>
-    <FullModel>Focus 1.6 Zetec 5dr</FullModel>
-    <EyeCatcher>SERVICED✅WARRANTY✅DELIVERY</EyeCatcher>
-    <Value>1999</Value>
-    <Mileage>70100</Mileage>
-    <YearOfManu>2011</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Silver</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>NX11 XMA</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>265</Tax>
-    <Insurance>10E</Insurance>
-    <Mpg>42.2</Mpg>
-    <Description>
-      - Up for grabs is this smart-looking Ford Focus Zetec, offering great practicality, comfort, and reliability. Powered by the trusted 1.6L petrol engine, this Focus delivers smooth performance and solid fuel economy—perfect for families, daily commuting, or first-time drivers.
-      -
-      - Key Features:
-      - •	16” Alloy Wheels
-      - •	Heated Front Windscreen (Quickclear)
-      - •	Air Conditioning
-      - •	Bluetooth with Voice Control
-      - •	Electric Windows and Mirrors
-      - •	CD Player with AUX/USB Input
-      - •	ISOFIX Child Seat Mounts
-      - •	Multifunction Steering Wheel
-      - •	Spacious Boot and Rear Seating
-      -
-      - Drives beautifully with no unwanted noises, warning lights, or mechanical issues. Clean inside and out, with a great service history to back it up.
-      - •	Recently serviced and inspected
-      - •	MOT expires March 2026
-      - •	ULEZ compliant
-      -
-      - 🚚 Nationwide delivery available at competitive rates.
-      -
-      - ⸻
-      -
-      - Why Buy from AW Trade Centre?
-      -
-      - We guarantee:
-      - •	Full pre-sale inspection
-      - •	Complimentary warranty included
-      - •	HPI clear (unless otherwise stated)
-      - •	Professional interior and exterior valet
-      - •	Honest, friendly, no-pressure service
-      -
-      - 📞 Contact us today to reserve NX11 XMA or arrange a test drive.
-    </Description>
-    <Image>https://i.imgur.com/N5qqpb8.png,https://i.imgur.com/BIJpvrE.png,https://i.imgur.com/yiaqeqD.png,https://i.imgur.com/Sv9ptIx.png,https://i.imgur.com/OfIcbtA.png,https://i.imgur.com/iRtNZmc.png,https://i.imgur.com/xvJCGl9.jpeg,https://i.imgur.com/JEltWqR.jpeg,https://i.imgur.com/GPIp5bz.jpeg,https://i.imgur.com/Mscm3jQ.jpeg,https://i.imgur.com/TlP3CJ6.jpeg,https://i.imgur.com/um3Igcq.jpeg,https://i.imgur.com/6Wb15Gg.jpeg,https://i.imgur.com/3IoMs0W.jpeg,https://i.imgur.com/U08jfr8.jpeg,https://i.imgur.com/7KJSFH5.jpeg,https://i.imgur.com/VQeSszO.jpeg,https://i.imgur.com/fJTEc8A.jpeg,https://i.imgur.com/Pxgnx3u.jpeg,https://i.imgur.com/YXl659R.jpeg,https://i.imgur.com/4mwVG4I.jpeg,https://i.imgur.com/eqfqPHP.jpeg,https://i.imgur.com/jq8cGST.jpeg,https://i.imgur.com/JNSrIy2.jpeg,https://i.imgur.com/DHPpWgg.jpeg,https://i.imgur.com/jGLWYCL.jpeg,https://i.imgur.com/6j4bYyv.jpeg,https://i.imgur.com/NRPZ3Ms.jpeg,https://i.imgur.com/Refea0V.jpeg,https://i.imgur.com/qwWuWKq.jpeg,https://i.imgur.com/CPVsf5Q.jpeg,https://i.imgur.com/XI5qdAo.jpeg,https://i.imgur.com/SefQGnk.jpeg,https://i.imgur.com/b0ft6ou.jpeg,https://i.imgur.com/VlTfNxd.jpeg,https://i.imgur.com/5IFwId8.jpeg,https://i.imgur.com/Hjambuc.jpeg,https://i.imgur.com/h1HIwMR.jpeg,https://i.imgur.com/imqAC2x.jpeg,https://i.imgur.com/X3JuDoP.jpeg,https://i.imgur.com/1IPpClA.jpeg,https://i.imgur.com/YfkphzA.jpeg,https://i.imgur.com/XIX4g4j.jpeg,https://i.imgur.com/cusAOrL.jpeg,https://i.imgur.com/0sADxoo.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>12</ID>
     <Name>Ford</Name>
     <Model>Focus Zetect</Model>
     <FullModel>Focus 1.0T EcoBoost Zetec Hatchback 5dr Petrol Manual Euro 6 (s/s) (125 ps)</FullModel>
