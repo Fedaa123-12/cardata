@@ -5,7 +5,7 @@
     <Model>208</Model>
     <FullModel>1.0 VTi PureTech Active Euro 5 5dr</FullModel>
     <EyeCatcher>SERVICED✅MOT✅WARRANTY✅ULEZ</EyeCatcher>
-    <Value>3999</Value>
+    <Value>3799</Value>
     <Mileage>49000</Mileage>
     <YearOfManu>2015</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -219,7 +219,7 @@
     <Model>Aygo</Model>
     <FullModel>1.0 VVT-i Black Euro 4 3dr</FullModel>
     <EyeCatcher>SERVICED✅LOW MILEAGE✅MOT✅ULEZ</EyeCatcher>
-    <Value>2499</Value>
+    <Value>2299</Value>
     <Mileage>43400</Mileage>
     <YearOfManu>2007</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -559,6 +559,9 @@
     <Reg>DL13 HTG</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>47.1</Mpg>
     <Description>
       - Up for sale is this smart-looking Vauxhall Astra SRi, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 1.4 Turbocharged petrol engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
       -
@@ -582,8 +585,5 @@
       - 🚚 Nationwide delivery available at affordable rates.
     </Description>
     <Image>https://i.imgur.com/pNu9pOe.png,https://i.imgur.com/tIcSt08.png,https://i.imgur.com/Zf2AQrA.png,https://i.imgur.com/L1bNXL7.png,https://i.imgur.com/ws8fjXp.png,https://i.imgur.com/6N7O969.png,https://i.imgur.com/D7uQ6jb.jpeg,https://i.imgur.com/Rvat3Hr.jpeg,https://i.imgur.com/fMCtzr6.jpeg,https://i.imgur.com/d4XvYkn.jpeg,https://i.imgur.com/8SZjawC.jpeg,https://i.imgur.com/GCC1uCV.jpeg,https://i.imgur.com/KVWPTB1.jpeg,https://i.imgur.com/uQtdkL6.jpeg,https://i.imgur.com/BA9JiB6.jpeg,https://i.imgur.com/0DunNPk.jpeg,https://i.imgur.com/iTdaBxN.jpeg,https://i.imgur.com/RNeEITa.jpeg,https://i.imgur.com/yhmKKov.jpeg,https://i.imgur.com/xA7Tl34.jpeg,https://i.imgur.com/Al6G6u9.jpeg,https://i.imgur.com/jn4Zcyt.jpeg,https://i.imgur.com/gDzCj7M.jpeg,https://i.imgur.com/R2j4Abp.jpeg,https://i.imgur.com/4GZYQjN.jpeg,https://i.imgur.com/fgZkBQZ.jpeg,https://i.imgur.com/vMWv4Rn.jpeg,https://i.imgur.com/L1DWF0s.jpeg,https://i.imgur.com/aysPtWH.jpeg,https://i.imgur.com/74j5co6.jpeg,https://i.imgur.com/csly5U5.jpeg,https://i.imgur.com/0ik6R71.jpeg,https://i.imgur.com/oc4f9kd.jpeg,https://i.imgur.com/I0aO1lk.jpeg,https://i.imgur.com/6ib9M2b.jpeg,https://i.imgur.com/SLXnQ1e.jpeg,https://i.imgur.com/3dPdUcs.jpeg,https://i.imgur.com/HTtcP5m.jpeg,https://i.imgur.com/6Ha1gm6.jpeg,https://i.imgur.com/hBivJTZ.jpeg,https://i.imgur.com/lu8fOpo.jpeg,https://i.imgur.com/inqgUJr.jpeg,https://i.imgur.com/KfkCaOG.jpeg,https://i.imgur.com/fm9B4yl.jpeg,https://i.imgur.com/Ym2RdDi.jpeg</Image>
-    <Tax>195</Tax>
-    <Insurance>17E</Insurance>
-    <Mpg>47.1</Mpg>
   </Car>
 </Cars>
