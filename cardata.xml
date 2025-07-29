@@ -512,6 +512,9 @@
     <Reg>DY15 AWM</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>10E</Insurance>
+    <Mpg>55.4</Mpg>
     <Description>
       - Now in stock is this sporty and efficient Vauxhall Corsa SRi, featuring the punchy yet economical 1.4 Turbo ecoFLEX petrol engine. A perfect balance of fun and practicality, ideal for both first-time drivers and everyday commuting.
       -
@@ -538,8 +541,49 @@
       - 🚚 Nationwide delivery available at competitive rates.
     </Description>
     <Image>https://i.imgur.com/n6N4eps.png,https://i.imgur.com/0szBDor.png,https://i.imgur.com/RNV4UBF.png,https://i.imgur.com/g1SYnhL.png,https://i.imgur.com/xDq74ac.png,https://i.imgur.com/GNPEHA9.png,https://i.imgur.com/rlsIQW0.jpeg,https://i.imgur.com/6dKST1a.jpeg,https://i.imgur.com/Qx6aLb7.jpeg,https://i.imgur.com/ll2oQ6c.jpeg,https://i.imgur.com/xrGYuPQ.jpeg,https://i.imgur.com/TKaZZ4Y.jpeg,https://i.imgur.com/2hyF8mD.jpeg,https://i.imgur.com/MsiNSju.jpeg,https://i.imgur.com/KVH0rnS.jpeg,https://i.imgur.com/8j0SacB.jpeg,https://i.imgur.com/AJi4iYQ.jpeg,https://i.imgur.com/wGq1odl.jpeg,https://i.imgur.com/a3F9il2.jpeg,https://i.imgur.com/M0fwBU4.jpeg,https://i.imgur.com/UC7ORvi.jpeg,https://i.imgur.com/9Sn3Y2n.jpeg,https://i.imgur.com/EZGTsEf.jpeg,https://i.imgur.com/6v34QXu.jpeg,https://i.imgur.com/UDjfRqC.jpeg,https://i.imgur.com/dTfa6SK.jpeg,https://i.imgur.com/Sy5qqIQ.jpeg,https://i.imgur.com/2jZ5kTK.jpeg,https://i.imgur.com/K8akPhX.jpeg,https://i.imgur.com/fVRVjXv.jpeg,https://i.imgur.com/o72r2Yn.jpeg,https://i.imgur.com/KCW3obl.jpeg,https://i.imgur.com/mK0oqDF.jpeg,https://i.imgur.com/rqCbYx6.jpeg,https://i.imgur.com/pfnfrYM.jpeg,https://i.imgur.com/pEsTsNu.jpeg,https://i.imgur.com/CurOQa9.jpeg,https://i.imgur.com/1OXg0YF.jpeg,https://i.imgur.com/L5MeTIj.jpeg,https://i.imgur.com/c9dlM2r.jpeg,https://i.imgur.com/CpV6iOi.jpeg,https://i.imgur.com/Yc41xIN.jpeg,https://i.imgur.com/0t6Izn4.jpeg,https://i.imgur.com/isQWO07.jpeg,https://i.imgur.com/uyOhPh3.jpeg,https://i.imgur.com/WfmjtCR.jpeg,https://i.imgur.com/jV2rgRb.jpeg,https://i.imgur.com/sLOiobh.jpeg,https://i.imgur.com/LsoGHj5.jpeg</Image>
-    <Tax>35</Tax>
-    <Insurance>10E</Insurance>
-    <Mpg>55.4</Mpg>
+  </Car>
+  <Car>
+    <ID>14</ID>
+    <Name>Vauxhall</Name>
+    <Model>Astra SRi</Model>
+    <FullModel>1.4T 16v SRi Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅WARRANTY</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>100700</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DL13 HTG</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Up for sale is this smart-looking Vauxhall Astra SRi, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 1.4 Turbocharged petrol engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
+      -
+      - Key Features Include:
+      - •	17” Alloy Wheels
+      - •	Sports Suspension
+      - •	Air Conditioning
+      - •	Cruise Control and Trip Computer
+      - •	Bluetooth Connectivity
+      - •	Electric Front Windows and Mirrors
+      - •	ISOFIX Child Seat Anchors
+      - •	Multifunction Steering Wheel
+      - •	CD Player with AUX Input
+      -
+      - Drives exceptionally well—smooth acceleration, tight steering, and no knocks, warning lights, or faults. A reliable car that’s cheap to run and ULEZ compliant.
+      - •	Recently serviced and inspected
+      - •	MOT to be renewed at point of sale
+      - •	3 former keepers
+      -
+      - ✅ Ready to drive away today – secure this car now with a refundable £100 deposit.
+      - 🚚 Nationwide delivery available at affordable rates.
+    </Description>
+    <Image>https://i.imgur.com/pNu9pOe.png,https://i.imgur.com/tIcSt08.png,https://i.imgur.com/Zf2AQrA.png,https://i.imgur.com/L1bNXL7.png,https://i.imgur.com/ws8fjXp.png,https://i.imgur.com/6N7O969.png,https://i.imgur.com/D7uQ6jb.jpeg,https://i.imgur.com/Rvat3Hr.jpeg,https://i.imgur.com/fMCtzr6.jpeg,https://i.imgur.com/d4XvYkn.jpeg,https://i.imgur.com/8SZjawC.jpeg,https://i.imgur.com/GCC1uCV.jpeg,https://i.imgur.com/KVWPTB1.jpeg,https://i.imgur.com/uQtdkL6.jpeg,https://i.imgur.com/BA9JiB6.jpeg,https://i.imgur.com/0DunNPk.jpeg,https://i.imgur.com/iTdaBxN.jpeg,https://i.imgur.com/RNeEITa.jpeg,https://i.imgur.com/yhmKKov.jpeg,https://i.imgur.com/xA7Tl34.jpeg,https://i.imgur.com/Al6G6u9.jpeg,https://i.imgur.com/jn4Zcyt.jpeg,https://i.imgur.com/gDzCj7M.jpeg,https://i.imgur.com/R2j4Abp.jpeg,https://i.imgur.com/4GZYQjN.jpeg,https://i.imgur.com/fgZkBQZ.jpeg,https://i.imgur.com/vMWv4Rn.jpeg,https://i.imgur.com/L1DWF0s.jpeg,https://i.imgur.com/aysPtWH.jpeg,https://i.imgur.com/74j5co6.jpeg,https://i.imgur.com/csly5U5.jpeg,https://i.imgur.com/0ik6R71.jpeg,https://i.imgur.com/oc4f9kd.jpeg,https://i.imgur.com/I0aO1lk.jpeg,https://i.imgur.com/6ib9M2b.jpeg,https://i.imgur.com/SLXnQ1e.jpeg,https://i.imgur.com/3dPdUcs.jpeg,https://i.imgur.com/HTtcP5m.jpeg,https://i.imgur.com/6Ha1gm6.jpeg,https://i.imgur.com/hBivJTZ.jpeg,https://i.imgur.com/lu8fOpo.jpeg,https://i.imgur.com/inqgUJr.jpeg,https://i.imgur.com/KfkCaOG.jpeg,https://i.imgur.com/fm9B4yl.jpeg,https://i.imgur.com/Ym2RdDi.jpeg</Image>
+    <Tax>195</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>47.1</Mpg>
   </Car>
 </Cars>
