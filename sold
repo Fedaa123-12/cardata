@@ -1,3 +1,47 @@
+<ID>1</ID>
+    <Name>Peugeot</Name>
+    <Model>208</Model>
+    <FullModel>1.0 VTi PureTech Active Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅WARRANTY✅ULEZ</EyeCatcher>
+    <Value>3799</Value>
+    <Mileage>49000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DA15XLF</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>6E</Insurance>
+    <Mpg>65.7</Mpg>
+    <Description>
+      - Up for sale is this stylish and economical Peugeot 208 1.0 VTi PureTech, a fantastic choice for first-time drivers, city commuters, or anyone looking for a practical and efficient hatchback. With £0 road tax and low insurance, it’s cheap to run and easy to drive.
+      -
+      - Powered by Peugeot’s reliable 1.0L PureTech petrol engine, this car delivers excellent fuel economy without compromising on comfort or style.
+      -
+      - Key Features Include:
+      - •	Touchscreen Media System
+      - •	Bluetooth Connectivity and DAB Radio
+      - •	USB and AUX Input
+      - •	Air Conditioning
+      - •	Cruise Control and Speed Limiter
+      - •	Electric Windows and Mirrors
+      - •	Daytime Running Lights
+      - •	ISOFIX Mounts
+      - •	Split-Folding Rear Seats
+      -
+      - The car drives brilliantly—quiet, smooth, and efficient. No warning lights or mechanical issues.
+      - •	Recently serviced and inspected
+      - •	MOT expires June 2026
+      - •	ULEZ compliant
+      - •	£20 annual road tax
+      - 🚚 Nationwide delivery available at affordable rates.
+    </Description>
+    <Image>https://i.imgur.com/yfPmELR.png,https://i.imgur.com/Kx1hl6C.png,https://i.imgur.com/r8ViWDS.png,https://i.imgur.com/QPrmBe8.png,https://i.imgur.com/D80F6qw.png,https://i.imgur.com/KHZ4EYZ.png,https://i.imgur.com/12Aaib7.jpeg,https://i.imgur.com/8mGHpf6.jpeg,https://i.imgur.com/dcOExWI.jpeg,https://i.imgur.com/RRtnK36.jpeg,https://i.imgur.com/D3baCOr.jpeg,https://i.imgur.com/3Pz24BO.jpeg,https://i.imgur.com/2GxGnOX.jpeg,https://i.imgur.com/o8ffrEr.jpeg,https://i.imgur.com/zHwgDSW.jpeg,https://i.imgur.com/6dMN0pP.jpeg,https://i.imgur.com/fZFn57w.jpeg,https://i.imgur.com/osEFs1R.jpeg,https://i.imgur.com/sSytwRP.jpeg,https://i.imgur.com/gJNx7Hv.jpeg,https://i.imgur.com/ykMr5GL.jpeg,https://i.imgur.com/4z9l70o.jpeg,https://i.imgur.com/oAV9sNe.jpeg,https://i.imgur.com/yycGijg.jpeg,https://i.imgur.com/71nIHLr.jpeg,https://i.imgur.com/m871w4e.jpeg,https://i.imgur.com/rcSLLdi.jpeg,https://i.imgur.com/bB54RXO.jpeg,https://i.imgur.com/SPIezeQ.jpeg,https://i.imgur.com/zDGegT6.jpeg,https://i.imgur.com/cq6FuUh.jpeg,https://i.imgur.com/1le90Fc.jpeg,https://i.imgur.com/n7bzxFj.jpeg,https://i.imgur.com/5YxTfnU.jpeg,https://i.imgur.com/BuRhj6g.jpeg,https://i.imgur.com/0sBZfSX.jpeg,https://i.imgur.com/JTjkwvN.jpeg,https://i.imgur.com/o3xW6XU.jpeg,https://i.imgur.com/IAzXzuf.jpeg,https://i.imgur.com/vg2xb4V.jpeg,https://i.imgur.com/JP7KiTn.jpeg,https://i.imgur.com/XfKJvo0.jpeg,https://i.imgur.com/k5gI725.jpeg,https://i.imgur.com/twkXib4.jpeg</Image>
+  </Car>
 <Car>
           <ID>3</ID>
           <Name>Ford</Name>
