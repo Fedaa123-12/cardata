@@ -225,6 +225,9 @@
     <Reg>SL11 CFF</Reg>
     <Video>https://www.youtube.com/embed/rpGcLab4Mhs?si=AKSlWoccmvUXQ_9W</Video>
     <MetaTag></MetaTag>
+    <Tax>265</Tax>
+    <Insurance>24E</Insurance>
+    <Mpg>42.8</Mpg>
     <Description>
       - Now available is this sleek and sporty BMW 118i Sport, finished in a stylish 2-door coupe body with a powerful and refined 2.0L petrol engine. A great option for drivers looking for a premium hatchback feel with coupe looks, engaging handling, and BMW’s renowned build quality.
       - Key Features Include:
@@ -242,8 +245,45 @@
       - •	ULEZ compliant
     </Description>
     <Image>https://i.imgur.com/e3MabqF.png,https://i.imgur.com/JsPqVoJ.png,https://i.imgur.com/QlGXI9l.png,https://i.imgur.com/SmNUJEy.png,https://i.imgur.com/MRT1IwB.png,https://i.imgur.com/bxpOHNd.png,https://i.imgur.com/eT16S1S.png,https://i.imgur.com/ed8y1Ax.jpeg,https://i.imgur.com/SFHVEo5.jpeg,https://i.imgur.com/PiERt4A.jpeg,https://i.imgur.com/yzu6KtV.jpeg,https://i.imgur.com/rHjb1x6.jpeg,https://i.imgur.com/m6SLLAH.jpeg,https://i.imgur.com/hWIFE3f.jpeg,https://i.imgur.com/g5PwRrM.jpeg,https://i.imgur.com/B95jUz0.jpeg,https://i.imgur.com/zQ2Uxed.jpeg,https://i.imgur.com/SWdAe9N.jpeg,https://i.imgur.com/V0tFwx2.jpeg,https://i.imgur.com/tCMOS9e.jpeg,https://i.imgur.com/upmTq1r.jpeg,https://i.imgur.com/lfyB84u.jpeg,https://i.imgur.com/ybDwqMf.jpeg,https://i.imgur.com/pVuBPVR.jpeg,https://i.imgur.com/ZYqGI7J.jpeg,https://i.imgur.com/jDDl2p7.jpeg,https://i.imgur.com/vCSwrfJ.jpeg,https://i.imgur.com/cCiRbah.jpeg,https://i.imgur.com/qrnSgxp.jpeg,https://i.imgur.com/83mhqbd.jpeg,https://i.imgur.com/E21RDwK.jpeg,https://i.imgur.com/Zdtup2y.jpeg,https://i.imgur.com/yWSOxIB.jpeg,https://i.imgur.com/juUhAYG.jpeg,https://i.imgur.com/vCZvs85.jpeg,https://i.imgur.com/h0QPXxR.jpeg,https://i.imgur.com/BsB9bMT.jpeg,https://i.imgur.com/A519saq.jpeg,https://i.imgur.com/LJLffjh.jpeg,https://i.imgur.com/VfHowXL.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>7</ID>
+    <Name>Vauxhall</Name>
+    <Model>Zafira</Model>
+    <FullModel>Zafira Tourer 1.4T 16V SRi Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICE✅WARRANTY✅DELIVERY✅ULEZ</EyeCatcher>
+    <Value>3699</Value>
+    <Mileage>88970</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Brown</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DN14 LUE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Now in stock is this 2014 Vauxhall Zafira Tourer SRi, a practical and sporty-looking 7-seater MPV powered by a responsive 1.4 Turbocharged petrol engine. Ideal for growing families, long journeys, or anyone needing space without sacrificing comfort and performance.
+      - Key Features Include:
+      - •	SRi Styling Pack
+      - •	17” Alloy Wheels
+      - •	Front and Rear Parking Sensors
+      - •	Cruise Control and Speed Limiter
+      - •	Bluetooth Connectivity and DAB Radio
+      - •	Air Conditioning
+      - •	Electric Windows and Mirrors
+      - •	Multifunction Steering Wheel
+      - •	ISOFIX Child Seat Anchors
+      - •	Split-Folding Rear Seats for Maximum Versatility
+      - The car drives spot on—smooth, powerful, and refined, with no warning lights or mechanical faults.
+      - •	Recently serviced and inspected
+      - •	MOT expires August 2026
+      - •	ULEZ compliant
+    </Description>
+    <Image>https://i.imgur.com/DI6WN8t.png,https://i.imgur.com/JW8v60N.png,https://i.imgur.com/zPFfyfb.png,https://i.imgur.com/mganHxI.png,https://i.imgur.com/lI7JyRn.png,https://i.imgur.com/4HkfCYM.png,https://i.imgur.com/k9AFGJw.png,https://i.imgur.com/Oj6uQxq.png,https://i.imgur.com/CEMebPE.jpeg,https://i.imgur.com/98pQQIw.jpeg,https://i.imgur.com/m92WAoo.jpeg,https://i.imgur.com/5FEIzZi.jpeg,https://i.imgur.com/46LilqZ.jpeg,https://i.imgur.com/DOLqTcN.jpeg,https://i.imgur.com/As5HVjL.jpeg,https://i.imgur.com/iaX7Rqk.jpeg,https://i.imgur.com/WP1aarV.jpeg,https://i.imgur.com/fBgsokt.jpeg,https://i.imgur.com/Zw8HouB.jpeg,https://i.imgur.com/MsESJ0C.jpeg,https://i.imgur.com/1gku4lc.jpeg,https://i.imgur.com/JSMCUt2.jpeg,https://i.imgur.com/eeWOcs8.jpeg,https://i.imgur.com/wxDwtNp.jpeg,https://i.imgur.com/Dlp6oiE.jpeg,https://i.imgur.com/YKUuopT.jpeg,https://i.imgur.com/6zLfG1Q.jpeg,https://i.imgur.com/CrTclOa.jpeg,https://i.imgur.com/3yFsUg8.jpeg,https://i.imgur.com/WH8BnVZ.jpeg,https://i.imgur.com/XSNvgXf.jpeg,https://i.imgur.com/6XsZsYl.jpeg,https://i.imgur.com/OgN54Uo.jpeg,https://i.imgur.com/SgCQoos.jpeg,https://i.imgur.com/j5zuF3g.jpeg,https://i.imgur.com/5E9Tupb.jpeg,https://i.imgur.com/kpPwVkO.jpeg,https://i.imgur.com/jPi0JM1.jpeg,https://i.imgur.com/v8wiB71.jpeg,https://i.imgur.com/w7Xljnd.jpeg,https://i.imgur.com/ceCMwWk.jpeg,https://i.imgur.com/b0HGgQS.jpeg,https://i.imgur.com/SUVrHSr.jpeg,https://i.imgur.com/ynSlykW.jpeg,https://i.imgur.com/CGk1lUH.jpeg,https://i.imgur.com/76tmkgc.jpeg,https://i.imgur.com/NOUgiQm.jpeg,https://i.imgur.com/ss19AIU.jpeg,https://i.imgur.com/GjzIO4W.jpeg,https://i.imgur.com/9bGWXaZ.jpeg,https://i.imgur.com/1r7R7fP.jpeg</Image>
     <Tax>265</Tax>
-    <Insurance>24E</Insurance>
-    <Mpg>42.8</Mpg>
+    <Insurance>15E</Insurance>
+    <Mpg>42.2</Mpg>
   </Car>
 </Cars>
