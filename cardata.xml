@@ -69,32 +69,43 @@
   </Car>
   <Car>
     <ID>3</ID>
-    <Name>Audi</Name>
-    <Model>A4 Avant Black Edition</Model>
-    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
-    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
-    <Value>5999</Value>
-    <Mileage>140000</Mileage>
-    <YearOfManu>2015</YearOfManu>
-    <CatStat>Cat N</CatStat>
-    <FuelType>Diesel</FuelType>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 Titanium Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICE✅ULEZ✅DELIVERY✅WARRANTY</EyeCatcher>
+    <Value>2999</Value>
+    <Mileage>94200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
+    <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>YY15 GYZ</Reg>
+    <Reg>GF63MKD</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>165</Tax>
-    <Insurance>28E</Insurance>
-    <Mpg>58.9</Mpg>
     <Description>
-      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4_cylinder engine, it delivers approximately 174 horsepower and is paired with 6_speed manual transmission.
-      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user_friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
-      -
-      - Technical data:
-      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+      - Now available is this well-presented Ford Focus Titanium, offering premium comfort, great tech, and a reliable driving experience. Powered by a refined 1.6L petrol engine, it delivers a smooth and efficient drive—ideal for both daily commuting and longer motorway journeys.
+      - Key Features Include:
+      - •	Titanium Trim Level – High Spec
+      - •	Sony DAB Radio with Bluetooth and USB
+      - •	Cruise Control and Speed Limiter
+      - •	Dual-Zone Climate Control
+      - •	Auto Headlights and Wipers
+      - •	Keyless Start (Push Button)
+      - •	Heated Front Windscreen (Quickclear)
+      - •	16” Alloy Wheels
+      - •	Electric Folding Mirrors
+      - •	ISOFIX Child Seat Mounts
+      - This Focus drives superbly—quiet, comfortable, and responsive. No warning lights or mechanical issues.
+      - •	Recently serviced and inspected
+      - •	2 former keepers
+      - •	ULEZ compliant
     </Description>
-    <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
+    <Image>https://i.imgur.com/HXF64To.jpeg,https://i.imgur.com/lGAU5PK.jpeg,https://i.imgur.com/BKHecIr.jpeg,https://i.imgur.com/hyEdMq2.jpeg,https://i.imgur.com/XeXPNIi.jpeg,https://i.imgur.com/90Ieh2o.jpeg,https://i.imgur.com/HPyAvei.jpeg,https://i.imgur.com/VDnDoqy.jpeg,https://i.imgur.com/eZWfQLX.jpeg,https://i.imgur.com/7dUiZQk.jpeg,https://i.imgur.com/lodzDA2.jpeg,https://i.imgur.com/Oi5Wrjf.jpeg,https://i.imgur.com/9xE7MFv.jpeg,https://i.imgur.com/z4WFhMR.jpeg,https://i.imgur.com/qTGa2aB.jpeg,https://i.imgur.com/xmAe1Eb.jpeg,https://i.imgur.com/Ltftwbg.jpeg,https://i.imgur.com/FWG4rDG.jpeg,https://i.imgur.com/KkE1lxR.jpeg,https://i.imgur.com/gc4S4Sr.jpeg,https://i.imgur.com/Kpc5WI9.jpeg,https://i.imgur.com/4gsc6W2.jpeg,https://i.imgur.com/O0zSNPh.jpeg,https://i.imgur.com/uhhvXVT.jpeg,https://i.imgur.com/wyN4J9w.jpeg,https://i.imgur.com/H2ahxn9.jpeg,https://i.imgur.com/a9SBLma.jpeg,https://i.imgur.com/QsAQbNO.jpeg,https://i.imgur.com/rMCJvYc.jpeg,https://i.imgur.com/sm4NSjb.jpeg,https://i.imgur.com/W2aUdB0.jpeg,https://i.imgur.com/ukB912b.jpeg,https://i.imgur.com/RYWmfd7.jpeg,https://i.imgur.com/bDhX1WF.jpeg,https://i.imgur.com/7fF8MI3.jpeg,https://i.imgur.com/aDIWurU.jpeg,https://i.imgur.com/sjxxnAN.jpeg,https://i.imgur.com/cRspGk2.jpeg,https://i.imgur.com/fM9wF8q.jpeg,https://i.imgur.com/U0aqFxk.jpeg</Image>
+    <Tax>195</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>47.9</Mpg>
   </Car>
   <Car>
     <ID>4</ID>
@@ -353,12 +364,41 @@
     <Reg>MT16WUJ</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>7E</Insurance>
+    <Mpg>64.2</Mpg>
     <Description>
       - !!! COMING SOON !!!
     </Description>
     <Image>https://i.imgur.com/jKpAukv.png,https://i.imgur.com/8qwPZNR.png,https://i.imgur.com/O6VPeR7.png,https://i.imgur.com/B9W4c2S.png,https://i.imgur.com/bzrqYk4.png,https://i.imgur.com/ePDZs37.png,https://i.imgur.com/sEMk1Au.jpeg,https://i.imgur.com/JFTWIB5.jpeg,https://i.imgur.com/sAJUVkM.jpeg,https://i.imgur.com/QgeJV5Q.jpeg,https://i.imgur.com/d88Fp6a.jpeg,https://i.imgur.com/MnZIdwl.jpeg,https://i.imgur.com/6BCfXco.jpeg,https://i.imgur.com/9xfz6dK.jpeg,https://i.imgur.com/7DiVOy9.jpeg,https://i.imgur.com/T8GN1Qp.jpeg,https://i.imgur.com/5vjD0Jq.jpeg,https://i.imgur.com/eeDHPf5.jpeg,https://i.imgur.com/bfCQAc5.jpeg,https://i.imgur.com/IhbOoIi.jpeg,https://i.imgur.com/NOprdU6.jpeg,https://i.imgur.com/IR77kaL.jpeg,https://i.imgur.com/TAAbKxZ.jpeg,https://i.imgur.com/eeeoNps.jpeg,https://i.imgur.com/GVHcIwq.jpeg,https://i.imgur.com/H1cOP1L.jpeg,https://i.imgur.com/EobvweF.jpeg,https://i.imgur.com/RCxu6k4.jpeg,https://i.imgur.com/pLLECcn.jpeg,https://i.imgur.com/HfKcr1y.jpeg,https://i.imgur.com/2ecQMaj.jpeg,https://i.imgur.com/wehuxci.jpeg,https://i.imgur.com/QeHcsjJ.jpeg,https://i.imgur.com/3BKd5vz.jpeg,https://i.imgur.com/1pERADx.jpeg,https://i.imgur.com/s9mWkWe.jpeg,https://i.imgur.com/OlgY7SH.jpeg,https://i.imgur.com/cgBbBVi.jpeg,https://i.imgur.com/r5DASHQ.jpeg,https://i.imgur.com/7vQ38ww.jpeg,https://i.imgur.com/bTHcnVy.jpeg,https://i.imgur.com/MSnLm15.jpeg</Image>
-    <Tax>20</Tax>
-    <Insurance>7E</Insurance>
-    <Mpg>64.2</Mpg>
+  </Car>
+  <Car>
+    <ID>11</ID>
+    <Name>Audi</Name>
+    <Model>A4 Avant Black Edition</Model>
+    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
+    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
+    <Value>5999</Value>
+    <Mileage>140000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Cat N</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YY15 GYZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>28E</Insurance>
+    <Mpg>58.9</Mpg>
+    <Description>
+      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4_cylinder engine, it delivers approximately 174 horsepower and is paired with 6_speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user_friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
   </Car>
 </Cars>
