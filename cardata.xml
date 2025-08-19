@@ -84,6 +84,9 @@
     <Reg>GF63MKD</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>47.9</Mpg>
     <Description>
       - Now available is this well-presented Ford Focus Titanium, offering premium comfort, great tech, and a reliable driving experience. Powered by a refined 1.6L petrol engine, it delivers a smooth and efficient drive—ideal for both daily commuting and longer motorway journeys.
       - Key Features Include:
@@ -103,9 +106,6 @@
       - •	ULEZ compliant
     </Description>
     <Image>https://i.imgur.com/HXF64To.jpeg,https://i.imgur.com/lGAU5PK.jpeg,https://i.imgur.com/BKHecIr.jpeg,https://i.imgur.com/hyEdMq2.jpeg,https://i.imgur.com/XeXPNIi.jpeg,https://i.imgur.com/90Ieh2o.jpeg,https://i.imgur.com/HPyAvei.jpeg,https://i.imgur.com/VDnDoqy.jpeg,https://i.imgur.com/eZWfQLX.jpeg,https://i.imgur.com/7dUiZQk.jpeg,https://i.imgur.com/lodzDA2.jpeg,https://i.imgur.com/Oi5Wrjf.jpeg,https://i.imgur.com/9xE7MFv.jpeg,https://i.imgur.com/z4WFhMR.jpeg,https://i.imgur.com/qTGa2aB.jpeg,https://i.imgur.com/xmAe1Eb.jpeg,https://i.imgur.com/Ltftwbg.jpeg,https://i.imgur.com/FWG4rDG.jpeg,https://i.imgur.com/KkE1lxR.jpeg,https://i.imgur.com/gc4S4Sr.jpeg,https://i.imgur.com/Kpc5WI9.jpeg,https://i.imgur.com/4gsc6W2.jpeg,https://i.imgur.com/O0zSNPh.jpeg,https://i.imgur.com/uhhvXVT.jpeg,https://i.imgur.com/wyN4J9w.jpeg,https://i.imgur.com/H2ahxn9.jpeg,https://i.imgur.com/a9SBLma.jpeg,https://i.imgur.com/QsAQbNO.jpeg,https://i.imgur.com/rMCJvYc.jpeg,https://i.imgur.com/sm4NSjb.jpeg,https://i.imgur.com/W2aUdB0.jpeg,https://i.imgur.com/ukB912b.jpeg,https://i.imgur.com/RYWmfd7.jpeg,https://i.imgur.com/bDhX1WF.jpeg,https://i.imgur.com/7fF8MI3.jpeg,https://i.imgur.com/aDIWurU.jpeg,https://i.imgur.com/sjxxnAN.jpeg,https://i.imgur.com/cRspGk2.jpeg,https://i.imgur.com/fM9wF8q.jpeg,https://i.imgur.com/U0aqFxk.jpeg</Image>
-    <Tax>195</Tax>
-    <Insurance>14E</Insurance>
-    <Mpg>47.9</Mpg>
   </Car>
   <Car>
     <ID>4</ID>
@@ -279,8 +279,8 @@
     <Name>Vauxhall</Name>
     <Model>Adam Glam</Model>
     <FullModel>1.2 16v GLAM Euro 5 3dr</FullModel>
-    <EyeCatcher>SUNROOF | SERVICED | WARRANTY</EyeCatcher>
-    <Value>4999</Value>
+    <EyeCatcher>FREE N'WIDE DELIVERY| FULL MOT | 1 YEAR WARRANTY</EyeCatcher>
+    <Value>5999</Value>
     <Mileage>34200</Mileage>
     <YearOfManu>2014</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -296,6 +296,7 @@
     <Mpg>53.3</Mpg>
     <Description>
       - Presenting this well maintained and very low mileage 2014 Vauxhall Adam Glam, a premium 5 seater hatchback that blends luxury, practicality, and comfort.
+      - This car will come with 12 Months warranty included, 1 year Mot and free  delivery available nationwide.
       - Perfect for newer drivers or anyone looking to upgrade.
       -
       - This model includes:
