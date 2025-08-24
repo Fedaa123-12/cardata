@@ -402,4 +402,29 @@
     </Description>
     <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
   </Car>
+  <Car>
+    <ID>12</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta</Model>
+    <FullModel></FullModel>
+    <EyeCatcher>T'BELT | SERVICED | N'WIDE DELIVERY</EyeCatcher>
+    <Value>2100</Value>
+    <Mileage>102400</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NU12 FDP</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - !!! COMING SOON !!!
+    </Description>
+    <Image>https://i.imgur.com/UBTiA71.jpeg,https://i.imgur.com/u10PZaW.jpeg,https://i.imgur.com/LCXyk8D.jpeg,https://i.imgur.com/vnU5oRB.jpeg,https://i.imgur.com/mgUVePr.jpeg,https://i.imgur.com/yqTPaVH.jpeg,https://i.imgur.com/6z9Wucn.jpeg,https://i.imgur.com/QHuyrUX.jpeg,https://i.imgur.com/c2D2fmv.jpeg,https://i.imgur.com/1iaIBPW.jpeg,https://i.imgur.com/fxKZuI2.jpeg,https://i.imgur.com/2mHnyp8.jpeg,https://i.imgur.com/iw1B46k.jpeg,https://i.imgur.com/7hwnGmL.jpeg,https://i.imgur.com/nbtsPaX.jpeg,https://i.imgur.com/eCPHQwb.jpeg,https://i.imgur.com/zQEDN5w.jpeg,https://i.imgur.com/N4jDAtv.jpeg,https://i.imgur.com/unkcxe0.jpeg,https://i.imgur.com/JPWXyK6.jpeg,https://i.imgur.com/rTpAVJU.jpeg,https://i.imgur.com/ppz7yh4.jpeg,https://i.imgur.com/fOQcLRm.jpeg,https://i.imgur.com/Oi1j9l7.jpeg,https://i.imgur.com/42qVBNc.jpeg,https://i.imgur.com/xXHpm09.jpeg,https://i.imgur.com/rNcm905.jpeg,https://i.imgur.com/m35Ch2Q.jpeg,https://i.imgur.com/FQ6uS4a.jpeg,https://i.imgur.com/FW1LqWj.jpeg,https://i.imgur.com/e5IlDhA.jpeg,https://i.imgur.com/6yju9tq.jpeg,https://i.imgur.com/SXQobpb.jpeg,https://i.imgur.com/7a5R6UG.jpeg,https://i.imgur.com/5Im4MQl.jpeg,https://i.imgur.com/EdMjvXW.jpeg</Image>
+    <Tax>165</Tax>
+    <Insurance>6E</Insurance>
+    <Mpg>50.4</Mpg>
+  </Car>
 </Cars>
