@@ -1,4 +1,210 @@
+
   <Car>
+    <ID>1</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa Limited edition</Model>
+    <FullModel>1.0i Turbo ecoFLEX Limited Edition Euro 6 (s/s) 3dr</FullModel>
+    <EyeCatcher>WARRANTY | LOW MILEAGE | £35 TAX</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>77690</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>WK65 WVS</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>£35</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>57.6</Mpg>
+    <Description>
+      - END OF MONTH REDUCTION!
+      - Now in stock is this sporty and stylish Vauxhall Corsa Limited Edition, finished in a sleek 3-door body with gloss black styling and powered by the punchy yet economical 1.0 Turbo ecoFLEX petrol engine. It’s a perfect choice for new drivers or anyone after a modern hatchback with bold looks and low running costs.
+      - ✅ £35 road tax, ULEZ compliant, low insurance, and now comes with free nationwide delivery.
+      - Key Features Include:
+      - •	Limited Edition Body Styling and Black Pack
+      - •	Gloss Black 17” Alloy Wheels
+      - •	Touchscreen IntelliLink Infotainment
+      - •	Bluetooth, DAB Radio, USB and AUX
+      - •	Cruise Control and Speed Limiter
+      - •	Air Conditioning
+      - •	LED Daytime Running Lights
+      - •	Sports Seats and Multifunction Steering Wheel
+      - •	ISOFIX Child Seat Mounts
+      - Drives exactly as it should—smooth, responsive, and efficient. No warning lights or mechanical issues.
+      - •	Recently serviced and inspected
+      - •	MOT expires May 2026
+      - •	ULEZ compliant
+      - •	£35 annual road tax
+      - ✅ Ready to drive away today – reserve WK65 WVS now with a refundable £100 deposit (Subject to T and Cs).
+      - 🚚 Free nationwide delivery included – no extra cost (Subject to T and Cs).
+    </Description>
+    <Image>https://i.imgur.com/zn50esO.png,https://i.imgur.com/pRFz2QA.png,https://i.imgur.com/oud3PrG.png,https://i.imgur.com/wcwuy4e.png,https://i.imgur.com/Fx02rdd.png,https://i.imgur.com/kxPdOmp.png,https://i.imgur.com/AZRIzhr.jpeg,https://i.imgur.com/CYYG1RZ.jpeg,https://i.imgur.com/fcIHkdh.jpeg,https://i.imgur.com/EL8yiN0.jpeg,https://i.imgur.com/zXUF1wG.jpeg,https://i.imgur.com/vpkhsZk.jpeg,https://i.imgur.com/0zVPALw.jpeg,https://i.imgur.com/zFto1lN.jpeg,https://i.imgur.com/712X158.jpeg,https://i.imgur.com/uPpVsBt.jpeg,https://i.imgur.com/GIYPd7c.jpeg,https://i.imgur.com/sV2mMh6.jpeg,https://i.imgur.com/TcTERzP.jpeg,https://i.imgur.com/jL3EiDx.jpeg,https://i.imgur.com/xtlxs5B.jpeg,https://i.imgur.com/XKT3e4q.jpeg,https://i.imgur.com/BOpS8ON.jpeg,https://i.imgur.com/zCWx2c1.jpeg,https://i.imgur.com/X8wHhhf.jpeg,https://i.imgur.com/duPO1iE.jpeg,https://i.imgur.com/djuLHZ3.jpeg,https://i.imgur.com/fNFIEKI.jpeg,https://i.imgur.com/Ophujpo.jpeg,https://i.imgur.com/uG9OYgM.jpeg,https://i.imgur.com/nBO4SHF.jpeg,https://i.imgur.com/mwG0VmL.jpeg,https://i.imgur.com/DWSNri4.jpeg,https://i.imgur.com/KJxBNox.jpeg,https://i.imgur.com/enU7qE6.jpeg,https://i.imgur.com/o4bY9pY.jpeg,https://i.imgur.com/8YBBDmc.jpeg,https://i.imgur.com/TOost03.jpeg,https://i.imgur.com/TXyGwoS.jpeg,https://i.imgur.com/mQ6DQIr.jpeg,https://i.imgur.com/7eGa1Tv.jpeg,https://i.imgur.com/tZJp6D5.jpeg,https://i.imgur.com/60uxwhy.jpeg,https://i.imgur.com/jwoKv5U.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Name>Peugeot</Name>
+    <Model>208</Model>
+    <FullModel>1.0 VTi PureTech Active Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅T'BELT✅ULEZ</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>49000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DA15XLF</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>6E</Insurance>
+    <Mpg>65.7</Mpg>
+    <Description>
+      - Up for sale is this stylish and economical Peugeot 208 1.0 VTi PureTech, a fantastic choice for first-time drivers, city commuters, or anyone looking for a practical and efficient hatchback. With £0 road tax and low insurance, it’s cheap to run and easy to drive.
+      -
+      - Powered by Peugeot’s reliable 1.0L PureTech petrol engine, this car delivers excellent fuel economy without compromising on comfort or style.
+      -
+      - Key Features Include:
+      - •	Touchscreen Media System
+      - •	Bluetooth Connectivity and DAB Radio
+      - •	USB and AUX Input
+      - •	Air Conditioning
+      - •	Cruise Control and Speed Limiter
+      - •	Electric Windows and Mirrors
+      - •	Daytime Running Lights
+      - •	ISOFIX Mounts
+      - •	Split-Folding Rear Seats
+      -
+      - The car drives brilliantly—quiet, smooth, and efficient. No warning lights or mechanical issues.
+      - •	Recently serviced and inspected
+      - •	MOT expires June 2026
+      - •	ULEZ compliant
+      - •	£20 annual road tax
+      - 🚚 Nationwide delivery available at affordable rates.
+    </Description>
+    <Image>https://i.imgur.com/yfPmELR.png,https://i.imgur.com/Kx1hl6C.png,https://i.imgur.com/r8ViWDS.png,https://i.imgur.com/QPrmBe8.png,https://i.imgur.com/D80F6qw.png,https://i.imgur.com/KHZ4EYZ.png,https://i.imgur.com/12Aaib7.jpeg,https://i.imgur.com/8mGHpf6.jpeg,https://i.imgur.com/dcOExWI.jpeg,https://i.imgur.com/RRtnK36.jpeg,https://i.imgur.com/D3baCOr.jpeg,https://i.imgur.com/3Pz24BO.jpeg,https://i.imgur.com/2GxGnOX.jpeg,https://i.imgur.com/o8ffrEr.jpeg,https://i.imgur.com/zHwgDSW.jpeg,https://i.imgur.com/6dMN0pP.jpeg,https://i.imgur.com/fZFn57w.jpeg,https://i.imgur.com/osEFs1R.jpeg,https://i.imgur.com/sSytwRP.jpeg,https://i.imgur.com/gJNx7Hv.jpeg,https://i.imgur.com/ykMr5GL.jpeg,https://i.imgur.com/4z9l70o.jpeg,https://i.imgur.com/oAV9sNe.jpeg,https://i.imgur.com/yycGijg.jpeg,https://i.imgur.com/71nIHLr.jpeg,https://i.imgur.com/m871w4e.jpeg,https://i.imgur.com/rcSLLdi.jpeg,https://i.imgur.com/bB54RXO.jpeg,https://i.imgur.com/SPIezeQ.jpeg,https://i.imgur.com/zDGegT6.jpeg,https://i.imgur.com/cq6FuUh.jpeg,https://i.imgur.com/1le90Fc.jpeg,https://i.imgur.com/n7bzxFj.jpeg,https://i.imgur.com/5YxTfnU.jpeg,https://i.imgur.com/BuRhj6g.jpeg,https://i.imgur.com/0sBZfSX.jpeg,https://i.imgur.com/JTjkwvN.jpeg,https://i.imgur.com/o3xW6XU.jpeg,https://i.imgur.com/IAzXzuf.jpeg,https://i.imgur.com/vg2xb4V.jpeg,https://i.imgur.com/JP7KiTn.jpeg,https://i.imgur.com/XfKJvo0.jpeg,https://i.imgur.com/k5gI725.jpeg,https://i.imgur.com/twkXib4.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>7</ID>
+    <Name>Vauxhall</Name>
+    <Model>Zafira</Model>
+    <FullModel>Zafira Tourer 1.4T 16V SRi Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICE✅WARRANTY✅DELIVERY✅ULEZ</EyeCatcher>
+    <Value>3399</Value>
+    <Mileage>88970</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Brown</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DN14 LUE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>265</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>42.2</Mpg>
+    <Description>
+      - Now in stock is this 2014 Vauxhall Zafira Tourer SRi, a practical and sporty-looking 7-seater MPV powered by a responsive 1.4 Turbocharged petrol engine. Ideal for growing families, long journeys, or anyone needing space without sacrificing comfort and performance.
+      - Key Features Include:
+      - •	SRi Styling Pack
+      - •	17” Alloy Wheels
+      - •	Front and Rear Parking Sensors
+      - •	Cruise Control and Speed Limiter
+      - •	Bluetooth Connectivity and DAB Radio
+      - •	Air Conditioning
+      - •	Electric Windows and Mirrors
+      - •	Multifunction Steering Wheel
+      - •	ISOFIX Child Seat Anchors
+      - •	Split-Folding Rear Seats for Maximum Versatility
+      - The car drives spot on—smooth, powerful, and refined, with no warning lights or mechanical faults.
+      - •	Recently serviced and inspected
+      - •	MOT expires August 2026
+      - •	ULEZ compliant
+    </Description>
+    <Image>https://i.imgur.com/DI6WN8t.png,https://i.imgur.com/JW8v60N.png,https://i.imgur.com/zPFfyfb.png,https://i.imgur.com/mganHxI.png,https://i.imgur.com/lI7JyRn.png,https://i.imgur.com/4HkfCYM.png,https://i.imgur.com/k9AFGJw.png,https://i.imgur.com/Oj6uQxq.png,https://i.imgur.com/CEMebPE.jpeg,https://i.imgur.com/98pQQIw.jpeg,https://i.imgur.com/m92WAoo.jpeg,https://i.imgur.com/5FEIzZi.jpeg,https://i.imgur.com/46LilqZ.jpeg,https://i.imgur.com/DOLqTcN.jpeg,https://i.imgur.com/As5HVjL.jpeg,https://i.imgur.com/iaX7Rqk.jpeg,https://i.imgur.com/WP1aarV.jpeg,https://i.imgur.com/fBgsokt.jpeg,https://i.imgur.com/Zw8HouB.jpeg,https://i.imgur.com/MsESJ0C.jpeg,https://i.imgur.com/1gku4lc.jpeg,https://i.imgur.com/JSMCUt2.jpeg,https://i.imgur.com/eeWOcs8.jpeg,https://i.imgur.com/wxDwtNp.jpeg,https://i.imgur.com/Dlp6oiE.jpeg,https://i.imgur.com/YKUuopT.jpeg,https://i.imgur.com/6zLfG1Q.jpeg,https://i.imgur.com/CrTclOa.jpeg,https://i.imgur.com/3yFsUg8.jpeg,https://i.imgur.com/WH8BnVZ.jpeg,https://i.imgur.com/XSNvgXf.jpeg,https://i.imgur.com/6XsZsYl.jpeg,https://i.imgur.com/OgN54Uo.jpeg,https://i.imgur.com/SgCQoos.jpeg,https://i.imgur.com/j5zuF3g.jpeg,https://i.imgur.com/5E9Tupb.jpeg,https://i.imgur.com/kpPwVkO.jpeg,https://i.imgur.com/jPi0JM1.jpeg,https://i.imgur.com/v8wiB71.jpeg,https://i.imgur.com/w7Xljnd.jpeg,https://i.imgur.com/ceCMwWk.jpeg,https://i.imgur.com/b0HGgQS.jpeg,https://i.imgur.com/SUVrHSr.jpeg,https://i.imgur.com/ynSlykW.jpeg,https://i.imgur.com/CGk1lUH.jpeg,https://i.imgur.com/76tmkgc.jpeg,https://i.imgur.com/NOUgiQm.jpeg,https://i.imgur.com/ss19AIU.jpeg,https://i.imgur.com/GjzIO4W.jpeg,https://i.imgur.com/9bGWXaZ.jpeg,https://i.imgur.com/1r7R7fP.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Adam Glam</Model>
+    <FullModel>1.2 16v GLAM Euro 5 3dr</FullModel>
+    <EyeCatcher>FREE N'WIDE DELIVERY| FULL MOT | 1 YEAR WARRANTY</EyeCatcher>
+    <Value>5999</Value>
+    <Mileage>34200</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PY64 LJF</Reg>
+    <Video>https://www.youtube.com/embed/83Y80ri6xes?si=ABAcbJzBqOiZ3ifG</Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>3E</Insurance>
+    <Mpg>53.3</Mpg>
+    <Description>
+      - Presenting this well maintained and very low mileage 2014 Vauxhall Adam Glam, a premium 5 seater hatchback that blends luxury, practicality, and comfort.
+      - This car will come with 12 Months warranty included, 1 year Mot and free  delivery available nationwide.
+      - Perfect for newer drivers or anyone looking to upgrade.
+      -
+      - This model includes:
+      - Alloy Wheels
+      - User friendly infotainment system (upgrade available   contact us for details)
+      - Bluetooth
+      - Cruise Control
+      - Sunroof
+      - Rear Parking Sensors
+      -
+      - The car starts and drives perfectly with smooth gear changes and strong performance throughout.
+      - No unwanted knocks, bangs, warning lights, or mechanical faults.
+      - Recently serviced and fully inspected
+      - MOT expires April
+      - 3 former keepers
+      -
+      - Ready to drive away today.
+      - A refundable £100 deposit secures the vehicle for viewing or delivery.
+      -
+      - Nationwide delivery available at competitive rates.
+      -
+      - Please note: some vehicles may still be undergoing preparation.
+      - Contact us to confirm availability or to arrange viewing.
+    </Description>
+    <Image>https://i.imgur.com/39mIL3y.png,https://i.imgur.com/KwVwFmj.png,https://i.imgur.com/fOBp87a.png,https://i.imgur.com/lzYUkdR.png,https://i.imgur.com/zKTYNHH.png,https://i.imgur.com/CuE8X6L.png,https://i.imgur.com/WZB2j1f.jpeg,https://i.imgur.com/xbJOYeo.jpeg,https://i.imgur.com/i0Dkoxr.jpeg,https://i.imgur.com/ro7Pjad.jpeg,https://i.imgur.com/hBdr1bm.jpeg,https://i.imgur.com/UfUPO0W.jpeg,https://i.imgur.com/sVtpx5b.jpeg,https://i.imgur.com/R31xHYj.jpeg,https://i.imgur.com/YCX379h.jpeg,https://i.imgur.com/KPbx0lK.jpeg,https://i.imgur.com/th7Lmrh.jpeg,https://i.imgur.com/E8v4YP6.jpeg,https://i.imgur.com/TC3EXlL.jpeg,https://i.imgur.com/bdH7y4x.jpeg,https://i.imgur.com/YRH3Bnq.jpeg,https://i.imgur.com/Atbb5uA.jpeg,https://i.imgur.com/Jl6Ov15.jpeg,https://i.imgur.com/Tta33tq.jpeg,https://i.imgur.com/haj73pg.jpeg,https://i.imgur.com/5EWYR6k.jpeg,https://i.imgur.com/TNHbGKd.jpeg,https://i.imgur.com/ApASBGf.jpeg,https://i.imgur.com/SDoFva1.jpeg,https://i.imgur.com/qnmwqtE.jpeg,https://i.imgur.com/aY75PNw.jpeg,https://i.imgur.com/6GmHUep.jpeg,https://i.imgur.com/FOWVIdm.jpeg,https://i.imgur.com/sb82BtB.jpeg,https://i.imgur.com/NcLhwN7.jpeg,https://i.imgur.com/3BLJUth.jpeg,https://i.imgur.com/cTd0Lsm.jpeg,https://i.imgur.com/qwUQEhp.jpeg,https://i.imgur.com/jqgXXwm.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta</Model>
+    <FullModel>1.4 TDCi DPF Zetec 5dr</FullModel>
+    <EyeCatcher>SERVICED | £20 R'TAX | WARRANTY</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>99980</Mileage>
+    <YearOfManu>2011</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NA61 HXL</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>8E</Insurance>
+    <Mpg>68.9</Mpg>
+    <Description>
+      - !!! COMING SOON !!!
+    </Description>
+    <Image>https://i.imgur.com/QAdWlRa.png,https://i.imgur.com/2nHPlrK.png,https://i.imgur.com/ElD1Mxq.png,https://i.imgur.com/fkeTUKI.png,https://i.imgur.com/m9Km30K.png,https://i.imgur.com/OLYLOXi.png,https://i.imgur.com/6utBb1t.jpeg,https://i.imgur.com/gVh7Aa5.jpeg,https://i.imgur.com/N7bapTB.jpeg,https://i.imgur.com/m8s6imL.jpeg,https://i.imgur.com/SGPftJq.jpeg,https://i.imgur.com/FoKLZLQ.jpeg,https://i.imgur.com/cJugmSn.jpeg,https://i.imgur.com/PmPtKor.jpeg,https://i.imgur.com/eJ1DoKA.jpeg,https://i.imgur.com/NrfmRSS.jpeg,https://i.imgur.com/vbpzpHS.jpeg,https://i.imgur.com/PlNb4nU.jpeg,https://i.imgur.com/L4axSuT.jpeg,https://i.imgur.com/qj6bIdo.jpeg,https://i.imgur.com/6PtSorL.jpeg,https://i.imgur.com/1R6YyzN.jpeg,https://i.imgur.com/7BGPpfW.jpeg,https://i.imgur.com/fkyTzjC.jpeg,https://i.imgur.com/ljq33z2.jpeg,https://i.imgur.com/6Q8cddQ.jpeg,https://i.imgur.com/H3Vnr8l.jpeg,https://i.imgur.com/qnDQMUO.jpeg,https://i.imgur.com/pSE2HbA.jpeg,https://i.imgur.com/DUAW3YE.jpeg,https://i.imgur.com/x4wYL5h.jpeg,https://i.imgur.com/cc3VZPO.jpeg,https://i.imgur.com/e9lva83.jpeg,https://i.imgur.com/YYTn7fH.jpeg,https://i.imgur.com/5Bwb4oh.jpeg,https://i.imgur.com/fdrgG9r.jpeg,https://i.imgur.com/XBV3Emd.jpeg,https://i.imgur.com/uRFhRZq.jpeg,https://i.imgur.com/NmZcqaW.jpeg,https://i.imgur.com/JToC8AA.jpeg,https://i.imgur.com/Tz1DNVm.jpeg,https://i.imgur.com/VEwnvRD.jpeg,https://i.imgur.com/xgIwxpn.jpeg,https://i.imgur.com/WtGa7Hp.jpeg</Image>
+  </Car>
+
+
+<Car>
     <ID>2</ID>
     <Name>Ford</Name>
     <Model>S-max Titanium X</Model>
