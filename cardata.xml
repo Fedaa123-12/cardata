@@ -50,47 +50,46 @@
   </Car>
   <Car>
     <ID>2</ID>
-    <Name>Vauxhall</Name>
-    <Model>Astra SRi</Model>
-    <FullModel>1.4T 16v SRi Euro 5 5dr</FullModel>
-    <EyeCatcher>SERVICED✅MOT✅WARRANTY</EyeCatcher>
-    <Value>2499</Value>
-    <Mileage>100700</Mileage>
-    <YearOfManu>2013</YearOfManu>
+    <Name>Peugeot</Name>
+    <Model>RCZ</Model>
+    <FullModel>1.6 THP Sport Euro 5 2dr</FullModel>
+    <EyeCatcher>S' HISTORY | WARRANTY | ULEZ</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>69700</Mileage>
+    <YearOfManu>2015</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Grey</Colour>
+    <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>DL13 HTG</Reg>
+    <Reg>SA15 UYJ</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>195</Tax>
-    <Insurance>17E</Insurance>
-    <Mpg>47.1</Mpg>
+    <Tax>215</Tax>
+    <Insurance>27E</Insurance>
+    <Mpg>44.1</Mpg>
     <Description>
-      - Up for sale is this smart-looking Vauxhall Astra SRi, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 1.4 Turbocharged petrol engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
-      -
+      - Available now is this stylish and sporty Peugeot RCZ 1.6 THP Sport, combining stunning coupe design with sharp handling and a punchy 1.6-litre turbocharged petrol engine. A real head-turner with low running costs and excellent performance—ideal for drivers who want something unique and fun to drive.
+      - ✅ Euro 6 compliant and ULEZ friendly – drive into any city with confidence
       - Key Features Include:
-      - •	17” Alloy Wheels
-      - •	Sports Suspension
-      - •	Air Conditioning
-      - •	Cruise Control and Trip Computer
-      - •	Bluetooth Connectivity
-      - •	Electric Front Windows and Mirrors
-      - •	ISOFIX Child Seat Anchors
-      - •	Multifunction Steering Wheel
-      - •	CD Player with AUX Input
-      -
-      - Drives exceptionally well—smooth acceleration, tight steering, and no knocks, warning lights, or faults. A reliable car that’s cheap to run and ULEZ compliant.
-      - •	Recently serviced and inspected
-      - •	MOT to be renewed at point of sale
-      - •	3 former keepers
-      -
-      - ✅ Ready to drive away today – secure this car now with a refundable £100 deposit.
-      - 🚚 Nationwide delivery available at affordable rates.
+      - • 18” Alloy Wheels
+      - • Rear Sports Spoiler
+      - • Dual-Zone Climate Control
+      - • Front and Rear Parking Sensors
+      - • Cruise Control with Speed Limiter
+      - • DAB Radio, CD Player, USB and AUX Input
+      - • Bluetooth Connectivity
+      - • Electric Folding Mirrors
+      - • LED Daytime Running Lights
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Leather Steering Wheel
+      - Drives beautifully—smooth acceleration, tight handling, and no warning lights or faults.
+      - • Recently serviced and inspected
+      - • MOT expires July 2026
+      - ✅ Drive away today – reserve SA15 UYJ with a refundable £100 deposit (subject to T AND Cs).
+      - 🚚 Nationwide delivery available at competitive rates.
     </Description>
-    <Image>https://i.imgur.com/pNu9pOe.png,https://i.imgur.com/tIcSt08.png,https://i.imgur.com/Zf2AQrA.png,https://i.imgur.com/L1bNXL7.png,https://i.imgur.com/ws8fjXp.png,https://i.imgur.com/6N7O969.png,https://i.imgur.com/D7uQ6jb.jpeg,https://i.imgur.com/Rvat3Hr.jpeg,https://i.imgur.com/fMCtzr6.jpeg,https://i.imgur.com/d4XvYkn.jpeg,https://i.imgur.com/8SZjawC.jpeg,https://i.imgur.com/GCC1uCV.jpeg,https://i.imgur.com/KVWPTB1.jpeg,https://i.imgur.com/uQtdkL6.jpeg,https://i.imgur.com/BA9JiB6.jpeg,https://i.imgur.com/0DunNPk.jpeg,https://i.imgur.com/iTdaBxN.jpeg,https://i.imgur.com/RNeEITa.jpeg,https://i.imgur.com/yhmKKov.jpeg,https://i.imgur.com/xA7Tl34.jpeg,https://i.imgur.com/Al6G6u9.jpeg,https://i.imgur.com/jn4Zcyt.jpeg,https://i.imgur.com/gDzCj7M.jpeg,https://i.imgur.com/R2j4Abp.jpeg,https://i.imgur.com/4GZYQjN.jpeg,https://i.imgur.com/fgZkBQZ.jpeg,https://i.imgur.com/vMWv4Rn.jpeg,https://i.imgur.com/L1DWF0s.jpeg,https://i.imgur.com/aysPtWH.jpeg,https://i.imgur.com/74j5co6.jpeg,https://i.imgur.com/csly5U5.jpeg,https://i.imgur.com/0ik6R71.jpeg,https://i.imgur.com/oc4f9kd.jpeg,https://i.imgur.com/I0aO1lk.jpeg,https://i.imgur.com/6ib9M2b.jpeg,https://i.imgur.com/SLXnQ1e.jpeg,https://i.imgur.com/3dPdUcs.jpeg,https://i.imgur.com/HTtcP5m.jpeg,https://i.imgur.com/6Ha1gm6.jpeg,https://i.imgur.com/hBivJTZ.jpeg,https://i.imgur.com/lu8fOpo.jpeg,https://i.imgur.com/inqgUJr.jpeg,https://i.imgur.com/KfkCaOG.jpeg,https://i.imgur.com/fm9B4yl.jpeg,https://i.imgur.com/Ym2RdDi.jpeg</Image>
+    <Image>https://i.imgur.com/uVRMCeS.jpeg,https://i.imgur.com/1NSssJZ.jpeg,https://i.imgur.com/jzQNkZw.jpeg,https://i.imgur.com/J7r8nv5.jpeg,https://i.imgur.com/X5thmos.jpeg,https://i.imgur.com/ezwg80G.jpeg,https://i.imgur.com/lZYXZmO.jpeg,https://i.imgur.com/xpll6aX.jpeg</Image>
   </Car>
   <Car>
     <ID>3</ID>
@@ -218,6 +217,9 @@
     <Reg>SW08 MVA</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>9E</Insurance>
+    <Mpg>52.3</Mpg>
     <Description>
       - Available now is this economical and well-maintained Mazda 2 1.3 TS, powered by the reliable and efficient 1.3-litre petrol engine. This 5-door hatchback delivers excellent fuel economy, low running costs, and Mazda’s renowned build quality—making it an ideal choice for first-time drivers or daily commuting.
       - ✅ Affordable running costs and impressive MPG
@@ -243,9 +245,6 @@
       - 📞 Call or message us today to arrange a viewing or reserve this Mazda 2.
     </Description>
     <Image>https://i.imgur.com/GqIRT3b.png,https://i.imgur.com/JddFcqL.png,https://i.imgur.com/qSrzAdR.png,https://i.imgur.com/AZIJWYm.png,https://i.imgur.com/CBYwzas.png,https://i.imgur.com/GCNNDke.png,https://i.imgur.com/XRD4lN4.jpeg,https://i.imgur.com/gZzgVwc.jpeg,https://i.imgur.com/RgiPXgU.jpeg,https://i.imgur.com/wmGmEag.jpeg,https://i.imgur.com/Lv6RVpD.jpeg,https://i.imgur.com/4harz00.jpeg,https://i.imgur.com/WQMJvZw.jpeg,https://i.imgur.com/DWpwk0p.jpeg,https://i.imgur.com/GUokFis.jpeg,https://i.imgur.com/SqRbKek.jpeg,https://i.imgur.com/d9nSYHq.jpeg,https://i.imgur.com/s0YsLj0.jpeg,https://i.imgur.com/5kJvdoN.jpeg,https://i.imgur.com/UdWJWmF.jpeg,https://i.imgur.com/QWQ5X5I.jpeg,https://i.imgur.com/HT6zU2a.jpeg,https://i.imgur.com/AIaImaD.jpeg,https://i.imgur.com/vrnlHNR.jpeg,https://i.imgur.com/uha0JOt.jpeg,https://i.imgur.com/3pEDeus.jpeg,https://i.imgur.com/DfVtX3i.jpeg,https://i.imgur.com/SyiKNNU.jpeg,https://i.imgur.com/z5RuBKT.jpeg,https://i.imgur.com/4syPrgN.jpeg,https://i.imgur.com/bfVzUoJ.jpeg,https://i.imgur.com/Wah262c.jpeg,https://i.imgur.com/diCgG0i.jpeg,https://i.imgur.com/31PKTkq.jpeg,https://i.imgur.com/mZnQB9q.jpeg,https://i.imgur.com/ICbMS1Z.jpeg</Image>
-    <Tax>165</Tax>
-    <Insurance>9E</Insurance>
-    <Mpg>52.3</Mpg>
   </Car>
   <Car>
     <ID>7</ID>
@@ -253,7 +252,7 @@
     <Model>Focust Titanium</Model>
     <FullModel>1.6 TDCi DPF Titanium 5dr</FullModel>
     <EyeCatcher></EyeCatcher>
-    <Value>2499</Value>
+    <Value>1999</Value>
     <Mileage>86680</Mileage>
     <YearOfManu>2009</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -264,6 +263,9 @@
     <Reg>YR59 UKH</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>62.8</Mpg>
     <Description>
       - Available now is this well-maintained and high-spec Ford Focus 1.6 TDCi Titanium, powered by the reliable and economical 1.6-litre diesel engine with DPF. This 5-door hatchback delivers a smooth and efficient drive with excellent fuel economy—perfect for daily commuting or longer motorway trips.
       - ✅ Low running costs and returns up to 65+ MPG
@@ -290,9 +292,6 @@
       - 🚚 Nationwide delivery available at competitive rates.
     </Description>
     <Image>https://i.imgur.com/Y3OFbK4.png,https://i.imgur.com/lAv1BVU.png,https://i.imgur.com/DOX7QgX.png,https://i.imgur.com/1IIWmTg.png,https://i.imgur.com/fEWK3jH.png,https://i.imgur.com/c2cZ1Gy.png,https://i.imgur.com/TjecLoi.jpeg,https://i.imgur.com/pNIkJGe.jpeg,https://i.imgur.com/D5NfNz5.jpeg,https://i.imgur.com/qPFt74Y.jpeg,https://i.imgur.com/rU6tjbH.jpeg,https://i.imgur.com/uWw4Bd5.jpeg,https://i.imgur.com/QjU8Z9z.jpeg,https://i.imgur.com/tMotuJs.jpeg,https://i.imgur.com/nDN49zS.jpeg,https://i.imgur.com/VSdrWBY.jpeg,https://i.imgur.com/wfllvHp.jpeg,https://i.imgur.com/vjSqDEc.jpeg,https://i.imgur.com/IO8QFMP.jpeg,https://i.imgur.com/ZhB0upX.jpeg,https://i.imgur.com/dZRBA3b.jpeg,https://i.imgur.com/OU1zaWy.jpeg,https://i.imgur.com/xPw3Zx8.jpeg,https://i.imgur.com/RuRULzt.jpeg,https://i.imgur.com/ClwrmxV.jpeg,https://i.imgur.com/NylO8NJ.jpeg,https://i.imgur.com/TyjoJes.jpeg,https://i.imgur.com/h3cOEJB.jpeg,https://i.imgur.com/YU5UxYF.jpeg,https://i.imgur.com/UasJDLR.jpeg,https://i.imgur.com/Z7hoF7I.jpeg,https://i.imgur.com/Qxg1C08.jpeg,https://i.imgur.com/pUjCM0t.jpeg,https://i.imgur.com/9g4EAgJ.jpeg,https://i.imgur.com/EMTB1C9.jpeg,https://i.imgur.com/mspwhrR.jpeg,https://i.imgur.com/ziXKjfK.jpeg,https://i.imgur.com/aXTm3UW.jpeg,https://i.imgur.com/C01dL2S.jpeg,https://i.imgur.com/ifHTdSH.jpeg,https://i.imgur.com/Q00WMPP.jpeg,https://i.imgur.com/h2Mhftd.jpeg,https://i.imgur.com/qmT60vp.jpeg,https://i.imgur.com/3tDol09.jpeg</Image>
-    <Tax>35</Tax>
-    <Insurance>15E</Insurance>
-    <Mpg>62.8</Mpg>
   </Car>
   <Car>
     <ID>8</ID>
@@ -300,7 +299,7 @@
     <Model>Focus Zetec</Model>
     <FullModel>1.5 TDCi Zetec Euro 6 (s/s) 5dr</FullModel>
     <EyeCatcher>ULEZ | F' MOT | £20 R' TAX</EyeCatcher>
-    <Value>4499</Value>
+    <Value>4199</Value>
     <Mileage>104150</Mileage>
     <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -311,6 +310,9 @@
     <Reg>FE16 SKU</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>74.3</Mpg>
     <Description>
       - Available now is this well-maintained and fuel-efficient Ford Focus 1.5 TDCi Zetec, offering a refined drive, low running costs, and excellent practicality. Powered by the punchy yet economical 1.5-litre diesel engine, this 5-door hatchback is ideal for both motorway cruising and daily commuting.
       - ✅ Only £20 road tax and up to 74+ MPG – save every time you drive!
@@ -332,51 +334,49 @@
       - 🚚 Nationwide delivery available at competitive rates.
     </Description>
     <Image>https://i.imgur.com/TQmrt6Y.jpeg,https://i.imgur.com/WTR1ajn.jpeg,https://i.imgur.com/3rpU0B5.jpeg,https://i.imgur.com/KW5mApu.jpeg,https://i.imgur.com/NtjFhvV.jpeg,https://i.imgur.com/XSwwyLb.jpeg,https://i.imgur.com/dlHX8MB.jpeg,https://i.imgur.com/DE6CPKF.jpeg,https://i.imgur.com/p537PGE.jpeg,https://i.imgur.com/PXD3rvd.jpeg,https://i.imgur.com/gXg7z4B.jpeg,https://i.imgur.com/fQSRyt9.jpeg,https://i.imgur.com/ZwfYeqS.jpeg,https://i.imgur.com/bPOv66s.jpeg,https://i.imgur.com/p18mfid.jpeg,https://i.imgur.com/Nt81dBx.jpeg,https://i.imgur.com/AJyetmF.jpeg,https://i.imgur.com/6lw5OAR.jpeg,https://i.imgur.com/p2tYtcQ.jpeg,https://i.imgur.com/U0i2j9J.jpeg,https://i.imgur.com/Hbum8Sb.jpeg,https://i.imgur.com/RmmwLXz.jpeg,https://i.imgur.com/fQD8TIE.jpeg,https://i.imgur.com/no5wlhx.jpeg,https://i.imgur.com/cmFHDsQ.jpeg,https://i.imgur.com/qnD4U1u.jpeg,https://i.imgur.com/J6CEtKM.jpeg,https://i.imgur.com/AxQ5U6b.jpeg,https://i.imgur.com/WC68Oes.jpeg,https://i.imgur.com/wVMIfTP.jpeg,https://i.imgur.com/PPtoVeI.jpeg,https://i.imgur.com/7be9Y9U.jpeg,https://i.imgur.com/ByUuAMv.jpeg,https://i.imgur.com/q62aKFC.jpeg,https://i.imgur.com/cSsRuKp.jpeg,https://i.imgur.com/Cz6bXUT.jpeg,https://i.imgur.com/JAA6gQ5.jpeg,https://i.imgur.com/Fy2kZHU.jpeg,https://i.imgur.com/jiOQgw0.jpeg,https://i.imgur.com/qciYol5.jpeg,https://i.imgur.com/SRlKdso.jpeg,https://i.imgur.com/c5r2EIQ.jpeg,https://i.imgur.com/3KXWzzc.jpeg,https://i.imgur.com/HPSJ9aB.jpeg,https://i.imgur.com/RZtto0O.jpeg,https://i.imgur.com/BJt0z46.jpeg,https://i.imgur.com/RO3YbLF.jpeg,https://i.imgur.com/tSf6mh1.jpeg,https://i.imgur.com/J1W4oOC.jpeg</Image>
-    <Tax>20</Tax>
-    <Insurance>14E</Insurance>
-    <Mpg>74.3</Mpg>
   </Car>
   <Car>
     <ID>9</ID>
-    <Name>Peugeot</Name>
-    <Model>RCZ</Model>
-    <FullModel>1.6 THP Sport Euro 5 2dr</FullModel>
-    <EyeCatcher>S' HISTORY | WARRANTY | ULEZ</EyeCatcher>
-    <Value>4999</Value>
-    <Mileage>69700</Mileage>
-    <YearOfManu>2015</YearOfManu>
+    <Name>Vauxhall</Name>
+    <Model>Astra SRi</Model>
+    <FullModel>1.4T 16v SRi Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅WARRANTY</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>100700</Mileage>
+    <YearOfManu>2013</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
+    <Colour>Grey</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>SA15 UYJ</Reg>
+    <Reg>DL13 HTG</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>47.1</Mpg>
     <Description>
-      - Available now is this stylish and sporty Peugeot RCZ 1.6 THP Sport, combining stunning coupe design with sharp handling and a punchy 1.6-litre turbocharged petrol engine. A real head-turner with low running costs and excellent performance—ideal for drivers who want something unique and fun to drive.
-      - ✅ Euro 6 compliant and ULEZ friendly – drive into any city with confidence
+      - Up for sale is this smart-looking Vauxhall Astra SRi, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 1.4 Turbocharged petrol engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
+      -
       - Key Features Include:
-      - • 18” Alloy Wheels
-      - • Rear Sports Spoiler
-      - • Dual-Zone Climate Control
-      - • Front and Rear Parking Sensors
-      - • Cruise Control with Speed Limiter
-      - • DAB Radio, CD Player, USB and AUX Input
-      - • Bluetooth Connectivity
-      - • Electric Folding Mirrors
-      - • LED Daytime Running Lights
-      - • ISOFIX Child Seat Mounts
-      - • Multifunction Leather Steering Wheel
-      - Drives beautifully—smooth acceleration, tight handling, and no warning lights or faults.
-      - • Recently serviced and inspected
-      - • MOT expires July 2026
-      - ✅ Drive away today – reserve SA15 UYJ with a refundable £100 deposit (subject to T AND Cs).
-      - 🚚 Nationwide delivery available at competitive rates.
+      - •	17” Alloy Wheels
+      - •	Sports Suspension
+      - •	Air Conditioning
+      - •	Cruise Control and Trip Computer
+      - •	Bluetooth Connectivity
+      - •	Electric Front Windows and Mirrors
+      - •	ISOFIX Child Seat Anchors
+      - •	Multifunction Steering Wheel
+      - •	CD Player with AUX Input
+      -
+      - Drives exceptionally well—smooth acceleration, tight steering, and no knocks, warning lights, or faults. A reliable car that’s cheap to run and ULEZ compliant.
+      - •	Recently serviced and inspected
+      - •	MOT to be renewed at point of sale
+      - •	3 former keepers
+      -
+      - ✅ Ready to drive away today – secure this car now with a refundable £100 deposit.
+      - 🚚 Nationwide delivery available at affordable rates.
     </Description>
-    <Image>https://i.imgur.com/uVRMCeS.jpeg,https://i.imgur.com/1NSssJZ.jpeg,https://i.imgur.com/jzQNkZw.jpeg,https://i.imgur.com/J7r8nv5.jpeg,https://i.imgur.com/X5thmos.jpeg,https://i.imgur.com/ezwg80G.jpeg,https://i.imgur.com/lZYXZmO.jpeg,https://i.imgur.com/xpll6aX.jpeg</Image>
-    <Tax>215</Tax>
-    <Insurance>27E</Insurance>
-    <Mpg>44.1</Mpg>
+    <Image>https://i.imgur.com/pNu9pOe.png,https://i.imgur.com/tIcSt08.png,https://i.imgur.com/Zf2AQrA.png,https://i.imgur.com/L1bNXL7.png,https://i.imgur.com/ws8fjXp.png,https://i.imgur.com/6N7O969.png,https://i.imgur.com/D7uQ6jb.jpeg,https://i.imgur.com/Rvat3Hr.jpeg,https://i.imgur.com/fMCtzr6.jpeg,https://i.imgur.com/d4XvYkn.jpeg,https://i.imgur.com/8SZjawC.jpeg,https://i.imgur.com/GCC1uCV.jpeg,https://i.imgur.com/KVWPTB1.jpeg,https://i.imgur.com/uQtdkL6.jpeg,https://i.imgur.com/BA9JiB6.jpeg,https://i.imgur.com/0DunNPk.jpeg,https://i.imgur.com/iTdaBxN.jpeg,https://i.imgur.com/RNeEITa.jpeg,https://i.imgur.com/yhmKKov.jpeg,https://i.imgur.com/xA7Tl34.jpeg,https://i.imgur.com/Al6G6u9.jpeg,https://i.imgur.com/jn4Zcyt.jpeg,https://i.imgur.com/gDzCj7M.jpeg,https://i.imgur.com/R2j4Abp.jpeg,https://i.imgur.com/4GZYQjN.jpeg,https://i.imgur.com/fgZkBQZ.jpeg,https://i.imgur.com/vMWv4Rn.jpeg,https://i.imgur.com/L1DWF0s.jpeg,https://i.imgur.com/aysPtWH.jpeg,https://i.imgur.com/74j5co6.jpeg,https://i.imgur.com/csly5U5.jpeg,https://i.imgur.com/0ik6R71.jpeg,https://i.imgur.com/oc4f9kd.jpeg,https://i.imgur.com/I0aO1lk.jpeg,https://i.imgur.com/6ib9M2b.jpeg,https://i.imgur.com/SLXnQ1e.jpeg,https://i.imgur.com/3dPdUcs.jpeg,https://i.imgur.com/HTtcP5m.jpeg,https://i.imgur.com/6Ha1gm6.jpeg,https://i.imgur.com/hBivJTZ.jpeg,https://i.imgur.com/lu8fOpo.jpeg,https://i.imgur.com/inqgUJr.jpeg,https://i.imgur.com/KfkCaOG.jpeg,https://i.imgur.com/fm9B4yl.jpeg,https://i.imgur.com/Ym2RdDi.jpeg</Image>
   </Car>
 </Cars>
