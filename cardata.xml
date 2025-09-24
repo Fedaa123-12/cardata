@@ -1,141 +1,11 @@
 <Cars>
   <Car>
     <ID>1</ID>
-    <Name>Ford</Name>
-    <Model>Fiesta</Model>
-    <FullModel></FullModel>
-    <EyeCatcher>T'BELT | SERVICED | N'WIDE DELIVERY</EyeCatcher>
-    <Value>1999</Value>
-    <Mileage>102400</Mileage>
-    <YearOfManu>2013</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>NU12 FDP</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>165</Tax>
-    <Insurance>6E</Insurance>
-    <Mpg>50.4</Mpg>
-    <Description>
-      - Available now is this economical and well-maintained Ford Fiesta 1.25 Zetec, powered by the smooth and efficient 1.25-litre petrol engine. This 5-door hatchback delivers great fuel economy, low running costs, and Ford’s renowned reliability—making it a perfect choice for city driving, commuting, or first-time drivers.
-      - ✅ Affordable insurance and excellent MPG
-      - ✅ Timing belt recently replaced for added peace of mind
-      - Key Features Include:
-      - • 15” Alloy Wheels
-      - • Air Conditioning
-      - • Quickclear Heated Front Windscreen
-      - • Bluetooth with Voice Control
-      - • CD Player with AUX and USB Input
-      - • Electric Front Windows and Mirrors
-      - • ISOFIX Child Seat Mounts
-      - • Multifunction Steering Wheel
-      - Drives great—smooth, quiet, and efficient. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • MOT to be renewed at point of sale
-      - ✅ Drive away today – reserve NU12 FDP with a refundable £100 deposit (subject to T and Cs).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Ford Fiesta.
-    </Description>
-    <Image>https://i.imgur.com/UBTiA71.jpeg,https://i.imgur.com/u10PZaW.jpeg,https://i.imgur.com/LCXyk8D.jpeg,https://i.imgur.com/vnU5oRB.jpeg,https://i.imgur.com/mgUVePr.jpeg,https://i.imgur.com/yqTPaVH.jpeg,https://i.imgur.com/6z9Wucn.jpeg,https://i.imgur.com/QHuyrUX.jpeg,https://i.imgur.com/c2D2fmv.jpeg,https://i.imgur.com/1iaIBPW.jpeg,https://i.imgur.com/fxKZuI2.jpeg,https://i.imgur.com/2mHnyp8.jpeg,https://i.imgur.com/iw1B46k.jpeg,https://i.imgur.com/7hwnGmL.jpeg,https://i.imgur.com/nbtsPaX.jpeg,https://i.imgur.com/eCPHQwb.jpeg,https://i.imgur.com/zQEDN5w.jpeg,https://i.imgur.com/N4jDAtv.jpeg,https://i.imgur.com/unkcxe0.jpeg,https://i.imgur.com/JPWXyK6.jpeg,https://i.imgur.com/rTpAVJU.jpeg,https://i.imgur.com/ppz7yh4.jpeg,https://i.imgur.com/fOQcLRm.jpeg,https://i.imgur.com/Oi1j9l7.jpeg,https://i.imgur.com/42qVBNc.jpeg,https://i.imgur.com/xXHpm09.jpeg,https://i.imgur.com/rNcm905.jpeg,https://i.imgur.com/m35Ch2Q.jpeg,https://i.imgur.com/FQ6uS4a.jpeg,https://i.imgur.com/FW1LqWj.jpeg,https://i.imgur.com/e5IlDhA.jpeg,https://i.imgur.com/6yju9tq.jpeg,https://i.imgur.com/SXQobpb.jpeg,https://i.imgur.com/7a5R6UG.jpeg,https://i.imgur.com/5Im4MQl.jpeg,https://i.imgur.com/EdMjvXW.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>2</ID>
-    <Name>Peugeot</Name>
-    <Model>RCZ</Model>
-    <FullModel>1.6 THP Sport Euro 5 2dr</FullModel>
-    <EyeCatcher>S' HISTORY | WARRANTY | ULEZ</EyeCatcher>
-    <Value>4499</Value>
-    <Mileage>69700</Mileage>
-    <YearOfManu>2015</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>SA15 UYJ</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>215</Tax>
-    <Insurance>27E</Insurance>
-    <Mpg>44.1</Mpg>
-    <Description>
-      - Available now is this stylish and sporty Peugeot RCZ 1.6 THP Sport, combining stunning coupe design with sharp handling and a punchy 1.6-litre turbocharged petrol engine. A real head-turner with low running costs and excellent performance—ideal for drivers who want something unique and fun to drive.
-      - ✅ Euro 6 compliant and ULEZ friendly – drive into any city with confidence
-      - Key Features Include:
-      - • 18” Alloy Wheels
-      - • Rear Sports Spoiler
-      - • Dual-Zone Climate Control
-      - • Front and Rear Parking Sensors
-      - • Cruise Control with Speed Limiter
-      - • DAB Radio, CD Player, USB and AUX Input
-      - • Bluetooth Connectivity
-      - • Electric Folding Mirrors
-      - • LED Daytime Running Lights
-      - • ISOFIX Child Seat Mounts
-      - • Multifunction Leather Steering Wheel
-      - Drives beautifully—smooth acceleration, tight handling, and no warning lights or faults.
-      - • Recently serviced and inspected
-      - • MOT expires July 2026
-      - ✅ Drive away today – reserve SA15 UYJ with a refundable £100 deposit (subject to T AND Cs).
-      - 🚚 Nationwide delivery available at competitive rates.
-    </Description>
-    <Image>https://i.imgur.com/uVRMCeS.jpeg,https://i.imgur.com/1NSssJZ.jpeg,https://i.imgur.com/jzQNkZw.jpeg,https://i.imgur.com/J7r8nv5.jpeg,https://i.imgur.com/X5thmos.jpeg,https://i.imgur.com/ezwg80G.jpeg,https://i.imgur.com/lZYXZmO.jpeg,https://i.imgur.com/xpll6aX.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>3</ID>
-    <Name>BMW</Name>
-    <Model>1 Series</Model>
-    <FullModel>2.0 118i Sport Euro 5 2dr</FullModel>
-    <EyeCatcher>SERVICE✅ULEZ✅WARRANTY✅DELIVERY</EyeCatcher>
-    <Value>3299</Value>
-    <Mileage>82000</Mileage>
-    <YearOfManu>2011</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>SL11 CFF</Reg>
-    <Video>https://www.youtube.com/embed/rpGcLab4Mhs?si=AKSlWoccmvUXQ_9W</Video>
-    <MetaTag></MetaTag>
-    <Tax>265</Tax>
-    <Insurance>24E</Insurance>
-    <Mpg>42.8</Mpg>
-    <Description>
-      - Now available is this sleek and sporty BMW 118i Sport, finished in a stylish 2-door coupe body with a powerful and refined 2.0L petrol engine. A great option for drivers looking for a premium hatchback feel with coupe looks, engaging handling, and BMW’s renowned build quality.
-      - Key Features Include:
-      - •	Sport Trim with 17” Alloy Wheels
-      - •	Air Conditioning
-      - •	Multifunction Leather Steering Wheel
-      - •	Cream leather seats
-      - •	CD Player with AUX Input
-      - •	Electric Windows and Mirrors
-      - •	Push Button Start
-      - •	ISOFIX Child Seat Anchors
-      - Drives superbly—smooth gear changes, tight steering, and responsive acceleration. A genuine driver’s car with a sporty yet comfortable ride.
-      - •	Recently serviced and inspected
-      - •	MOT expires May 2026
-      - •	ULEZ compliant
-    </Description>
-    <Image>https://i.imgur.com/e3MabqF.png,https://i.imgur.com/JsPqVoJ.png,https://i.imgur.com/QlGXI9l.png,https://i.imgur.com/SmNUJEy.png,https://i.imgur.com/MRT1IwB.png,https://i.imgur.com/bxpOHNd.png,https://i.imgur.com/eT16S1S.png,https://i.imgur.com/ed8y1Ax.jpeg,https://i.imgur.com/SFHVEo5.jpeg,https://i.imgur.com/PiERt4A.jpeg,https://i.imgur.com/yzu6KtV.jpeg,https://i.imgur.com/rHjb1x6.jpeg,https://i.imgur.com/m6SLLAH.jpeg,https://i.imgur.com/hWIFE3f.jpeg,https://i.imgur.com/g5PwRrM.jpeg,https://i.imgur.com/B95jUz0.jpeg,https://i.imgur.com/zQ2Uxed.jpeg,https://i.imgur.com/SWdAe9N.jpeg,https://i.imgur.com/V0tFwx2.jpeg,https://i.imgur.com/tCMOS9e.jpeg,https://i.imgur.com/upmTq1r.jpeg,https://i.imgur.com/lfyB84u.jpeg,https://i.imgur.com/ybDwqMf.jpeg,https://i.imgur.com/pVuBPVR.jpeg,https://i.imgur.com/ZYqGI7J.jpeg,https://i.imgur.com/jDDl2p7.jpeg,https://i.imgur.com/vCSwrfJ.jpeg,https://i.imgur.com/cCiRbah.jpeg,https://i.imgur.com/qrnSgxp.jpeg,https://i.imgur.com/83mhqbd.jpeg,https://i.imgur.com/E21RDwK.jpeg,https://i.imgur.com/Zdtup2y.jpeg,https://i.imgur.com/yWSOxIB.jpeg,https://i.imgur.com/juUhAYG.jpeg,https://i.imgur.com/vCZvs85.jpeg,https://i.imgur.com/h0QPXxR.jpeg,https://i.imgur.com/BsB9bMT.jpeg,https://i.imgur.com/A519saq.jpeg,https://i.imgur.com/LJLffjh.jpeg,https://i.imgur.com/VfHowXL.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>4</ID>
     <Name>Peugeot</Name>
     <Model>208</Model>
     <FullModel>1.0 PureTech Active Euro 6 5dr</FullModel>
     <EyeCatcher>T'BELT | CLUTCH | WARRANTY</EyeCatcher>
-    <Value>3799</Value>
+    <Value>3499</Value>
     <Mileage>64709</Mileage>
     <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -172,134 +42,12 @@
     <Image>https://i.imgur.com/jKpAukv.png,https://i.imgur.com/8qwPZNR.png,https://i.imgur.com/O6VPeR7.png,https://i.imgur.com/B9W4c2S.png,https://i.imgur.com/bzrqYk4.png,https://i.imgur.com/ePDZs37.png,https://i.imgur.com/sEMk1Au.jpeg,https://i.imgur.com/JFTWIB5.jpeg,https://i.imgur.com/sAJUVkM.jpeg,https://i.imgur.com/QgeJV5Q.jpeg,https://i.imgur.com/d88Fp6a.jpeg,https://i.imgur.com/MnZIdwl.jpeg,https://i.imgur.com/6BCfXco.jpeg,https://i.imgur.com/9xfz6dK.jpeg,https://i.imgur.com/7DiVOy9.jpeg,https://i.imgur.com/T8GN1Qp.jpeg,https://i.imgur.com/5vjD0Jq.jpeg,https://i.imgur.com/eeDHPf5.jpeg,https://i.imgur.com/bfCQAc5.jpeg,https://i.imgur.com/IhbOoIi.jpeg,https://i.imgur.com/NOprdU6.jpeg,https://i.imgur.com/IR77kaL.jpeg,https://i.imgur.com/TAAbKxZ.jpeg,https://i.imgur.com/eeeoNps.jpeg,https://i.imgur.com/GVHcIwq.jpeg,https://i.imgur.com/H1cOP1L.jpeg,https://i.imgur.com/EobvweF.jpeg,https://i.imgur.com/RCxu6k4.jpeg,https://i.imgur.com/pLLECcn.jpeg,https://i.imgur.com/HfKcr1y.jpeg,https://i.imgur.com/2ecQMaj.jpeg,https://i.imgur.com/wehuxci.jpeg,https://i.imgur.com/QeHcsjJ.jpeg,https://i.imgur.com/3BKd5vz.jpeg,https://i.imgur.com/1pERADx.jpeg,https://i.imgur.com/s9mWkWe.jpeg,https://i.imgur.com/OlgY7SH.jpeg,https://i.imgur.com/cgBbBVi.jpeg,https://i.imgur.com/r5DASHQ.jpeg,https://i.imgur.com/7vQ38ww.jpeg,https://i.imgur.com/bTHcnVy.jpeg,https://i.imgur.com/MSnLm15.jpeg</Image>
   </Car>
   <Car>
-    <ID>5</ID>
-    <Name>Audi</Name>
-    <Model>A4 Avant Black Edition</Model>
-    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
-    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
-    <Value>5999</Value>
-    <Mileage>140000</Mileage>
-    <YearOfManu>2015</YearOfManu>
-    <CatStat>Cat N</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>YY15 GYZ</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>165</Tax>
-    <Insurance>28E</Insurance>
-    <Mpg>58.9</Mpg>
-    <Description>
-      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4_cylinder engine, it delivers approximately 174 horsepower and is paired with 6_speed manual transmission.
-      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user_friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
-      -
-      - Technical data:
-      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
-    </Description>
-    <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>6</ID>
-    <Name>Mazda</Name>
-    <Model>Mazda2</Model>
-    <FullModel>1.3 TS Euro 4 3dr</FullModel>
-    <EyeCatcher>F' MOT | DELIVERY | WARRANTY</EyeCatcher>
-    <Value>999</Value>
-    <Mileage>116715</Mileage>
-    <YearOfManu>2008</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Green</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>SW08 MVA</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>165</Tax>
-    <Insurance>9E</Insurance>
-    <Mpg>52.3</Mpg>
-    <Description>
-      - Available now is this economical and well-maintained Mazda 2 1.3 TS, powered by the reliable and efficient 1.3-litre petrol engine. This 5-door hatchback delivers excellent fuel economy, low running costs, and Mazda’s renowned build quality—making it an ideal choice for first-time drivers or daily commuting.
-      - ✅ Affordable running costs and impressive MPG
-      - Key Features Include:
-      - • CD Player with AUX Input
-      - • Electric Front Windows
-      - • Power Steering
-      - • Remote Central Locking
-      - • ISOFIX Child Seat Mounts
-      - • Adjustable Steering Column
-      - Drives great—smooth, quiet, and efficient. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • Full MOT
-      - ✅ Drive away today – reserve SW08 MVA with a refundable £100 deposit (subject to T's and Cs).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Mazda 2.
-    </Description>
-    <Image>https://i.imgur.com/GqIRT3b.png,https://i.imgur.com/JddFcqL.png,https://i.imgur.com/qSrzAdR.png,https://i.imgur.com/AZIJWYm.png,https://i.imgur.com/CBYwzas.png,https://i.imgur.com/GCNNDke.png,https://i.imgur.com/XRD4lN4.jpeg,https://i.imgur.com/gZzgVwc.jpeg,https://i.imgur.com/RgiPXgU.jpeg,https://i.imgur.com/wmGmEag.jpeg,https://i.imgur.com/Lv6RVpD.jpeg,https://i.imgur.com/4harz00.jpeg,https://i.imgur.com/WQMJvZw.jpeg,https://i.imgur.com/DWpwk0p.jpeg,https://i.imgur.com/GUokFis.jpeg,https://i.imgur.com/SqRbKek.jpeg,https://i.imgur.com/d9nSYHq.jpeg,https://i.imgur.com/s0YsLj0.jpeg,https://i.imgur.com/5kJvdoN.jpeg,https://i.imgur.com/UdWJWmF.jpeg,https://i.imgur.com/QWQ5X5I.jpeg,https://i.imgur.com/HT6zU2a.jpeg,https://i.imgur.com/AIaImaD.jpeg,https://i.imgur.com/vrnlHNR.jpeg,https://i.imgur.com/uha0JOt.jpeg,https://i.imgur.com/3pEDeus.jpeg,https://i.imgur.com/DfVtX3i.jpeg,https://i.imgur.com/SyiKNNU.jpeg,https://i.imgur.com/z5RuBKT.jpeg,https://i.imgur.com/4syPrgN.jpeg,https://i.imgur.com/bfVzUoJ.jpeg,https://i.imgur.com/Wah262c.jpeg,https://i.imgur.com/diCgG0i.jpeg,https://i.imgur.com/31PKTkq.jpeg,https://i.imgur.com/mZnQB9q.jpeg,https://i.imgur.com/ICbMS1Z.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>7</ID>
-    <Name>Ford</Name>
-    <Model>Focust Titanium</Model>
-    <FullModel>1.6 TDCi DPF Titanium 5dr</FullModel>
-    <EyeCatcher></EyeCatcher>
-    <Value>1999</Value>
-    <Mileage>86680</Mileage>
-    <YearOfManu>2009</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>YR59 UKH</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>35</Tax>
-    <Insurance>15E</Insurance>
-    <Mpg>62.8</Mpg>
-    <Description>
-      - Available now is this well-maintained and high-spec Ford Focus 1.6 TDCi Titanium, powered by the reliable and economical 1.6-litre diesel engine with DPF. This 5-door hatchback delivers a smooth and efficient drive with excellent fuel economy—perfect for daily commuting or longer motorway trips.
-      - ✅ Low running costs and returns up to 65+ MPG
-      - ✅ Factory-fitted sunroof – a rare and desirable option
-      - ✅ Rear parking sensors for added convenience
-      - Key Features Include:
-      - • Rare Factory Sunroof
-      - • Rear Parking Sensors
-      - • 16” Alloy Wheels
-      - • Dual-Zone Climate Control
-      - • Sony DAB Audio System
-      - • Front and Rear Electric Windows
-      - • Auto Headlights and Rain-Sensing Wipers
-      - • Cruise Control with Speed Limiter
-      - • Bluetooth with Voice Control
-      - • Rear Privacy Glass
-      - • Heated Front and Rear Screens
-      - • ISOFIX Child Seat Mounts
-      - • Multifunction Leather Steering Wheel
-      - Drives spot-on—smooth, quiet, and efficient. No warning lights or mechanical faults.
-      - • Recently serviced and inspected
-      - • MOT to be renewed at point of sale
-      - ✅ Drive away today – reserve YR59 UKH with a refundable £100 deposit (subject to T and Cs).
-      - 🚚 Nationwide delivery available at competitive rates.
-    </Description>
-    <Image>https://i.imgur.com/Y3OFbK4.png,https://i.imgur.com/lAv1BVU.png,https://i.imgur.com/DOX7QgX.png,https://i.imgur.com/1IIWmTg.png,https://i.imgur.com/fEWK3jH.png,https://i.imgur.com/c2cZ1Gy.png,https://i.imgur.com/TjecLoi.jpeg,https://i.imgur.com/pNIkJGe.jpeg,https://i.imgur.com/D5NfNz5.jpeg,https://i.imgur.com/qPFt74Y.jpeg,https://i.imgur.com/rU6tjbH.jpeg,https://i.imgur.com/uWw4Bd5.jpeg,https://i.imgur.com/QjU8Z9z.jpeg,https://i.imgur.com/tMotuJs.jpeg,https://i.imgur.com/nDN49zS.jpeg,https://i.imgur.com/VSdrWBY.jpeg,https://i.imgur.com/wfllvHp.jpeg,https://i.imgur.com/vjSqDEc.jpeg,https://i.imgur.com/IO8QFMP.jpeg,https://i.imgur.com/ZhB0upX.jpeg,https://i.imgur.com/dZRBA3b.jpeg,https://i.imgur.com/OU1zaWy.jpeg,https://i.imgur.com/xPw3Zx8.jpeg,https://i.imgur.com/RuRULzt.jpeg,https://i.imgur.com/ClwrmxV.jpeg,https://i.imgur.com/NylO8NJ.jpeg,https://i.imgur.com/TyjoJes.jpeg,https://i.imgur.com/h3cOEJB.jpeg,https://i.imgur.com/YU5UxYF.jpeg,https://i.imgur.com/UasJDLR.jpeg,https://i.imgur.com/Z7hoF7I.jpeg,https://i.imgur.com/Qxg1C08.jpeg,https://i.imgur.com/pUjCM0t.jpeg,https://i.imgur.com/9g4EAgJ.jpeg,https://i.imgur.com/EMTB1C9.jpeg,https://i.imgur.com/mspwhrR.jpeg,https://i.imgur.com/ziXKjfK.jpeg,https://i.imgur.com/aXTm3UW.jpeg,https://i.imgur.com/C01dL2S.jpeg,https://i.imgur.com/ifHTdSH.jpeg,https://i.imgur.com/Q00WMPP.jpeg,https://i.imgur.com/h2Mhftd.jpeg,https://i.imgur.com/qmT60vp.jpeg,https://i.imgur.com/3tDol09.jpeg</Image>
-  </Car>
-  <Car>
-    <ID>8</ID>
+    <ID>2</ID>
     <Name>Ford</Name>
     <Model>Focus Zetec</Model>
     <FullModel>1.5 TDCi Zetec Euro 6 (s/s) 5dr</FullModel>
     <EyeCatcher>ULEZ | F' MOT | £20 R' TAX</EyeCatcher>
-    <Value>4199</Value>
+    <Value>3599</Value>
     <Mileage>104150</Mileage>
     <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -336,12 +84,127 @@
     <Image>https://i.imgur.com/TQmrt6Y.jpeg,https://i.imgur.com/WTR1ajn.jpeg,https://i.imgur.com/3rpU0B5.jpeg,https://i.imgur.com/KW5mApu.jpeg,https://i.imgur.com/NtjFhvV.jpeg,https://i.imgur.com/XSwwyLb.jpeg,https://i.imgur.com/dlHX8MB.jpeg,https://i.imgur.com/DE6CPKF.jpeg,https://i.imgur.com/p537PGE.jpeg,https://i.imgur.com/PXD3rvd.jpeg,https://i.imgur.com/gXg7z4B.jpeg,https://i.imgur.com/fQSRyt9.jpeg,https://i.imgur.com/ZwfYeqS.jpeg,https://i.imgur.com/bPOv66s.jpeg,https://i.imgur.com/p18mfid.jpeg,https://i.imgur.com/Nt81dBx.jpeg,https://i.imgur.com/AJyetmF.jpeg,https://i.imgur.com/6lw5OAR.jpeg,https://i.imgur.com/p2tYtcQ.jpeg,https://i.imgur.com/U0i2j9J.jpeg,https://i.imgur.com/Hbum8Sb.jpeg,https://i.imgur.com/RmmwLXz.jpeg,https://i.imgur.com/fQD8TIE.jpeg,https://i.imgur.com/no5wlhx.jpeg,https://i.imgur.com/cmFHDsQ.jpeg,https://i.imgur.com/qnD4U1u.jpeg,https://i.imgur.com/J6CEtKM.jpeg,https://i.imgur.com/AxQ5U6b.jpeg,https://i.imgur.com/WC68Oes.jpeg,https://i.imgur.com/wVMIfTP.jpeg,https://i.imgur.com/PPtoVeI.jpeg,https://i.imgur.com/7be9Y9U.jpeg,https://i.imgur.com/ByUuAMv.jpeg,https://i.imgur.com/q62aKFC.jpeg,https://i.imgur.com/cSsRuKp.jpeg,https://i.imgur.com/Cz6bXUT.jpeg,https://i.imgur.com/JAA6gQ5.jpeg,https://i.imgur.com/Fy2kZHU.jpeg,https://i.imgur.com/jiOQgw0.jpeg,https://i.imgur.com/qciYol5.jpeg,https://i.imgur.com/SRlKdso.jpeg,https://i.imgur.com/c5r2EIQ.jpeg,https://i.imgur.com/3KXWzzc.jpeg,https://i.imgur.com/HPSJ9aB.jpeg,https://i.imgur.com/RZtto0O.jpeg,https://i.imgur.com/BJt0z46.jpeg,https://i.imgur.com/RO3YbLF.jpeg,https://i.imgur.com/tSf6mh1.jpeg,https://i.imgur.com/J1W4oOC.jpeg</Image>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>3</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 TDCi Zetec Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>LOW MILEAGE✅WARRANTY✅£20 R’TAX</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>58260</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>AE63 ZZP</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this exceptionally well-kept and low-mileage 2013 (63) Ford Focus 1.6 TDCi Zetec, finished in a clean and tidy condition inside and out. This 5-door hatchback is powered by the ultra-efficient 1.6-litre diesel engine, delivering strong performance, excellent fuel economy, and low running costs—making it ideal for both commuting and long-distance driving.
+      - ✅ Low mileage – hard to find in this condition
+      - ✅ Very well looked after – a clean, honest example throughout
+      - ✅ ULEZ exempt in many cities and just £20 annual road tax
+      - Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Heated Front Windscreen (Quickclear)
+      - • Ford SYNC with Bluetooth and Voice Control
+      - • DAB Radio with USB and AUX Input
+      - • Electric Front Windows and Mirrors
+      - • Rear Spoiler and Chrome Exterior Detailing
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Steering Wheel
+      - • LED Daytime Running Lights
+      - Drives absolutely spot-on—quiet, smooth, and efficient. No warning lights or mechanical faults.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve AE63 ZZP with a refundable £100 deposit (subject to T and Cs)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/zAiRJGC.jpeg,https://i.imgur.com/7ECAhCi.jpeg,https://i.imgur.com/9LBrSiT.jpeg,https://i.imgur.com/9p0jIHJ.jpeg,https://i.imgur.com/gwiwchM.jpeg,https://i.imgur.com/Z1xa5cf.jpeg,https://i.imgur.com/LQsRpBK.jpeg,https://i.imgur.com/B7lW4h2.jpeg,https://i.imgur.com/LwpHpce.jpeg,https://i.imgur.com/oFn3K0F.jpeg,https://i.imgur.com/b6WkFT3.jpeg,https://i.imgur.com/QBxqMSi.jpeg,https://i.imgur.com/mq5GUNT.jpeg,https://i.imgur.com/zAFTbeM.jpeg,https://i.imgur.com/xc8hClV.jpeg,https://i.imgur.com/yr4BYBu.jpeg,https://i.imgur.com/npQVuYi.jpeg,https://i.imgur.com/71t125t.jpeg,https://i.imgur.com/SgkIKhT.jpeg,https://i.imgur.com/m8YLiwv.jpeg,https://i.imgur.com/RLJCynX.jpeg,https://i.imgur.com/IVJYJdP.jpeg,https://i.imgur.com/L4xCRPG.jpeg,https://i.imgur.com/vOMlqnq.jpeg,https://i.imgur.com/jp83z75.jpeg,https://i.imgur.com/OwWbftr.jpeg,https://i.imgur.com/gdXrmLY.jpeg,https://i.imgur.com/S1Te9oa.jpeg,https://i.imgur.com/6zFJ8II.jpeg,https://i.imgur.com/BVYQ048.jpeg,https://i.imgur.com/5CuT1uG.jpeg,https://i.imgur.com/HvFl0ls.jpeg,https://i.imgur.com/A4mycKt.jpeg,https://i.imgur.com/L60DJdZ.jpeg,https://i.imgur.com/SjfJ6es.jpeg,https://i.imgur.com/SMf4wkm.jpeg,https://i.imgur.com/JwmF4zQ.jpeg,https://i.imgur.com/hAKNu7S.jpeg,https://i.imgur.com/qBbBNDz.jpeg,https://i.imgur.com/qu8q4VB.jpeg,https://i.imgur.com/jFMneIJ.jpeg,https://i.imgur.com/oAjg1Hc.jpeg,https://i.imgur.com/oXUwuAs.jpeg,https://i.imgur.com/PKKe2eL.jpeg,https://i.imgur.com/ZRDfg9O.jpeg,https://i.imgur.com/SCcCg6f.jpeg,https://i.imgur.com/acbdIDQ.jpeg,https://i.imgur.com/QfFMaPM.jpeg,https://i.imgur.com/G4O2fH7.jpeg,https://i.imgur.com/oHzDB18.jpeg,https://i.imgur.com/ADZdJBd.jpeg</Image>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Name>Audi</Name>
+    <Model>A4 Avant Black Edition</Model>
+    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
+    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
+    <Value>5999</Value>
+    <Mileage>140000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Cat N</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YY15 GYZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>28E</Insurance>
+    <Mpg>58.9</Mpg>
+    <Description>
+      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4_cylinder engine, it delivers approximately 174 horsepower and is paired with 6_speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user_friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://i.imgur.com/KWocV90.png,https://i.imgur.com/Iy4m8Km.png,https://i.imgur.com/bcCvJNs.png,https://i.imgur.com/IyEMIyq.png,https://i.imgur.com/8rt2R9X.png,https://i.imgur.com/282YhH9.png,https://i.imgur.com/JRT3VqK.jpeg,https://i.imgur.com/hhMpc5R.jpeg,https://i.imgur.com/OZYawU5.jpeg,https://i.imgur.com/4Cdp9ad.jpeg,https://i.imgur.com/lpoBEUP.jpeg,https://i.imgur.com/owNCZ2C.jpeg,https://i.imgur.com/tewFHHa.jpeg,https://i.imgur.com/wtskNoe.jpeg,https://i.imgur.com/UTP3P6v.jpeg,https://i.imgur.com/UzKrQ0g.jpeg,https://i.imgur.com/efgGgLg.jpeg,https://i.imgur.com/jv6HuWl.jpeg,https://i.imgur.com/DVuNBxT.jpeg,https://i.imgur.com/djHmAmg.jpeg,https://i.imgur.com/wDSsckF.jpeg,https://i.imgur.com/javCnh6.jpeg,https://i.imgur.com/tRBfOFk.jpeg,https://i.imgur.com/RyyghVj.jpeg,https://i.imgur.com/QliWG68.jpeg,https://i.imgur.com/TGljYMo.jpeg,https://i.imgur.com/j0DuvYa.jpeg,https://i.imgur.com/roX822p.jpeg,https://i.imgur.com/OHlhvDK.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Name>Ford</Name>
+    <Model>Ka</Model>
+    <FullModel>1.2 Style Euro 4 3dr</FullModel>
+    <EyeCatcher>£35R’TAX✅WARRANTY✅FULL MOT✅</EyeCatcher>
+    <Value>1299</Value>
+    <Mileage>92600</Mileage>
+    <YearOfManu>2009</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SM09 OEW</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this economical and easy-to-run 2009 Ford KA 1.2 Style, a perfect choice for new drivers, city commuting, or anyone looking for ultra-low running costs. Powered by a reliable 1.2-litre petrol engine, this compact 3-door hatchback is cheap to insure, fun to drive, and incredibly affordable to own.
+      - ✅ Only £35 annual road tax – super cheap to run
+      - ✅ Low insurance group – ideal for first-time drivers
+      - ✅ Full MOT included – ready to drive away
+      - Key Features Include:
+      - • Electric Front Windows
+      - • Power Steering
+      - • CD Player with AUX Input
+      - • ISOFIX Child Seat Mounts
+      - • Adjustable Steering Column
+      - • Split-Folding Rear Seats
+      - • Colour-Coded Bumpers
+      - • Compact and easy to park
+      - Drives spot-on—light, nimble, and efficient. No warning lights or mechanical faults.
+      - • Recently serviced and inspected
+      - • Full MOT included at point of sale
+      - ✅ Drive away today – reserve SM09 OEW with a refundable £100 deposit (subject to T and Cs)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/f9hYCnm.png,https://i.imgur.com/tT4zpTv.png,https://i.imgur.com/5sUDTYq.png,https://i.imgur.com/wr97FCv.png,https://i.imgur.com/dFQeZm0.png,https://i.imgur.com/3c0ss0M.png</Image>
+    <Tax>35</Tax>
+    <Insurance>3E</Insurance>
+    <Mpg>55.4</Mpg>
+  </Car>
+  <Car>
+    <ID>6</ID>
     <Name>Vauxhall</Name>
     <Model>Astra SRi</Model>
     <FullModel>1.4T 16v SRi Euro 5 5dr</FullModel>
     <EyeCatcher>SERVICED✅MOT✅WARRANTY</EyeCatcher>
-    <Value>2499</Value>
+    <Value>2999</Value>
     <Mileage>100700</Mileage>
     <YearOfManu>2013</YearOfManu>
     <CatStat>Clear</CatStat>
