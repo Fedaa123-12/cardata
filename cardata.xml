@@ -259,6 +259,9 @@
     <Reg>YR12 PSY</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>19E</Insurance>
+    <Mpg>47.9</Mpg>
     <Description>
       - Available now is this high-spec and well-maintained 2012 Ford Focus 1.6T EcoBoost Titanium X, offering a premium driving experience with sharp performance and impressive fuel efficiency. Powered by the punchy 1.6-litre turbocharged petrol engine, this model stands out as a refined yet practical family hatchback.
       - ✅ Dry timing belt – not the problematic wet belt
@@ -291,9 +294,6 @@
       - 🚚 Nationwide delivery available at competitive rates
     </Description>
     <Image>https://i.imgur.com/kTbGRAK.png,https://i.imgur.com/NoKDerp.png,https://i.imgur.com/8T0aa4W.png,https://i.imgur.com/PN8pCxe.png,https://i.imgur.com/h2zXfVL.png,https://i.imgur.com/upyrVFb.png</Image>
-    <Tax>195</Tax>
-    <Insurance>19E</Insurance>
-    <Mpg>47.9</Mpg>
   </Car>
   <Car>
     <ID>8</ID>
@@ -312,6 +312,9 @@
     <Reg>ML15 DNY</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>60.1</Mpg>
     <Description>
       - Available now is this well-maintained and fuel-efficient 2015 Ford Focus 1.0T EcoBoost Zetec, powered by the award-winning 1.0-litre turbocharged petrol engine. This 5-door hatchback offers excellent fuel economy, low running costs, and a smooth, responsive drive—perfect for city commuting and motorway cruising alike.
       - ✅ ULEZ compliant and cheap to run
@@ -336,8 +339,52 @@
       - 🚚 Nationwide delivery available at competitive rates
     </Description>
     <Image>https://i.imgur.com/MTyw2AC.jpeg,https://i.imgur.com/8km7kCY.jpeg,https://i.imgur.com/YNhsJJ0.jpeg,https://i.imgur.com/5LGgy0l.jpeg,https://i.imgur.com/J3Vu7YV.jpeg,https://i.imgur.com/dCDtYf8.jpeg</Image>
-    <Tax>20</Tax>
-    <Insurance>14E</Insurance>
-    <Mpg>60.1</Mpg>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Seat</Name>
+    <Model>Ibeza</Model>
+    <FullModel>1.2 TSI FR Sport Coupe Euro 5 3dr</FullModel>
+    <EyeCatcher>Panoramic sunroof✅T-Chain Kit✅</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>76400</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>ND14 XTR</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Stand out in style with this striking Red SEAT Ibiza FR Sport Coupe. A perfect mix of sporty looks, efficient performance, and everyday practicality. With 17” silver alloys, a panoramic sunroof, and the FR styling pack, this car is stylish, modern, and fun to drive.
+      - ✅ ULEZ Compliant – city ready
+      - ✅ FR Sport Trim – enhanced styling inside and out
+      - ✅ Timing Chain Replaced – major job done for peace of mind
+      - Key Features
+      - •	Finished in Brilliant Red
+      - •	17” Silver Alloy Wheels
+      - •	Panoramic Sunroof
+      - •	Cruise Control
+      - •	Rear Parking Sensors
+      - •	FR Sport Styling and Interior Trim
+      - •	Air Conditioning
+      - •	CD/Radio with AUX and Steering Wheel Controls
+      - •	Electric Windows and Mirrors
+      - •	ISOFIX Child Seat Mounts
+      - •	Compatible with SEAT Garmin Sat Nav (available to purchase online separately)
+      - Condition and Drive
+      - ✔ Smooth and responsive 1.2 TSI petrol engine
+      - ✔ Recently had the timing chain replaced – a big saving for the next owner
+      - ✔ Drives well with no warning lights or mechanical issues
+      - Next Steps
+      - 🚗 Drive away today – reserve ND14 XTR with a refundable £100 deposit (T and Cs apply)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/H20nUgw.png,https://i.imgur.com/o9zo9i8.png,https://i.imgur.com/FYvVdl1.png,https://i.imgur.com/6trXjAy.png,https://i.imgur.com/VZiHKdZ.png,https://i.imgur.com/khAVLNu.png</Image>
+    <Tax>35</Tax>
+    <Insurance>12E</Insurance>
+    <Mpg>55.4</Mpg>
   </Car>
 </Cars>
