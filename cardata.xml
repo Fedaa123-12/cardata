@@ -100,6 +100,9 @@
     <Reg>AE63 ZZP</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
     <Description>
       - Available now is this exceptionally well-kept and low-mileage 2013 (63) Ford Focus 1.6 TDCi Zetec, finished in a clean and tidy condition inside and out. This 5-door hatchback is powered by the ultra-efficient 1.6-litre diesel engine, delivering strong performance, excellent fuel economy, and low running costs—making it ideal for both commuting and long-distance driving.
       - ✅ Low mileage – hard to find in this condition
@@ -123,9 +126,6 @@
       - 🚚 Nationwide delivery available at competitive rates
     </Description>
     <Image>https://i.imgur.com/zAiRJGC.jpeg,https://i.imgur.com/7ECAhCi.jpeg,https://i.imgur.com/9LBrSiT.jpeg,https://i.imgur.com/9p0jIHJ.jpeg,https://i.imgur.com/gwiwchM.jpeg,https://i.imgur.com/Z1xa5cf.jpeg,https://i.imgur.com/LQsRpBK.jpeg,https://i.imgur.com/B7lW4h2.jpeg,https://i.imgur.com/LwpHpce.jpeg,https://i.imgur.com/oFn3K0F.jpeg,https://i.imgur.com/b6WkFT3.jpeg,https://i.imgur.com/QBxqMSi.jpeg,https://i.imgur.com/mq5GUNT.jpeg,https://i.imgur.com/zAFTbeM.jpeg,https://i.imgur.com/xc8hClV.jpeg,https://i.imgur.com/yr4BYBu.jpeg,https://i.imgur.com/npQVuYi.jpeg,https://i.imgur.com/71t125t.jpeg,https://i.imgur.com/SgkIKhT.jpeg,https://i.imgur.com/m8YLiwv.jpeg,https://i.imgur.com/RLJCynX.jpeg,https://i.imgur.com/IVJYJdP.jpeg,https://i.imgur.com/L4xCRPG.jpeg,https://i.imgur.com/vOMlqnq.jpeg,https://i.imgur.com/jp83z75.jpeg,https://i.imgur.com/OwWbftr.jpeg,https://i.imgur.com/gdXrmLY.jpeg,https://i.imgur.com/S1Te9oa.jpeg,https://i.imgur.com/6zFJ8II.jpeg,https://i.imgur.com/BVYQ048.jpeg,https://i.imgur.com/5CuT1uG.jpeg,https://i.imgur.com/HvFl0ls.jpeg,https://i.imgur.com/A4mycKt.jpeg,https://i.imgur.com/L60DJdZ.jpeg,https://i.imgur.com/SjfJ6es.jpeg,https://i.imgur.com/SMf4wkm.jpeg,https://i.imgur.com/JwmF4zQ.jpeg,https://i.imgur.com/hAKNu7S.jpeg,https://i.imgur.com/qBbBNDz.jpeg,https://i.imgur.com/qu8q4VB.jpeg,https://i.imgur.com/jFMneIJ.jpeg,https://i.imgur.com/oAjg1Hc.jpeg,https://i.imgur.com/oXUwuAs.jpeg,https://i.imgur.com/PKKe2eL.jpeg,https://i.imgur.com/ZRDfg9O.jpeg,https://i.imgur.com/SCcCg6f.jpeg,https://i.imgur.com/acbdIDQ.jpeg,https://i.imgur.com/QfFMaPM.jpeg,https://i.imgur.com/G4O2fH7.jpeg,https://i.imgur.com/oHzDB18.jpeg,https://i.imgur.com/ADZdJBd.jpeg</Image>
-    <Tax>20</Tax>
-    <Insurance>15E</Insurance>
-    <Mpg>67.3</Mpg>
   </Car>
   <Car>
     <ID>4</ID>
@@ -173,6 +173,9 @@
     <Reg>SM09 OEW</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>3E</Insurance>
+    <Mpg>55.4</Mpg>
     <Description>
       - Available now is this economical and easy-to-run 2009 Ford KA 1.2 Style, a perfect choice for new drivers, city commuting, or anyone looking for ultra-low running costs. Powered by a reliable 1.2-litre petrol engine, this compact 3-door hatchback is cheap to insure, fun to drive, and incredibly affordable to own.
       - ✅ Only £35 annual road tax – super cheap to run
@@ -194,9 +197,6 @@
       - 🚚 Nationwide delivery available at competitive rates
     </Description>
     <Image>https://i.imgur.com/f9hYCnm.png,https://i.imgur.com/tT4zpTv.png,https://i.imgur.com/5sUDTYq.png,https://i.imgur.com/wr97FCv.png,https://i.imgur.com/dFQeZm0.png,https://i.imgur.com/3c0ss0M.png</Image>
-    <Tax>35</Tax>
-    <Insurance>3E</Insurance>
-    <Mpg>55.4</Mpg>
   </Car>
   <Car>
     <ID>6</ID>
@@ -241,5 +241,103 @@
       - 🚚 Nationwide delivery available at affordable rates.
     </Description>
     <Image>https://i.imgur.com/pNu9pOe.png,https://i.imgur.com/tIcSt08.png,https://i.imgur.com/Zf2AQrA.png,https://i.imgur.com/L1bNXL7.png,https://i.imgur.com/ws8fjXp.png,https://i.imgur.com/6N7O969.png,https://i.imgur.com/D7uQ6jb.jpeg,https://i.imgur.com/Rvat3Hr.jpeg,https://i.imgur.com/fMCtzr6.jpeg,https://i.imgur.com/d4XvYkn.jpeg,https://i.imgur.com/8SZjawC.jpeg,https://i.imgur.com/GCC1uCV.jpeg,https://i.imgur.com/KVWPTB1.jpeg,https://i.imgur.com/uQtdkL6.jpeg,https://i.imgur.com/BA9JiB6.jpeg,https://i.imgur.com/0DunNPk.jpeg,https://i.imgur.com/iTdaBxN.jpeg,https://i.imgur.com/RNeEITa.jpeg,https://i.imgur.com/yhmKKov.jpeg,https://i.imgur.com/xA7Tl34.jpeg,https://i.imgur.com/Al6G6u9.jpeg,https://i.imgur.com/jn4Zcyt.jpeg,https://i.imgur.com/gDzCj7M.jpeg,https://i.imgur.com/R2j4Abp.jpeg,https://i.imgur.com/4GZYQjN.jpeg,https://i.imgur.com/fgZkBQZ.jpeg,https://i.imgur.com/vMWv4Rn.jpeg,https://i.imgur.com/L1DWF0s.jpeg,https://i.imgur.com/aysPtWH.jpeg,https://i.imgur.com/74j5co6.jpeg,https://i.imgur.com/csly5U5.jpeg,https://i.imgur.com/0ik6R71.jpeg,https://i.imgur.com/oc4f9kd.jpeg,https://i.imgur.com/I0aO1lk.jpeg,https://i.imgur.com/6ib9M2b.jpeg,https://i.imgur.com/SLXnQ1e.jpeg,https://i.imgur.com/3dPdUcs.jpeg,https://i.imgur.com/HTtcP5m.jpeg,https://i.imgur.com/6Ha1gm6.jpeg,https://i.imgur.com/hBivJTZ.jpeg,https://i.imgur.com/lu8fOpo.jpeg,https://i.imgur.com/inqgUJr.jpeg,https://i.imgur.com/KfkCaOG.jpeg,https://i.imgur.com/fm9B4yl.jpeg,https://i.imgur.com/Ym2RdDi.jpeg</Image>
+  </Car>
+  <Car>
+    <ID>7</ID>
+    <Name>Ford</Name>
+    <Model>Focus Titanium X</Model>
+    <FullModel>1.6T EcoBoost Titanium X Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>SERVICE HISTORY✅T-BELT KIT✅</EyeCatcher>
+    <Value>3299</Value>
+    <Mileage>93510</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YR12 PSY</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this high-spec and well-maintained 2012 Ford Focus 1.6T EcoBoost Titanium X, offering a premium driving experience with sharp performance and impressive fuel efficiency. Powered by the punchy 1.6-litre turbocharged petrol engine, this model stands out as a refined yet practical family hatchback.
+      - ✅ Dry timing belt – not the problematic wet belt
+      - ✅ Smooth, powerful drive with excellent MPG
+      - ✅ Titanium X trim – top of the range with luxury features
+      - ✅ Factory-fitted Active Park Assist (Self-Parking)
+      - ✅ Xenon Headlights with LED Daytime Running Lights
+      - ✅New Timing Belt Kit with Service History
+      - Key Features Include:
+      - • 17” Alloy Wheels
+      - • Self Park (Active Park Assist)
+      - • Xenon Headlights with LED DRLs
+      - • Keyless Entry and Push-Button Start
+      - • Heated Part-Leather Seats
+      - • Dual-Zone Climate Control
+      - • Sony DAB Radio with Bluetooth and Voice Control
+      - • USB and AUX Connectivity
+      - • Cruise Control with Speed Limiter
+      - • Automatic Headlights and Rain-Sensing Wipers
+      - • Electric Folding Mirrors
+      - • Front and Rear Parking Sensors
+      - • Rear Privacy Glass
+      - • Heated Front Windscreen
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Leather Steering Wheel
+      - Drives beautifully—quiet, powerful, and refined. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires September 2026
+      - ✅ Drive away today – reserve YR12 PSY with a refundable £100 deposit (subject to T and Cs)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/kTbGRAK.png,https://i.imgur.com/NoKDerp.png,https://i.imgur.com/8T0aa4W.png,https://i.imgur.com/PN8pCxe.png,https://i.imgur.com/h2zXfVL.png,https://i.imgur.com/upyrVFb.png</Image>
+    <Tax>195</Tax>
+    <Insurance>19E</Insurance>
+    <Mpg>47.9</Mpg>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.0T EcoBoost Zetec Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>FSH✅T-BELT KIT✅WARRANTY✅ULEZ✅</EyeCatcher>
+    <Value>3599</Value>
+    <Mileage>80000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>ML15 DNY</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this well-maintained and fuel-efficient 2015 Ford Focus 1.0T EcoBoost Zetec, powered by the award-winning 1.0-litre turbocharged petrol engine. This 5-door hatchback offers excellent fuel economy, low running costs, and a smooth, responsive drive—perfect for city commuting and motorway cruising alike.
+      - ✅ ULEZ compliant and cheap to run
+      - ✅ Timing belt recently replaced
+      - ✅ Comes with full service history
+      - ✅ Ideal for first-time drivers or economical daily use
+      - Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Heated Front Windscreen (Quickclear)
+      - • Ford SYNC with Bluetooth and Voice Control
+      - • DAB Radio with USB and AUX Input
+      - • Electric Front Windows and Mirrors
+      - • Rear Spoiler and Chrome Exterior Detailing
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Steering Wheel
+      - • LED Daytime Running Lights
+      - Drives superb—quiet, efficient, and responsive. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve ML15 DNY with a refundable £100 deposit (subject to T and Cs)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/MTyw2AC.jpeg,https://i.imgur.com/8km7kCY.jpeg,https://i.imgur.com/YNhsJJ0.jpeg,https://i.imgur.com/5LGgy0l.jpeg,https://i.imgur.com/J3Vu7YV.jpeg,https://i.imgur.com/dCDtYf8.jpeg</Image>
+    <Tax>20</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>60.1</Mpg>
   </Car>
 </Cars>
