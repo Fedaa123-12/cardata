@@ -46,7 +46,7 @@
     <Name>Ford</Name>
     <Model>Focus Zetec</Model>
     <FullModel>1.5 TDCi Zetec Euro 6 (s/s) 5dr</FullModel>
-    <EyeCatcher>ULEZ | F' MOT | £20 R' TAX</EyeCatcher>
+    <EyeCatcher>6 MONTHS WARRANTY| F' MOT | £20 R' TAX</EyeCatcher>
     <Value>3599</Value>
     <Mileage>104150</Mileage>
     <YearOfManu>2016</YearOfManu>
@@ -64,7 +64,7 @@
     <Description>
       - Available now is this well-maintained and fuel-efficient Ford Focus 1.5 TDCi Zetec, offering a refined drive, low running costs, and excellent practicality. Powered by the punchy yet economical 1.5-litre diesel engine, this 5-door hatchback is ideal for both motorway cruising and daily commuting.
       - ✅ Only £20 road tax and up to 74+ MPG – save every time you drive!
-      - ✅ This vehicle will come with a 1-year warranty included at the point of sale.
+      - ✅ This vehicle will come with 6 Months warranty included at the point of sale.
       - Key Features Include:
       - • 16” Alloy Wheels
       - • Air Conditioning
@@ -88,7 +88,7 @@
     <Name>Ford</Name>
     <Model>Focus</Model>
     <FullModel>1.6 TDCi Zetec Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>LOW MILEAGE✅WARRANTY✅£20 R’TAX</EyeCatcher>
+    <EyeCatcher>6 MONTHS WARRANTY✅£20 R’TAX</EyeCatcher>
     <Value>3499</Value>
     <Mileage>58260</Mileage>
     <YearOfManu>2013</YearOfManu>
@@ -357,6 +357,9 @@
     <Reg>ND14 XTR</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>12E</Insurance>
+    <Mpg>55.4</Mpg>
     <Description>
       - Stand out in style with this striking Red SEAT Ibiza FR Sport Coupe. A perfect mix of sporty looks, efficient performance, and everyday practicality. With 17” silver alloys, a panoramic sunroof, and the FR styling pack, this car is stylish, modern, and fun to drive.
       - ✅ ULEZ Compliant – city ready
@@ -383,8 +386,5 @@
       - 🚚 Nationwide delivery available at competitive rates
     </Description>
     <Image>https://i.imgur.com/H20nUgw.png,https://i.imgur.com/o9zo9i8.png,https://i.imgur.com/FYvVdl1.png,https://i.imgur.com/6trXjAy.png,https://i.imgur.com/VZiHKdZ.png,https://i.imgur.com/khAVLNu.png</Image>
-    <Tax>35</Tax>
-    <Insurance>12E</Insurance>
-    <Mpg>55.4</Mpg>
   </Car>
 </Cars>
