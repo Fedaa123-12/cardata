@@ -1,4 +1,47 @@
-
+<Car>
+    <ID>3</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 TDCi Zetec Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>6 MONTHS WARRANTY✅£20 R’TAX</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>58260</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>AE63 ZZP</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
+    <Description>
+      - Available now is this exceptionally well-kept and low-mileage 2013 (63) Ford Focus 1.6 TDCi Zetec, finished in a clean and tidy condition inside and out. This 5-door hatchback is powered by the ultra-efficient 1.6-litre diesel engine, delivering strong performance, excellent fuel economy, and low running costs—making it ideal for both commuting and long-distance driving.
+      - ✅ Low mileage – hard to find in this condition
+      - ✅ Very well looked after – a clean, honest example throughout
+      - ✅ ULEZ exempt in many cities and just £20 annual road tax
+      - Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Heated Front Windscreen (Quickclear)
+      - • Ford SYNC with Bluetooth and Voice Control
+      - • DAB Radio with USB and AUX Input
+      - • Electric Front Windows and Mirrors
+      - • Rear Spoiler and Chrome Exterior Detailing
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Steering Wheel
+      - • LED Daytime Running Lights
+      - Drives absolutely spot-on—quiet, smooth, and efficient. No warning lights or mechanical faults.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve AE63 ZZP with a refundable £100 deposit (subject to T and Cs)
+      - 🚚 Nationwide delivery available at competitive rates
+    </Description>
+    <Image>https://i.imgur.com/zAiRJGC.jpeg,https://i.imgur.com/7ECAhCi.jpeg,https://i.imgur.com/9LBrSiT.jpeg,https://i.imgur.com/9p0jIHJ.jpeg,https://i.imgur.com/gwiwchM.jpeg,https://i.imgur.com/Z1xa5cf.jpeg,https://i.imgur.com/LQsRpBK.jpeg,https://i.imgur.com/B7lW4h2.jpeg,https://i.imgur.com/LwpHpce.jpeg,https://i.imgur.com/oFn3K0F.jpeg,https://i.imgur.com/b6WkFT3.jpeg,https://i.imgur.com/QBxqMSi.jpeg,https://i.imgur.com/mq5GUNT.jpeg,https://i.imgur.com/zAFTbeM.jpeg,https://i.imgur.com/xc8hClV.jpeg,https://i.imgur.com/yr4BYBu.jpeg,https://i.imgur.com/npQVuYi.jpeg,https://i.imgur.com/71t125t.jpeg,https://i.imgur.com/SgkIKhT.jpeg,https://i.imgur.com/m8YLiwv.jpeg,https://i.imgur.com/RLJCynX.jpeg,https://i.imgur.com/IVJYJdP.jpeg,https://i.imgur.com/L4xCRPG.jpeg,https://i.imgur.com/vOMlqnq.jpeg,https://i.imgur.com/jp83z75.jpeg,https://i.imgur.com/OwWbftr.jpeg,https://i.imgur.com/gdXrmLY.jpeg,https://i.imgur.com/S1Te9oa.jpeg,https://i.imgur.com/6zFJ8II.jpeg,https://i.imgur.com/BVYQ048.jpeg,https://i.imgur.com/5CuT1uG.jpeg,https://i.imgur.com/HvFl0ls.jpeg,https://i.imgur.com/A4mycKt.jpeg,https://i.imgur.com/L60DJdZ.jpeg,https://i.imgur.com/SjfJ6es.jpeg,https://i.imgur.com/SMf4wkm.jpeg,https://i.imgur.com/JwmF4zQ.jpeg,https://i.imgur.com/hAKNu7S.jpeg,https://i.imgur.com/qBbBNDz.jpeg,https://i.imgur.com/qu8q4VB.jpeg,https://i.imgur.com/jFMneIJ.jpeg,https://i.imgur.com/oAjg1Hc.jpeg,https://i.imgur.com/oXUwuAs.jpeg,https://i.imgur.com/PKKe2eL.jpeg,https://i.imgur.com/ZRDfg9O.jpeg,https://i.imgur.com/SCcCg6f.jpeg,https://i.imgur.com/acbdIDQ.jpeg,https://i.imgur.com/QfFMaPM.jpeg,https://i.imgur.com/G4O2fH7.jpeg,https://i.imgur.com/oHzDB18.jpeg,https://i.imgur.com/ADZdJBd.jpeg</Image>
+  </Car>
   <Car>
     <ID>5</ID>
     <Name>Ford</Name>
