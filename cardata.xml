@@ -4,8 +4,8 @@
     <Name>Peugeot</Name>
     <Model>208</Model>
     <FullModel>1.0 PureTech Active Euro 6 5dr</FullModel>
-    <EyeCatcher>T'BELT | CLUTCH | 6 MONTHS WARRANTY</EyeCatcher>
-    <Value>3999</Value>
+    <EyeCatcher>T'BELT | CLUTCH | WARRANTY</EyeCatcher>
+    <Value>3499</Value>
     <Mileage>64709</Mileage>
     <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -87,8 +87,8 @@ https://i.postimg.cc/PxJ8ysZf/Whats-App-Image-2025-08-18-at-19-05-47-eceefc68.jp
     <Name>Ford</Name>
     <Model>Focus Zetec</Model>
     <FullModel>1.5 TDCi Zetec Euro 6 (s/s) 5dr</FullModel>
-    <EyeCatcher>6 MONTHS WARRANTY| F' MOT | £20 R' TAX</EyeCatcher>
-    <Value>4199</Value>
+    <EyeCatcher>WARRANTY| F' MOT | £20 R' TAX</EyeCatcher>
+    <Value>3999</Value>
     <Mileage>104150</Mileage>
     <YearOfManu>2016</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -177,7 +177,7 @@ https://i.postimg.cc/SRfGhv0c/f199a66781bb4fb8aab91ffde8f1fed3.jpg,</Image>
     <Model>Focus Titanium X</Model>
     <FullModel>1.6T EcoBoost Titanium X Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>SERVICE HISTORY✅T-BELT KIT✅</EyeCatcher>
-    <Value>3299</Value>
+    <Value>2999</Value>
     <Mileage>93510</Mileage>
     <YearOfManu>2012</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -309,8 +309,7 @@ https://i.postimg.cc/j5gMw132/59.jpg,</Image>
       - Technical data:
       - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
     </Description>
-    <Image>
-      https://i.postimg.cc/x1Hj0PwT/1.png,
+    <Image>https://i.postimg.cc/x1Hj0PwT/1.png,
 https://i.postimg.cc/3xprKZsx/2.png,
 https://i.postimg.cc/pL8V2Bw2/3.png,
 https://i.postimg.cc/YCg2px5r/4.png,
@@ -338,8 +337,7 @@ https://i.postimg.cc/zfWNkCYJ/tRBfOFk.jpg,
 https://i.postimg.cc/8CWGbRgz/UTP3P6v.jpg,
 https://i.postimg.cc/tgPbz3Gs/UzKrQ0g.jpg,
 https://i.postimg.cc/PxjjVCdf/wDSsckF.jpg,
-https://i.postimg.cc/9MhhgDcW/wtskNoe.jpg,
-    </Image>
+https://i.postimg.cc/9MhhgDcW/wtskNoe.jpg,</Image>
   </Car>
   <Car>
     <ID>5</ID>
@@ -358,6 +356,9 @@ https://i.postimg.cc/9MhhgDcW/wtskNoe.jpg,
     <Reg>NJ15 PMO</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>06E</Insurance>
+    <Mpg>55.4</Mpg>
     <Description>
       - Available now is this smart and economical 2015 Vauxhall Corsa 1.4i ecoFLEX Excite, offering great fuel efficiency, low insurance costs, and a modern, comfortable interior. Powered by the punchy yet economical 1.4-litre petrol engine, this 5-door hatchback is ideal for first-time drivers, city commuters, or anyone seeking reliable and affordable motoring.
       - ✅ ULEZ compliant – drive into any city with confidence
@@ -423,9 +424,6 @@ https://i.postimg.cc/HxRxKHsk/40.jpg,
 https://i.postimg.cc/ZR2RgZKn/41.jpg,
 https://i.postimg.cc/G2V2NrhG/42.jpg,
 https://i.postimg.cc/ZR2RgZKc/43.jpg,</Image>
-    <Tax>35</Tax>
-    <Insurance>06E</Insurance>
-    <Mpg>55.4</Mpg>
   </Car>
   <Car>
     <ID>6</ID>
@@ -532,6 +530,9 @@ https://i.postimg.cc/wTCRxkVW/Ym2RdDi.jpg,</Image>
     <Reg>YH64VYX</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>03E</Insurance>
+    <Mpg>53.3</Mpg>
     <Description>
       - Available now is this clean and well-maintained 2014 (64) Vauxhall Corsa 1.2i Excite, offering great value, stylish looks, and low running costs. Powered by the reliable 1.2-litre petrol engine, this 3-door hatchback is perfect for city driving, daily commuting, or first-time drivers.
       - ✅ ULEZ compliant and cheap to insure
@@ -603,8 +604,5 @@ https://i.postimg.cc/LsP8GwwJ/46.jpg,
 https://i.postimg.cc/QM7dvww7/47.jpg,
 https://i.postimg.cc/9f9QsKKY/48.jpg,
 https://i.postimg.cc/1tZ3SM1w/49.jpg,</Image>
-    <Tax>165</Tax>
-    <Insurance>03E</Insurance>
-    <Mpg>53.3</Mpg>
   </Car>
 </Cars>
