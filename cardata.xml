@@ -355,6 +355,9 @@ https://i.postimg.cc/9MhhgDcW/wtskNoe.jpg,</Image>
     <Reg>BD65 LZO</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>03E</Insurance>
+    <Mpg>53.3</Mpg>
     <Description>
       - Available now is this sporty and stylish 2015 (65) Vauxhall Corsa 1.2i SRi, finished in excellent condition inside and out. Powered by the smooth and efficient 1.2-litre petrol engine, this Corsa combines eye-catching looks, great handling, and low running costs—making it a perfect choice for first-time drivers or anyone seeking an economical yet fun hatchback.
       - ✅ ULEZ compliant and cheap to insure
@@ -427,9 +430,6 @@ https://i.postimg.cc/85Ybn1xr/47.jpg,
 https://i.postimg.cc/fLPvgw1Y/48.jpg,
 https://i.postimg.cc/DZNcY2Rr/49.jpg,
 https://i.postimg.cc/63Ph19FV/50.jpg,</Image>
-    <Tax>165</Tax>
-    <Insurance>03E</Insurance>
-    <Mpg>53.3</Mpg>
   </Car>
   <Car>
     <ID>6</ID>
@@ -610,5 +610,166 @@ https://i.postimg.cc/LsP8GwwJ/46.jpg,
 https://i.postimg.cc/QM7dvww7/47.jpg,
 https://i.postimg.cc/9f9QsKKY/48.jpg,
 https://i.postimg.cc/1tZ3SM1w/49.jpg,</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa Design</Model>
+    <FullModel>1.4i ecoTEC Design Euro 6 5dr</FullModel>
+    <EyeCatcher>T-CHAIN KIT✅LOW MILEAGE✅MOT✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>69000</Mileage>
+    <YearOfManu>2018</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NV18 PKU</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this clean, modern and well-maintained 2018 Vauxhall Corsa 1.4i ecoTEC Design, offering excellent reliability, low running costs, and a comfortable drive. Powered by the smooth and economical 1.4-litre petrol engine, this 5-door hatchback is ULEZ compliant and ideal for first-time drivers, city use, or daily commuting.
+      - ✅ ULEZ compliant – drive into any city with no extra charges
+      - ✅ Low insurance group and great fuel economy
+      - ✅ Recently serviced and ready to drive away
+      - Design Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Touchscreen Infotainment System
+      - • Bluetooth with Media Streaming
+      - • USB and AUX Input
+      - • Cruise Control with Speed Limiter
+      - • Electric Front Windows and Mirrors
+      - • Daytime Running Lights
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Steering Wheel
+      - Drives superb—quiet, smooth, and efficient. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+    </Description>
+    <Image>https://i.postimg.cc/0yNDLrkw/1.png,
+https://i.postimg.cc/zGfK93zW/2.png,
+https://i.postimg.cc/Nj0mWLsR/3.png,
+https://i.postimg.cc/kg5KkDJt/4.png,
+https://i.postimg.cc/y8NcwW1j/5.png,
+https://i.postimg.cc/Z5qp10bD/6.png,
+https://i.postimg.cc/x1dMWqft/7.jpg,
+https://i.postimg.cc/QdM1RV8S/8.jpg,
+https://i.postimg.cc/0yNDLrkV/9.jpg,
+https://i.postimg.cc/8zCMqspK/10.jpg,
+https://i.postimg.cc/0yNDLrkX/11.jpg,
+https://i.postimg.cc/sg27t1j8/12.jpg,
+https://i.postimg.cc/JzhZ9trv/13.jpg,
+https://i.postimg.cc/sg27t1jt/14.jpg,
+https://i.postimg.cc/MpGVhXZk/15.jpg,
+https://i.postimg.cc/4x3Vrn4k/16.jpg,
+https://i.postimg.cc/kg5KkDMP/17.jpg,
+https://i.postimg.cc/kghK99Gj/18.jpg,
+https://i.postimg.cc/rwYxccsn/19.jpg,
+https://i.postimg.cc/3xbm77Nb/20.jpg,
+https://i.postimg.cc/6p1nwwqm/21.jpg,
+https://i.postimg.cc/ht3TggvY/22.jpg,
+https://i.postimg.cc/bwFk88rW/23.jpg,
+https://i.postimg.cc/Qdn1ssCv/24.jpg,
+https://i.postimg.cc/0yHDxxjL/25.jpg,
+https://i.postimg.cc/t4mWyyJK/26.jpg,
+https://i.postimg.cc/GmSGrr90/27.jpg,
+https://i.postimg.cc/NjPmYYLq/28.jpg,
+https://i.postimg.cc/T3HgGGhv/29.jpg,
+https://i.postimg.cc/dVSrvvDK/30.jpg,
+https://i.postimg.cc/4xFVZZng/31.jpg,
+https://i.postimg.cc/0yHDxxrv/32.jpg,
+https://i.postimg.cc/Cx6kYYdw/33.jpg,
+https://i.postimg.cc/8znMDDs1/34.jpg,
+https://i.postimg.cc/y8rcBBW1/35.jpg,
+https://i.postimg.cc/mg6CRRhZ/36.jpg,</Image>
+    <Tax>195</Tax>
+    <Insurance>03E</Insurance>
+    <Mpg>49.6</Mpg>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Vauxhall</Name>
+    <Model>Astra ecoFLEX</Model>
+    <FullModel>1.6 CDTi ecoFLEX Design Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>TRADE SALE✅ULEZ✅WARRANTY✅MOT✅</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>95000</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DP16NJZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Description>
+      - Available now is this clean and well-maintained 2016 Vauxhall Astra 1.6 CDTi ecoFLEX Design, offering excellent fuel efficiency, a smooth driving experience, and a spacious, comfortable interior. Powered by the reliable 1.6-litre diesel engine, this Astra is ideal for motorway driving, commuting, or affordable everyday use.
+      - ✅ 28-day engine and gearbox warranty
+      - ✅ Full MOT included at the asking price
+      - Design Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Cruise Control with Speed Limiter
+      - • Touchscreen Infotainment System
+      - • Bluetooth Connectivity
+      - • USB and AUX Input
+      - • Electric Front Windows and Mirrors
+      - • Daytime Running Lights
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Steering Wheel
+      - • Spacious Boot and Cabin
+      - Drives well—smooth, efficient, and reliable. No warning lights or major mechanical issues.
+      - • MOT included at asking price
+    </Description>
+    <Image>https://i.postimg.cc/nLDjJD65/1.png,
+https://i.postimg.cc/gJbwk0W4/2.png,
+https://i.postimg.cc/pTM9XdHZ/3.png,
+https://i.postimg.cc/25ZbDZPM/4.png,
+https://i.postimg.cc/nzKXstVJ/5.png,
+https://i.postimg.cc/DZQSWKfn/6.png,
+https://i.postimg.cc/vBw1Hmys/7.jpg,
+https://i.postimg.cc/4dRKN3GG/8.jpg,
+https://i.postimg.cc/fL7V3hWZ/9.jpg,
+https://i.postimg.cc/bJ0ZGjYq/10.jpg,
+https://i.postimg.cc/G2P4B139/11.jpg,
+https://i.postimg.cc/QtgFBrNH/12.jpg,
+https://i.postimg.cc/j56DWrqD/13.jpg,
+https://i.postimg.cc/NM8KywGr/14.jpg,
+https://i.postimg.cc/63V87N6n/15.jpg,
+https://i.postimg.cc/wv51tdxX/16.jpg,
+https://i.postimg.cc/hvSfT3hx/17.jpg,
+https://i.postimg.cc/brzskFd2/18.jpg,
+https://i.postimg.cc/SRyJCtj6/19.jpg,
+https://i.postimg.cc/fywJmgkv/20.jpg,
+https://i.postimg.cc/5yx6Lkjs/21.jpg,
+https://i.postimg.cc/sxVv701n/22.jpg,
+https://i.postimg.cc/Y0phYyjZ/23.jpg,
+https://i.postimg.cc/mkbtC6hv/24.jpg,
+https://i.postimg.cc/x80cMFcr/25.jpg,
+https://i.postimg.cc/3NnWBCDS/26.jpg,
+https://i.postimg.cc/nr0MkYQy/27.jpg,
+https://i.postimg.cc/MHdXDbQ2/28.jpg,
+https://i.postimg.cc/cCX6mMnS/29.jpg,
+https://i.postimg.cc/ZnV0cFdh/30.jpg,
+https://i.postimg.cc/br3dTHtq/31.jpg,
+https://i.postimg.cc/kGfDcFbn/32.jpg,
+https://i.postimg.cc/L5NhTB18/33.jpg,
+https://i.postimg.cc/tJ275txY/34.jpg,
+https://i.postimg.cc/VvD5RBCr/35.jpg,
+https://i.postimg.cc/v8z1bMSW/36.jpg,
+https://i.postimg.cc/G3QBdrSJ/37.jpg,
+https://i.postimg.cc/J7qyMmd5/38.jpg,
+https://i.postimg.cc/QNbBhsnb/39.jpg,
+https://i.postimg.cc/Pf4LThF6/40.jpg,
+https://i.postimg.cc/HW2JdHPP/41.jpg,
+https://i.postimg.cc/1RHgsPYC/42.jpg,
+https://i.postimg.cc/mZwcBR6J/43.jpg,
+https://i.postimg.cc/v8z1bMSj/44.jpg,</Image>
+    <Tax>20</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>85.6</Mpg>
   </Car>
 </Cars>
