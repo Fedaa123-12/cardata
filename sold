@@ -1,5 +1,161 @@
 <Cars>
   <Car>
+    <ID>3</ID>
+    <Name>Audi</Name>
+    <Model>A4 Avant Black Edition</Model>
+    <FullModel>2.0 TDI Black Edition Estate 5dr Diesel Manual Euro 5 (s/s) (177 ps)</FullModel>
+    <EyeCatcher>Serviced | Ice Cold AC | Panroof</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>147000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Cat N</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YY15 GYZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>28E</Insurance>
+    <Mpg>58.9</Mpg>
+    <Description>
+      - This Estate offers a balance of performance, efficiency, and technology. Powered by a 2.0L 4_cylinder engine, it delivers approximately 174 horsepower and is paired with 6_speed manual transmission.
+      - Inside, the vehicle features a spacious cabin with seating for five, half leather upholstery, and a user_friendly infotainment system, with the option to spec the car with an upgraded infotainment screen, which includes apple car play and android auto, some of the tech include Bluetooth, electric hand brake, front and rear sensors, electric boot. contact for more information.
+      -
+      - Technical data:
+      - Fuel efficiency ranges from 58.9 mpg combined as stated by the manufacturers. Cargo space is generous, with rear seats that fold down to expand storage capacity.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/3ca5738ac48745218a36e9eb8d789248.jpg,
+https://m.atcdn.co.uk/a/media/w600/9aedf15645cf4c37877509fe45b7f59b.jpg,
+https://m.atcdn.co.uk/a/media/w600/773a49bbd4df49d58f6d5f2cbf05e357.jpg,
+https://m.atcdn.co.uk/a/media/w600/3450b6d33ce6483c8e231f527d6415c1.jpg,
+https://m.atcdn.co.uk/a/media/w600/e005f688f1194370a3093b15eb66fe41.jpg,
+https://m.atcdn.co.uk/a/media/w600/0df228455b46423885990dd66afbc7b9.jpg,
+https://m.atcdn.co.uk/a/media/w600/ee653df397ad472d897cab121b430daf.jpg</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa</Model>
+    <FullModel>1.2i ecoFLEX 16V S Euro 5 (s/s) 5dr (A/C)</FullModel>
+    <EyeCatcher>T-CHAIN KIT✅NEW CLUTCH✅AUG MOT</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>87700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>YC64XOF</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>06E</Insurance>
+    <Mpg>56.5</Mpg>
+    <Description>
+      - DescriptionAvailable now is this economical and well-maintained 2014 Vauxhall Corsa 1.2i ecoFLEX 16V S, a practical and reliable hatchback that’s perfect for first-time drivers or anyone looking for affordable motoring. Powered by the smooth and efficient 1.2-litre petrol engine, this Corsa offers excellent fuel economy, low insurance costs, and proven Vauxhall reliability.
+      - ✅ ULEZ compliant – drive into any city with confidence
+      - ✅ Low insurance group – ideal for new drivers
+      - ✅ Excellent fuel economy and low running costs
+      - Key Features Include:
+      - • Electric Front Windows
+      - • Power Steering
+      - • CD Player with AUX Input
+      - • Daytime Running Lights
+      - • ISOFIX Child Seat Mounts
+      - • Adjustable Steering Column
+      - • Colour-Coded Bumpers and Mirrors
+      - • Central Locking
+      - • Comfortable and Practical 3-Door Hatchback
+      - Drives great—quiet, smooth, and reliable. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires August 2026
+      - ✅ Drive away today – reserve YC64 XOF with a refundable £100 deposit (subject to TandCs)
+      - 🚚 Nationwide delivery available at competitive rates
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Vauxhall Corsa ecoFLEX S.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/e8f52580addc499fabd3a6947a0c8ae3.jpg,
+https://m.atcdn.co.uk/a/media/w600/d0d3ab1c19ff49e1bfc0a8802f378825.jpg,
+https://m.atcdn.co.uk/a/media/w600/f004ad5bab2445fbb172ec03162d7fa2.jpg,
+https://m.atcdn.co.uk/a/media/w600/85e3bf26fb644d3eb0b5eb8c404e8d06.jpg,
+https://m.atcdn.co.uk/a/media/w600/e38034dc4a6b47fa9cf67a26637cc2f7.jpg,
+https://m.atcdn.co.uk/a/media/w600/bee4a67a9b8c4fbe95b3c4c19677f8de.jpg,
+https://m.atcdn.co.uk/a/media/w600/84a07104f7564a7db3e906d4fac9c8c3.jpg</Image>
+  </Car>
+  <Car>
+    <ID>7</ID>
+    <Name>Kia</Name>
+    <Model>Ceed</Model>
+    <FullModel>1.6 CRDi EcoDynamics 2 Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>SERVICE HISTORY✅6M WARRANTY✅</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>87900</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SB62ULP</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>74.3</Mpg>
+    <Description>
+      - DescriptionAvailable now is this clean and well-maintained 2012 (62) Kia Ceed 1.6 CRDi EcoDynamics 2, a practical and economical hatchback offering excellent fuel efficiency, comfort, and reliability. Powered by the proven 1.6-litre diesel engine, this Ceed delivers strong performance with low running costs—ideal for commuting or family use.
+      - ✅ Only £20 annual road tax
+      - ✅ Excellent fuel economy – up to 60+ MPG
+      - ✅ ULEZ compliant in many areas
+      - ‘2’ Model Key Features Include:
+      - • 16” Alloy Wheels
+      - • Air Conditioning
+      - • Cruise Control with Speed Limiter
+      - • Bluetooth Connectivity and Media Streaming
+      - • USB and AUX Input
+      - • Rear Parking Sensors
+      - • Electric Front and Rear Windows
+      - • Electric Folding Mirrors
+      - • LED Daytime Running Lights
+      - • ISOFIX Child Seat Mounts
+      - • Multifunction Leather Steering Wheel
+      - • Split-Folding Rear Seats
+      - Drives fantastic—quiet, refined, and efficient. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve SB62 ULP with a refundable £100 deposit (subject to TandCs)
+      - 🚚 Nationwide delivery available at competitive rates
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Kia Ceed EcoDynamics 2.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/de2ab14d7519495d801139ab581142ea.jpg,
+https://m.atcdn.co.uk/a/media/w600/eceb9290e4a44316acc31b662e5e61d5.jpg,
+https://m.atcdn.co.uk/a/media/w600/d56dd025c1b84c35aed47a709d1d55ac.jpg,
+https://m.atcdn.co.uk/a/media/w600/a8b9caa5bc3544ad87184fc7dccd4bc2.jpg,
+https://m.atcdn.co.uk/a/media/w600/c9816061d53d498d8a366bd04fca6721.jpg,
+https://m.atcdn.co.uk/a/media/w600/f8d88270198c40939febe6ae9db66eec.jpg,
+https://m.atcdn.co.uk/a/media/w600/726a88ba8e194e46925ed9b5ac3f354d.jpg</Image>
+  </Car>
+</Cars>
+<Cars>
+  <Car>
     <ID>2</ID>
     <Name>Ford</Name>
     <Model>Focus Zetec</Model>
