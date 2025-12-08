@@ -99,45 +99,45 @@ https://m.atcdn.co.uk/a/media/w600/b9faf42fca654721bfe09f1240a3d2db.jpg</Image>
   </Car>
   <Car>
     <ID>3</ID>
-    <Name>Kia</Name>
-    <Model>Ceed</Model>
-    <FullModel>1.6 CRDi ECO 2 Euro 6 (s/s) 5dr</FullModel>
-    <EyeCatcher>REVERSE CAM✅8 STAMPS✅0 OWNERS✅</EyeCatcher>
-    <Value>4999</Value>
-    <Mileage>112900</Mileage>
-    <YearOfManu>2018</YearOfManu>
+    <Name>Vauxhall</Name>
+    <Model>Corsa</Model>
+    <FullModel>1.4i ecoTEC Energy Euro 6 3dr</FullModel>
+    <EyeCatcher>LOW MILEAGE✅SERVICED✅WARRANTY</EyeCatcher>
+    <Value>5999</Value>
+    <Mileage>47400</Mileage>
+    <YearOfManu>2019</YearOfManu>
     <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
+    <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Red</Colour>
+    <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>YB68CPX</Reg>
+    <Reg></Reg>
     <Video></Video>
     <MetaTag></MetaTag>
     <Tax>195</Tax>
-    <Insurance>11E</Insurance>
-    <Mpg>58.9</Mpg>
+    <Insurance>03E</Insurance>
+    <Mpg>44.1</Mpg>
     <Description>
-      - DescriptionAvailable now is this economical and well-maintained 2018 (68) Kia Ceed 1.6 CRDi EcoDynamics 2, a solid and efficient hatchback known for its comfort, reliability, and excellent fuel economy.
-      - Powered by the 1.6 CRDi diesel engine, it delivers great MPG and low running costs — ideal for commuting, long-distance driving, or a dependable family car.
-      - ✅ Low running costs and excellent MPG
-      - ✅0 OWNERS ON LOGBOOK!!
+      - Available now is this clean and economical 2019 (68) Vauxhall Corsa 1.4i ECOTEC Energy, a brilliant, low-running-cost hatchback that’s ideal for new drivers, commuting, and everyday practical use.
+      - Powered by the 1.4 ECOTEC petrol engine, it’s smooth, efficient, and ULEZ compliant, making it perfect for city and town driving.
+      - ✅ ULEZ compliant • Low insurance • Great MPG
       - Key Features Include:
-      - • Apple CarPlay
-      - • Android Auto
-      - • Reverse camera
       - • Touchscreen infotainment system
-      - • Multifunction steering wheel
-      - • Cruise control with speed limiter
+      - • Apple CarPlay and Android Auto
       - • Bluetooth and media connectivity
+      - • Cruise control
       - • Air conditioning
-      - • Alloy wheels
-      - • ISOFIX
+      - • Heated seats
+      - • Heated steering wheel
+      - • Multifunction steering wheel
       - • Electric windows and mirrors
-      - Drives great — smooth, quiet, and efficient. No warning lights or mechanical issues.
+      - • ISOFIX
+      - • Daytime running lights
+      - • Alloy wheels (if fitted)
+      - Drives spot-on — smooth, quiet, and economical. No warning lights or mechanical issues.
       - • Recently serviced and inspected
-      - • MOT expires May 2026
-      - ✅ Drive away today – reserve YB68 CPX with a refundable £100 deposit (TandCs apply).
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve SW68 HLO with a refundable £100 deposit (TandCs apply).
       - 🚚 Nationwide delivery available at competitive rates.
       - ⸻
       - Why Buy from AW Trade Centre?
@@ -147,15 +147,15 @@ https://m.atcdn.co.uk/a/media/w600/b9faf42fca654721bfe09f1240a3d2db.jpg</Image>
       - • HPI clear vehicles (unless otherwise stated)
       - • Fresh valet inside and out
       - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Kia Ceed 1.6 CRDi Eco 2.
+      - 📞 Call or message us today to arrange a viewing or reserve this Vauxhall Corsa 1.4 ECOTEC Energy
     </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/0bf78fa57d6340f29933916a5971d8c6.jpg,
-https://m.atcdn.co.uk/a/media/w600/94852321fa73495b9fac4694c2377ec5.jpg,
-https://m.atcdn.co.uk/a/media/w600/f034a97c9f984bafbb79f96592cd9430.jpg,
-https://m.atcdn.co.uk/a/media/w600/d3d2dcc8d7af4f79b66dedd4861a8088.jpg,
-https://m.atcdn.co.uk/a/media/w600/89fc6d90ce9445488247afd93257276d.jpg,
-https://m.atcdn.co.uk/a/media/w600/2a32d771eaf5417c993c55cb90d021dc.jpg,
-https://m.atcdn.co.uk/a/media/w600/6a8300e8a5aa4f0e9ce2d8511b4b3078.jpg</Image>
+    <Image>https://m.atcdn.co.uk/a/media/w800/72a9c6126b754145bc93f1d465bae498.jpg,
+https://m.atcdn.co.uk/a/media/w600/edff7f93ceaa49c7b17961bfa24697b0.jpg,
+https://m.atcdn.co.uk/a/media/w600/263d67805cf4444c9681c33c6caed0b3.jpg,
+https://m.atcdn.co.uk/a/media/w600/793b036f043b4b1789dc581922a12522.jpg,
+https://m.atcdn.co.uk/a/media/w600/ebf699f45e99452b8f67df171211bcfd.jpg,
+https://m.atcdn.co.uk/a/media/w600/806eed92442140478b7e3a9be52d13c8.jpg,
+https://m.atcdn.co.uk/a/media/w600/b59bde09595e4c4eb777ba37aaf01b0b.jpg</Image>
   </Car>
   <Car>
     <ID>4</ID>
@@ -299,7 +299,6 @@ https://m.atcdn.co.uk/a/media/w600/aa0f6225106f448bba35e33539b0487c.jpg</Image>
     <Insurance>06U</Insurance>
     <Mpg>58.9</Mpg>
     <Description>
-      - Description✅✅AWAITING PREP✅✅
       - Available now is this stylish and well-maintained 2014 Fiat 500 1.2 Lounge, the perfect chic city car with iconic looks, low running costs, and excellent fuel economy. Powered by the reliable 1.2-litre petrol engine, this Fiat 500 is ideal for first-time drivers or anyone wanting an economical, easy-to-park daily runaround.
       - ✅ ULEZ compliant – drive into any city with confidence
       - ✅ Low insurance group and excellent MPG
@@ -331,13 +330,13 @@ https://m.atcdn.co.uk/a/media/w600/aa0f6225106f448bba35e33539b0487c.jpg</Image>
       - • Friendly, honest, and pressure-free service
       - 📞 Call or message us today to arrange a viewing or reserve this Fiat 500 Lounge.
     </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/4547170f96224130b79d9b186c82f821.jpg,
-https://m.atcdn.co.uk/a/media/w600/8e88498eeff640caaf07ed7bbc8034f6.jpg,
-https://m.atcdn.co.uk/a/media/w600/e36fc75890eb4efd96bdffd3058f6f7a.jpg,
-https://m.atcdn.co.uk/a/media/w600/1e0e68a6bd4943fba0ea4f803f3fe968.jpg,
-https://m.atcdn.co.uk/a/media/w600/00d5e2dd5b5c448ca67d7c078b55adcc.jpg,
-https://m.atcdn.co.uk/a/media/w600/712741605309444d83d521fb8807c39d.jpg,
-https://m.atcdn.co.uk/a/media/w600/28115047fc62487d87a7318b34578615.jpg</Image>
+    <Image>https://m.atcdn.co.uk/a/media/w800/96358e7ca66d4d3a99b1f46580484228.jpg,
+https://m.atcdn.co.uk/a/media/w600/5b131f40f3d64356a8f2323b8691daa6.jpg,
+https://m.atcdn.co.uk/a/media/w600/c674b7f805b848f0a7e1c32096cf6718.jpg,
+https://m.atcdn.co.uk/a/media/w600/21eda10509f84f118db040bfb4644f0c.jpg,
+https://m.atcdn.co.uk/a/media/w600/2c0e0ae2705541f295b4acfece527ac6.jpg,
+https://m.atcdn.co.uk/a/media/w600/e1f63d0617ba4df9b0271e3804e56588.jpg,
+https://m.atcdn.co.uk/a/media/w600/2988449dd6d34da6bb7c5463355a1c19.jpg</Image>
   </Car>
   <Car>
     <ID>7</ID>
@@ -401,37 +400,6 @@ https://m.atcdn.co.uk/a/media/w600/79fbb467609f4da19d796a170be1b7ca.jpg,
 https://m.atcdn.co.uk/a/media/w600/70e8cb3251a048999eb152c1a7de55d5.jpg,
 https://m.atcdn.co.uk/a/media/w600/3b7954384ec6431c975623b29ca740da.jpg,
 https://m.atcdn.co.uk/a/media/w600/bc4c56af5c484841bf1b58940ace1a2e.jpg</Image>
-  </Car>
-  <Car>
-    <ID>8</ID>
-    <Name>Vauxhall</Name>
-    <Model>Corsa</Model>
-    <FullModel>1.4i ecoTEC Energy Euro 6 3dr</FullModel>
-    <EyeCatcher>LOW MILEAGE✅SERVICED✅WARRANTY</EyeCatcher>
-    <Value>5999</Value>
-    <Mileage>47400</Mileage>
-    <YearOfManu>2019</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg></Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>195</Tax>
-    <Insurance>03E</Insurance>
-    <Mpg>44.1</Mpg>
-    <Description>
-      - !AWAITING PREPARATION!
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/16d6d563ffd44001a22d1f348a38dc67.jpg,
-https://m.atcdn.co.uk/a/media/w600/41a78f813fcf410fbbe6583bdadbd595.jpg,
-https://m.atcdn.co.uk/a/media/w600/9812e0d15c75457d94f9cd7ae70d7cf6.jpg,
-https://m.atcdn.co.uk/a/media/w600/95dd7cf2ca624348b3761afb64cb247f.jpg,
-https://m.atcdn.co.uk/a/media/w600/f1ff19f15e9c4f848724cfb80d298a06.jpg,
-https://m.atcdn.co.uk/a/media/w600/fddc1d0f31464170887adb6da06d4a03.jpg,
-https://m.atcdn.co.uk/a/media/w600/d4528ace2bb1477fb38909ddfe4e67d9.jpg</Image>
   </Car>
   <Car>
     <ID>9</ID>
