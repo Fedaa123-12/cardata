@@ -1,6 +1,511 @@
 <Cars>
   <Car>
     <ID>5</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa</Model>
+    <FullModel>1.4i ecoFLEX SRi Euro 6 5dr</FullModel>
+    <EyeCatcher>SRI STYLING✅ALLOYS✅WARRANTY✅</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>71000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>BT65CJJ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>06E</Insurance>
+    <Mpg>55.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512078436209?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7bfa941a-78ef-4b72-ba19-4704ad91297f&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - DescriptionAvailable now is this smart and well-maintained 2015 (65) Vauxhall Corsa 1.4i ecoFLEX SRi, a sporty and economical hatchback offering great running costs, stylish looks, and the reliability Vauxhall is known for.
+      - Powered by the 1.4 ecoFLEX petrol engine, it’s smooth, efficient, and ULEZ compliant, making it perfect for new drivers, commuting, and everyday use.
+      - ✅ ULEZ compliant • Low running costs • Great MPG
+      - Key Features Include:
+      - • SRi sports styling
+      - • Alloy wheels
+      - • Cruise control
+      - • Bluetooth and media connectivity
+      - • Touchscreen infotainment (if fitted)
+      - • Multifunction steering wheel
+      - • Air conditioning
+      - • Electric windows and mirrors
+      - • Sport seats
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives spot-on — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expire October 2026
+      - ✅ Drive away today – reserve BT65 CJJ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Vauxhall Corsa 1.4 SRi ecoFLEX.Read full description
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/acecad1dc7d04351b59554b2c633b07c.jpg,
+https://m.atcdn.co.uk/a/media/w600/bb609b7a797d438c98474283630c573e.jpg,
+https://m.atcdn.co.uk/a/media/w600/e6c5454c682648e4b418fe3556c71383.jpg,
+https://m.atcdn.co.uk/a/media/w600/49d9ab97fe9a4af1b00ce12f09586e02.jpg,
+https://m.atcdn.co.uk/a/media/w600/8d9ba1321c2847f29561ee39b6d42eba.jpg,
+https://m.atcdn.co.uk/a/media/w600/621fbc6561b34ade945204aba1d94bec.jpg,
+https://m.atcdn.co.uk/a/media/w600/b3faa3a5a2c44551a771610601c20e4c.jpg</Image>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Fiat</Name>
+    <Model>500</Model>
+    <FullModel>1.2 Lounge Euro 6 (s/s) 3dr</FullModel>
+    <EyeCatcher>PANROOF✅LOW MILEAGE✅</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>71600</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PY14EKE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>06U</Insurance>
+    <Mpg>58.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202511127850478?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7bfa941a-78ef-4b72-ba19-4704ad91297f&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this stylish and well-maintained 2014 Fiat 500 1.2 Lounge, the perfect chic city car with iconic looks, low running costs, and excellent fuel economy. Powered by the reliable 1.2-litre petrol engine, this Fiat 500 is ideal for first-time drivers or anyone wanting an economical, easy-to-park daily runaround.
+      - ✅ ULEZ compliant – drive into any city with confidence
+      - ✅ Low insurance group and excellent MPG
+      - ✅ Popular Lounge trim with great features
+      - Lounge Key Features Include:
+      - • Panoramic Glass Roof
+      - • 15” Alloy Wheels
+      - • Air Conditioning
+      - • Touchscreen Infotainment System
+      - • Bluetooth Connectivity
+      - • USB and AUX Input
+      - • Electric Front Windows and Mirrors
+      - • Leather-Trimmed Steering Wheel with Controls
+      - • Chrome Exterior Styling
+      - • ISOFIX Child Seat Mounts
+      - • LED Daytime Running Lights
+      - Drives brilliantly—smooth, economical, and fun. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve PY14 EKE with a refundable £100 deposit (subject to TandCs)
+      - 🚚 Nationwide delivery available at competitive rates
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Fiat 500 Lounge.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/96358e7ca66d4d3a99b1f46580484228.jpg,
+https://m.atcdn.co.uk/a/media/w600/5b131f40f3d64356a8f2323b8691daa6.jpg,
+https://m.atcdn.co.uk/a/media/w600/c674b7f805b848f0a7e1c32096cf6718.jpg,
+https://m.atcdn.co.uk/a/media/w600/21eda10509f84f118db040bfb4644f0c.jpg,
+https://m.atcdn.co.uk/a/media/w600/2c0e0ae2705541f295b4acfece527ac6.jpg,
+https://m.atcdn.co.uk/a/media/w600/e1f63d0617ba4df9b0271e3804e56588.jpg,
+https://m.atcdn.co.uk/a/media/w600/2988449dd6d34da6bb7c5463355a1c19.jpg</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Astra SRi</Model>
+    <FullModel>1.4T 16v SRi Euro 5 5dr</FullModel>
+    <EyeCatcher>SERVICED✅MOT✅WARRANTY</EyeCatcher>
+    <Value>2299</Value>
+    <Mileage>100700</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>DL13 HTG</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>47.1</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202507134441313?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7bfa941a-78ef-4b72-ba19-4704ad91297f&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Up for sale is this smart-looking Vauxhall Astra SRi, finished in a stylish colour with a strong spec and sporty feel. Powered by the reliable 1.4 Turbocharged petrol engine, this car offers the perfect mix of performance and economy, making it ideal for both motorway cruising and everyday driving.
+      -
+      - Key Features Include:
+      - •	17” Alloy Wheels
+      - •	Sports Suspension
+      - •	Air Conditioning
+      - •	Cruise Control and Trip Computer
+      - •	Bluetooth Connectivity
+      - •	Electric Front Windows and Mirrors
+      - •	ISOFIX Child Seat Anchors
+      - •	Multifunction Steering Wheel
+      - •	CD Player with AUX Input
+      -
+      - Drives exceptionally well—smooth acceleration, tight steering, and no knocks, warning lights, or faults. A reliable car that’s cheap to run and ULEZ compliant.
+      - •	Recently serviced and inspected
+      - •	MOT to be renewed at point of sale
+      - •	3 former keepers
+      -
+      - ✅ Ready to drive away today – secure this car now with a refundable £100 deposit.
+      - 🚚 Nationwide delivery available at affordable rates.
+    </Description>
+    <Image>https://i.postimg.cc/LXxZHKC0/1.png,
+https://i.postimg.cc/pTsn2bGs/2.png,
+https://i.postimg.cc/0QVJ8RWc/3.png,
+https://i.postimg.cc/k4Ttn31w/4.png,
+https://i.postimg.cc/G2Xscwg0/5.png,
+https://i.postimg.cc/5yjQy7Tk/6.png,
+https://i.postimg.cc/NMdrgqCv/6Ha1gm6.jpg,
+https://i.postimg.cc/tJ7nJSwL/6ib9M2b.jpg,
+https://i.postimg.cc/zv3Hvt41/8SZjawC.jpg,
+https://i.postimg.cc/7hbJhsjk/42.jpg,
+https://i.postimg.cc/nrM9rRNM/66.jpg,
+https://i.postimg.cc/6qS2vVN6/74j5co6.jpg,
+https://i.postimg.cc/HnKcy0Cs/2323.jpg,
+https://i.postimg.cc/mkqzH3Gk/5454.jpg,
+https://i.postimg.cc/Y0VGWNwv/Al6G6u9.jpg,
+https://i.postimg.cc/L57Y1kMZ/aysPtWH.jpg,
+https://i.postimg.cc/QCP9Tgr7/BA9JiB6.jpg,
+https://i.postimg.cc/x87JzGSz/csly5U5.jpg,
+https://i.postimg.cc/J0gDk3Wb/d4XvYkn.jpg,
+https://i.postimg.cc/x87JzGSy/D7uQ6jb.jpg,
+https://i.postimg.cc/WzKFkmP7/fgZkBQZ.jpg,
+https://i.postimg.cc/2yJbZdf0/fm9B4yl.jpg,
+https://i.postimg.cc/pV1n4vnN/fMCtzr6.jpg,
+https://i.postimg.cc/v8S6ky6w/GCC1uCV.jpg,
+https://i.postimg.cc/dQSTpFTs/gDzCj7M.jpg,
+https://i.postimg.cc/XNDymWy4/hBivJTZ.jpg,
+https://i.postimg.cc/J7dBv8B7/HTtcP5m.jpg,
+https://i.postimg.cc/2jXBMYBS/I0aO1lk.jpg,
+https://i.postimg.cc/05HJFvJN/inqgUJr.jpg,
+https://i.postimg.cc/v8S6ky6g/iTdaBxN.jpg,
+https://i.postimg.cc/DfYbHhbb/jn4Zcyt.jpg,
+https://i.postimg.cc/NGPrStrX/KfkCaOG.jpg,
+https://i.postimg.cc/BZw1k31H/KVWPTB1.jpg,
+https://i.postimg.cc/ncjQtWvC/L1DWF0s.jpg,
+https://i.postimg.cc/DyJbKNqS/lu8fOpo.jpg,
+https://i.postimg.cc/J4DBWFbB/oc4f9kd.jpg,
+https://i.postimg.cc/rF0tLHSN/R2j4Abp.jpg,
+https://i.postimg.cc/X7Gy0Pw8/RNeEITa.jpg,
+https://i.postimg.cc/TYLWXsr0/Rvat3Hr.jpg,
+https://i.postimg.cc/pXhntSDk/SLXnQ1e.jpg,
+https://i.postimg.cc/MKMj8Lyr/uQtdkL6.jpg,
+https://i.postimg.cc/fTt0hPx1/vMWv4Rn.jpg,
+https://i.postimg.cc/rFBRy9Jg/xA7Tl34.jpg,
+https://i.postimg.cc/RVkJCTRg/yhmKKov.jpg,
+https://i.postimg.cc/wTCRxkVW/Ym2RdDi.jpg,</Image>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Mazda</Name>
+    <Model>Mazda2</Model>
+    <FullModel>1.3 TS2 Euro 4 5dr</FullModel>
+    <EyeCatcher>ALLOYS✅ULEZ✅WARRANTY✅FULL MOT</EyeCatcher>
+    <Value>999</Value>
+    <Mileage>97000</Mileage>
+    <YearOfManu>2009</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NA59KLX</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>54.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512078436144?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7bfa941a-78ef-4b72-ba19-4704ad91297f&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this well-maintained and economical 2009 (59) Mazda2 1.3 TS2, a reliable and cheap-to-run hatchback that’s perfect for new drivers, commuting, or anyone wanting a practical and efficient everyday car.
+      - Powered by the 1.3 petrol engine, it’s smooth, economical, and low insurance — ideal for city and town driving.
+      - ✅ Low running costs • Great MPG • Cheap insurance
+      - Key Features Include:
+      - • Alloy wheels (TS2 trim)
+      - • Air conditioning
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • AUX / media connectivity
+      - • ISOFIX
+      - • Remote central locking
+      - • Daytime running lights
+      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT can be renewed at point of sale at an extra cost.
+      - WHEEL BEARING NOISE can be fixed for extra.
+      - ✅ Drive away today – reserve NA59 KLX with a refundable £100 deposit (TCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Mazda2 1.3 TS2.
+      - Vehicle registered: 27/10/2009
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/8919e633732543ee8d29f9c663c7cba6.jpg,
+https://m.atcdn.co.uk/a/media/w600/f9bf0887cd9c452d96f21a62603afc52.jpg,
+https://m.atcdn.co.uk/a/media/w600/7c1fb4b0137043c5ba40aa09e17d7896.jpg,
+https://m.atcdn.co.uk/a/media/w600/16f592ec615940e3869574e9e8f2fd13.jpg,
+https://m.atcdn.co.uk/a/media/w600/b67fe33d77fe4fe1a2978a4eb882cae9.jpg,
+https://m.atcdn.co.uk/a/media/w600/bd3efc62eced405fbbcb1844f3c18577.jpg,
+https://m.atcdn.co.uk/a/media/w600/a56dddf1ac1a4ceca1022195615fe354.jpg</Image>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>DS</Name>
+    <Model>DS AUTOMOBILES</Model>
+    <FullModel>DS 4 1.6 BlueHDi Elegance Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>CARPLAY✅SATNAV✅ULEZ✅6M WARRANT</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>69700</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>GM65PWY</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>20E</Insurance>
+    <Mpg>64.2</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512088461319?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - DescriptionAvailable now is this stylish and well-maintained 2016 (65) DS 4 1.6 BlueHDi Elegance, a premium-feeling hatchback offering excellent comfort, sharp design, and superb fuel economy.
+      - Powered by the 1.6 BlueHDi diesel engine, it’s smooth, efficient, and ideal for commuting, long-distance driving, or anyone wanting a refined and economical everyday car.
+      - ✅ Elegance Trim • Excellent MPG • Low Running Costs
+      - Key Features Include:
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Cruise control
+      - • Dual-zone climate control
+      - • Alloy wheels
+      - • Rear parking sensors
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • LED daytime running lights
+      - • ISOFIX
+      - Drives beautifully — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve GM65 PWY with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this DS 4 BlueHDi Elegance.Read full description
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/8b04b2109d2d43c5852e22d049c2de93.jpg,
+https://m.atcdn.co.uk/a/media/w600/b5c33deaa15a43c2af87f1eb460dd136.jpg,
+https://m.atcdn.co.uk/a/media/w600/47493bb5425746169b255af408a82d42.jpg,
+https://m.atcdn.co.uk/a/media/w600/353573e68c8e49a88000260d1caa11d8.jpg,
+https://m.atcdn.co.uk/a/media/w600/75094f286c6f48fda0db4dfc1c421a71.jpg,
+https://m.atcdn.co.uk/a/media/w600/b8a0570cbf25433083d75fea44e3eb22.jpg,
+https://m.atcdn.co.uk/a/media/w600/bf8c84ed7e674c7eadde345bf6090944.jpg</Image>
+  </Car>
+  <Car>
+    <ID>12</ID>
+    <Name>Hyundai</Name>
+    <Model>i10</Model>
+    <FullModel>1.2 Classic Euro 4 5dr</FullModel>
+    <EyeCatcher>✅2 Keys✅Low Mileage✅</EyeCatcher>
+    <Value>1299</Value>
+    <Mileage>73620</Mileage>
+    <YearOfManu>2010</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>HN10RTO</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>10E</Insurance>
+    <Mpg>56.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512158586588?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - DescriptionAvailable now is this economical and reliable 2010 Hyundai i10 1.2 Classic, a practical small hatchback well known for its low running costs, dependability, and ease of driving.
+      - Powered by the 1.2 petrol engine, it’s smooth, economical, and cheap to insure — making it an ideal choice for new drivers, city driving, or anyone looking for a simple, hassle-free car.
+      - ✅ Low insurance • Cheap to run • Great MPG
+      - Key Features Include:
+      - • Air conditioning
+      - • Electric front windows
+      - • Power steering
+      - • Radio / CD player
+      - • Remote central locking
+      - • ISOFIX
+      - • Split folding rear seats
+      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - ✅ Drive away today – reserve HN10 RTO with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Hyundai i10 1.2 Classic.Read full description
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/77214013c6394812824842e16b6b7835.jpg,
+https://m.atcdn.co.uk/a/media/w600/408c0b30716a4840a46fd868edd52ee2.jpg,
+https://m.atcdn.co.uk/a/media/w600/e45accc2b06e4ca6849bab02f6ff9012.jpg,
+https://m.atcdn.co.uk/a/media/w600/ca8466d6fb2d4f9384d5f7d1dcde0238.jpg,
+https://m.atcdn.co.uk/a/media/w600/de4e4c9d1cd44a60bfe6738f6140ee59.jpg,
+https://m.atcdn.co.uk/a/media/w600/e561cfa5c6114342827cecdf51759288.jpg,
+https://m.atcdn.co.uk/a/media/w600/144c763581df47788f447fbe5e490efb.jpg</Image>
+  </Car>
+  <Car>
+    <ID>13</ID>
+    <Name>Renault</Name>
+    <Model>Clio</Model>
+    <FullModel>0.9 TCe Dynamique Nav Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>WARRANTY✅CHEAP TO INSURE✅NAVI</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>121200</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SH66SKZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>07E</Insurance>
+    <Mpg>60.1</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512178663650?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - DescriptionAvailable now is this smart and economical 2016 (66) Renault Clio 0.9 TCe Dynamique Nav, a stylish and practical hatchback offering low running costs, modern tech, and great fuel efficiency.
+      - Powered by the 0.9 TCe turbo petrol engine, it’s smooth, responsive, and ideal for new drivers, commuting, or everyday city driving.
+      - ✅ Low insurance • Great MPG • ULEZ compliant
+      - Key Features Include:
+      - • Touchscreen infotainment system
+      - • Satellite navigation (Nav)
+      - • Bluetooth and media connectivity
+      - • Cruise control with speed limiter
+      - • Air conditioning
+      - • Alloy wheels
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve SH66 SKZ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Renault Clio 0.9 TCe Dynamique Nav.Read full description
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/2f35aa8f199a4329a40ffe1637e62ac6.jpg,
+https://m.atcdn.co.uk/a/media/w600/83ab426f502045f888caaaf1ab7ce5bb.jpg,
+https://m.atcdn.co.uk/a/media/w600/5366233dfa09400081f032cdcb55ab45.jpg,
+https://m.atcdn.co.uk/a/media/w600/9ab2b8ce99ab4ed38451e9f945d8a754.jpg,
+https://m.atcdn.co.uk/a/media/w600/6ebce2592c3147fa95636d657d6bd0fa.jpg,
+https://m.atcdn.co.uk/a/media/w600/6c8697d8ac76419f9aaddc9cd9b574f6.jpg,
+https://m.atcdn.co.uk/a/media/w600/2a541c7d87cc43ea8a46f15ce1913156.jpg</Image>
+  </Car>
+  <Car>
+    <ID>16</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>CRUISE CONTROL✅6M WARRANTY✅</FullModel>
+    <EyeCatcher>1.4 TSI BlueMotion Tech SE Euro 5 (s/s) 5dr</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>115700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FE14DWN</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>53.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512178653318?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this well-presented and economical 2014 Volkswagen Golf 1.4 TSI BlueMotion Technology SE, a highly regarded hatchback offering excellent refinement, strong performance, and Volkswagen’s renowned build quality.
+      - Powered by the 1.4 TSI petrol engine, it delivers smooth power, great fuel economy, and a comfortable, confident drive — making it ideal for commuting, family use, or long-distance journeys.
+      - ✅ BlueMotion Tech • Great MPG • ULEZ compliant
+      - Key Features Include:
+      - • Adaptive cruise control
+      - • Driving mode selector
+      - • BlueMotion Technology
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Alloy wheels
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives superb — smooth, quiet, and responsive. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires July 2026
+      - ✅ Drive away today – reserve FE14 DWN with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 1.4 TSI SE.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/77710cad799a4f5f8cf1578d9c9295be.jpg,
+https://m.atcdn.co.uk/a/media/w600/857f21048d6f47cc96dc5e42ad283701.jpg,
+https://m.atcdn.co.uk/a/media/w600/4afbbb75177441d8bc769bf1916c79df.jpg,
+https://m.atcdn.co.uk/a/media/w600/8df342a1bf554a4fb36092829bfcb59c.jpg,
+https://m.atcdn.co.uk/a/media/w600/adc57b3cd1764e06b643d502a8ef4eff.jpg,
+https://m.atcdn.co.uk/a/media/w600/4adc7ff96c5f4eb3bbb5de5f8f535207.jpg,
+https://m.atcdn.co.uk/a/media/w600/486d95f936ea451ba355e220adf37911.jpg</Image>
+  </Car>
+</Cars>
+
+<Cars>
+  <Car>
+    <ID>5</ID>
     <Name>Ford</Name>
     <Model>C-Max</Model>
     <FullModel>1.6 TDCi Titanium Euro 5 5dr</FullModel>
