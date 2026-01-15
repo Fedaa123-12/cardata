@@ -1,4 +1,298 @@
 <Cars>
+  <Car>
+    <ID>3</ID>
+    <Name>Honda</Name>
+    <Model>Civic</Model>
+    <FullModel>2.0 i-VTEC Type R GT 3dr</FullModel>
+    <EyeCatcher>BUCKET SEATS✅P’SENSORS✅MOT✅</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>88800</Mileage>
+    <YearOfManu>2007</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SV07BVM</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>430</Tax>
+    <Insurance>34E</Insurance>
+    <Mpg>31</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512178663345?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - DescriptionAvailable now is this iconic and well-presented 2007 Honda Civic Type R GT, a true driver’s hot hatch renowned for its high-revving performance, sharp handling, and legendary Honda reliability.
+      - Powered by the 2.0 i-VTEC petrol engine, producing thrilling power and paired with a precise 6-speed manual gearbox, it delivers an engaging, performance-focused drive that few cars in its class can match.
+      - ✅ Type R GT • 2.0 i-VTEC • True Performance Hatch
+      - Key Features Include:
+      - • Type R GT specification
+      - • 2.0 i-VTEC high-revving engine
+      - • 6-speed manual transmission
+      - • Recaro sports seats
+      - • Dual-zone climate control
+      - • Cruise control
+      - • Red start button
+      - • Multifunction steering wheel
+      - • Alloy wheels
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - Drives exceptionally well — tight, responsive, and exhilarating. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve SV07 BVM with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Honda Civic Type R GT.Read full description
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/b0a1cee4ca284c25bd492ef980c5aff3.jpg,
+https://m.atcdn.co.uk/a/media/w600/9bb2d4931e744787ae67b2eb630a79cf.jpg,
+https://m.atcdn.co.uk/a/media/w600/864393a588ef47e8a1fe198387c92734.jpg,
+https://m.atcdn.co.uk/a/media/w600/7774b625249442b39a95f2bc04b497ca.jpg,
+https://m.atcdn.co.uk/a/media/w600/07746e867423410e92c0138eaebdee6c.jpg,
+https://m.atcdn.co.uk/a/media/w600/6a2b7ca9ed21412a9ecb99ad85639787.jpg,
+https://m.atcdn.co.uk/a/media/w600/137a08c70d504bbfa529d38de38d504f.jpg</Image>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Name>Hyundai</Name>
+    <Model>i10</Model>
+    <FullModel>i10 1.2 Premium Euro 5 5dr</FullModel>
+    <EyeCatcher></EyeCatcher>
+    <Value>3299</Value>
+    <Mileage>82500</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NX15ZFA</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>04A</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202511198009909?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7bfa941a-78ef-4b72-ba19-4704ad91297f&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=380&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - DescriptionAvailable now is this economical and well-maintained 2015 Hyundai i10 1.2 Premium, a brilliant small hatchback known for its ultra-low running costs, reliability, and surprisingly spacious interior.
+      - Powered by the 1.2 petrol engine, it’s smooth, efficient, and ideal for new drivers, city driving, or anyone wanting a cheap-to-run, trouble-free car.
+      - ✅ Low insurance • Great MPG • £35 road tax (if applicable
+      - Key Features Include:
+      - • Rear parking sensors
+      - • Bluetooth and media connectivity
+      - • Cruise control
+      - • Alloy wheels
+      - • Air conditioning
+      - • Touchscreen infotainment (if fitted)
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • LED daytime running lights
+      - Drives spot-on — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires June 2026
+      - ✅ Drive away today – reserve NX15 ZFA with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/093bd0d2bf1448da8dbd89789d90d633.jpg,
+https://m.atcdn.co.uk/a/media/w600/bd22b9b8f5e941c190569e221d5f834d.jpg,
+https://m.atcdn.co.uk/a/media/w600/770e699f48d642a3a388ab691739d4f9.jpg,
+https://m.atcdn.co.uk/a/media/w600/1d44d09eb0704c42b6f359b1ef8253b5.jpg,
+https://m.atcdn.co.uk/a/media/w600/a0648fda0bf947ddb7bea54382f45af4.jpg,
+https://m.atcdn.co.uk/a/media/w600/e1160c108b0749f18934427a93ca9e65.jpg,
+https://m.atcdn.co.uk/a/media/w600/14aac4c3230842dd9b9ef84dfc6ad043.jpg</Image>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Citroen</Name>
+    <Model>DS3</Model>
+    <FullModel>1.6 THP DSire Euro 5 3dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅FULL MOT✅RECALL DONE</EyeCatcher>
+    <Value>2999</Value>
+    <Mileage>83500</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>KW15KKE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>27E</Insurance>
+    <Mpg>48.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512308844714?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=ec29e034-1947-4e07-9789-20704e76a719&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=300&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this stylish and well-presented 2015 Citroën DS3 1.6 THP DStyle, a sporty and eye-catching hatchback offering strong performance, modern styling, and low running costs.
+      - Powered by the 1.6 THP turbo petrol engine, it delivers lively performance, smooth power delivery, and an engaging drive — perfect for those wanting something fun yet practical.
+      - ✅ Sporty THP engine • Stylish design • Great to drive
+      - Key Features Include:
+      - • Parking sensors
+      - • DStyle specification
+      - • Cruise control with limiter
+      - • Air conditioning
+      - • Alloy wheels
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — responsive, smooth, and enjoyable. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve KW15 KKE with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Citroën DS3 1.6 THP DStyle.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/39a617fca80045f4af34ac15c0a12323.jpg,
+https://m.atcdn.co.uk/a/media/w600/1f67f9218d2c4c8eb64ab5c3da4231d4.jpg,
+https://m.atcdn.co.uk/a/media/w600/5d53c28d858c404591aef6824a749980.jpg,
+https://m.atcdn.co.uk/a/media/w600/0af92ecbefda46479d924e813b081b73.jpg,
+https://m.atcdn.co.uk/a/media/w600/5db91fcbd5e5482690929b7966e10a38.jpg,
+https://m.atcdn.co.uk/a/media/w600/827bdf2ff6d648d5b40b4addcbe867b6.jpg,
+https://m.atcdn.co.uk/a/media/w600/26f5af4314c84c2cb6155cf26d0240ef.jpg</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>CRUISE CONTROL✅6M WARRANTY✅</FullModel>
+    <EyeCatcher>1.4 TSI BlueMotion Tech SE Euro 5 (s/s) 5dr</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>115700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FE14DWN</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>53.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512178653318?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this well-presented and economical 2014 Volkswagen Golf 1.4 TSI BlueMotion Technology SE, a highly regarded hatchback offering excellent refinement, strong performance, and Volkswagen’s renowned build quality.
+      - Powered by the 1.4 TSI petrol engine, it delivers smooth power, great fuel economy, and a comfortable, confident drive — making it ideal for commuting, family use, or long-distance journeys.
+      - ✅ BlueMotion Tech • Great MPG • ULEZ compliant
+      - Key Features Include:
+      - • Adaptive cruise control
+      - • Driving mode selector
+      - • BlueMotion Technology
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Alloy wheels
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives superb — smooth, quiet, and responsive. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires July 2026
+      - ✅ Drive away today – reserve FE14 DWN with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 1.4 TSI SE.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/77710cad799a4f5f8cf1578d9c9295be.jpg,
+https://m.atcdn.co.uk/a/media/w600/857f21048d6f47cc96dc5e42ad283701.jpg,
+https://m.atcdn.co.uk/a/media/w600/4afbbb75177441d8bc769bf1916c79df.jpg,
+https://m.atcdn.co.uk/a/media/w600/8df342a1bf554a4fb36092829bfcb59c.jpg,
+https://m.atcdn.co.uk/a/media/w600/adc57b3cd1764e06b643d502a8ef4eff.jpg,
+https://m.atcdn.co.uk/a/media/w600/4adc7ff96c5f4eb3bbb5de5f8f535207.jpg,
+https://m.atcdn.co.uk/a/media/w600/486d95f936ea451ba355e220adf37911.jpg</Image>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>1.2 TSI BlueMotion Tech S Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>T-BELT KIT✅6M WARRANTY✅ULEZ✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>88000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>GF63FLR</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>07E</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512308840390?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=44fded41-3d3c-4f70-91c2-a5072c428e7a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this clean and economical 2013 (63) Volkswagen Golf 1.2 TSI BlueMotion Technology S, a highly regarded hatchback offering excellent efficiency, everyday practicality, and Volkswagen’s solid build quality.
+      - Powered by the 1.2 TSI petrol engine, it’s smooth, responsive, and ULEZ compliant, making it ideal for commuting, city driving, or long-distance use.
+      - ✅ BlueMotion Tech • ULEZ compliant • Great MPG
+      - Key Features Include:
+      - • BlueMotion Technology
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Cruise control
+      - • Front and rear parking sensors
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Alloy wheels (if fitted)
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives superb — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires June 2026
+      - ✅ Drive away today – reserve GF63 FLR with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 1.2 TSI S.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/52d1700e091149fb961eedfb043d34ce.jpg,
+https://m.atcdn.co.uk/a/media/w600/8a21f58e10384b518548cb5e28d218b3.jpg,
+https://m.atcdn.co.uk/a/media/w600/82242b9027d04bc68a1799ca0b05e507.jpg,
+https://m.atcdn.co.uk/a/media/w600/f91dfa7d1dda46ce9a5908f663390f9c.jpg,
+https://m.atcdn.co.uk/a/media/w600/e0cc487b062846aa9bde6039a1e63899.jpg,
+https://m.atcdn.co.uk/a/media/w600/4a6548c052294a1d96d3b246648ba558.jpg,
+https://m.atcdn.co.uk/a/media/w600/80dd7cad583244a59defebcaefbe060d.jpg</Image>
+  </Car>
  <Car>
     <ID>2</ID>
     <Name>BMW</Name>
