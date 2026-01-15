@@ -93,7 +93,7 @@ https://m.atcdn.co.uk/a/media/w600/806eed92442140478b7e3a9be52d13c8.jpg,
 https://m.atcdn.co.uk/a/media/w600/b59bde09595e4c4eb777ba37aaf01b0b.jpg</Image>
   </Car>
   <Car>
-    <ID>5</ID>
+    <ID>3</ID>
     <Name>Volkswagen</Name>
     <Model>Jetta</Model>
     <FullModel>1.6 TDI BlueMotion Tech SE Euro 5 (s/s) 4dr</FullModel>
@@ -152,7 +152,56 @@ https://m.atcdn.co.uk/a/media/w600/00ea10f042004440ab561458a07c31f0.jpg,
 https://m.atcdn.co.uk/a/media/w600/ecca05a5571243b99db814ee599b39ed.jpg</Image>
   </Car>
   <Car>
-    <ID>7</ID>
+    <ID>4</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>1.6 TDI Match Euro 5 3dr</FullModel>
+    <EyeCatcher>P/X TO CLEAR✅ MARCH MOT✅£20TAX</EyeCatcher>
+    <Value>1499</Value>
+    <Mileage>201800</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>MT12 USM</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>16E</Insurance>
+    <Mpg>62.8</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601139107798?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=968876d2-2da9-443c-b2f8-5055bf46e4fd&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts55ex&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts55ex%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=150&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - 🔥 PART EXCHANGE TO CLEAR – TRADE SALE 🔥
+      - Available now is this Volkswagen Golf 1.6 TDI Match, taken in part exchange and offered at a clearance price. Ideal for traders, mechanics, or anyone looking for a cheap diesel runaround.
+      - Powered by the reliable 1.6 TDI diesel engine, it offers strong fuel economy and low running costs.
+      - ⚠️ PLEASE NOTE:
+      - This vehicle is being sold as a part exchange to clear / trade sale and is therefore without warranty, without guarantees, and not prepared to retail standard. Buyers are welcome to inspect and test drive prior to purchase.
+      - Key Features Include:
+      - • Match specification
+      - • Air conditioning
+      - • Alloy wheels
+      - • Cruise control
+      - • Bluetooth (if fitted)
+      - • Electric windows and mirrors
+      - • Remote central locking
+      - • FRONT AND REAR PARKING SENSORS
+      - Starts, drives, and moves as it should.
+      - 💷 Priced to clear – no offers, no warranty.
+      - 🚗 Drive away today – first to view will buy.
+      - 📞 Call or message to arrange viewing.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/d21f0b8d4a5b4e04a354e981b49c584d.jpg,
+https://m.atcdn.co.uk/a/media/w600/d084c7e67ea441af8b599287580a9d13.jpg,
+https://m.atcdn.co.uk/a/media/w600/778bde3dd4244470a4b797ed8e45ff16.jpg,
+https://m.atcdn.co.uk/a/media/w600/fa84fba7345a4f1f8ca676eab16887c1.jpg,
+https://m.atcdn.co.uk/a/media/w600/267441c2ca3e4ba2ae91b9838d4635b0.jpg,
+https://m.atcdn.co.uk/a/media/w600/b17909772d8544018bc1dd2fe8913f14.jpg,
+https://m.atcdn.co.uk/a/media/w600/3f24aea40c6a421dbb0306a33126328b.jpg</Image>
+  </Car>
+  <Car>
+    <ID>5</ID>
     <Name>Kia</Name>
     <Model>Rio</Model>
     <FullModel>1.25 2 Euro 5 3dr</FullModel>
