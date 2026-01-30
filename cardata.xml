@@ -33,69 +33,6 @@ https://m.atcdn.co.uk/a/media/w600/ba5fe941ef824122be6f772325f724aa.jpg</Image>
   </Car>
   <Car>
     <ID>2</ID>
-    <Name>Audi</Name>
-    <Model>Q3</Model>
-    <FullModel>2.0 TDI S line Plus S Tronic quattro Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>T-BELT KIT✅WARRANTY✅AUTO✅4X4✅</EyeCatcher>
-    <Value>6499</Value>
-    <Mileage>128900</Mileage>
-    <YearOfManu>2014</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>NA14VNF</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>24E</Tax>
-    <Insurance>265</Insurance>
-    <Mpg>47.9</Mpg>
-    <AT>autotrader.co.uk/car-details/202601159171692?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=48062c9d-4888-4e50-b468-8b66864f70a7&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts55ex&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts55ex%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
-    <Description>
-      - Available now is this stunning and well-maintained 2014 Audi Q3 2.0 TDI S line Plus S tronic quattro, a premium compact SUV offering strong performance, luxury comfort, and excellent all-weather capability.
-      - Powered by the 2.0 TDI diesel engine paired with the smooth S tronic automatic gearbox and quattro four-wheel drive, it delivers confident handling, impressive fuel economy, and the refined driving experience Audi is known for.
-      - ✅ S line Plus • S tronic Auto • quattro 4WD
-      - Key Features Include:
-      - • S line Plus styling and interior
-      - • S tronic automatic transmission
-      - • quattro four-wheel drive
-      - • Half-leather / Alcantara S line sport seats
-      - • Satellite navigation system
-      - • Bluetooth and media connectivity
-      - • Dual-zone climate control
-      - • Cruise control
-      - • Xenon headlights with LED daytime running lights
-      - • Front and rear parking sensors
-      - • Multifunction steering wheel
-      - • Alloy wheels
-      - • Electric windows and mirrors
-      - • ISOFIX
-      - Drives superb — smooth, powerful, and extremely refined. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • MOT expires October 2026
-      - ✅ Drive away today – reserve NA14 VNF with a refundable £100 deposit (TandCs apply).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - ⸻
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Audi Q3 S line Plus quattro Auto
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/6a8f5f58d11940ad9cbbd53b1d092ff7.jpg,
-https://m.atcdn.co.uk/a/media/w600/0cee92512e554821a1c110ef4ebab98d.jpg,
-https://m.atcdn.co.uk/a/media/w600/b1d87cdcd775423cb09a8afb07ac9578.jpg,
-https://m.atcdn.co.uk/a/media/w600/a1ff1e385521424a8b020b478fe61768.jpg,
-https://m.atcdn.co.uk/a/media/w600/07f4f42bb50240cb838b6407bb789bad.jpg,
-https://m.atcdn.co.uk/a/media/w600/2bc03faa411b4aaba376a44b43376188.jpg,
-https://m.atcdn.co.uk/a/media/w600/04ec65334b31485da9469028a0e550a7.jpg</Image>
-  </Car>
-  <Car>
-    <ID>3</ID>
     <Name>Vauxhall</Name>
     <Model>Corsa</Model>
     <FullModel>1.4i ecoTEC Energy Euro 6 3dr</FullModel>
@@ -108,7 +45,7 @@ https://m.atcdn.co.uk/a/media/w600/04ec65334b31485da9469028a0e550a7.jpg</Image>
     <Transmission>Manual</Transmission>
     <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg></Reg>
+    <Reg>SW68 HLO</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
     <Tax>195</Tax>
@@ -156,93 +93,54 @@ https://m.atcdn.co.uk/a/media/w600/806eed92442140478b7e3a9be52d13c8.jpg,
 https://m.atcdn.co.uk/a/media/w600/b59bde09595e4c4eb777ba37aaf01b0b.jpg</Image>
   </Car>
   <Car>
-    <ID>4</ID>
-    <Name>Volkswagen</Name>
-    <Model>Golf</Model>
-    <FullModel>1.6 TDI Match Euro 5 3dr</FullModel>
-    <EyeCatcher>P/X TO CLEAR✅ MARCH MOT✅£20TAX</EyeCatcher>
-    <Value>1499</Value>
-    <Mileage>201800</Mileage>
-    <YearOfManu>2012</YearOfManu>
+    <ID>3</ID>
+    <Name>Audi</Name>
+    <Model>Q7</Model>
+    <FullModel>3.0 TDI V6 S line Tiptronic quattro Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>SUNROOF✅REV CAM✅12M WARRANTY✅</EyeCatcher>
+    <Value>6999</Value>
+    <Mileage>123900</Mileage>
+    <YearOfManu>2011</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>MT12 USM</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>20</Tax>
-    <Insurance>16E</Insurance>
-    <Mpg>62.8</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202601139107798?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=968876d2-2da9-443c-b2f8-5055bf46e4fd&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts55ex&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts55ex%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=150&amp;calc-term=48&amp;calc-mileage=10000</AT>
-    <Description>
-      - 🔥 PART EXCHANGE TO CLEAR – TRADE SALE 🔥
-      - Available now is this Volkswagen Golf 1.6 TDI Match, taken in part exchange and offered at a clearance price. Ideal for traders, mechanics, or anyone looking for a cheap diesel runaround.
-      - Powered by the reliable 1.6 TDI diesel engine, it offers strong fuel economy and low running costs.
-      - ⚠️ PLEASE NOTE:
-      - This vehicle is being sold as a part exchange to clear / trade sale and is therefore without warranty, without guarantees, and not prepared to retail standard. Buyers are welcome to inspect and test drive prior to purchase.
-      - Key Features Include:
-      - • Match specification
-      - • Air conditioning
-      - • Alloy wheels
-      - • Cruise control
-      - • Bluetooth (if fitted)
-      - • Electric windows and mirrors
-      - • Remote central locking
-      - • FRONT AND REAR PARKING SENSORS
-      - Starts, drives, and moves as it should.
-      - 💷 Priced to clear – no offers, no warranty.
-      - 🚗 Drive away today – first to view will buy.
-      - 📞 Call or message to arrange viewing.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/d21f0b8d4a5b4e04a354e981b49c584d.jpg,
-https://m.atcdn.co.uk/a/media/w600/d084c7e67ea441af8b599287580a9d13.jpg,
-https://m.atcdn.co.uk/a/media/w600/778bde3dd4244470a4b797ed8e45ff16.jpg,
-https://m.atcdn.co.uk/a/media/w600/fa84fba7345a4f1f8ca676eab16887c1.jpg,
-https://m.atcdn.co.uk/a/media/w600/267441c2ca3e4ba2ae91b9838d4635b0.jpg,
-https://m.atcdn.co.uk/a/media/w600/b17909772d8544018bc1dd2fe8913f14.jpg,
-https://m.atcdn.co.uk/a/media/w600/3f24aea40c6a421dbb0306a33126328b.jpg</Image>
-  </Car>
-  <Car>
-    <ID>5</ID>
-    <Name>Kia</Name>
-    <Model>Rio</Model>
-    <FullModel>1.25 2 Euro 5 3dr</FullModel>
-    <EyeCatcher>6M WARRANTY✅ULEZ✅DELIVERY✅</EyeCatcher>
-    <Value>2999</Value>
-    <Mileage>74000</Mileage>
-    <YearOfManu>2013</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
+    <Transmission>Automatic</Transmission>
     <Colour>Black</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>SJ63LNO</Reg>
+    <Reg>LM61ERX</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>35</Tax>
-    <Insurance>05E</Insurance>
-    <Mpg>55.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202512048391439?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=44fded41-3d3c-4f70-91c2-a5072c428e7a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Tax>395</Tax>
+    <Insurance>41E</Insurance>
+    <Mpg>38.2</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601289486380?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
     <Description>
-      - Available now is this clean and economical 2013 (63) Kia Rio 1.25 2, a reliable and practical hatchback known for its low running costs, comfortable drive, and excellent reputation for dependability.
-      - Powered by the 1.25 petrol engine, it’s smooth, economical, and cheap to insure — making it an ideal choice for new drivers, commuting, or everyday use.
-      - ✅ Low insurance • Great MPG • Cheap to run
+      - ✅✅12 MONTH WARRANTY✅✅
+      - Available now is this powerful and luxurious 2011 (61) Audi Q7 3.0 TDI V6 S line Tiptronic quattro, a full-size premium SUV offering exceptional comfort, strong performance, and outstanding all-weather capability.
+      - Powered by the 3.0 V6 TDI diesel engine paired with the smooth Tiptronic automatic gearbox and Audi’s legendary quattro four-wheel drive, it delivers effortless acceleration, confident handling, and impressive towing capability.
+      - ✅ V6 Power • S line Spec • quattro 4WD • Luxury SUV
       - Key Features Include:
-      - • Air conditioning
-      - • Bluetooth and media connectivity
+      - • 6-stage heated seats
+      - • Electric seats with memory function
+      - • Reverse camera
+      - • BOSE surround sound system
+      - • Satellite navigation system
+      - • S line exterior and interior styling
+      - • Tiptronic automatic transmission
+      - • quattro four-wheel drive
+      - • Full leather S line sports seats
+      - • Dual-zone climate control
+      - • Cruise control
+      - • Front and rear parking sensors
+      - • Xenon headlights with LED daytime running lights
+      - • Power folding door mirrors
       - • Multifunction steering wheel
-      - • Electric windows and mirrors
       - • Alloy wheels
+      - • Electric windows and mirrors
       - • ISOFIX
-      - • Remote central locking
-      - • Trip computer
-      - • Daytime running lights
-      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - Drives superb — smooth, powerful, and extremely comfortable. No warning lights or mechanical issues.
       - • Recently serviced and inspected
-      - • MOT expires August 2026
-      - ✅ Drive away today – reserve SJ63 LNO with a refundable £100 deposit (TandCs apply).
+      - • MOT expires July 2026
+      - ✅ Drive away today – reserve LM61 ERX with a refundable £100 deposit (TandCs apply).
       - 🚚 Nationwide delivery available at competitive rates.
       - ⸻
       - Why Buy from AW Trade Centre?
@@ -252,18 +150,18 @@ https://m.atcdn.co.uk/a/media/w600/3f24aea40c6a421dbb0306a33126328b.jpg</Image>
       - • HPI clear vehicles (unless otherwise stated)
       - • Fresh valet inside and out
       - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Kia Rio 1.25 2.
+      - 📞 Call or message us today to arrange a viewing or reserve this Audi Q7 3.0 TDI S line quattro Auto.
     </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/20130324eb93488fb66e3878d404973c.jpg,
-https://m.atcdn.co.uk/a/media/w600/0e03ad68f5334cd6a871b2277b33331e.jpg,
-https://m.atcdn.co.uk/a/media/w600/a4dfea8ba1d64942ad478ab86515e817.jpg,
-https://m.atcdn.co.uk/a/media/w600/b128628baf454cda92600e899f78bb8f.jpg,
-https://m.atcdn.co.uk/a/media/w600/d8cc34d53dee4bdbacd4eb6cf55ca1de.jpg,
-https://m.atcdn.co.uk/a/media/w600/faa8fdfab1ce4a2f9b482a5ad32cb327.jpg,
-https://m.atcdn.co.uk/a/media/w600/0ccdd0080862456e824c26369c5d04e1.jpg</Image>
+    <Image>https://m.atcdn.co.uk/a/media/w800/1f2595dcaf4c44769111448abc9266c2.jpg,
+https://m.atcdn.co.uk/a/media/w600/640b54d2e7774b05a2242e0c736c7c0e.jpg,
+https://m.atcdn.co.uk/a/media/w600/48bd1b8075754f4c91b7634c923e0a7e.jpg,
+https://m.atcdn.co.uk/a/media/w600/c221d0b39f674d67a9541dce6665d061.jpg,
+https://m.atcdn.co.uk/a/media/w600/539a8b5e98284ae8997c6397fa57e9ae.jpg,
+https://m.atcdn.co.uk/a/media/w600/8b63869bd9664083916a2db5fdd2755b.jpg,
+https://m.atcdn.co.uk/a/media/w600/f5673bbdb3a14809bf2712af9754f685.jpg</Image>
   </Car>
   <Car>
-    <ID>6</ID>
+    <ID>4</ID>
     <Name>Renault</Name>
     <Model>Clio</Model>
     <FullModel>1.5 dCi Dynamique TomTom Euro 5 5dr</FullModel>
@@ -322,46 +220,337 @@ https://m.atcdn.co.uk/a/media/w600/0ba7e3d251a2431dbc3805fe92f098af.jpg,
 https://m.atcdn.co.uk/a/media/w600/18a150bd93fc476a81019dd9cf1cc384.jpg,</Image>
   </Car>
   <Car>
+    <ID>5</ID>
+    <Name>Toyota</Name>
+    <Model>AYGO</Model>
+    <FullModel>1.0 VVT-i + Euro 4 3dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅DELIVERY✅£20 R’TAX</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>75000</Mileage>
+    <YearOfManu>2007</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SH57PNX</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>02E</Insurance>
+    <Mpg>62.8</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299525378?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371eee0c-3d74-4249-a846-662400bce2b2&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=200&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this ultra-economical and reliable 2007 (57) Toyota AYGO 1.0 VVT-i +, a perfect city car known for its very low running costs, cheap insurance, and excellent reliability.
+      - Powered by the efficient 1.0 VVT-i petrol engine, it’s easy to drive, extremely economical, and ideal for new drivers, city driving, or anyone looking for a cheap-to-run daily car.
+      - ✅ £20 yearly road tax • Low insurance • Excellent MPG
+      - Key Features Include:
+      - • + specification
+      - • Air conditioning
+      - • Electric windows
+      - • Remote central locking
+      - • Radio / CD player
+      - • Split folding rear seats
+      - • ISOFIX
+      - • Power steering
+      - Drives great — smooth, light, and very economical.
+      - • Recently serviced and inspected
+      - • MOT expires 5/10/2026
+      - ✅ Drive away today – reserve SH57 PNX with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Toyota AYGO 1.0 VVT-i +.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/34fedc19ac2b4917bfaed842c15bb70f.jpg,
+https://m.atcdn.co.uk/a/media/w600/90228c2335624ef488bfe022d41ff8be.jpg,
+https://m.atcdn.co.uk/a/media/w600/0491cb8fe42a4268af6b9b6fe03a0d69.jpg,
+https://m.atcdn.co.uk/a/media/w600/4897c09aa45c45669ea1d3550e7ceb77.jpg,
+https://m.atcdn.co.uk/a/media/w600/205f86c3c6924bc0bb2c8e1345b3b3ad.jpg,
+https://m.atcdn.co.uk/a/media/w600/d19511dc71e640b4bb0d8dc7d5b9bbca.jpg,
+https://m.atcdn.co.uk/a/media/w600/6c638d1226774e06b6fffca7c2b43b8a.jpg</Image>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Renault</Name>
+    <Model>Megane</Model>
+    <FullModel>1.6 16V Dynamique TomTom Euro 5 5dr</FullModel>
+    <EyeCatcher>FULL MOT✅6M WARRANTY✅DELIVERY✅</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>86000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>ND62ZSY</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>265</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>40.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512549?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371eee0c-3d74-4249-a846-662400bce2b2&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=200&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this smart and well-maintained 2013 (62) Renault Mégane 1.6 16V Dynamique TomTom, a comfortable and practical hatchback offering smooth performance, good reliability, and excellent everyday usability.
+      - Powered by the 1.6 petrol engine, it’s quiet, smooth, and easy to drive — ideal for commuting, family use, or longer journeys.
+      - ✅ Comfortable drive • Practical hatchback • Low running costs
+      - Key Features Include:
+      - • TomTom satellite navigation
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Cruise control with speed limiter
+      - • Dual-zone climate control
+      - • Alloy wheels
+      - • Keyless entry and start
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, comfortable, and responsive. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve ND62 ZSY with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Renault Mégane 1.6 Dynamique TomTom.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/b8e0980e9ecc47379b8dd6db0d7c1732.jpg,
+https://m.atcdn.co.uk/a/media/w600/c0a85f85842244ba810e3c6e43f39a1b.jpg,
+https://m.atcdn.co.uk/a/media/w600/a532e1f65d5a48b287d44e0b7a4f8af7.jpg,
+https://m.atcdn.co.uk/a/media/w600/e69f0600712c455c86b985fc8e00da5e.jpg,
+https://m.atcdn.co.uk/a/media/w600/56c9e3c1dfe04f21972392d09f8d729a.jpg,
+https://m.atcdn.co.uk/a/media/w600/a5f0f9309ece4fe4a91d8e0120946362.jpg,
+https://m.atcdn.co.uk/a/media/w600/04cde1a6c14c4be69b4316ff9bdee612.jpg</Image>
+  </Car>
+  <Car>
     <ID>7</ID>
-    <Name>Honda</Name>
-    <Model>Civic</Model>
-    <FullModel>2.2 i-DTEC ES Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>6M WARRANTY✅DELIVERY✅REV CAM✅</EyeCatcher>
-    <Value>3999</Value>
-    <Mileage>82700</Mileage>
+    <Name>Toyota</Name>
+    <Model>Corolla</Model>
+    <FullModel>1.4 VVT-i Colour Collection 5dr</FullModel>
+    <EyeCatcher>LOW MILEAGE✅6M WARRANTY✅ULEZ✅</EyeCatcher>
+    <Value>1999</Value>
+    <Mileage>87400</Mileage>
+    <YearOfManu>2006</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FG56EXB</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>265</Tax>
+    <Insurance>09E</Insurance>
+    <Mpg>42.2</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601289490651?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371eee0c-3d74-4249-a846-662400bce2b2&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=200&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this reliable and economical 2006 (56) Toyota Corolla 1.4 VVT-i Colour Collection, a well-built hatchback known for its durability, low running costs, and excellent reputation for reliability.
+      - Powered by the dependable 1.4 VVT-i petrol engine, it’s smooth, economical, and cheap to maintain — making it ideal for new drivers, commuting, or anyone looking for a solid, no-nonsense car.
+      - ✅ Low running costs • Reliable petrol • Cheap to maintain
+      - Key Features Include:
+      - • Colour Collection trim
+      - • Air conditioning
+      - • Alloy wheels
+      - • Electric windows and mirrors
+      - • Radio / CD player
+      - • Remote central locking
+      - • ISOFIX
+      - • Split folding rear seats
+      - Drives great — smooth, quiet, and economical for its age.
+      - • Recently serviced and inspected
+      - • MOT expires 02/11/2026
+      - ✅ Drive away today – reserve FG56 EXB with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Toyota Corolla 1.4 VVT-i Colour Collection.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/6b7346bff39746fbacb71efc86e6df7d.jpg,
+https://m.atcdn.co.uk/a/media/w600/7136f4edf2404e95881e87c30ebcb284.jpg,
+https://m.atcdn.co.uk/a/media/w600/8ebb31f1030946e796d4611f60ac3299.jpg,
+https://m.atcdn.co.uk/a/media/w600/1a68ebd85b3e49f48a94f173113d532a.jpg,
+https://m.atcdn.co.uk/a/media/w600/caefae2678bc415ca87975a6345b5ebb.jpg,
+https://m.atcdn.co.uk/a/media/w600/493d782b66ed41ef9f591c7332a5cbf4.jpg,
+https://m.atcdn.co.uk/a/media/w600/8afc333db88e4239a67e4c21190714f3.jpg</Image>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Mazda</Name>
+    <Model>Mazda2</Model>
+    <FullModel>1.3 Tamura Euro 5 5dr</FullModel>
+    <EyeCatcher>FULL MOT✅6M WARRANTY✅£35 R’TAX</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>95300</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NL12KVZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>56.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299525264?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=250c952e-c652-467d-8a2a-616363e1e88d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this smart and economical 2012 Mazda Mazda2 1.3 Tamura, a reliable and fun-to-drive hatchback known for its low running costs, sharp handling, and excellent reputation for dependability.
+      - Powered by the efficient 1.3 petrol engine, it’s smooth, economical, and cheap to insure — making it ideal for new drivers, commuting, or everyday use.
+      - ✅ £35 yearly road tax • Low insurance • Great MPG • Cheap to run
+      - Key Features Include:
+      - • Rear parking sensors
+      - • Tamura special edition specification
+      - • Alloy wheels
+      - • Air conditioning
+      - • Bluetooth and media connectivity (if fitted)
+      - • Electric windows and mirrors
+      - • Remote central locking
+      - • ISOFIX
+      - • Split folding rear seats
+      - • Trip computer
+      - Drives great — smooth, responsive, and very economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve NL12 KVZ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Mazda2 1.3 Tamura.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/999ca041357d40b9a642386e83c9dceb.jpg,
+https://m.atcdn.co.uk/a/media/w600/dc9e841c7558409e95f7d609a096ed33.jpg,
+https://m.atcdn.co.uk/a/media/w600/177437516e054c4b9b5be80d70f80857.jpg,
+https://m.atcdn.co.uk/a/media/w600/97ab590021f4465e96a717ef7d1437aa.jpg,
+https://m.atcdn.co.uk/a/media/w600/44af3bee0eab423cb1c0bb934cb25c09.jpg,
+https://m.atcdn.co.uk/a/media/w600/43101c5cb4974214906482ec068a16e2.jpg,
+https://m.atcdn.co.uk/a/media/w600/035556c2c38c4dcbafb2e7736c735e91.jpg</Image>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Ford</Name>
+    <Model>Fiesta</Model>
+    <FullModel>1.4 Titanium 5dr</FullModel>
+    <EyeCatcher>FULL MOT✅6M WARRANTY✅DELIVERY✅</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>99900</Mileage>
+    <YearOfManu>2011</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PO11TNZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>195</Tax>
+    <Insurance>09E</Insurance>
+    <Mpg>49.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299524949?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=250c952e-c652-467d-8a2a-616363e1e88d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this smart and economical 2011 (61) Ford Fiesta 1.4 Titanium (5-Door), a reliable and practical hatchback offering low running costs, great driving comfort, and excellent everyday usability.
+      - Powered by the proven 1.4 petrol engine, it’s smooth, easy to drive, and cheap to insure — making it ideal for new drivers, commuting, or a dependable family runaround.
+      - ✅ Low insurance • Great MPG • Practical 5-door
+      - Key Features Include:
+      - • Rear parking sensors
+      - • Power folding door mirrors
+      - • Titanium specification
+      - • Alloy wheels
+      - • Air conditioning
+      - • Bluetooth and media connectivity (if fitted)
+      - • Heated front windscreen
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Remote central locking
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve PO11 TNZ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Ford Fiesta 1.4 Titanium 5-Door.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/13a444da494c45a5bbc2f78aae41b982.jpg,
+https://m.atcdn.co.uk/a/media/w600/088182def48548b79580a5a39edc8453.jpg,
+https://m.atcdn.co.uk/a/media/w600/da1a037dda564e80810c697d124a15a7.jpg,
+https://m.atcdn.co.uk/a/media/w600/edb959cbe6fe400ab396c6978a4eda9a.jpg,
+https://m.atcdn.co.uk/a/media/w600/1ca4041497dc4235984743d691069f9e.jpg,
+https://m.atcdn.co.uk/a/media/w600/2c3995e834f545e1b7b9a4537ee20882.jpg,
+https://m.atcdn.co.uk/a/media/w600/71dc21ca09dc403397a7dcecb6bbc349.jpg</Image>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Citroen</Name>
+    <Model>DS3</Model>
+    <FullModel>1.6 e-HDi Airdream DStyle Plus Euro 5 (s/s) 3dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅£20 R’TAX✅DELIVERY</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>77000</Mileage>
     <YearOfManu>2013</YearOfManu>
     <CatStat>Clear</CatStat>
     <FuelType>Diesel</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Red</Colour>
+    <Colour>White</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>NL63FLP</Reg>
+    <Reg>ND13LUB</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
     <Tax>20</Tax>
-    <Insurance>19E</Insurance>
-    <Mpg>67.3</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202601159172795?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=2c0ebe6d-b290-4bac-8881-3dab5e3b9b76&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts55ex&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts55ex%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Insurance>15E</Insurance>
+    <Mpg>78.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512366?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
     <Description>
-      - DescriptionAvailable now is this reliable and well-maintained 2013 (63) Honda Civic 2.2 i-DTEC ES, a spacious and practical
-      - hatchback offering excellent performance, outstanding fuel economy, and Honda’s renowned reliability.
-      - Powered by the strong and efficient 2.2 i-DTEC diesel engine, it delivers excellent torque, smooth motorway cruising, and superb MPG — ideal for long-distance driving and daily commuting alike.
-      - ✅ Excellent MPG • Strong diesel • Honda reliability
+      - Available now is this stylish and economical 2013 Citroën DS3 1.6 e-HDi Airdream DStyle Plus, a great-looking hatchback offering low running costs, strong fuel economy, and distinctive DS styling.
+      - Powered by the efficient 1.6 e-HDi diesel engine with Airdream technology, it delivers excellent MPG and low emissions — ideal for commuting and longer journeys alike.
+      - ✅ Excellent MPG • Low road tax • Stylish hatchback
       - Key Features Include:
-      - • Reverse camera
-      - • Air conditioning
-      - • Cruise control
+      - • DStyle Plus specification
+      - • Touchscreen infotainment system
       - • Bluetooth and media connectivity
+      - • Cruise control with speed limiter
+      - • Air conditioning
       - • Alloy wheels
       - • Multifunction steering wheel
       - • Electric windows and mirrors
-      - • Trip computer
       - • ISOFIX
       - • Daytime running lights
       - Drives great — smooth, quiet, and very economical. No warning lights or mechanical issues.
       - • Recently serviced and inspected
-      - • MOT expires September 2026
-      - ✅ Drive away today – reserve NL63 FLP with a refundable £100 deposit (TandCs apply).
+      - • MOT expires 6/12/2026
+      - ✅ Drive away today – reserve ND13 LUB with a refundable £100 deposit (TandCs apply).
       - 🚚 Nationwide delivery available at competitive rates.
       - ⸻
       - Why Buy from AW Trade Centre?
@@ -371,56 +560,55 @@ https://m.atcdn.co.uk/a/media/w600/18a150bd93fc476a81019dd9cf1cc384.jpg,</Image>
       - • HPI clear vehicles (unless otherwise stated)
       - • Fresh valet inside and out
       - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Honda Civic 2.2 i-DTEC ES.Read full description
+      - 📞 Call or message us today to arrange a viewing or reserve this Citroën DS3 1.6 e-HDi DStyle Plus.
     </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/595d1da564b04735a9eeea499c88eef8.jpg,
-https://m.atcdn.co.uk/a/media/w600/086f266c46d04762bf05018135bc306d.jpg,
-https://m.atcdn.co.uk/a/media/w600/fad609964a494b6dab7f167517a97cbf.jpg,
-https://m.atcdn.co.uk/a/media/w600/20f9e17231d44e34bd26b9d4a8fa182a.jpg,
-https://m.atcdn.co.uk/a/media/w600/52ffa3f9e50b43a2ac42bc70d25e259b.jpg,
-https://m.atcdn.co.uk/a/media/w600/624892b5445d4112acf212b09ed3fa66.jpg,
-https://m.atcdn.co.uk/a/media/w600/3f48abf7ed404d948de30de943a22711.jpg,</Image>
+    <Image>https://m.atcdn.co.uk/a/media/w800/c4ecffa3894a4d09b76088dbaeafd113.jpg,
+https://m.atcdn.co.uk/a/media/w600/26d8e0f22ac94370b863c3986101c3c4.jpg,
+https://m.atcdn.co.uk/a/media/w600/5aafc3046cb949ebaaa8155c132deb99.jpg,
+https://m.atcdn.co.uk/a/media/w600/d539017313814ddda54f9ae7ea9345b4.jpg,
+https://m.atcdn.co.uk/a/media/w600/49e797b89a39480aaa8351371aea71b1.jpg,
+https://m.atcdn.co.uk/a/media/w600/62c816e35a664e558ee2260a1a460b9b.jpg,
+https://m.atcdn.co.uk/a/media/w600/c46e5a53155b46448db25928ae855808.jpg</Image>
   </Car>
   <Car>
-    <ID>9</ID>
-    <Name>Volkswagen</Name>
-    <Model>Jetta</Model>
-    <FullModel>1.6 TDI BlueMotion Tech SE Euro 5 (s/s) 4dr</FullModel>
-    <EyeCatcher>P’SENSORS✅SATNAV✅MOT✅WARRANTY✅</EyeCatcher>
-    <Value>2450</Value>
-    <Mileage>115000</Mileage>
+    <ID>11</ID>
+    <Name>Kia</Name>
+    <Model>Rio</Model>
+    <FullModel>1.25 2 Euro 5 5dr</FullModel>
+    <EyeCatcher>£35 R’TAX✅6M WARRANTY✅DELIVERY</EyeCatcher>
+    <Value>3499</Value>
+    <Mileage>56600</Mileage>
     <YearOfManu>2011</YearOfManu>
     <CatStat>Clear</CatStat>
-    <FuelType>Diesel</FuelType>
+    <FuelType>Petrol</FuelType>
     <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
+    <Colour>Silver</Colour>
     <ExtraFeatures></ExtraFeatures>
-    <Reg>OY61 ECV</Reg>
+    <Reg>LD61WGM</Reg>
     <Video></Video>
     <MetaTag></MetaTag>
-    <Tax>20</Tax>
-    <Insurance>12E</Insurance>
-    <Mpg>67.3</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202512168637250?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9d30192c-2e51-411f-a00e-42a5816b77cc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Tax>35</Tax>
+    <Insurance>05E</Insurance>
+    <Mpg>55.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601249402893?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=350&amp;calc-term=48&amp;calc-mileage=10000</AT>
     <Description>
-      - Available now is this well-maintained and economical 2011 (61) Volkswagen Jetta 1.6 TDI BlueMotion Technology SE, a comfortable and spacious saloon offering excellent fuel economy, strong reliability, and Volkswagen’s solid build quality.
-      - Powered by the 1.6 TDI diesel engine, it’s smooth, efficient, and ideal for commuting, motorway driving, or anyone wanting a practical, low-running-cost family saloon.
-      - ✅ Excellent MPG • Low running costs • Comfortable saloon
+      - Available now is this clean and economical 2011 (61) Kia Rio 1.25 2, a reliable and practical hatchback known for its low running costs, comfortable drive, and strong reputation for dependability.
+      - Powered by the 1.25 petrol engine, it’s smooth, economical, and cheap to insure — making it ideal for new drivers, commuting, or everyday use.
+      - ✅ £35 road tax • Low insurance • Great MPG • Cheap to run
       - Key Features Include:
-      - • BlueMotion Technology
-      - • Parking sensors
-      - • Cruise control
+      - • Air conditioning
       - • Bluetooth and media connectivity
       - • Multifunction steering wheel
-      - • Alloy wheels
       - • Electric windows and mirrors
-      - • Trip computer
+      - • Alloy wheels
       - • ISOFIX
+      - • Remote central locking
+      - • Trip computer
       - • Daytime running lights
       - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
       - • Recently serviced and inspected
-      - • MOT to be renewed at point of sale
-      - ✅ Drive away today – reserve it with a refundable £100 deposit (TandCs apply).
+      - • MOT expires September 2026 with no advisories!
+      - ✅ Drive away today – reserve LD61 WGM with a refundable £100 deposit (TandCs apply).
       - 🚚 Nationwide delivery available at competitive rates.
       - ⸻
       - Why Buy from AW Trade Centre?
@@ -430,15 +618,259 @@ https://m.atcdn.co.uk/a/media/w600/3f48abf7ed404d948de30de943a22711.jpg,</Image>
       - • HPI clear vehicles (unless otherwise stated)
       - • Fresh valet inside and out
       - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Volkswagen Jetta 1.6 TDI SE.n
+      - 📞 Call or message us today to arrange a viewing or reserve this Kia Rio 1.25 2.
     </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/ffe8ac535924420cabbe710a3b3f77b1.jpg,
-https://m.atcdn.co.uk/a/media/w600/3034e396d37643d5a16ae8ab0ae3b96f.jpg,
-https://m.atcdn.co.uk/a/media/w600/275bfa9fee6e47e18ead87f27656423e.jpg,
-https://m.atcdn.co.uk/a/media/w600/95a80c60160b4899a9115bc8f97c571e.jpg,
-https://m.atcdn.co.uk/a/media/w600/e0cf636a35244e8ab01386f972b148c6.jpg,
-https://m.atcdn.co.uk/a/media/w600/00ea10f042004440ab561458a07c31f0.jpg,
-https://m.atcdn.co.uk/a/media/w600/ecca05a5571243b99db814ee599b39ed.jpg</Image>
+    <Image>https://m.atcdn.co.uk/a/media/w800/2a6a3619863a4340a34c7167d4f48c91.jpg,
+https://m.atcdn.co.uk/a/media/w600/fe6ca6b853ee4fed9613fe4353c91969.jpg,
+https://m.atcdn.co.uk/a/media/w600/97d719a9d11a46019b58f2c7c8b1fadf.jpg,
+https://m.atcdn.co.uk/a/media/w600/539a0f7b79f4434a891dab891d84b89d.jpg,
+https://m.atcdn.co.uk/a/media/w600/2ca38182fb3c41e98340c1dd0b175f37.jpg,
+https://m.atcdn.co.uk/a/media/w600/ed38bc2b73c24d4aa79a02746797258d.jpg,
+https://m.atcdn.co.uk/a/media/w600/d9085447471745e987b47664d40746a4.jpg</Image>
+  </Car>
+  <Car>
+    <ID>12</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa</Model>
+    <FullModel>1.0i Turbo ecoFLEX Limited Edition Euro 6 (s/s) 3dr</FullModel>
+    <EyeCatcher>H’TED WHEEL/SEATS✅6M WARRANTY✅</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>78700</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FM15AYU</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601269433859?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this sporty and economical 2015 Vauxhall Corsa 1.0i Turbo ecoFLEX Limited Edition, a great-looking hatchback offering low running costs, lively performance, and eye-catching styling.
+      - Powered by the punchy 1.0 turbo petrol ecoFLEX engine, it delivers excellent fuel economy with responsive performance — ideal for new drivers, commuting, or everyday use.
+      - ✅ Turbo petrol • Low insurance • ULEZ compliant
+      - Key Features Include:
+      - • Heated front seats
+      - • Heated steering wheel
+      - • Eco driving mode
+      - • City driving mode
+      - • Limited Edition styling package
+      - • Alloy wheels
+      - • Cruise control
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Touchscreen infotainment (if fitted)
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Sport seats
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, responsive, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve FM15 AYU with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Vauxhall Corsa 1.0 Turbo Limited Edition.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/1d76b3a9244b47408701a5693a1e3e5e.jpg,
+https://m.atcdn.co.uk/a/media/w600/2858a4dcfdae443c91f3df850c33e3b8.jpg,
+https://m.atcdn.co.uk/a/media/w600/17e2d20d8f944d5b8d41bc2047a6c70a.jpg,
+https://m.atcdn.co.uk/a/media/w600/c6c7bb6cea9e44c586906bac033ec720.jpg,
+https://m.atcdn.co.uk/a/media/w600/4fa19aa402f04f1e94922d86bf65f35e.jpg,
+https://m.atcdn.co.uk/a/media/w600/d9db90f083ea41fc826e5bf962c48e89.jpg,
+https://m.atcdn.co.uk/a/media/w600/05d320412b6c4493a7d64257ebb59a4c.jpg</Image>
+  </Car>
+  <Car>
+    <ID>13</ID>
+    <Name>Nissan</Name>
+    <Model>X-Trail</Model>
+    <FullModel>1.6 dCi n-tec Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>SUNROOF✅360 CAMERA✅7 SEATER✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>120500</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NX15HNH</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601279453429?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this spacious and well-equipped 2015 Nissan X-Trail 1.6 dCi n-tec (7 Seater), a practical and comfortable SUV offering excellent fuel economy, modern technology, and superb everyday usability for families.
+      - Powered by the efficient 1.6 dCi diesel engine, it delivers strong MPG and smooth motorway cruising, making it ideal for family use, long-distance driving, or anyone needing extra space.
+      - ✅ 7 Seats • n-tec Spec • Excellent MPG • Spacious SUV
+      - Key Features Include:
+      - • 7-seat configuration
+      - • Touchscreen infotainment system
+      - • Satellite navigation
+      - • 360° Around View Monitor (reverse camera)
+      - • Front and rear parking sensors
+      - • Bluetooth and media connectivity
+      - • Dual-zone climate control
+      - • Cruise control with speed limiter
+      - • Panoramic glass roof (if fitted)
+      - • Alloy wheels
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives superb — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires 25/01/2027
+      - ✅ Drive away today – reserve NX15 HNH with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Nissan X-Trail 1.6 dCi n-tec 7 Seater.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/af7abadb9c8e4b66bb4a7f700a138b1f.jpg,
+https://m.atcdn.co.uk/a/media/w600/57fe9acfccef439b8957fa15987b501c.jpg,
+https://m.atcdn.co.uk/a/media/w600/4e889c870fda4762b8e72f3319bbfbb3.jpg,
+https://m.atcdn.co.uk/a/media/w600/97ffad8993244fd4b603d308087246a2.jpg,
+https://m.atcdn.co.uk/a/media/w600/f8427188b8f64d4ab920b827f35225c9.jpg,
+https://m.atcdn.co.uk/a/media/w600/30234a47864a4a7b8f80ef4d3bb2e115.jpg,
+https://m.atcdn.co.uk/a/media/w600/9e9d68a1cd31489bad62dac5d65761ad.jpg</Image>
+  </Car>
+  <Car>
+    <ID>14</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 TDCi Zetec S Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅£20 R’TAX✅DELIVERY</EyeCatcher>
+    <Value>5499</Value>
+    <Mileage>60700</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>AO63WFZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512786?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this sporty and economical 2013 (63) Ford Focus 1.6 TDCi Zetec S, a great-looking hatchback offering sharp styling, excellent fuel economy, and the solid driving feel the Focus is known for.
+      - Powered by the reliable 1.6 TDCi diesel engine, it delivers strong MPG and smooth motorway cruising — ideal for commuting or longer journeys.
+      - ✅ Zetec S Styling • Excellent MPG • Low Running Costs
+      - Key Features Include:
+      - • Zetec S sports styling pack
+      - • Alloy wheels
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Cruise control
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Sports seats
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, responsive, and very economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires December 2026
+      - ✅ Drive away today – reserve AO63 WFZ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Ford Focus 1.6 TDCi Zetec S.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/04c8c4eb9afc4ed2abb08593493ccfdc.jpg,
+https://m.atcdn.co.uk/a/media/w600/4198a79b3a9a4475a4b592a897a71968.jpg,
+https://m.atcdn.co.uk/a/media/w600/1708c9cbe83640c68aca785fd2d933e5.jpg,
+https://m.atcdn.co.uk/a/media/w600/7e6e082a9a1245ffaf8d7a0c44d4cc21.jpg,
+https://m.atcdn.co.uk/a/media/w600/26d75d89e381405e862dffb1878f1d6e.jpg,
+https://m.atcdn.co.uk/a/media/w600/1d0a3d0a174c48d0b2c43e06ebda9eee.jpg,
+https://m.atcdn.co.uk/a/media/w600/86346c5ea11f46a5908d4c438a82a232.jpg</Image>
+  </Car>
+  <Car>
+    <ID>15</ID>
+    <Name>Kia</Name>
+    <Model>Rio</Model>
+    <FullModel>1.25 2 Euro 5 3dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅ULEZ✅DELIVERY✅</EyeCatcher>
+    <Value>2999</Value>
+    <Mileage>74000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>SJ63LNO</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>05E</Insurance>
+    <Mpg>55.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202512048391439?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=44fded41-3d3c-4f70-91c2-a5072c428e7a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
+    <Description>
+      - Available now is this clean and economical 2013 (63) Kia Rio 1.25 2, a reliable and practical hatchback known for its low running costs, comfortable drive, and excellent reputation for dependability.
+      - Powered by the 1.25 petrol engine, it’s smooth, economical, and cheap to insure — making it an ideal choice for new drivers, commuting, or everyday use.
+      - ✅ Low insurance • Great MPG • Cheap to run
+      - Key Features Include:
+      - • Air conditioning
+      - • Bluetooth and media connectivity
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Alloy wheels
+      - • ISOFIX
+      - • Remote central locking
+      - • Trip computer
+      - • Daytime running lights
+      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires August 2026
+      - ✅ Drive away today – reserve SJ63 LNO with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Kia Rio 1.25 2.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/20130324eb93488fb66e3878d404973c.jpg,
+https://m.atcdn.co.uk/a/media/w600/0e03ad68f5334cd6a871b2277b33331e.jpg,
+https://m.atcdn.co.uk/a/media/w600/a4dfea8ba1d64942ad478ab86515e817.jpg,
+https://m.atcdn.co.uk/a/media/w600/b128628baf454cda92600e899f78bb8f.jpg,
+https://m.atcdn.co.uk/a/media/w600/d8cc34d53dee4bdbacd4eb6cf55ca1de.jpg,
+https://m.atcdn.co.uk/a/media/w600/faa8fdfab1ce4a2f9b482a5ad32cb327.jpg,
+https://m.atcdn.co.uk/a/media/w600/0ccdd0080862456e824c26369c5d04e1.jpg</Image>
   </Car>
   <Car>
     <ID>100</ID>
