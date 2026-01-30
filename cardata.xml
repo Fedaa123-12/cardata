@@ -873,6 +873,62 @@ https://m.atcdn.co.uk/a/media/w600/faa8fdfab1ce4a2f9b482a5ad32cb327.jpg,
 https://m.atcdn.co.uk/a/media/w600/0ccdd0080862456e824c26369c5d04e1.jpg</Image>
   </Car>
   <Car>
+    <ID>16</ID>
+    <Name>Toyota</Name>
+    <Model>Yaris</Model>
+    <FullModel>1.0 VVT-i Active Euro 6 3dr</FullModel>
+    <EyeCatcher>FULL MOT✅£20 R’TAX✅6M WARRANTY</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>99500</Mileage>
+    <YearOfManu>2017</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PX17LTE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>04E</Insurance>
+    <Mpg>65.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512141?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5ad67c07-e604-46bd-b074-3bcd77dd895c&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this clean and economical 2017 Toyota Yaris 1.0 VVT-i Active, a reliable and practical hatchback offering ultra-low running costs, easy driving, and Toyota’s renowned dependability.
+      - Powered by the efficient 1.0 VVT-i petrol engine, it’s cheap to insure, ULEZ compliant, and perfect for new drivers, city driving, or everyday commuting.
+      - ✅ ULEZ compliant • Low insurance • Excellent MPG
+      - Key Features Include:
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, quiet, and very economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve PX17 LTE with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Toyota Yaris 1.0 VVT-i Active.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/c73f019868704154a6ac416a51ad9a33.jpg,
+https://m.atcdn.co.uk/a/media/w600/72e70b3c42834351936aabde30a9fc9d.jpg,
+https://m.atcdn.co.uk/a/media/w600/1ff7c0f0334c41c8a106d55012bbf8c2.jpg,
+https://m.atcdn.co.uk/a/media/w600/c8b53fe19e854f47bd4be073767467c9.jpg,
+https://m.atcdn.co.uk/a/media/w600/0ba9e07b5a8d4cf5be20bde1ebc794fa.jpg,
+https://m.atcdn.co.uk/a/media/w600/544e8db9be9b4354858cac6b066bdbd8.jpg,
+https://m.atcdn.co.uk/a/media/w600/dea13aa6bf584590814339f66831f89a.jpg</Image>
+  </Car>
+  <Car>
     <ID>100</ID>
     <Name>Vauxhall</Name>
     <Model>Corsa</Model>
