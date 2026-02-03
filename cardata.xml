@@ -384,64 +384,6 @@ https://m.atcdn.co.uk/a/media/w600/c46e5a53155b46448db25928ae855808.jpg</Image>
   </Car>
   <Car>
     <ID>8</ID>
-    <Name>Kia</Name>
-    <Model>Rio</Model>
-    <FullModel>1.25 2 Euro 5 5dr</FullModel>
-    <EyeCatcher>£35 R’TAX✅6M WARRANTY✅DELIVERY</EyeCatcher>
-    <Value>3499</Value>
-    <Mileage>56600</Mileage>
-    <YearOfManu>2011</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Silver</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>LD61WGM</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>35</Tax>
-    <Insurance>05E</Insurance>
-    <Mpg>55.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202601249402893?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=350&amp;calc-term=48&amp;calc-mileage=10000</AT>
-    <Description>
-      - Available now is this clean and economical 2011 (61) Kia Rio 1.25 2, a reliable and practical hatchback known for its low running costs, comfortable drive, and strong reputation for dependability.
-      - Powered by the 1.25 petrol engine, it’s smooth, economical, and cheap to insure — making it ideal for new drivers, commuting, or everyday use.
-      - ✅ £35 road tax • Low insurance • Great MPG • Cheap to run
-      - Key Features Include:
-      - • Air conditioning
-      - • Bluetooth and media connectivity
-      - • Multifunction steering wheel
-      - • Electric windows and mirrors
-      - • Alloy wheels
-      - • ISOFIX
-      - • Remote central locking
-      - • Trip computer
-      - • Daytime running lights
-      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • MOT expires September 2026 with no advisories!
-      - ✅ Drive away today – reserve LD61 WGM with a refundable £100 deposit (TandCs apply).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - ⸻
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Kia Rio 1.25 2.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/2a6a3619863a4340a34c7167d4f48c91.jpg,
-https://m.atcdn.co.uk/a/media/w600/fe6ca6b853ee4fed9613fe4353c91969.jpg,
-https://m.atcdn.co.uk/a/media/w600/97d719a9d11a46019b58f2c7c8b1fadf.jpg,
-https://m.atcdn.co.uk/a/media/w600/539a0f7b79f4434a891dab891d84b89d.jpg,
-https://m.atcdn.co.uk/a/media/w600/2ca38182fb3c41e98340c1dd0b175f37.jpg,
-https://m.atcdn.co.uk/a/media/w600/ed38bc2b73c24d4aa79a02746797258d.jpg,
-https://m.atcdn.co.uk/a/media/w600/d9085447471745e987b47664d40746a4.jpg</Image>
-  </Car>
-  <Car>
-    <ID>9</ID>
     <Name>Vauxhall</Name>
     <Model>Corsa</Model>
     <FullModel>1.0i Turbo ecoFLEX Limited Edition Euro 6 (s/s) 3dr</FullModel>
@@ -505,7 +447,7 @@ https://m.atcdn.co.uk/a/media/w600/d9db90f083ea41fc826e5bf962c48e89.jpg,
 https://m.atcdn.co.uk/a/media/w600/05d320412b6c4493a7d64257ebb59a4c.jpg</Image>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Nissan</Name>
     <Model>X-Trail</Model>
     <FullModel>1.6 dCi n-tec Euro 5 (s/s) 5dr</FullModel>
@@ -568,7 +510,7 @@ https://m.atcdn.co.uk/a/media/w600/30234a47864a4a7b8f80ef4d3bb2e115.jpg,
 https://m.atcdn.co.uk/a/media/w600/9e9d68a1cd31489bad62dac5d65761ad.jpg</Image>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>10</ID>
     <Name>Ford</Name>
     <Model>Focus</Model>
     <FullModel>1.6 TDCi Zetec S Euro 5 (s/s) 5dr</FullModel>
@@ -627,7 +569,7 @@ https://m.atcdn.co.uk/a/media/w600/1d0a3d0a174c48d0b2c43e06ebda9eee.jpg,
 https://m.atcdn.co.uk/a/media/w600/86346c5ea11f46a5908d4c438a82a232.jpg</Image>
   </Car>
   <Car>
-    <ID>12</ID>
+    <ID>11</ID>
     <Name>Kia</Name>
     <Model>Rio</Model>
     <FullModel>1.25 2 Euro 5 3dr</FullModel>
@@ -685,7 +627,7 @@ https://m.atcdn.co.uk/a/media/w600/faa8fdfab1ce4a2f9b482a5ad32cb327.jpg,
 https://m.atcdn.co.uk/a/media/w600/0ccdd0080862456e824c26369c5d04e1.jpg</Image>
   </Car>
   <Car>
-    <ID>13</ID>
+    <ID>12</ID>
     <Name>Toyota</Name>
     <Model>Yaris</Model>
     <FullModel>1.0 VVT-i Active Euro 6 3dr</FullModel>
