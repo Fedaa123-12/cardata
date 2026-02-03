@@ -1,4 +1,68 @@
 <Cars>
+<Car>
+    <ID>8</ID>
+    <Name>Vauxhall</Name>
+    <Model>Corsa</Model>
+    <FullModel>1.0i Turbo ecoFLEX Limited Edition Euro 6 (s/s) 3dr</FullModel>
+    <EyeCatcher>H’TED WHEEL/SEATS✅6M WARRANTY✅</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>78700</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>FM15AYU</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>35</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601269433859?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this sporty and economical 2015 Vauxhall Corsa 1.0i Turbo ecoFLEX Limited Edition, a great-looking hatchback offering low running costs, lively performance, and eye-catching styling.
+      - Powered by the punchy 1.0 turbo petrol ecoFLEX engine, it delivers excellent fuel economy with responsive performance — ideal for new drivers, commuting, or everyday use.
+      - ✅ Turbo petrol • Low insurance • ULEZ compliant
+      - Key Features Include:
+      - • Heated front seats
+      - • Heated steering wheel
+      - • Eco driving mode
+      - • City driving mode
+      - • Limited Edition styling package
+      - • Alloy wheels
+      - • Cruise control
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Touchscreen infotainment (if fitted)
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Sport seats
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, responsive, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve FM15 AYU with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Vauxhall Corsa 1.0 Turbo Limited Edition.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/1d76b3a9244b47408701a5693a1e3e5e.jpg,
+https://m.atcdn.co.uk/a/media/w600/2858a4dcfdae443c91f3df850c33e3b8.jpg,
+https://m.atcdn.co.uk/a/media/w600/17e2d20d8f944d5b8d41bc2047a6c70a.jpg,
+https://m.atcdn.co.uk/a/media/w600/c6c7bb6cea9e44c586906bac033ec720.jpg,
+https://m.atcdn.co.uk/a/media/w600/4fa19aa402f04f1e94922d86bf65f35e.jpg,
+https://m.atcdn.co.uk/a/media/w600/d9db90f083ea41fc826e5bf962c48e89.jpg,
+https://m.atcdn.co.uk/a/media/w600/05d320412b6c4493a7d64257ebb59a4c.jpg</Image>
+  </Car>
  <Car>
     <ID>8</ID>
     <Name>Kia</Name>
