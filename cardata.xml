@@ -37,7 +37,7 @@ https://m.atcdn.co.uk/a/media/w600/ba5fe941ef824122be6f772325f724aa.jpg</Image>
     <Model>AYGO</Model>
     <FullModel>1.0 VVT-i + Euro 4 3dr</FullModel>
     <EyeCatcher>6M WARRANTY✅DELIVERY✅£20 R’TAX</EyeCatcher>
-    <Value>1999</Value>
+    <Value>1399</Value>
     <Mileage>75000</Mileage>
     <YearOfManu>2007</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -153,7 +153,7 @@ https://m.atcdn.co.uk/a/media/w600/04cde1a6c14c4be69b4316ff9bdee612.jpg</Image>
     <Model>Corolla</Model>
     <FullModel>1.4 VVT-i Colour Collection 5dr</FullModel>
     <EyeCatcher>NOV MOT✅ULEZ✅LOW MILEAGE</EyeCatcher>
-    <Value>1799</Value>
+    <Value>1499</Value>
     <Mileage>87400</Mileage>
     <YearOfManu>2006</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -506,69 +506,11 @@ https://m.atcdn.co.uk/a/media/w600/86346c5ea11f46a5908d4c438a82a232.jpg</Image>
   </Car>
   <Car>
     <ID>10</ID>
-    <Name>Kia</Name>
-    <Model>Rio</Model>
-    <FullModel>1.25 2 Euro 5 3dr</FullModel>
-    <EyeCatcher>6M WARRANTY✅ULEZ✅DELIVERY✅</EyeCatcher>
-    <Value>2999</Value>
-    <Mileage>74000</Mileage>
-    <YearOfManu>2013</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>SJ63LNO</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>35</Tax>
-    <Insurance>05E</Insurance>
-    <Mpg>55.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202512048391439?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=44fded41-3d3c-4f70-91c2-a5072c428e7a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra&amp;fromDealerSearchResults&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1</AT>
-    <Description>
-      - Available now is this clean and economical 2013 (63) Kia Rio 1.25 2, a reliable and practical hatchback known for its low running costs, comfortable drive, and excellent reputation for dependability.
-      - Powered by the 1.25 petrol engine, it’s smooth, economical, and cheap to insure — making it an ideal choice for new drivers, commuting, or everyday use.
-      - ✅ Low insurance • Great MPG • Cheap to run
-      - Key Features Include:
-      - • Air conditioning
-      - • Bluetooth and media connectivity
-      - • Multifunction steering wheel
-      - • Electric windows and mirrors
-      - • Alloy wheels
-      - • ISOFIX
-      - • Remote central locking
-      - • Trip computer
-      - • Daytime running lights
-      - Drives great — smooth, quiet, and economical. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • MOT expires August 2026
-      - ✅ Drive away today – reserve SJ63 LNO with a refundable £100 deposit (TandCs apply).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - ⸻
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Kia Rio 1.25 2.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/20130324eb93488fb66e3878d404973c.jpg,
-https://m.atcdn.co.uk/a/media/w600/0e03ad68f5334cd6a871b2277b33331e.jpg,
-https://m.atcdn.co.uk/a/media/w600/a4dfea8ba1d64942ad478ab86515e817.jpg,
-https://m.atcdn.co.uk/a/media/w600/b128628baf454cda92600e899f78bb8f.jpg,
-https://m.atcdn.co.uk/a/media/w600/d8cc34d53dee4bdbacd4eb6cf55ca1de.jpg,
-https://m.atcdn.co.uk/a/media/w600/faa8fdfab1ce4a2f9b482a5ad32cb327.jpg,
-https://m.atcdn.co.uk/a/media/w600/0ccdd0080862456e824c26369c5d04e1.jpg</Image>
-  </Car>
-  <Car>
-    <ID>11</ID>
     <Name>Toyota</Name>
     <Model>Yaris</Model>
     <FullModel>1.0 VVT-i Active Euro 6 3dr</FullModel>
     <EyeCatcher>FULL MOT✅£20 R’TAX✅6M WARRANTY</EyeCatcher>
-    <Value>4999</Value>
+    <Value>4499</Value>
     <Mileage>99500</Mileage>
     <YearOfManu>2017</YearOfManu>
     <CatStat>Clear</CatStat>
@@ -619,7 +561,7 @@ https://m.atcdn.co.uk/a/media/w600/544e8db9be9b4354858cac6b066bdbd8.jpg,
 https://m.atcdn.co.uk/a/media/w600/dea13aa6bf584590814339f66831f89a.jpg</Image>
   </Car>
   <Car>
-    <ID>12</ID>
+    <ID>11</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.5 dCi N-Connecta Euro 6 (s/s) 5dr</FullModel>
