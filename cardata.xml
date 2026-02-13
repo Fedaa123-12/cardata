@@ -205,65 +205,6 @@ https://m.atcdn.co.uk/a/media/w600/8afc333db88e4239a67e4c21190714f3.jpg</Image>
   </Car>
   <Car>
     <ID>5</ID>
-    <Name>Mazda</Name>
-    <Model>Mazda2</Model>
-    <FullModel>1.3 Tamura Euro 5 5dr</FullModel>
-    <EyeCatcher>FULL MOT✅6M WARRANTY✅£35 R’TAX</EyeCatcher>
-    <Value>2499</Value>
-    <Mileage>95300</Mileage>
-    <YearOfManu>2012</YearOfManu>
-    <CatStat>Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>NL12KVZ</Reg>
-    <Video></Video>
-    <MetaTag></MetaTag>
-    <Tax>35</Tax>
-    <Insurance>11E</Insurance>
-    <Mpg>56.5</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202601299525264?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=250c952e-c652-467d-8a2a-616363e1e88d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
-    <Description>
-      - Available now is this smart and economical 2012 Mazda Mazda2 1.3 Tamura, a reliable and fun-to-drive hatchback known for its low running costs, sharp handling, and excellent reputation for dependability.
-      - Powered by the efficient 1.3 petrol engine, it’s smooth, economical, and cheap to insure — making it ideal for new drivers, commuting, or everyday use.
-      - ✅ £35 yearly road tax • Low insurance • Great MPG • Cheap to run
-      - Key Features Include:
-      - • Rear parking sensors
-      - • Tamura special edition specification
-      - • Alloy wheels
-      - • Air conditioning
-      - • Bluetooth and media connectivity (if fitted)
-      - • Electric windows and mirrors
-      - • Remote central locking
-      - • ISOFIX
-      - • Split folding rear seats
-      - • Trip computer
-      - Drives great — smooth, responsive, and very economical. No warning lights or mechanical issues.
-      - • Recently serviced and inspected
-      - • MOT to be renewed at point of sale
-      - ✅ Drive away today – reserve NL12 KVZ with a refundable £100 deposit (TandCs apply).
-      - 🚚 Nationwide delivery available at competitive rates.
-      - ⸻
-      - Why Buy from AW Trade Centre?
-      - We provide:
-      - • Full mechanical inspection
-      - • Free comprehensive warranty
-      - • HPI clear vehicles (unless otherwise stated)
-      - • Fresh valet inside and out
-      - • Friendly, honest, and pressure-free service
-      - 📞 Call or message us today to arrange a viewing or reserve this Mazda2 1.3 Tamura.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/w800/999ca041357d40b9a642386e83c9dceb.jpg,
-https://m.atcdn.co.uk/a/media/w600/dc9e841c7558409e95f7d609a096ed33.jpg,
-https://m.atcdn.co.uk/a/media/w600/177437516e054c4b9b5be80d70f80857.jpg,
-https://m.atcdn.co.uk/a/media/w600/97ab590021f4465e96a717ef7d1437aa.jpg,
-https://m.atcdn.co.uk/a/media/w600/44af3bee0eab423cb1c0bb934cb25c09.jpg,
-https://m.atcdn.co.uk/a/media/w600/43101c5cb4974214906482ec068a16e2.jpg,
-https://m.atcdn.co.uk/a/media/w600/035556c2c38c4dcbafb2e7736c735e91.jpg</Image>
-  </Car>
-  <Car>
-    <ID>6</ID>
     <Name>Ford</Name>
     <Model>Fiesta</Model>
     <FullModel>1.4 Titanium 5dr</FullModel>
@@ -324,7 +265,7 @@ https://m.atcdn.co.uk/a/media/w600/2c3995e834f545e1b7b9a4537ee20882.jpg,
 https://m.atcdn.co.uk/a/media/w600/71dc21ca09dc403397a7dcecb6bbc349.jpg</Image>
   </Car>
   <Car>
-    <ID>7</ID>
+    <ID>6</ID>
     <Name>Citroen</Name>
     <Model>DS3</Model>
     <FullModel>1.6 e-HDi Airdream DStyle Plus Euro 5 (s/s) 3dr</FullModel>
@@ -383,7 +324,7 @@ https://m.atcdn.co.uk/a/media/w600/62c816e35a664e558ee2260a1a460b9b.jpg,
 https://m.atcdn.co.uk/a/media/w600/c46e5a53155b46448db25928ae855808.jpg</Image>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>7</ID>
     <Name>Nissan</Name>
     <Model>X-Trail</Model>
     <FullModel>1.6 dCi n-tec Euro 5 (s/s) 5dr</FullModel>
@@ -446,7 +387,7 @@ https://m.atcdn.co.uk/a/media/w600/30234a47864a4a7b8f80ef4d3bb2e115.jpg,
 https://m.atcdn.co.uk/a/media/w600/9e9d68a1cd31489bad62dac5d65761ad.jpg</Image>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>Ford</Name>
     <Model>Focus</Model>
     <FullModel>1.6 TDCi Zetec S Euro 5 (s/s) 5dr</FullModel>
@@ -505,7 +446,7 @@ https://m.atcdn.co.uk/a/media/w600/1d0a3d0a174c48d0b2c43e06ebda9eee.jpg,
 https://m.atcdn.co.uk/a/media/w600/86346c5ea11f46a5908d4c438a82a232.jpg</Image>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Toyota</Name>
     <Model>Yaris</Model>
     <FullModel>1.0 VVT-i Active Euro 6 3dr</FullModel>
@@ -561,7 +502,7 @@ https://m.atcdn.co.uk/a/media/w600/544e8db9be9b4354858cac6b066bdbd8.jpg,
 https://m.atcdn.co.uk/a/media/w600/dea13aa6bf584590814339f66831f89a.jpg</Image>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>10</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.5 dCi N-Connecta Euro 6 (s/s) 5dr</FullModel>
