@@ -1,4 +1,119 @@
 <Cars>
+ <Car>
+    <ID>5</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 TDCi Zetec S Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>6M WARRANTY✅£20 R’TAX✅DELIVERY</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>60700</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>AO63WFZ</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512786?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
+    <Description>
+      - Available now is this sporty and economical 2013 (63) Ford Focus 1.6 TDCi Zetec S, a great-looking hatchback offering sharp styling, excellent fuel economy, and the solid driving feel the Focus is known for.
+      - Powered by the reliable 1.6 TDCi diesel engine, it delivers strong MPG and smooth motorway cruising — ideal for commuting or longer journeys.
+      - ✅ Zetec S Styling • Excellent MPG • Low Running Costs
+      - Key Features Include:
+      - • Zetec S sports styling pack
+      - • Alloy wheels
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Cruise control
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • Sports seats
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, responsive, and very economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires December 2026
+      - ✅ Drive away today – reserve AO63 WFZ with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Ford Focus 1.6 TDCi Zetec S.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/04c8c4eb9afc4ed2abb08593493ccfdc.jpg,
+https://m.atcdn.co.uk/a/media/w600/4198a79b3a9a4475a4b592a897a71968.jpg,
+https://m.atcdn.co.uk/a/media/w600/1708c9cbe83640c68aca785fd2d933e5.jpg,
+https://m.atcdn.co.uk/a/media/w600/7e6e082a9a1245ffaf8d7a0c44d4cc21.jpg,
+https://m.atcdn.co.uk/a/media/w600/26d75d89e381405e862dffb1878f1d6e.jpg,
+https://m.atcdn.co.uk/a/media/w600/1d0a3d0a174c48d0b2c43e06ebda9eee.jpg,
+https://m.atcdn.co.uk/a/media/w600/86346c5ea11f46a5908d4c438a82a232.jpg</Image>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Toyota</Name>
+    <Model>Yaris</Model>
+    <FullModel>1.0 VVT-i Active Euro 6 3dr</FullModel>
+    <EyeCatcher>FULL MOT✅£20 R’TAX✅6M WARRANTY</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>99500</Mileage>
+    <YearOfManu>2017</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>PX17LTE</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>20</Tax>
+    <Insurance>04E</Insurance>
+    <Mpg>65.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601299512141?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5ad67c07-e604-46bd-b074-3bcd77dd895c&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this clean and economical 2017 Toyota Yaris 1.0 VVT-i Active, a reliable and practical hatchback offering ultra-low running costs, easy driving, and Toyota’s renowned dependability.
+      - Powered by the efficient 1.0 VVT-i petrol engine, it’s cheap to insure, ULEZ compliant, and perfect for new drivers, city driving, or everyday commuting.
+      - ✅ ULEZ compliant • Low insurance • Excellent MPG
+      - Key Features Include:
+      - • Touchscreen infotainment system
+      - • Bluetooth and media connectivity
+      - • Air conditioning
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives great — smooth, quiet, and very economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT to be renewed at point of sale
+      - ✅ Drive away today – reserve PX17 LTE with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Toyota Yaris 1.0 VVT-i Active.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/c73f019868704154a6ac416a51ad9a33.jpg,
+https://m.atcdn.co.uk/a/media/w600/72e70b3c42834351936aabde30a9fc9d.jpg,
+https://m.atcdn.co.uk/a/media/w600/1ff7c0f0334c41c8a106d55012bbf8c2.jpg,
+https://m.atcdn.co.uk/a/media/w600/c8b53fe19e854f47bd4be073767467c9.jpg,
+https://m.atcdn.co.uk/a/media/w600/0ba9e07b5a8d4cf5be20bde1ebc794fa.jpg,
+https://m.atcdn.co.uk/a/media/w600/544e8db9be9b4354858cac6b066bdbd8.jpg,
+https://m.atcdn.co.uk/a/media/w600/dea13aa6bf584590814339f66831f89a.jpg</Image>
+  </Car>
   <Car>
     <ID>1</ID>
     <Name>Audi</Name>
