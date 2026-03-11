@@ -1,4 +1,67 @@
 <Car>
+    <ID>4</ID>
+    <Name>Nissan</Name>
+    <Model>X-Trail</Model>
+    <FullModel>1.6 dCi n-tec Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>SUNROOF✅360 CAMERA✅7 SEATER✅</EyeCatcher>
+    <Value>4599</Value>
+    <Mileage>120500</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NX15HNH</Reg>
+    <Video></Video>
+    <MetaTag></MetaTag>
+    <Tax>165</Tax>
+    <Insurance>17E</Insurance>
+    <Mpg>57.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202601279453429?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=60c810d7-39ea-4c6e-a86d-1c86287ba195&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+    <Description>
+      - Available now is this spacious and well-equipped 2015 Nissan X-Trail 1.6 dCi n-tec (7 Seater), a practical and comfortable SUV offering excellent fuel economy, modern technology, and superb everyday usability for families.
+      - Powered by the efficient 1.6 dCi diesel engine, it delivers strong MPG and smooth motorway cruising, making it ideal for family use, long-distance driving, or anyone needing extra space.
+      - ✅ 7 Seats • n-tec Spec • Excellent MPG • Spacious SUV
+      - Key Features Include:
+      - • 7-seat configuration
+      - • Touchscreen infotainment system
+      - • Satellite navigation
+      - • 360° Around View Monitor (reverse camera)
+      - • Front and rear parking sensors
+      - • Bluetooth and media connectivity
+      - • Dual-zone climate control
+      - • Cruise control with speed limiter
+      - • Panoramic glass roof (if fitted)
+      - • Alloy wheels
+      - • Multifunction steering wheel
+      - • Electric windows and mirrors
+      - • ISOFIX
+      - • Daytime running lights
+      - Drives superb — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      - • Recently serviced and inspected
+      - • MOT expires 25/01/2027
+      - ✅ Drive away today – reserve NX15 HNH with a refundable £100 deposit (TandCs apply).
+      - 🚚 Nationwide delivery available at competitive rates.
+      - ⸻
+      - Why Buy from AW Trade Centre?
+      - We provide:
+      - • Full mechanical inspection
+      - • Free comprehensive warranty
+      - • HPI clear vehicles (unless otherwise stated)
+      - • Fresh valet inside and out
+      - • Friendly, honest, and pressure-free service
+      - 📞 Call or message us today to arrange a viewing or reserve this Nissan X-Trail 1.6 dCi n-tec 7 Seater.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/w800/af7abadb9c8e4b66bb4a7f700a138b1f.jpg,
+https://m.atcdn.co.uk/a/media/w600/57fe9acfccef439b8957fa15987b501c.jpg,
+https://m.atcdn.co.uk/a/media/w600/4e889c870fda4762b8e72f3319bbfbb3.jpg,
+https://m.atcdn.co.uk/a/media/w600/97ffad8993244fd4b603d308087246a2.jpg,
+https://m.atcdn.co.uk/a/media/w600/f8427188b8f64d4ab920b827f35225c9.jpg,
+https://m.atcdn.co.uk/a/media/w600/30234a47864a4a7b8f80ef4d3bb2e115.jpg,
+https://m.atcdn.co.uk/a/media/w600/9e9d68a1cd31489bad62dac5d65761ad.jpg</Image>
+  </Car>
+<Car>
     <ID>6</ID>
     <Name>Ford</Name>
     <Model>Fiesta</Model>
