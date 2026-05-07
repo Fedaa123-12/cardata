@@ -1,3 +1,603 @@
 <Cars>
-
+  <Car>
+    <ID>1</ID>
+    <Name>Renault</Name>
+    <Model>Clio</Model>
+    <FullModel>1.2 Dynamique TomTom Euro 5 5dr</FullModel>
+    <EyeCatcher>WARRANTY✅FULL MOT✅LOW MILEAGE✅</EyeCatcher>
+    <Value>1499</Value>
+    <Mileage>97200</Mileage>
+    <YearOfManu>2011</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures>4 x 20W Radio and CD and MP3 player, Cruise Control and speed limiter, Electrically adjust and Heated door mirrors, Full size spare Wheel, Silver exterior colour, Tyre puncture Repair kit, Air Conditioning, Black Headlight surrounds, Black part leather interior, Fingertip remote Control</ExtraFeatures>
+    <Reg>NL61 YAW</Reg>
+    <Video></Video>
+    <MetaTag>Renault Clio 1.2 Dynamique TomTom Euro 5 5dr Petrol Manual Silver</MetaTag>
+    <Description>
+      Available now is this economical and well-presented 2011 (61) Renault Clio 1.2 Dynamique TomTom, a stylish and practical hatchback offering low running costs, comfort, and great everyday usability.
+      Powered by the reliable 1.2 petrol engine, it’s smooth, easy to drive, and cheap to insure — making it ideal for new drivers, commuting, or city driving.
+      ✅ Low insurance • Great MPG • Cheap to run
+      Key Features Include:
+      • TomTom satellite navigation
+      • Bluetooth and media connectivity
+      • Cruise control with speed limiter
+      • Air conditioning
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Daytime running lights
+      Drives great — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve NL61 YAW with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Renault Clio 1.2 Dynamique TomTom with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/083bacae083f42c9b0ee2dd2fc87c2d8.jpg,https://m.atcdn.co.uk/a/media/{resize}/928a00852376482cba3118ee03e392f6.jpg,https://m.atcdn.co.uk/a/media/{resize}/9c066066cb264a37b865b8afe5a35dd4.jpg,https://m.atcdn.co.uk/a/media/{resize}/fc76cb9492c14e29ab68dbca538adf77.jpg,https://m.atcdn.co.uk/a/media/{resize}/0c509fd3b3f2465da45d5fe1858e8e5c.jpg,https://m.atcdn.co.uk/a/media/{resize}/1123d57d72e04530b8e7f6c560eee583.jpg,https://m.atcdn.co.uk/a/media/{resize}/fd7ae2ad197f4b39b9f356fd8e86a2e6.jpg,https://m.atcdn.co.uk/a/media/{resize}/69afad5c82e44be9ab58b568cf73e0f6.jpg,https://m.atcdn.co.uk/a/media/{resize}/92092f152ca14a1b8fa19e70250ffb54.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed9b40f0867a4c749d97a61d7fa7f9d9.jpg,https://m.atcdn.co.uk/a/media/{resize}/7dfae289f45e4c89ae06d70f217bba75.jpg,https://m.atcdn.co.uk/a/media/{resize}/143be62754e94386bda989930d6f7fbe.jpg,https://m.atcdn.co.uk/a/media/{resize}/0b0758edaa3649d187219d5e14ff3ca5.jpg,https://m.atcdn.co.uk/a/media/{resize}/dac010eeec6e4cbdb9c07c4baf72b2ce.jpg,https://m.atcdn.co.uk/a/media/{resize}/d4c5995c99934b15b24f73ce40079004.jpg,https://m.atcdn.co.uk/a/media/{resize}/ea5cb78b1470416e861ae565a87c1569.jpg,https://m.atcdn.co.uk/a/media/{resize}/e1f1d7a994f847c696497cde6ec4308d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f7d3fe07689a4560a1b1720ebcc6f7a9.jpg,https://m.atcdn.co.uk/a/media/{resize}/b92f79a8d31947a681098ceef0f9aa06.jpg,https://m.atcdn.co.uk/a/media/{resize}/54381df3827d4638803a58a43e397960.jpg,https://m.atcdn.co.uk/a/media/{resize}/7af7c1882ed740688ae809fea2e9d65f.jpg,https://m.atcdn.co.uk/a/media/{resize}/5f96aeb10d6346aeb0a4e7d03420fb7b.jpg,https://m.atcdn.co.uk/a/media/{resize}/1455816e917944fa9804b5e4e2331107.jpg,https://m.atcdn.co.uk/a/media/{resize}/f026b37e9459494190bc374cda0edfa2.jpg,https://m.atcdn.co.uk/a/media/{resize}/656b60d93a594a4291b0558ed796046f.jpg,https://m.atcdn.co.uk/a/media/{resize}/d28622f39eed4b1bb40c4e2718988c54.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc047648bb854affb9991a4e707a3890.jpg,https://m.atcdn.co.uk/a/media/{resize}/c90a1b74c1cb4564839b6b09246a15fa.jpg,https://m.atcdn.co.uk/a/media/{resize}/29491cba54b54f40a96ae909b3771614.jpg,https://m.atcdn.co.uk/a/media/{resize}/34406f48c83f48faaad3c18eb7258e1c.jpg,https://m.atcdn.co.uk/a/media/{resize}/b3f80db2bacb4b90bd1ffa13b7162d62.jpg,https://m.atcdn.co.uk/a/media/{resize}/740c868c28b948fdb0b3eaf534029a68.jpg,https://m.atcdn.co.uk/a/media/{resize}/611302a100f743a2a6f28d9bf40ce719.jpg,https://m.atcdn.co.uk/a/media/{resize}/70d4ac52a5d04060a53983224b8a8f97.jpg,https://m.atcdn.co.uk/a/media/{resize}/21b66e460f344e6da921a2819f56e2f6.jpg,https://m.atcdn.co.uk/a/media/{resize}/5e56be6173e545e19431fc9c48c9c8a8.jpg,https://m.atcdn.co.uk/a/media/{resize}/e07ecb7f71244907a1784b7a04656045.jpg,https://m.atcdn.co.uk/a/media/{resize}/392946ca87f54b3ea811ba693fb5e756.jpg,https://m.atcdn.co.uk/a/media/{resize}/fdbe9374b9934f568ae07476a958decd.jpg,https://m.atcdn.co.uk/a/media/{resize}/59219059aff24918905767a0072d6fa9.jpg,https://m.atcdn.co.uk/a/media/{resize}/5630883344b4459dab8c6d421c90f088.jpg,https://m.atcdn.co.uk/a/media/{resize}/5fb81c001a2c434595b35d412c120838.jpg,https://m.atcdn.co.uk/a/media/{resize}/5889d71d3720435b9692693bf3dd52c0.jpg,https://m.atcdn.co.uk/a/media/{resize}/d6aeb30efbff432ba3001e777a3e041b.jpg,https://m.atcdn.co.uk/a/media/{resize}/8c64994c9ecc4d0b8081292ae15d7a11.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>08E</Insurance>
+    <Mpg>48.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605072212303?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=237d1213-8c37-4de0-bdee-cb10825e5949&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=150&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>2</ID>
+    <Name>Peugeot</Name>
+    <Model>208</Model>
+    <FullModel>1.6 e-HDi Active Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>10 STAMPS✅WARRANTY✅50+ MPG</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>81000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Pink</Colour>
+    <ExtraFeatures>12V Power Socket, 3.5mm Jack, 7in Multifunction Colour Touchscreen, Bluetooth Connectivity - Audio, DAB Digital Radio, Speakers x4, USB Input, Cruise Control, External Temperature Gauge, Gear Shift Indicator, Rear Parking Aid, Trip Computer, 15in Alloy Wheels - Azote, Door Mirrors - Body Coloured, Door Mirrors - Electrically Adjustable and Heated, Electric Front Windows, Full Size Spare Wheel, Pink exterior colour, Radiator Grille - Black Honeycomb, Daytime Running Lights, Follow Me Home Headlights, Front Fog Lights, Rear Lights - LED, Air Conditioning - Manual, Armrest - Front with Storage, Black cloth interior, Driver Seat Height Adjustment, Rake and Reach Adjustable Steering Wheel, Rear Head Restraints x3, Seats - 2-3 - 1-3 Rear Bench, Steering Wheel Mounted Controls, Sunvisor - Front with Vanity Mirrors, Electrically Assisted Power Steering, Speed Alarm-Speed Limiter, ABS - Anti Lock Braking System, Airbags - Curtain Front and Rear, Airbags - Front Side, Airbags - Passenger Deactivation Switch, Automatic Activation of Hazard Warning Lights, Child Safety Door Locking, Deadlocks, Drivers Airbag, EBA - Emergency Brake Assist, EBFD - Electronic Brake Force Distribution, ESP - Electronic Stability Programme, Front Passenger Airbags, ISOFIX Location Points, Remote Control Central Locking, Unfastened Seat Belt Warning - Front</ExtraFeatures>
+    <Reg>SD13 SZJ</Reg>
+    <Video></Video>
+    <MetaTag>Peugeot 208 1.6 e-HDi Active Euro 5 (s/s) 5dr Diesel Manual Pink</MetaTag>
+    <Description>
+      Available now is this economical and well-maintained 2013 Peugeot 208 1.6 e-HDi Active, a stylish and practical hatchback offering excellent fuel economy, low running costs, and great everyday usability.
+      Powered by the efficient 1.6 e-HDi diesel engine, it delivers outstanding MPG and smooth driving — ideal for commuting, motorway use, or a cheap-to-run daily car.
+      This example benefits from 10 service stamps, showing it has been well looked after throughout its life.
+      ✅ £20 road tax • Excellent MPG • Low running costs
+      ✅ 10 service stamps
+      Key Features Include:
+      • Active specification
+      • Touchscreen infotainment system
+      • Bluetooth and media connectivity
+      • Cruise control with speed limiter
+      • Air conditioning
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Alloy wheels
+      • ISOFIX
+      • Daytime running lights
+      Drives great — smooth, quiet, and very economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve SD13 SZJ with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Peugeot 208 1.6 e-HDi Active with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/dc953bd7bef047ccaf05e1552b5e6cd4.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab951e9f2b22488daf97c6db61178727.jpg,https://m.atcdn.co.uk/a/media/{resize}/bc0716a9baa04a508800cf545863fcdf.jpg,https://m.atcdn.co.uk/a/media/{resize}/7a20491bcaff4d868b1551f788561861.jpg,https://m.atcdn.co.uk/a/media/{resize}/f645a3a93e944d9abb66a3eb8c27c2ab.jpg,https://m.atcdn.co.uk/a/media/{resize}/90c8f6279ac4484e8f39457c72aadbbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2e0f188e21a4b53871203830dc2a9c3.jpg,https://m.atcdn.co.uk/a/media/{resize}/48b4a7283b914f57ab3d63103733cbd5.jpg,https://m.atcdn.co.uk/a/media/{resize}/975f29ca3ab54b54a8b45da8e187f7e8.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcfb72489c654925850ca33d4b11ab28.jpg,https://m.atcdn.co.uk/a/media/{resize}/4310823472034430bf23cd7277d562e7.jpg,https://m.atcdn.co.uk/a/media/{resize}/5dddd7aaff4e464282452f25683c52c4.jpg,https://m.atcdn.co.uk/a/media/{resize}/3a892675da5548d9aeef3052c9df23b0.jpg,https://m.atcdn.co.uk/a/media/{resize}/4dfffb9b57fa4dc199024a62a70a2c2c.jpg,https://m.atcdn.co.uk/a/media/{resize}/b38e052a658a4c56ba3e8840ab90b185.jpg,https://m.atcdn.co.uk/a/media/{resize}/a7b08d3b551240989617ff23eb84aa6b.jpg,https://m.atcdn.co.uk/a/media/{resize}/f4f26895583349a69d35aeb570bce1f9.jpg,https://m.atcdn.co.uk/a/media/{resize}/5802f84205704bbab60775b6c9556960.jpg,https://m.atcdn.co.uk/a/media/{resize}/2a125b80cc5c4305ac3ff4c8ead4650c.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1e75198521d4229a172ba0780aaba0e.jpg,https://m.atcdn.co.uk/a/media/{resize}/c0f4c81ede38439b8b25ae7d9b747d4a.jpg,https://m.atcdn.co.uk/a/media/{resize}/37626612724241ce9672fa51d5d441ad.jpg,https://m.atcdn.co.uk/a/media/{resize}/4778d92097d44e6686b3740d5841e8b2.jpg,https://m.atcdn.co.uk/a/media/{resize}/9c5b5c29c30a4171a9d0e46a36293e23.jpg,https://m.atcdn.co.uk/a/media/{resize}/b0eea93af3bb44e3a90a18542c856ef6.jpg,https://m.atcdn.co.uk/a/media/{resize}/44d97dc605174ec3a65aa47f83f65b7d.jpg,https://m.atcdn.co.uk/a/media/{resize}/7de9ea6496264c579c32bb0b3f6ff053.jpg,https://m.atcdn.co.uk/a/media/{resize}/b9b4c8e893e94d979222298af5f7a526.jpg,https://m.atcdn.co.uk/a/media/{resize}/a84a8ed8dd3443ac8e7f68160100813e.jpg,https://m.atcdn.co.uk/a/media/{resize}/a452b643e5614005953cfaa5ab4def07.jpg,https://m.atcdn.co.uk/a/media/{resize}/5cd7bb5f20714f58820697152c337976.jpg,https://m.atcdn.co.uk/a/media/{resize}/70cf946a3b84411093ba712221056c63.jpg,https://m.atcdn.co.uk/a/media/{resize}/c393b7555c0b4e96b89c71cc0d7d2fc9.jpg,https://m.atcdn.co.uk/a/media/{resize}/a6788227e02e4200975c4ca1fa00049d.jpg,https://m.atcdn.co.uk/a/media/{resize}/79fff075cfc64388a6389caacc2cdb03.jpg,https://m.atcdn.co.uk/a/media/{resize}/2687a82f7f7c4ca196d1574537731432.jpg,https://m.atcdn.co.uk/a/media/{resize}/4ad712c02ff9472ba063fcf056150203.jpg,https://m.atcdn.co.uk/a/media/{resize}/0b0f7266019849d788e1c92d8aa0f083.jpg,https://m.atcdn.co.uk/a/media/{resize}/47252fceafc94ee99d4c51b05c937bbe.jpg,https://m.atcdn.co.uk/a/media/{resize}/52debbe60d9247bd8852da023f4c3048.jpg,https://m.atcdn.co.uk/a/media/{resize}/5c4bec849e3a46afb24d3b1150100475.jpg,https://m.atcdn.co.uk/a/media/{resize}/a8ee79e960f048679bc6330424226170.jpg,https://m.atcdn.co.uk/a/media/{resize}/8cf3dda6f3f74607a51a77fe5a019d9f.jpg,https://m.atcdn.co.uk/a/media/{resize}/102e17784f774d92a166b895a1ae036b.jpg,https://m.atcdn.co.uk/a/media/{resize}/303331fd5d9d4a9fb7d6b124099dd95c.jpg,https://m.atcdn.co.uk/a/media/{resize}/c7942b83188844498a0e4866e319ffd9.jpg,https://m.atcdn.co.uk/a/media/{resize}/76bb84770aab46508909778e3bc82440.jpg,https://m.atcdn.co.uk/a/media/{resize}/818e1220f6624d85934351c0aa72e121.jpg,https://m.atcdn.co.uk/a/media/{resize}/5bf76c1eebff495db2b739860f635d9b.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>18A</Insurance>
+    <Mpg>74.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202604141534311?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>3</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>1.6 TDI S Euro 5 5dr</FullModel>
+    <EyeCatcher>WARRANTY✅£35 R’TAX✅ALLOYS✅</EyeCatcher>
+    <Value>2499</Value>
+    <Mileage>97500</Mileage>
+    <YearOfManu>2010</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures>RCD 210 Radio and mp3 single CD player with 4 Speakers, 15in Steel Wheels, Black exterior colour, Air Conditioning Climatic semi Automatic Control, Black cloth interior, Delete Air Conditioning, Multifunction computer- Midline</ExtraFeatures>
+    <Reg>NL10 YVJ</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Golf 1.6 TDI S Euro 5 5dr Diesel Manual Black</MetaTag>
+    <Description>
+      Available now is this economical and reliable 2010 Volkswagen Golf 1.6 TDI S, a well-built hatchback offering excellent fuel economy, solid German build quality, and great everyday practicality.
+      Powered by the efficient 1.6 TDI diesel engine, it delivers strong MPG, smooth driving, and low running costs — making it ideal for commuting or long-distance use.
+      ✅ £35 road tax • Excellent MPG • Low running costs
+      Key Features Include:
+      • S specification
+      • Air conditioning
+      • Cruise control
+      • Bluetooth and media connectivity (if fitted)
+      • Electric windows and mirrors
+      • Remote central locking
+      • ISOFIX
+      • Trip computer
+      • Daytime running lights
+      Drives great — smooth, comfortable, and very economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 25/02/2027
+      ✅ Drive away today – reserve NL10 YVJ with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 1.6 TDI S with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/3cbc2838fe2e4083bd8ff6fca14a496f.jpg,https://m.atcdn.co.uk/a/media/{resize}/d8dba49d57884487b57dcd5e9d7ae2ce.jpg,https://m.atcdn.co.uk/a/media/{resize}/14a3442e12d14c26a352899f86b2650a.jpg,https://m.atcdn.co.uk/a/media/{resize}/34523d832ba3411baaf8507ba20ae6b6.jpg,https://m.atcdn.co.uk/a/media/{resize}/7da11e383fad4d71b43c1ac5926e7f6c.jpg,https://m.atcdn.co.uk/a/media/{resize}/5c27c2dc687645b2a6e0a003af85e68c.jpg,https://m.atcdn.co.uk/a/media/{resize}/27e1b2216e74441bad80c9ba265f6215.jpg,https://m.atcdn.co.uk/a/media/{resize}/5a6bee8e13e3437d9da5e6e1f3f6f017.jpg,https://m.atcdn.co.uk/a/media/{resize}/bb710165a0ae4341b60b43bbd3c3cf4c.jpg,https://m.atcdn.co.uk/a/media/{resize}/c39b8f6650c14dd79e366836273e14dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/058e3eeaff564ca68582a4c7ea07eef0.jpg,https://m.atcdn.co.uk/a/media/{resize}/06f2b5e4f3264f68892dcfe691a685b8.jpg,https://m.atcdn.co.uk/a/media/{resize}/25f31bf911824a31a66925bf4f11469e.jpg,https://m.atcdn.co.uk/a/media/{resize}/69bf2bc3cfcb4d1680b89b52436b265e.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ed364993510486c862cb6b8f4bc7478.jpg,https://m.atcdn.co.uk/a/media/{resize}/2a951115d16d495ca50694183f237bc3.jpg,https://m.atcdn.co.uk/a/media/{resize}/23539cb0f8974a1a92be154346c5bc57.jpg,https://m.atcdn.co.uk/a/media/{resize}/72c70a6f0f3c4938a6532fee868a19e3.jpg,https://m.atcdn.co.uk/a/media/{resize}/027ab639c16b425186985b19efe3e771.jpg,https://m.atcdn.co.uk/a/media/{resize}/7feaae9a632d41f98f4f28c69afc4872.jpg,https://m.atcdn.co.uk/a/media/{resize}/afd234fd028b4d09b124b3c2172f2060.jpg,https://m.atcdn.co.uk/a/media/{resize}/69d932aa0c424d07861afff4c7969717.jpg,https://m.atcdn.co.uk/a/media/{resize}/ca8f24d3524648af9b9f4da58172a7f1.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2043faeadfa44fea76f2e6c3869a1f5.jpg,https://m.atcdn.co.uk/a/media/{resize}/c11c360b20d24efd9b7addc68baa1944.jpg,https://m.atcdn.co.uk/a/media/{resize}/6d5a638470be4c0599732bf540cfac03.jpg,https://m.atcdn.co.uk/a/media/{resize}/bf8460720b8e48b49cf79ae2b488fe2b.jpg,https://m.atcdn.co.uk/a/media/{resize}/e91992684b4d4d23b0810cef3e1716fd.jpg,https://m.atcdn.co.uk/a/media/{resize}/251b59fc34c54af8b3d3babb246d1ff0.jpg,https://m.atcdn.co.uk/a/media/{resize}/db41069b383d42e59d7526c85905bf3f.jpg,https://m.atcdn.co.uk/a/media/{resize}/e6314450f86f4f79ae76b80df8b5771d.jpg,https://m.atcdn.co.uk/a/media/{resize}/75a83256c323426ba938153ff3edb0d7.jpg,https://m.atcdn.co.uk/a/media/{resize}/3cec206216c34f9db96ac5e435b1bed1.jpg,https://m.atcdn.co.uk/a/media/{resize}/0036a73cf95b4e6b9bc8b9aee365bdff.jpg,https://m.atcdn.co.uk/a/media/{resize}/48b2d609211b4b699505f60620b362cc.jpg,https://m.atcdn.co.uk/a/media/{resize}/f44c4b88e43248d786c63941777f8196.jpg,https://m.atcdn.co.uk/a/media/{resize}/9088a07246af4a509fc55a594a00ef81.jpg,https://m.atcdn.co.uk/a/media/{resize}/2dc9640344d84613a12abf744c7c4ae1.jpg,https://m.atcdn.co.uk/a/media/{resize}/425fae501db447579028613660996e5c.jpg,https://m.atcdn.co.uk/a/media/{resize}/4fdfb0fe134743dca0ccd4401287af87.jpg,https://m.atcdn.co.uk/a/media/{resize}/ef1e361fb7874cfe9556506f27b2af32.jpg,https://m.atcdn.co.uk/a/media/{resize}/f9f132a49537488cae9e3bb8d61f4f1f.jpg,https://m.atcdn.co.uk/a/media/{resize}/36649a34eb764b499d46c5b85fac6967.jpg</Image>
+    <Tax>35</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>62.8</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202604041292281?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Name>Audi</Name>
+    <Model>A4</Model>
+    <FullModel>2.0 TDIe Technik Euro 5 (s/s) 4dr</FullModel>
+    <EyeCatcher>FULL LEATHERS✅6M WARRANTY✅</EyeCatcher>
+    <Value>2999</Value>
+    <Mileage>112400</Mileage>
+    <YearOfManu>2010</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures>10 Speakers, Concert Radio and single CD player with MP3 facility, DVD SatNav, Mobile telephone preparation- Bluetooth interface, Grey exterior colour, Stone Grey Front grille, 4Spoke Leather Steering Wheel, Aluminium hologram inlay, Black full leather interior, Deletion of model and engine designation at Rear, Engine badge delete, FrontandRear floor mats, Multifunction Steering Wheel</ExtraFeatures>
+    <Reg>SP60 XLK</Reg>
+    <Video></Video>
+    <MetaTag>Audi A4 2.0 TDIe Technik Euro 5 (s/s) 4dr Diesel Manual Grey</MetaTag>
+    <Description>
+      Available now is this well-presented and economical 2010 (60) Audi A4 2.0 TDIe Technik, a premium saloon offering excellent fuel economy, refined comfort, and Audi’s renowned build quality.
+      Powered by the efficient 2.0 TDIe diesel engine, it delivers strong MPG, smooth motorway cruising, and low running costs — making it ideal for commuting, long-distance driving, or everyday use.
+      ✅ £35 road tax • TDIe Efficiency • Great MPG • Premium Comfort
+      Key Features Include:
+      • Technik specification
+      • Satellite navigation system
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Dual-zone climate control
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Remote central locking
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, comfortable, and very economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 13/11/2026
+      ✅ Drive away today – reserve SP60 XLK with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Audi A4 2.0 TDIe Technik with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/24b21507e7c74c74b3c619edfb09ea33.jpg,https://m.atcdn.co.uk/a/media/{resize}/97fee38fa8b144bb86876dcd965bf701.jpg,https://m.atcdn.co.uk/a/media/{resize}/df4dbf9e52f24e0485c1d6ec277167ed.jpg,https://m.atcdn.co.uk/a/media/{resize}/24c1686081ee4a6c9ecd0a9caebcbf8c.jpg,https://m.atcdn.co.uk/a/media/{resize}/83ea094cdc6e4e1695683513278136a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/c78467ff30304b73ad3c5d5b2b317a26.jpg,https://m.atcdn.co.uk/a/media/{resize}/4f830cb7a3894cd98f8554e1f659c69f.jpg,https://m.atcdn.co.uk/a/media/{resize}/80725e4b8e39426f9855a0e2ae4a731e.jpg,https://m.atcdn.co.uk/a/media/{resize}/038db2c8b86b4f3da10a2ff5b0fce7a9.jpg,https://m.atcdn.co.uk/a/media/{resize}/1f129d87eaf44e8a8e6d053d2945ed95.jpg,https://m.atcdn.co.uk/a/media/{resize}/aa3eb065925349f490a6fc7851622f51.jpg,https://m.atcdn.co.uk/a/media/{resize}/31c9f9d511db443b8f9e4d2c01c1cac1.jpg,https://m.atcdn.co.uk/a/media/{resize}/668e10506496488f800aad4f541effaf.jpg,https://m.atcdn.co.uk/a/media/{resize}/5f9451b534ca4b3486e4d2632a67c1b2.jpg,https://m.atcdn.co.uk/a/media/{resize}/f6934d66f2d9469ba941eb6158e953a6.jpg,https://m.atcdn.co.uk/a/media/{resize}/48463eed0a534c5d8f8d9f3e42cf31d3.jpg,https://m.atcdn.co.uk/a/media/{resize}/49f024399ebd45f1be0b7b8d2ced52d3.jpg,https://m.atcdn.co.uk/a/media/{resize}/f0a9480decb140a49b35dc2e7817dd99.jpg,https://m.atcdn.co.uk/a/media/{resize}/89c4d21f9dc440e7a24de154c754fe01.jpg,https://m.atcdn.co.uk/a/media/{resize}/3e6e89b4316045b7b7a5aab06b302496.jpg,https://m.atcdn.co.uk/a/media/{resize}/96e861c262f24495ad1cd3c46523b331.jpg,https://m.atcdn.co.uk/a/media/{resize}/bf17cbf9bb88432a80163a218b98fcdd.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed9e3ac2194d495ba116a971e10a053e.jpg,https://m.atcdn.co.uk/a/media/{resize}/71ad261c944b4a68a77327c0299b0b3a.jpg,https://m.atcdn.co.uk/a/media/{resize}/a57a036b7496474d8ec91521852c4de4.jpg,https://m.atcdn.co.uk/a/media/{resize}/2e32a0d5ba5246c886597c678e766b72.jpg,https://m.atcdn.co.uk/a/media/{resize}/b44100c01ed34074a6cf5d016ea3e0ac.jpg,https://m.atcdn.co.uk/a/media/{resize}/0d9b7c945c8446baa9b89b7e9452466d.jpg,https://m.atcdn.co.uk/a/media/{resize}/928d3e48b6f24412ad0e428a7470b226.jpg,https://m.atcdn.co.uk/a/media/{resize}/9b5895da5997428aa53fdc79ff2b9d44.jpg,https://m.atcdn.co.uk/a/media/{resize}/e897d30ea91a49c2ab5c2b6a93acc301.jpg,https://m.atcdn.co.uk/a/media/{resize}/ec95f5cb8ffb4c3ebb57cf9cbd244dc2.jpg,https://m.atcdn.co.uk/a/media/{resize}/6664383d1b6b4eda964ee67a811c0768.jpg,https://m.atcdn.co.uk/a/media/{resize}/52d701ef93a64a4db53332dd7404729e.jpg,https://m.atcdn.co.uk/a/media/{resize}/b368128aa049474ea53f162781d1b354.jpg,https://m.atcdn.co.uk/a/media/{resize}/f34b852c738e479a8ee5c0e12c91a42b.jpg,https://m.atcdn.co.uk/a/media/{resize}/e5d22c053d724815b462ae7044583d27.jpg,https://m.atcdn.co.uk/a/media/{resize}/0fdf596aa40a43e0908c4f1fbd237451.jpg,https://m.atcdn.co.uk/a/media/{resize}/551295ce067f418ab13e602bca888c8d.jpg,https://m.atcdn.co.uk/a/media/{resize}/d559e010694e4997acf11e646c6d2ddb.jpg,https://m.atcdn.co.uk/a/media/{resize}/ffbfcc8e2f07454eb90a7dcaf8d55c40.jpg,https://m.atcdn.co.uk/a/media/{resize}/afa453345313458187d91480d8d7b9cb.jpg,https://m.atcdn.co.uk/a/media/{resize}/30f791645f614f7ca717f89f9ddd775b.jpg,https://m.atcdn.co.uk/a/media/{resize}/2ce9a1819b4c4ad4a4b044d92a8dae4a.jpg,https://m.atcdn.co.uk/a/media/{resize}/9be2648e51f64f3890e3d693ffbb5bde.jpg,https://m.atcdn.co.uk/a/media/{resize}/406145c9ab294e768272789d5e145493.jpg,https://m.atcdn.co.uk/a/media/{resize}/26f737c43ffb47838dd1b111b3970d6d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f162e09f58684caea393b4c5f871abdb.jpg,https://m.atcdn.co.uk/a/media/{resize}/c7b48abfaff0433f8ba41936f46fe6ab.jpg,https://m.atcdn.co.uk/a/media/{resize}/64f22e3514024f5d9eeef4179fe9e961.jpg</Image>
+    <Tax>35</Tax>
+    <Insurance>22E</Insurance>
+    <Mpg>61.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202603251010436?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=300&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>5</ID>
+    <Name>Vauxhall</Name>
+    <Model>Mokka</Model>
+    <FullModel>1.4i Turbo SE 2WD Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>T-CHAIN✅WARRANTY✅HEATED SEATS</EyeCatcher>
+    <Value>3750</Value>
+    <Mileage>96000</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures>12V Power Socket - Centre Console, 20 Watts Per Channel Output, Aux in Socket, Bluetooth Connectivity, CD Player - CD450 with MP3 Compatability, DAB Digital Radio, Multi Function Display Panel, RDS with Traffic Programme, Radio - AM-FM with 36 Station Presets, Remote Display, Speakers - x6, USB Connection with iPod Control, Cruise Control, Driver Information Display, Electronic Odometer and Trip Odometer, Exterior Temperature Sensor, Front Parking Distance Sensors, Multi-Function Trip Computer, Rear Parking Distance Sensors, Shift Up Indicator, Tyre Pressure Monitoring System, 18in Alloy Wheels - Multispoke, Alloy Effect Door Sill Covers, Black B-Pillars, Body Side Protection Mouldings, Body-Colour Door Handles, Chrome Effect Side Window Mouldings, Dark Tinted Rear Windows, Door Mirror - Driver Side - Wide-Angle, Door Mirrors - Body Colour, Door Mirrors - Electrically Foldable, Electric Windows - Front and Rear with Safety Autoreverse and One Touch Facility, Emergency Tyre Inflation Kit, Exhaust Tailpipes - Stainless Steel, Grey exterior colour, Heated Rear Window with Automatic Timed Cut-Off, Laminated Windscreen, Locking Wheel Nuts, Plastic Lower Front Bumper Stiffener, Roof Rails - Silver Effect, Skid Plates - Protective Front Alloy Effect, Space Saver Spare Wheel, Tinted Glass, Windscreen - Heat Reflective, Automatic Lighting Control, Daytime Running Lights, Door-to-Door Illumination, Fog Lights - Front, Headlights - High Beam Assist, Lights On Audible Warning, 230V Rear Power Outlet Behind Front Seats - Two-Pin Euro-Style Socket, 60-40 Split-Folding Rear Seat Back, Air Blend Heater with Six Speed Fan, Air Recirculation System, Armrest - Front Centre, Armrest - Rear Centre, Black full leather interior, Chrome Effect Highlights on Centre Console and Air Vent Surrounds, Chrome Effect Interior Door Handles, Climate Control - Electronic Dual Zone, Colour Keyed Fleece Velour Carpet, Drinks Holder - Rear Passengers Armrest, Drinks Holder in Centre Console, Drivers Sunglasses Holder, Electro-Chromatic Anti Dazzle Rear View Mirror, Foldable Luggage Area Cover, Front Door Pockets, Front Seat Back Map Pockets - Drivers, Front Seat Back Map Pockets - Passenger, Fully Carpeted Luggage Area, Glovebox - Illuminated, Glovebox - Upper Facia, Head Restraint - Height Adjustable Outer Rear Seat, Head Restraint - Rear Centre, Height-Adjustable Front Seat Head Restraints, Illuminated Luggage Area, Inserts - Facia and Door Panels - Brushed Tungsten Effect, Instrument Panel Light Dimmer, Instruments - Black with Chrome Edging, Interior Courtesy Light Operated By Door Switches, Interior Pollen Filter, Leather Gear Knob, Rain Sensitive Windscreen Wipers, Seats - Drivers Reach-Rake-Height Adjustment, Seats - Front Electric Lumbar Adjustment, Seats - Front Ergonomic Sports with Extendable Seat Cushions, Seats - Front Heated, Seats - Front Passenger with Reach-Rake Adjustment, Seats - Front Passengers Reach-Rake-Height Adjustment, Seats - Manually Extendable Front Cushions, Seats - Sports Front, Steering Column - Adjustable for Reach and Rake, Steering Wheel - Heated, Steering Wheel - Mounted Controls For Audio, Steering Wheel - Three Spoke Leather, Sunvisors - Twin Illuminated Vanity Mirrors with Covers, Twin Gas Assisted Tailgate Struts, Welcome Lighting, Winter Pack, Speed Sensitive Power Assisted Steering, ABS - Anti-Lock Braking System, Adaptive Brake Lights, Airbag - Drivers, Airbags - Deactivation Switch For Front Passengers, Airbags - Front Curtain, Airbags - Front Passenger, Airbags - Front Seat Side-Impact, Airbags - Rear Curtain, Burst-Proof Door Locks and Anti-Jam Door Design, CBC - Cornering Brake Control, Collapsible Windscreen Wiper System, Deadlocks, Deformation Zones Front and Rear, Drivers Internal Central Locking Switch, Drivers and Front Passengers Lap Belt Pretensioner System, EBD - Electronic Brakeforce Distribution, ESP - Switchable Electronic Stability Programme, Electronic Engine Deadlock Immobiliser, Electronic Theft Protection For Audio Equipment, Emergency Brake Assist, Energy Absorbing Steering Column, Folding Key, Front Body Lock Seatbelt Pretensioner System, ISOFIX Child Seat Restraint System for Outer Rear Seats Incorporating Top Tether, Low Density Foam Near Front Bumper Crossmember, Pedal Release System, Reinforced Passenger Safety Cell, Remote Control Central Deadlocking, Remote Control Ultrasonic Security Alarm System, Seatbelt Unfastened Warning Light for Front Seats, Seatbelt Unfastened Warning Light for Rear Seats, Side Impact Protection Beams, Straight Line Stability Control, TRC - Traction Control</ExtraFeatures>
+    <Reg>R19 GVM</Reg>
+    <Video></Video>
+    <MetaTag>Vauxhall Mokka 1.4i Turbo SE 2WD Euro 6 (s/s) 5dr Petrol Manual Grey</MetaTag>
+    <Description>
+      Private Reg is included.
+      Available now is this well-presented and high-spec 2016 Vauxhall Mokka 1.4i Turbo SE 2WD, a stylish and practical SUV offering great comfort, elevated driving position, and excellent everyday usability.
+      Powered by the responsive 1.4 turbo petrol engine, it delivers smooth performance, good fuel economy, and is ULEZ compliant — making it ideal for city driving, commuting, or family use.
+      ✅ Turbo Petrol • SE Spec • ULEZ Compliant • SUV Practicality
+      Key Features Include:
+      • Full leather interior
+      • Heated front seats
+      • Heated steering wheel
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Climate control
+      • Front and rear parking sensors
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Daytime running lights
+      Drives great — smooth, comfortable, and easy to drive. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve R19 GVM with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Vauxhall Mokka 1.4i Turbo SE 2WD with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/a1bb1bc23ce749c9b569b6db4a764f08.jpg,https://m.atcdn.co.uk/a/media/{resize}/b317d49274ac40eaacb20ea90ff7885e.jpg,https://m.atcdn.co.uk/a/media/{resize}/35b333b3f77846198fdac7ce22a53fe2.jpg,https://m.atcdn.co.uk/a/media/{resize}/cbe9337fa1da4be18a695903b921002d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f079a1826acd42d182566397fc536ccf.jpg,https://m.atcdn.co.uk/a/media/{resize}/c442d789fdc84cee83f982e0647aba8c.jpg,https://m.atcdn.co.uk/a/media/{resize}/4074a9ffc70b47e18c7943ed34251f44.jpg,https://m.atcdn.co.uk/a/media/{resize}/cce4276e42fa46e0a0896ba201cf8080.jpg,https://m.atcdn.co.uk/a/media/{resize}/84ec50b3b8294f909823c075577fa3ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a3e1d33fe174da4b45cd30bb67375a6.jpg,https://m.atcdn.co.uk/a/media/{resize}/aebdd6d929f845d69954d5135bdfc3a2.jpg,https://m.atcdn.co.uk/a/media/{resize}/7132583806014b49bbf923d43e3cd9da.jpg,https://m.atcdn.co.uk/a/media/{resize}/4ac7992d21b24134990223510d0bea70.jpg,https://m.atcdn.co.uk/a/media/{resize}/6df028b32af04f6c9df93e5aa86a2f31.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2ae78cfb557400a9cde6590eaec4713.jpg,https://m.atcdn.co.uk/a/media/{resize}/30445796a94645b482aa3b9c081e02c7.jpg,https://m.atcdn.co.uk/a/media/{resize}/bebd9cb7787545cd980aecf099a7649b.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab983e2fb1604d2f933d904169d45d9c.jpg,https://m.atcdn.co.uk/a/media/{resize}/dfa110e19b7b4007b9bf62595deb1dc7.jpg,https://m.atcdn.co.uk/a/media/{resize}/9c577749ff824050a3b460415ff274b3.jpg,https://m.atcdn.co.uk/a/media/{resize}/28f0b67f81d74cd29f17a60976c2ef9e.jpg,https://m.atcdn.co.uk/a/media/{resize}/b1e0f29c0a084b24a78744c6591ee08a.jpg,https://m.atcdn.co.uk/a/media/{resize}/a0a63c8de9b6465091e13a8448929575.jpg,https://m.atcdn.co.uk/a/media/{resize}/b450afe5f10845659bff2700ac70bb2e.jpg,https://m.atcdn.co.uk/a/media/{resize}/19ee965af26e44e0b76bf7662c005dca.jpg,https://m.atcdn.co.uk/a/media/{resize}/97440d3751be4aa0b3c4f6853739976e.jpg,https://m.atcdn.co.uk/a/media/{resize}/de5f8865ec764faba4ca65f9ceb4fe6f.jpg,https://m.atcdn.co.uk/a/media/{resize}/7486e1d1d143428d90a39143f49c4440.jpg,https://m.atcdn.co.uk/a/media/{resize}/435c36e9b0424e09b4bc5577cb77bef6.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab7b57280093403bba378642bac9df64.jpg,https://m.atcdn.co.uk/a/media/{resize}/8fe8160dcaac4b97bc7397b7abbae2ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/5a48206092194bdb882f11f4bfe1d48b.jpg,https://m.atcdn.co.uk/a/media/{resize}/949d23abd40e4e46a2b20639ee2205ce.jpg,https://m.atcdn.co.uk/a/media/{resize}/08faa2a3c3c84bc8a5ffc36f8a3db4fe.jpg,https://m.atcdn.co.uk/a/media/{resize}/5685187a9ce649538ab04fe5fcaafef5.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc522303c0124f02876086a7c7092d2d.jpg,https://m.atcdn.co.uk/a/media/{resize}/4c0ed34e88864818a4f8b8660cf43e7a.jpg,https://m.atcdn.co.uk/a/media/{resize}/9a8a98427ef84249a17abc8263e1a6cf.jpg,https://m.atcdn.co.uk/a/media/{resize}/567eb8fe9ae94b3bb3d50d90a2d191e1.jpg,https://m.atcdn.co.uk/a/media/{resize}/430ad31870b5407eb0338bad9bb314e6.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ce6668f46704fcba047563976df5b70.jpg,https://m.atcdn.co.uk/a/media/{resize}/9989a60038ea44f4a57473c3c83baae6.jpg,https://m.atcdn.co.uk/a/media/{resize}/e13052609f4447ebba73548521304a14.jpg,https://m.atcdn.co.uk/a/media/{resize}/c372eeb9ee104a0a9f484347cccf48c8.jpg,https://m.atcdn.co.uk/a/media/{resize}/f143d9db86614dad92bb6c86cfa1ab9a.jpg,https://m.atcdn.co.uk/a/media/{resize}/f047650d88af4a768933796a7e13d4a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/40aad05ca37348f9a6585c6156bf3336.jpg,https://m.atcdn.co.uk/a/media/{resize}/20cbe8be62004526820d5e580738a657.jpg,https://m.atcdn.co.uk/a/media/{resize}/fb8712786ea54f239d29b893b1cbc07f.jpg,https://m.atcdn.co.uk/a/media/{resize}/804b8a705bea4ff1a2015d141125c6bd.jpg,https://m.atcdn.co.uk/a/media/{resize}/2021dd0a260546fb8962eabb51a0f8c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/ea6845907e804a6b9dd3814887414e53.jpg,https://m.atcdn.co.uk/a/media/{resize}/aa752c41e54a4f56ac6f82c881dcc8b3.jpg,https://m.atcdn.co.uk/a/media/{resize}/e74c72b020354d9a888a116f09f32346.jpg,https://m.atcdn.co.uk/a/media/{resize}/b7fce7fc45e141edb33debe2f2c04b38.jpg</Image>
+    <Tax>225</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>45.6</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202604111472503?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=375&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+  </Car>
+  <Car>
+    <ID>6</ID>
+    <Name>Volkswagen</Name>
+    <Model>Polo</Model>
+    <FullModel>1.4 Match Edition Euro 5 5dr</FullModel>
+    <EyeCatcher>MATCH ED✅WARRANTY✅DELIVERY✅</EyeCatcher>
+    <Value>4250</Value>
+    <Mileage>93200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Bluetooth Connection - Touch Phone Kit, DAB+ - Digital Radio Reception, MDI - Multi Device Interface, RCD 310 Radio - MP3 Compatible CD Player, Cruise Control, Multifunction Computer, Parking Sensors - Rear, Tyre Pressure Indicator, 15in Alloy Wheels - Castille, Body Coloured Bumpers, Body Coloured Side Sills, Body-Coloured Door Mirrors with Integrated Indicators, Door Mirrors - Electrically Adjustable and Heated, Electric Windows - Front and Rear, Full Size Steel Spare Wheel, Heated Rear Windscreen - Automatically Switches Off, Load Lip Protective Shield, Radiator Grille - Gloss Black with Chrome Trimmed Louvre, Tinted Glass - Heat Insulating Rear 65 Percent Light Absorbing from B Pillar Backwards, White exterior colour, Daytime Running Lights, Front Fog Lights, Headlights - Halogen Clear - Range Adjustable, High Level 3rd Brake Light, Air Conditioning - Manual, Air Vent Surrounds - Matt Chrome, Black cloth interior, Centre Console with Open Storage and 12V Socket with Cover, Cup Holders - Front x2, Drivers Seat Height Adjustment, Dust and Pollen Filter, Front Seat Back Storage Pockets, Glovebox, Grab Handles - Front x2 Rear x2 with Coat Hooks, Head Restraints - Front Whiplash Optimised, Heating and Ventilation System with 4 Speed Fan and Air Recirculation Switch, Height and Reach Adjustable Steering Column, Instrument Lighting - White Adjustable Panel Illumination, Interior Lighting Delay, Luggage Compartment - Hooks, Luggage Compartment Cover - Removable, Luggage Compartment Light, Matt Chrome - Gear Lever Gaiter Surround, Matt Chrome - Handbrake Grip Button, Matt Chrome - Internal Door Handles, Reading Lights - Front x2 and Rear x1, Split Folding Rear Backrests 60-40, Storage Compartment Light, Storage Compartment in Rear Doors, Storage Compartments in Front Doors, Sun Visors - Vanity Mirrors and Illuminated, Three Rear Head Restraints, Three-Spoke Steering Wheel, Variable Boot Floor, Power Assisted Steering - Speed Sensitive, ABS - Anti-Lock Braking System, ASR - Anti Slip Regulation, Airbags - Driver, Airbags - Front Passenger, Airbags - Side Head and Thorax for Front Passenger, Alarm with Interior Protection, Central Locking - Remote with 2 Remote Keys, Differential Lock - Electronic, ESP - Electronic Stability Programme, Electronic Engine Immobiliser, HBA - Hydraulic Brake Assist, ISOFIX Child Seat Preparation for 2 Rear Seats, Seatbelt Reminder</ExtraFeatures>
+    <Reg>ST13 WHL</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Polo 1.4 Match Edition Euro 5 5dr Petrol Manual White</MetaTag>
+    <Description>
+      Available now is this smart and economical 2013 Volkswagen Polo 1.4 Match Edition, a reliable and practical hatchback offering low running costs, excellent build quality, and great everyday usability.
+      Powered by the dependable 1.4 petrol engine, it’s smooth, easy to drive, and ideal for new drivers, commuting, or everyday family use.
+      ✅ Match Edition • Reliable Hatchback • Great MPG
+      Key Features Include:
+      • Match Edition specification
+      • Alloy wheels
+      • Air conditioning
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Rear parking sensors
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Remote central locking
+      • ISOFIX
+      • Trip computer
+      Drives great — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve ST13 WHL with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Polo 1.4 Match Edition with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/b04a212281bf4c399f67b86d3adb538b.jpg,https://m.atcdn.co.uk/a/media/{resize}/adba5db06070458a91267007c2c5b0d3.jpg,https://m.atcdn.co.uk/a/media/{resize}/8d4af8bdd27c48398b7c031bce1bc936.jpg,https://m.atcdn.co.uk/a/media/{resize}/03f08712d780451ebd5d1342ea42bfb8.jpg,https://m.atcdn.co.uk/a/media/{resize}/83046efeabf34005b5d94cc62386b928.jpg,https://m.atcdn.co.uk/a/media/{resize}/bdbe644877c244d6b6e44455fb1a4140.jpg,https://m.atcdn.co.uk/a/media/{resize}/8789170ac6bf4f169f50a13ea1cdbf9d.jpg,https://m.atcdn.co.uk/a/media/{resize}/292081806fa744aa91412ba7110c28c0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a09425b4ae084646a50502eec58e6d9d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3df17add4e9446b680ba4d50d3b86140.jpg,https://m.atcdn.co.uk/a/media/{resize}/bd69a38638994086913a99912de68353.jpg,https://m.atcdn.co.uk/a/media/{resize}/e68a71d3fbd24be68c39f964d89d9e9b.jpg,https://m.atcdn.co.uk/a/media/{resize}/dd397b2491814006a87f89f7232b40c2.jpg,https://m.atcdn.co.uk/a/media/{resize}/8e250531e30549fdb1c76a147832efb2.jpg,https://m.atcdn.co.uk/a/media/{resize}/c8ef65a0e19346278c60f9a0aa97313a.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1c94130facc472bb64e1c1d0c6ccea8.jpg,https://m.atcdn.co.uk/a/media/{resize}/75a7658ef09d4f8fa7ec22b3ad155e3b.jpg,https://m.atcdn.co.uk/a/media/{resize}/3929f15f3d8941d58285f704422c804d.jpg,https://m.atcdn.co.uk/a/media/{resize}/ef77c29140134a2aa85d6e1661739bdf.jpg,https://m.atcdn.co.uk/a/media/{resize}/cac763a2359f4147b70125bc3e94094a.jpg,https://m.atcdn.co.uk/a/media/{resize}/97ee7a594f74406c9ff91107d063bb9a.jpg,https://m.atcdn.co.uk/a/media/{resize}/e13eec32f81e441f9d3756f1432081be.jpg,https://m.atcdn.co.uk/a/media/{resize}/90a85384598b4365987bc33e919bfedf.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a895da81c9b4e798b300bab072d1b9c.jpg,https://m.atcdn.co.uk/a/media/{resize}/0e3ac4dcec1341f28f085650d80acb21.jpg,https://m.atcdn.co.uk/a/media/{resize}/9512396397254a9693a2274efdadd010.jpg,https://m.atcdn.co.uk/a/media/{resize}/112494fcab83454d967ec48ba34c8d11.jpg,https://m.atcdn.co.uk/a/media/{resize}/1a53dc98b2604ea38e5585649b4b3bf4.jpg,https://m.atcdn.co.uk/a/media/{resize}/c48d457253324fa3804aca2f751ea592.jpg,https://m.atcdn.co.uk/a/media/{resize}/b82c0c851aa746bea107055aeee070c3.jpg,https://m.atcdn.co.uk/a/media/{resize}/04b1d8e6b9ba4d2caafa54cb21782314.jpg,https://m.atcdn.co.uk/a/media/{resize}/3d5007617b2641c0a3d062c22e6bfa30.jpg,https://m.atcdn.co.uk/a/media/{resize}/ecdb7b1a4934402cbb13c0cc79c8a6f2.jpg,https://m.atcdn.co.uk/a/media/{resize}/3430c9b2d3194fe48bd6f1198d266914.jpg,https://m.atcdn.co.uk/a/media/{resize}/aebd87016dcc45baa58b11b21e5f4230.jpg,https://m.atcdn.co.uk/a/media/{resize}/63d7bcc163df4cafa1a76c56ee0a3ec6.jpg,https://m.atcdn.co.uk/a/media/{resize}/8fff134ec8f648c4835aa567fbc63956.jpg,https://m.atcdn.co.uk/a/media/{resize}/1a28eaa512284ef382683bdb2b754097.jpg,https://m.atcdn.co.uk/a/media/{resize}/5c87155c21ab498b82b0a5de8ff4a0c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/138375cbf42d4ffdb020aed9cfd1266b.jpg,https://m.atcdn.co.uk/a/media/{resize}/354085b9414d4eafb3747440a616d815.jpg,https://m.atcdn.co.uk/a/media/{resize}/f491ce572a774eaca942cc0c8199d54c.jpg,https://m.atcdn.co.uk/a/media/{resize}/267c62b034f74c91aa220cd3e7ff31c5.jpg,https://m.atcdn.co.uk/a/media/{resize}/6fcecb95265b4ffb9049318219289204.jpg,https://m.atcdn.co.uk/a/media/{resize}/e97278f109004ea784cbe4245414a02b.jpg,https://m.atcdn.co.uk/a/media/{resize}/2f0c9e1972d04e53b85ed0b9f167dca0.jpg,https://m.atcdn.co.uk/a/media/{resize}/2bc3f2b7781e439fb4bec5b9735ca700.jpg,https://m.atcdn.co.uk/a/media/{resize}/82bccefd99014b1bad0e8e98da453833.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>47.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605072212456?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=425&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>7</ID>
+    <Name>Vauxhall</Name>
+    <Model>Astra</Model>
+    <FullModel>1.4i Turbo Design Euro 6 5dr</FullModel>
+    <EyeCatcher>FULL MOT✅WARRANTY✅ NEW T-CHAIN</EyeCatcher>
+    <Value>4399</Value>
+    <Mileage>89000</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures>12V Power Socket - Front, AUX Connection, Android Auto, Apple CarPlay, Audio Streaming, DAB - Digital Radio, Display Screen - 7in Colour, Display Screen - 7in Colour Touchscreen, Intellilink, Mobile Phone System with Bluetooth Connectivity, Photo Gallery - Video Playback, RDS with Traffic Programme, Speakers - x4, USB Connection with iPod Control, Cruise Control, Digital Clock with Automatic RDS Time Adjustment, Exterior Temperature Sensor, Gearshift Indication Light, Key Left in Ignition Audible Warning, Trip Computer - Multi-Function, Tyre Pressure Monitoring System, 16in Structure Wheels, Black exterior colour, Body-Coloured Rear Roof Spoiler, Chrome Effect Headlights, Chrome Effect Upper Window Trim, Door Handles - Body Coloured, Door Mirrors - Body Coloured, Door Mirrors - Electric - Heated, Electric Windows - Front and Rear with Safety Autoreverse and One Touch Facility, Gloss Black C-Pillars, Grille Bar - Chrome-Effect, Heated Rear Window, Locking Wheel Nuts for Alloy Wheels, Manually Foldable Door Mirrors, Matt Black B-Pillars, Solar Heat Absorbing Windscreen, Steel Emergency Spare Wheel, Tyre Inflation Kit, Windows - Tinted, Automatic Lighting Control, Brake Light - LED Centre, Daytime Running Lights - LED, Door to Door Illumination, Halogen Headlights, Headlights - Manual Beam Levelling, Lights On Audible Warning, Air Conditioning, Antello Sand Trim Inserts on Front Doors, Black Door Panels with Black Atlantis Cloth Inserts, Black Facia with Antello Sand Trim Inserts, Centre Storage with Two Cup Holders, Chrome Effect Interior Door Handles, Comfort Front Seats, Front Courtesy Lights, Front Door Pockets, Fully Carpeted Luggage Area, Glovebox with Lid, Head Restraints - Height Adjustable, Head Restraints - Rear Height Adjustment, Illuminated Luggage Area, Instrument Panel Light Dimmer, Interior Tailgate Handle, Load Restraint Lashing Eyes, Luggage Compartment Cover, Pollen Filter, Rake and Reach Adjustable Steering, Rear Courtesy Lights, Rear Door Pockets, Seats - Driver 8-Way Manual Adjustment, Seats - Front Passenger with Reach-Recline Adjustment, Seats - Passenger 6-Way Manual Adjustment, Seats - Rear Split Folding 60-40, Side Window Demist Air Vents and Adjustable Face-Level Air Vents, Steering Wheel - Mounted Audio Controls, Steering Wheel - Three Spoke-Chrome Bezelled, Storage Box On Drivers Side Lower Facia, Sunvisors - Driver and Passenger with Vanity Mirrors, Twin Gas Assisted Tailgate Struts, Two Speed Windscreen Wipers with Variable Intermittent Wipe, Speed Sensitive Power Assisted Steering, ABS - Anti Lock Brakes, Airbags - Curtain, Airbags - Deactivation Switch For Front Passengers and Side Impact, Airbags - Front Side, Airbags - Passenger, Brake Lights - Adaptive, Burst-Proof Door Locks and Anti-Jam Door Design, CBC - Cornering Brake Control, Child Proof Locks on Rear Doors, Deadlocks, Deformation Zones Front and Rear, Drag Torque Control, Drivers Airbag, Drivers Internal Central Locking Switch, Drivers and Front Passengers Seatbelt Unfastened Warning Lights, EBA - Electronic Brake Assist, EBD - Electronic Brakeforce Distribution, ESP Plus - Electronic Stability Programme, Electronic Engine Deadlock Immobiliser, Electronic Theft Protection For Audio Equipment, Emergency Brake Assist, Fading Brake Support, Folding Key, Freewheeling Door Locks, HSA - Hill Start Assist, ISOFIX Child Seat Restraint System for Outer Rear Seats Incorporating Top Tether, Intermittent Rear Window Wipers with Washer, Lockable Fuel Filler Cap, Pedal Release System, Reinforced Passenger Safety Cell, Remote Central Locking, Rollover Mitigation, Seats - Anti-Submarning Ramps - Front and Rear, Side Impact Protection Beams, Steering Column - Energy Absorbing, Straight Line Stability Control, VIN - Visible Vehicle Identification Number</ExtraFeatures>
+    <Reg>DT16 WDN</Reg>
+    <Video></Video>
+    <MetaTag>Vauxhall Astra 1.4i Turbo Design Euro 6 5dr Petrol Manual Black</MetaTag>
+    <Description>
+      Available now is this smart and economical 2016 Vauxhall Astra 1.4i Turbo Design, a stylish and practical hatchback offering smooth performance, low running costs, and excellent everyday comfort.
+      Powered by the responsive 1.4 Turbo petrol engine, it delivers strong performance while remaining efficient and ULEZ compliant, making it ideal for commuting, motorway driving, or family use.
+      For added peace of mind, this vehicle has also had the timing chain replaced.
+      ✅ Turbo Petrol • ULEZ Compliant • Timing Chain Replaced
+      Key Features Include:
+      • Design specification
+      • Touchscreen infotainment system
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Air conditioning
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, responsive, and comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve DT16 WDN with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Vauxhall Astra 1.4 Turbo Design with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/260d92d4f3a745fb81cf50a999552b95.jpg,https://m.atcdn.co.uk/a/media/{resize}/163bb4955f4246718b8150de53820b31.jpg,https://m.atcdn.co.uk/a/media/{resize}/bc274b1514f04a3781331eac5be527f9.jpg,https://m.atcdn.co.uk/a/media/{resize}/0ad02a145e3d404a9610e3ba48203b08.jpg,https://m.atcdn.co.uk/a/media/{resize}/31aae3e3056d4eaabf95f9928cd06ca3.jpg,https://m.atcdn.co.uk/a/media/{resize}/186ee9c8b34447b982c30680cfd332f1.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f0e7ac5a8b24d2b960e5ae66335ea60.jpg,https://m.atcdn.co.uk/a/media/{resize}/61360415de5c4afeb980a9f2cb33afca.jpg,https://m.atcdn.co.uk/a/media/{resize}/7058c468d3564ee993adedd9408a2adb.jpg,https://m.atcdn.co.uk/a/media/{resize}/020bfe085c0043ce934cff7035d6a17f.jpg,https://m.atcdn.co.uk/a/media/{resize}/6a40e0c82ccb46faae0e7ec72dfb0014.jpg,https://m.atcdn.co.uk/a/media/{resize}/93041937ba91472a9677316dcd72da66.jpg,https://m.atcdn.co.uk/a/media/{resize}/47bdf7fecb9f4371ab1d157558924d20.jpg,https://m.atcdn.co.uk/a/media/{resize}/6ebde56ac38b49ab8bc5ccb3793a465d.jpg,https://m.atcdn.co.uk/a/media/{resize}/d14619b595cf49acbc409cfef6d13165.jpg,https://m.atcdn.co.uk/a/media/{resize}/f0e9d7e4ceb14a16bb1c9a8b594875f6.jpg,https://m.atcdn.co.uk/a/media/{resize}/60b443bcf1ed4ca68b39fae383820bf3.jpg,https://m.atcdn.co.uk/a/media/{resize}/df984102d5394a259c47db3b2a4ea063.jpg,https://m.atcdn.co.uk/a/media/{resize}/418e0186bf404af8b850b6199c01ccf1.jpg,https://m.atcdn.co.uk/a/media/{resize}/2b8a460f34234d2b89624f4bca265acb.jpg,https://m.atcdn.co.uk/a/media/{resize}/a8b3a027f5354d2793ce983b668fda58.jpg,https://m.atcdn.co.uk/a/media/{resize}/9e5fe12e1b7f48d68f2e850039851445.jpg,https://m.atcdn.co.uk/a/media/{resize}/5b6848bba8a34fa9907886127fed297a.jpg,https://m.atcdn.co.uk/a/media/{resize}/05220b5461bb46f28bda08faf1393fe5.jpg,https://m.atcdn.co.uk/a/media/{resize}/ebb7ddd3319a41299fb11c36509dea41.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a3a3f4e97eb423b9b7f7a36f07314ef.jpg,https://m.atcdn.co.uk/a/media/{resize}/3615cd1e8ed94342aaacc4d22300b5b5.jpg,https://m.atcdn.co.uk/a/media/{resize}/19c30419c36c4f1489bbb8036298af07.jpg,https://m.atcdn.co.uk/a/media/{resize}/5711d50e5d89459f9410a25d54ee6a7d.jpg,https://m.atcdn.co.uk/a/media/{resize}/226deab74ab54fab90effe8523b3df6f.jpg,https://m.atcdn.co.uk/a/media/{resize}/34f202a8130242e2a0aeb06dbaff1c02.jpg,https://m.atcdn.co.uk/a/media/{resize}/f57c988818004b298d2b6bd0c8909a9d.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcef7a0b7d044b0aa74b24f79c68542d.jpg,https://m.atcdn.co.uk/a/media/{resize}/741c0f49413b41ccbc70b597dfee1003.jpg,https://m.atcdn.co.uk/a/media/{resize}/43ac2f8f96a04decb9f74312947ff1b4.jpg,https://m.atcdn.co.uk/a/media/{resize}/bccc3cb268264ca194e76f3b8a2c381b.jpg,https://m.atcdn.co.uk/a/media/{resize}/fa2c1f58319249438f6e565b79daf9bc.jpg,https://m.atcdn.co.uk/a/media/{resize}/b1df0b29a78e46e791af833271554c07.jpg,https://m.atcdn.co.uk/a/media/{resize}/a96915b543e4460a8485e50334ba6828.jpg,https://m.atcdn.co.uk/a/media/{resize}/51b4d95716654665b01b70ed99d20641.jpg,https://m.atcdn.co.uk/a/media/{resize}/20c70076450848e6bef32e5ce9dd1032.jpg,https://m.atcdn.co.uk/a/media/{resize}/db1c413c07b042cd96ada1d49b38bd2a.jpg,https://m.atcdn.co.uk/a/media/{resize}/7dbf786077d84f37a5a720288034d1b1.jpg,https://m.atcdn.co.uk/a/media/{resize}/50d83a43008940c0ab9ad2d62a56b31b.jpg,https://m.atcdn.co.uk/a/media/{resize}/49a07ffafd98445a87ccb4cd0302d751.jpg,https://m.atcdn.co.uk/a/media/{resize}/c672497ff41b467ea8db9884a21beaf5.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1acc0bf74d74bfbb89fd853d07de638.jpg,https://m.atcdn.co.uk/a/media/{resize}/438ad0949381486aa82e993212323697.jpg,https://m.atcdn.co.uk/a/media/{resize}/53b09076cc124edcb2bed44a98b4b98d.jpg,https://m.atcdn.co.uk/a/media/{resize}/fa12e3bd1dd44402a458d2680c4fbf6b.jpg,https://m.atcdn.co.uk/a/media/{resize}/28e59a12453b4522aa61905eee39a236.jpg</Image>
+    <Tax>170</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>52.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202603160751127?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=440&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Volkswagen</Name>
+    <Model>Polo</Model>
+    <FullModel>1.2 Match Euro 5 5dr</FullModel>
+    <EyeCatcher>FULL MOT✅LOW MILEAGE✅WARRANTY✅</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>76500</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>12V Socket with Cover, Aux-In Socket, Dash-mounted MP3 Compatible CD Player, MDI - Multi Device Interface with USB - iPod Connection Cables, RCD 310 Radio System, Speakers x6, Digital Clock, Fuel and Temperature Gauge, Multifunction Computer - Midline, Tyre Pressure Indicator, Waring Buzzer for Lights Left On, 15in Alloy Wheels - Castille, Anti-Theft Wheel Bolts, Body Coloured Bumpers, Body Coloured Door Handles, Body Coloured Side Sills, Body-Coloured Door Mirrors with Integrated Indicators, Door Mirrors - Electrically Adjustable and Heated, Electric Windows - Front, Electric Windows - Front and Rear, Heated Rear Windscreen - Automatically Switches Off, Load Lip Protective Shield, Radiator Grille - Gloss Black with Matt Chrome Louvres, Rear Wash Wipe with Interval Delay, Spare Wheel - Space Saver Steel, Tinted Glass - Heat Insulating Rear from B Pillar Backwards, White exterior colour, Front Fog Lights, Headlights - Halogen Clear - Range Adjustable, High Level 3rd Brake Light, Lights on Warning Buzzer, Permanent Running Lights, Air Conditioning - Climate Semi Automatic Control, Air Vent Surrounds - Matt Chrome, Air Vents with High Gloss Black Trim, Black cloth interior, Centre Console with Open Storage Compartment, Comfort Pack, Cup Holders - Front x2, Drivers Seat Height Adjustment, Dust and Pollen Filter, Front Passengers Seat Height Adjustment, Front Seat Back Storage Pockets, Galvanised Body, Glovebox, Grab Handles - Front x2 Rear x2 with Coat Hooks, Head Restraints - Front Whiplash Optimised, Height and Reach Adjustable Steering Wheel, High Gloss Black Decorative Inserts, Instrument Lighting - White Adjustable Panel Illumination, Interior Lighting Delay, Luggage Compartment Cover - Removable, Luggage Compartment Light, Luggage Compartment with Variable Load Floor, Matt Chrome - Gear Lever Gaiter Surround, Matt Chrome - Handbrake Grip Button, Matt Chrome - Internal Door Handles, Note Pad Holder - Pen Holder - Coin Holder in Glovebox, Reading Lights - Front x2 and Rear x1, Seats - Folding Rear Backrest, Split Folding Rear Backrests 60-40, Storage Compartment in Rear Doors, Storage Compartments in Front Doors, Sun Visors - Vanity Mirrors and Illuminated, Sun Visors - Vanity Mirrors x2, Three Rear Head Restraints, Three-Spoke Steering Wheel, Power Assisted Steering - Speed Sensitive, ABS - Anti-Lock Braking System, ASR - Anti Slip Regulation, Airbags - Driver, Airbags - Front Passenger, Airbags - Side Head and Thorax for Front Passenger, Central Locking - Remote with 2 Remote Keys, Differential Lock - Electronic, ESP - Electronic Stability Programme, Electronic Engine Immobiliser, HBA - Hydraulic Brake Assist, Height-Adjustable Front Three-Point Seat Belts with Tensioners, ISOFIX Child Seat Preparation for 2 Rear Seats, Seatbelt Reminder, TCS - Traction Control System</ExtraFeatures>
+    <Reg>SH62 AMX</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Polo 1.2 Match Euro 5 5dr Petrol Manual White</MetaTag>
+    <Description>
+      Available now is this clean and economical 2012 (62) Volkswagen Polo 1.2 Match, a reliable and practical hatchback offering low running costs, solid build quality, and excellent everyday usability.
+      Powered by the efficient 1.2 petrol engine, it’s smooth, cheap to insure, and ideal for new drivers, commuting, or everyday use.
+      ✅ Low insurance • Great MPG • Reliable hatchback
+      Key Features Include:
+      • Match specification
+      • Alloy wheels
+      • Air conditioning
+      • Bluetooth and media connectivity
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Remote central locking
+      • ISOFIX
+      • Trip computer
+      Drives great — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve SH62 AMX with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Polo 1.2 Match with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/f3bcc85c9b16402fad4789dd741e5e36.jpg,https://m.atcdn.co.uk/a/media/{resize}/849de55a11de452b945e7a6e1b6f0865.jpg,https://m.atcdn.co.uk/a/media/{resize}/06a8f2cbf801463eafd227500b5df9d4.jpg,https://m.atcdn.co.uk/a/media/{resize}/bbbd49d00d4440d8b951ab795e76bd1f.jpg,https://m.atcdn.co.uk/a/media/{resize}/6a30273836c1434f8bd79d9c602e3081.jpg,https://m.atcdn.co.uk/a/media/{resize}/b31c1d9c33574f0eacdf10f467b93f6f.jpg,https://m.atcdn.co.uk/a/media/{resize}/b104bd5c647047489bd93b74073f58f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2fd72b55d8646828389c556985d8743.jpg,https://m.atcdn.co.uk/a/media/{resize}/a1b1407c8aee4b7aa73928d643f4d3cd.jpg,https://m.atcdn.co.uk/a/media/{resize}/3ce5440f580848ec9b2ba0c17e6f44cf.jpg,https://m.atcdn.co.uk/a/media/{resize}/817d0920aa7048778f633a72c297cc20.jpg,https://m.atcdn.co.uk/a/media/{resize}/66f56c3ef59a4303aa2a2eec8c9b7eef.jpg,https://m.atcdn.co.uk/a/media/{resize}/d7a0d8fafb8345d0ae5a396eb490a421.jpg,https://m.atcdn.co.uk/a/media/{resize}/e24ae56c5f9d4d3d9de54464cdac9427.jpg,https://m.atcdn.co.uk/a/media/{resize}/a1689f841b9649748d0e14ce15ee8fed.jpg,https://m.atcdn.co.uk/a/media/{resize}/920da2576cb5433db54c0dc289624730.jpg,https://m.atcdn.co.uk/a/media/{resize}/433e8b1f98404e0dae68f08252afbf3c.jpg,https://m.atcdn.co.uk/a/media/{resize}/becb3cb17deb4790b69a784ec4f8f72d.jpg,https://m.atcdn.co.uk/a/media/{resize}/2ad264d288e94184be2c17e9e06236db.jpg,https://m.atcdn.co.uk/a/media/{resize}/627fe0ac137648e5b6ba21f7121004f6.jpg,https://m.atcdn.co.uk/a/media/{resize}/a0e91a5a23dd4af7937175af1aaa4711.jpg,https://m.atcdn.co.uk/a/media/{resize}/91799d2c563346c3b5ed70bfd1b19e80.jpg,https://m.atcdn.co.uk/a/media/{resize}/2693f0f25c8c4b1b969d426ce2d7999b.jpg,https://m.atcdn.co.uk/a/media/{resize}/89a1682174de4b368d85059fb1778219.jpg,https://m.atcdn.co.uk/a/media/{resize}/049ad599bbf84e7f97bc8af93fe42709.jpg,https://m.atcdn.co.uk/a/media/{resize}/0a896b4150e7450194f51e4eeef689c6.jpg,https://m.atcdn.co.uk/a/media/{resize}/37af8900734149478f0c66a25b06c219.jpg,https://m.atcdn.co.uk/a/media/{resize}/66427bfdff104b0981d23e2de6aa6272.jpg,https://m.atcdn.co.uk/a/media/{resize}/d59b1ffe4c9a4767964bf76ba597d325.jpg,https://m.atcdn.co.uk/a/media/{resize}/1b69be4a3bd64f49962db951214b6e7d.jpg,https://m.atcdn.co.uk/a/media/{resize}/d0c88efa004643ffa933552a1173db67.jpg,https://m.atcdn.co.uk/a/media/{resize}/78fc0e76a2414af5b8fdedb53c836059.jpg,https://m.atcdn.co.uk/a/media/{resize}/b4f5df939b854a27a6af0261dd228286.jpg,https://m.atcdn.co.uk/a/media/{resize}/3963a997726f4ef4bd10dce31d31c9ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/aca5b3c235be4afd913555c3bffb6388.jpg,https://m.atcdn.co.uk/a/media/{resize}/e8814324fcf9441c990c4e6ed4e8ef2a.jpg,https://m.atcdn.co.uk/a/media/{resize}/01f55a7fc13843f7887759825d051c17.jpg,https://m.atcdn.co.uk/a/media/{resize}/14f459cc4d95456790ffc69d20cdbe6c.jpg,https://m.atcdn.co.uk/a/media/{resize}/b61ef172b3234b188147828f71ac6de3.jpg,https://m.atcdn.co.uk/a/media/{resize}/1864b0ef346c4787936185542ffdb8b1.jpg,https://m.atcdn.co.uk/a/media/{resize}/1078acd8f3934faaa5229e0ce285eea2.jpg,https://m.atcdn.co.uk/a/media/{resize}/166cbd219a85432a8e456fffa07a5791.jpg,https://m.atcdn.co.uk/a/media/{resize}/677653cff9c4488b9b64bea8017cb212.jpg,https://m.atcdn.co.uk/a/media/{resize}/5407c666d92144d0a5dd7897858c7972.jpg,https://m.atcdn.co.uk/a/media/{resize}/b626df35b775401783e652ed36e9a558.jpg,https://m.atcdn.co.uk/a/media/{resize}/d6701792674c415b906c62418dc434df.jpg,https://m.atcdn.co.uk/a/media/{resize}/6c9237a10a66413d8e52a161b3cece22.jpg,https://m.atcdn.co.uk/a/media/{resize}/2e7dc3cee3154ed49687675770a7c853.jpg,https://m.atcdn.co.uk/a/media/{resize}/c4033120820d4e8ea06ee2a23fe8b256.jpg,https://m.atcdn.co.uk/a/media/{resize}/713a0ce1b8c84f4485510ecb3c0a6633.jpg</Image>
+    <Tax>170</Tax>
+    <Insurance>04E</Insurance>
+    <Mpg>51.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605072212131?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Honda</Name>
+    <Model>Civic</Model>
+    <FullModel>1.8 i-VTEC ES Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>REVERSE CAM✅LOW MILEAGE✅MOT✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>76700</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures>1CD Tuner - MP3 Compatible, Accessory Socket - Centre Console, Accessory Socket - Instrument Panel, Accessory Socket - Luggage Compartment, Aux Socket, Bluetooth Hands Free Telephone - HFT, Shark Fin Antenna, Speakers x6, USB Jack - iPod Compatible, Cruise Control with Speed Limiter, MID - Multi Info Display, Rear Parking Camera, Shift Indicator Light, 16in Alloy Wheels, Door Mirrors - Electric-Retractable, Electric Windows - Front and Rear, Electric Windows - Rear One Touch Up-Down, Electric Windows - Remote Key Fob, Silver exterior colour, Tyre Repair Kit, Daytime Running Lights - LED, Front Fog Lights, Halogen Headlights, Headlights - Coming-Leaving Home Function, Headlights - Dusk Sensor, High Mount Brake Light, Alloy Pedals, Ambient Lighting, Black cloth interior, Climate Control - Dual Zone, Courtesy Light - Front and Rear, Driver Seat Manual Height Adjustment, Dust and Pollen Filter, Electric Windows - Front One Touch Up-Down, Front Map Light, Glove Box Light, Leather Shift Knob, Multiplex Meter, Passenger Seat Back Pocket, Rain Sensing Windscreen Wipers, Rear Armrest, Remote Retractable Door Mirrors, Seats - Magic Flexibility System, Selectable Door Unlock, Steering Wheel - Leather, Steering Wheel - Remote Audio Controls, Steering Wheel - Tilt and Telescopic Adjustment, Sub Trunk, Sunvisor Vanity Mirrors, Sunvisor Vanity Mirrors with Illumination, Tonneau Cover, Trunk Cargo Hook, Trunk Light, Whiplash Lessening Front Headrests, Power Assisted Steering - Electric, ABS - Anti Lock Braking System, Airbag - Front Side, Airbag - Passenger SRS with Cut Off Switch, Alarm System, Brake Assist, Driver i-SRS Airbag, EBD - Electronic Brakeforce Distribution, Emergency Stop Signal, Front Seat Belts with 2 Stage Emergency Locking Retractor - ELR, Hill Start Assist - HSA, ISOFIX Points, Immobiliser System, Rear Seat Belts with Emergency Locking Retractor - ELR, Rear Wiper, Remote Central Locking with 2 Jack Knife Keys, Side Curtain Airbags, Super Locking, Traction Control integrated with VSA, Ultrasonic Sensor, VSA - Vehicle Stability Assist</ExtraFeatures>
+    <Reg>NA63 EHR</Reg>
+    <Video></Video>
+    <MetaTag>Honda Civic 1.8 i-VTEC ES Euro 5 (s/s) 5dr Petrol Manual Silver</MetaTag>
+    <Description>
+      Available now is this reliable and well-presented 2013 (63) Honda Civic 1.8 i-VTEC ES, a spacious and practical hatchback offering smooth performance, excellent reliability, and superb everyday comfort.
+      Powered by the dependable 1.8 i-VTEC petrol engine, it delivers a refined drive, strong reliability, and is ULEZ compliant — making it ideal for commuting, family use, or long-distance driving.
+      ✅ Honda Reliability • ULEZ Compliant • Practical Hatchback
+      Key Features Include:
+      • ES specification
+      • Reverse camera
+      • Cruise control
+      • Bluetooth and media connectivity
+      • Air conditioning
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Trip computer
+      • Daytime running lights
+      Drives superb — smooth, comfortable, and reliable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve NA63 EHR with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Honda Civic 1.8 i-VTEC ES with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/b3cd3bc23c7942ac80d45b727675e988.jpg,https://m.atcdn.co.uk/a/media/{resize}/95198fa5aa33414eb55f1e983d3292dd.jpg,https://m.atcdn.co.uk/a/media/{resize}/c2bd26cf083a435485d88ff8764d6bc4.jpg,https://m.atcdn.co.uk/a/media/{resize}/74a80186df9143919e9cba4ac0aa01fa.jpg,https://m.atcdn.co.uk/a/media/{resize}/923724c5d900452782b54137fe0f6cf9.jpg,https://m.atcdn.co.uk/a/media/{resize}/a78ee07554d54d0eae6e17423b7f44c1.jpg,https://m.atcdn.co.uk/a/media/{resize}/3a6c8a260f6944f3b671b98e46c25768.jpg,https://m.atcdn.co.uk/a/media/{resize}/34a6a880783f49dbb583a7d785da406e.jpg,https://m.atcdn.co.uk/a/media/{resize}/a2f96ad8e075492d83b3f115c4a8a305.jpg,https://m.atcdn.co.uk/a/media/{resize}/8b7ac444f3b645ea8311f2bf57262369.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed1c0a65433543b4b74be569a90348dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/fb190b1d650343d39b54ad2ce1114de9.jpg,https://m.atcdn.co.uk/a/media/{resize}/f855ab4518ce448c9d0d519ac56c8303.jpg,https://m.atcdn.co.uk/a/media/{resize}/d5e4a1de65d6496c9ea2709399f1a3c7.jpg,https://m.atcdn.co.uk/a/media/{resize}/c18d01d1b798460c9ecc34ee58a49687.jpg,https://m.atcdn.co.uk/a/media/{resize}/3a5bfd9fadcd4bfb83e5dc23e8bd4e6b.jpg,https://m.atcdn.co.uk/a/media/{resize}/feef8514851b42c5a8aa45cc334f6836.jpg,https://m.atcdn.co.uk/a/media/{resize}/173c496d50944201b71ebe9c9d5290ee.jpg,https://m.atcdn.co.uk/a/media/{resize}/fc502eb3cf074f0ea022aa84a3376cbd.jpg,https://m.atcdn.co.uk/a/media/{resize}/978faf8a178f433a929b80b60870cb71.jpg,https://m.atcdn.co.uk/a/media/{resize}/4ef8ed8cce8d4c96a2b441dff0d479e2.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcf7f92383a04d6180e117a5b3f920ab.jpg,https://m.atcdn.co.uk/a/media/{resize}/36c5e232a71848c7825dbc4a1d36955b.jpg,https://m.atcdn.co.uk/a/media/{resize}/568d1a21ea924a598eba393a4997dc5d.jpg,https://m.atcdn.co.uk/a/media/{resize}/d237ddbd35764ecab6c1085f802ec74e.jpg,https://m.atcdn.co.uk/a/media/{resize}/2647395deb2c48c190e2e94061ae883a.jpg,https://m.atcdn.co.uk/a/media/{resize}/1a28cab9c66e45c09d4cde9258dfe369.jpg,https://m.atcdn.co.uk/a/media/{resize}/f91dfa4fb36e4965a9fb0c94f7cb4969.jpg,https://m.atcdn.co.uk/a/media/{resize}/e9f5f72688874d7ea8878ad1ae39e872.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab1bb41ba2814029bd29406180863ccd.jpg,https://m.atcdn.co.uk/a/media/{resize}/cb9c002f552a43bb98e5ac4140a292b8.jpg,https://m.atcdn.co.uk/a/media/{resize}/dba2811e668142c1b6299debfaf7f2c1.jpg,https://m.atcdn.co.uk/a/media/{resize}/eb418ab8e6b647768d8b0540c119a93c.jpg,https://m.atcdn.co.uk/a/media/{resize}/c2c554796fa440a493933de4b7f12240.jpg,https://m.atcdn.co.uk/a/media/{resize}/a2468dfafa65499daa447db58e2f6b62.jpg,https://m.atcdn.co.uk/a/media/{resize}/acae5d37ac2b4a7aad4d58de1e02fb82.jpg,https://m.atcdn.co.uk/a/media/{resize}/300c02dc6c794058aef84be84d2904be.jpg,https://m.atcdn.co.uk/a/media/{resize}/a089b5c511314f25bf9f85d632466d9f.jpg,https://m.atcdn.co.uk/a/media/{resize}/72a451dd94d843bd9fec67a83f7a28fb.jpg,https://m.atcdn.co.uk/a/media/{resize}/0925ebde64494ac993b2de06e01d5403.jpg,https://m.atcdn.co.uk/a/media/{resize}/7022f26aca89402e990f12387180c421.jpg,https://m.atcdn.co.uk/a/media/{resize}/301578a3f1ac48578839fafe7cc1f7b5.jpg,https://m.atcdn.co.uk/a/media/{resize}/bb94ead9498345cb962c1489405acf3e.jpg,https://m.atcdn.co.uk/a/media/{resize}/6c2565d5d23e42a7bcc0800c3ed73169.jpg,https://m.atcdn.co.uk/a/media/{resize}/6c656464a00845e6a1f27d772791f811.jpg,https://m.atcdn.co.uk/a/media/{resize}/e6669fb668124c4fa586f346de742594.jpg,https://m.atcdn.co.uk/a/media/{resize}/bb11b68b73324b1ba5df0fe5cb201736.jpg,https://m.atcdn.co.uk/a/media/{resize}/81da0a02ab7941879ef25b0516fde5d6.jpg</Image>
+    <Tax>225</Tax>
+    <Insurance>16E</Insurance>
+    <Mpg>47.1</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605072212594?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Ford</Name>
+    <Model>Kuga</Model>
+    <FullModel>2.0 TDCi Titanium X AWD Euro 5 5dr</FullModel>
+    <EyeCatcher>1YR MOT✅6M WARRANTY✅FSH✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>91200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Bluetooth Handsfree and Voice Control, Centre Console - additional 12V power socket, Emergency Assistance, Ford SYNC, MP3 Compatibility, Portable Audio Device Connector, Sony DAB Digital Radio, Sony DAB Navigation System with Rear View Camera, Sony Radio CD with 8 Speakers - MP3 Compatible, Speakers - x8, TFT Display screen, Cruise Control with Speed Limiter, DDS - Deflation Detection System, Parking Sensor - Rear, 18in Alloy Wheels, 19in Alloy Wheels, Appearance Pack, Body Colour Exterior Mirrors, Door Handles - Body Colour, Door Lever - Aluminium, Door Mirrors - Electrically Operated and Heated, Door Mirrors - Puddle Lights, Door Mirrors with Integrated Indicators, Electric Windows - Front and Rear with One Touch, Front lower grille - Moondust Silver colour surround, Front upper grille - High-gloss black with chrome bar, Heated Front Windscreen, Heated Washer Jets, Locking Wheel Nuts, Panorama Roof, Rear Spoiler - Body Colour, Scuff plates - front moondust silver colour, Spare Wheel - Mini Steel, Tinted Glass - Green, Twin Exhaust Outlet, White exterior colour, Bi-Xenon Headlights, Front Fog Lights, Headlights - Automatic, Headlights - Courtesy Delay, Headlights - Jet Wash, Headlights - Levelling System - Automatic, LED Daytime Running Lights, Rear Lights - LED, Air Conditioning - Dual Zone Electronic Automatic Temperature Control, Automatic Dimming Rear View Mirror, Automatic Rain Sensing Wipers, Black full leather interior, Centre Console - Sliding Armrest, Courtesy Light - Footwell Illumination, Courtesy Light - Front and Rear Reading Lights, Courtesy Light - LED Overhead with Theatre Style Dimming Ambient Lighting, Drivers Seat Lumbar Support, Floor Mats - Carpet - Front, Ford Power Engine Start-Stop Button, Front Seat - Passengers Manual Lumbar Support Adjustment, Gearshift Knob - Leather, Heated Driver and Passenger Seats, Large Stowage Bin, Rear Seat - Folding Centre Armrest with 2 Integrated Cup Holders and Flip up Storage, Seats - 60-40 Rear Split Back, Seats - Drivers Manual Height and Fore-Aft Adjustment, Seats - Front Sports, Steering Column - Rake and Reach Adjustment, Steering Wheel - 4 Spoke Leather Trimmed, Steering Wheel - Multifunction, Storage - Upper Instrument Panel, Stowage Pockets - Front Seatback, Torino Leather - Charcoal Black, Variable Dimming of Instrument Cluster and Radio Screen Display, EPAS - Electric Power Assisted Steering, Front suspension - Independent with MacPherson Struts, Rear suspension - Independent control blade multi-link system and anti-roll bar, Variable sensitivity adjustment, Visual AWD Monitor, ABS - Anti-lock Braking System, Airbags - Drivers Knee, Airbags - Front Passenger, Airbags - Front and 2nd Row Curtain, Airbags - Side Impact, Alarm - Thatcham Category 1 with Volume Sensing and Perimeter, Bounce-Back Sensors, Drivers Airbag, EBA - Emergency Brake Assist, EBD - Electronic Brakeforce Distribution, ESP - Electronic Stability Programme, Emergency Brake Warning, Ford Easy-Fuel Capless Refuelling System, HLA - Hill Launch Assist, IPS - Intelligent Protection System, ISOFIX, Keyless Opening with Hands Free Power Tailgate, RSC - Roll Stability Control, Remote Central Locking, TSC - Trailer Stability Programme, TVC - Torque Vectoring Control, Traction Control - TC</ExtraFeatures>
+    <Reg>YC13 VFZ</Reg>
+    <Video></Video>
+    <MetaTag>Ford Kuga 2.0 TDCi Titanium X AWD Euro 5 5dr Diesel Manual White</MetaTag>
+    <Description>
+      Available now is this well-presented and high-spec 2013 Ford Kuga 2.0 TDCi Titanium X AWD, a spacious and capable SUV offering strong performance, excellent comfort, and great practicality.
+      Powered by the reliable 2.0 TDCi diesel engine paired with All-Wheel Drive, it delivers confident handling in all conditions while maintaining excellent fuel economy — perfect for family use, commuting, or long-distance driving.
+      This example benefits from full service history, showing it has been well maintained throughout its life.
+      ✅ Titanium X Spec • AWD • Full Service History
+      Key Features Include:
+      • Full panoramic sunroof
+      • Reverse camera
+      • Driver’s electric seat
+      • Sony infotainment system
+      • Full leather interior
+      • Heated front seats
+      • Satellite navigation
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Dual-zone climate control
+      • Front and rear parking sensors
+      • Power folding door mirrors
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, powerful, and comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 09/03/2027
+      ✅ Drive away today – reserve YC13 VFZ with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Ford Kuga titanium X with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/eefc214dc3894c359cb1708ef70587b3.jpg,https://m.atcdn.co.uk/a/media/{resize}/f8004900cbfa4e1ba22d94c18c7d80bc.jpg,https://m.atcdn.co.uk/a/media/{resize}/b9e4dc0379b546b4a116eaac3aaec397.jpg,https://m.atcdn.co.uk/a/media/{resize}/e7de50892ec144ca87dd7db83e179b04.jpg,https://m.atcdn.co.uk/a/media/{resize}/916b01644ab2498f976d8ba47854492f.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcd5f0cd7fc74b5eb7041d8ca4005475.jpg,https://m.atcdn.co.uk/a/media/{resize}/465ea51cf9224e3ab8b790cc81d9cb69.jpg,https://m.atcdn.co.uk/a/media/{resize}/ee3c46a2a97740458e702198f8f4281b.jpg,https://m.atcdn.co.uk/a/media/{resize}/a89094803ce34d8db7f7bc48ecb94591.jpg,https://m.atcdn.co.uk/a/media/{resize}/8608c7ba19e14855b4a185b4ff328431.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab77d4773a70425bbb9e749925a7ddd4.jpg,https://m.atcdn.co.uk/a/media/{resize}/1b9cf05392e54a9ca51855a4d4a06701.jpg,https://m.atcdn.co.uk/a/media/{resize}/b0faff1e6d3f4ad3b48bde73360f2cad.jpg,https://m.atcdn.co.uk/a/media/{resize}/4eaa9148ee264e25a30a7db630521141.jpg,https://m.atcdn.co.uk/a/media/{resize}/c09bbd3abc1e43798a4a4ddf24e0d44d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3ac111ee257c4bd4bb975abffe6bd684.jpg,https://m.atcdn.co.uk/a/media/{resize}/107d084dfdcf4339bc2af41812984ed3.jpg,https://m.atcdn.co.uk/a/media/{resize}/799090d5bf4b4689a2dd0696768b28b4.jpg,https://m.atcdn.co.uk/a/media/{resize}/de8343b0dc71411cae804ab21a999ab2.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ff75f5a826a4df1a6ace3c15f191f10.jpg,https://m.atcdn.co.uk/a/media/{resize}/9e330c7616e745f99d508677846a2f10.jpg,https://m.atcdn.co.uk/a/media/{resize}/662d3a23a27d4fc9a4c77bbc254aaa56.jpg,https://m.atcdn.co.uk/a/media/{resize}/40ce4b2e40bc4ff8b36ac10158d8985b.jpg,https://m.atcdn.co.uk/a/media/{resize}/c4acc7e492f44dae8ae6882e32dcf797.jpg,https://m.atcdn.co.uk/a/media/{resize}/f05760964ebd4d6cb5952ec7915baf2c.jpg,https://m.atcdn.co.uk/a/media/{resize}/f8542f7b61914f95bde6f0a11bf7c2a6.jpg,https://m.atcdn.co.uk/a/media/{resize}/d7c35e5d4e30412095bfb35d1df4d66c.jpg,https://m.atcdn.co.uk/a/media/{resize}/fa5786beed874a2d8d1476cac717c9e9.jpg,https://m.atcdn.co.uk/a/media/{resize}/6e1b8588822348c5b971dabd6f002513.jpg,https://m.atcdn.co.uk/a/media/{resize}/39fb6869f7c64f4fb1be10afda4e8813.jpg,https://m.atcdn.co.uk/a/media/{resize}/7299e3f237a7426686d503bdf32742b0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a7569b99172847a7b30acc963b0cec36.jpg,https://m.atcdn.co.uk/a/media/{resize}/954413499889478093f598a921bd7cb9.jpg,https://m.atcdn.co.uk/a/media/{resize}/0ee46fa91b604473a67611d1fdfb59e4.jpg,https://m.atcdn.co.uk/a/media/{resize}/72d0175e726b40e0bde50cf71fb13bff.jpg,https://m.atcdn.co.uk/a/media/{resize}/8f40de72b7c34b35a52fa45c2031fbbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/f18258fdaa634a35ad8d757bea45cb24.jpg,https://m.atcdn.co.uk/a/media/{resize}/9a0bcdf6bd0942bf8fc6b8aff52cc656.jpg,https://m.atcdn.co.uk/a/media/{resize}/3003af24ca734f848dbf38e922e11861.jpg,https://m.atcdn.co.uk/a/media/{resize}/ad7d2c30a0a04221b5ac67a6d8aa12e0.jpg,https://m.atcdn.co.uk/a/media/{resize}/3b37f21d73c94801bba42e599a705cbe.jpg,https://m.atcdn.co.uk/a/media/{resize}/4afdc3292b984e5e8ea2200003d6de93.jpg,https://m.atcdn.co.uk/a/media/{resize}/e42bdd1a7a134a41a39ea5cf8093e832.jpg,https://m.atcdn.co.uk/a/media/{resize}/24fe03e8e7e74235a2e62796e9d4d7e7.jpg,https://m.atcdn.co.uk/a/media/{resize}/7794cea339c34106b9c79939cdf0870c.jpg,https://m.atcdn.co.uk/a/media/{resize}/b543fc4880944497b5307af859f89201.jpg,https://m.atcdn.co.uk/a/media/{resize}/11290a3abfb34b7a96eddb309e0ef779.jpg,https://m.atcdn.co.uk/a/media/{resize}/777b0a0ab3bd44d9b29d5e11b89ae2f5.jpg,https://m.atcdn.co.uk/a/media/{resize}/7dd4f29af053458886e443b5cbfe88cb.jpg,https://m.atcdn.co.uk/a/media/{resize}/17c6cfe61f764453a7cea7d723b9b8c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/a49b53b5772949e5b923dbdd9999c36d.jpg,https://m.atcdn.co.uk/a/media/{resize}/02420de01ad840cea1cc151a2c3c9691.jpg,https://m.atcdn.co.uk/a/media/{resize}/b04f68740f1d4567a7c935a32cc06fbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/c33475f33c964411b9d5cbe5089e43cd.jpg,https://m.atcdn.co.uk/a/media/{resize}/7a557e956d004f50be2524703bfb561f.jpg,https://m.atcdn.co.uk/a/media/{resize}/f1b378d5f12f45ec8827525c86e29608.jpg,https://m.atcdn.co.uk/a/media/{resize}/91632c5fdced4e96901e46890b1b0d89.jpg,https://m.atcdn.co.uk/a/media/{resize}/558d11cedfc84f5297c547e7b7b80af7.jpg,https://m.atcdn.co.uk/a/media/{resize}/9eba318107ff423fbffc4b570966b87a.jpg,https://m.atcdn.co.uk/a/media/{resize}/99e33f8a98b840d094dacd1594bf3370.jpg,https://m.atcdn.co.uk/a/media/{resize}/8d913121f7f048309dffe8b7343fa0da.jpg</Image>
+    <Tax>275</Tax>
+    <Insurance>24E</Insurance>
+    <Mpg>47.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202603100587476?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>11</ID>
+    <Name>Volkswagen</Name>
+    <Model>CC</Model>
+    <FullModel>2.0 TDI BlueMotion Tech GT Euro 5 (s/s) 4dr</FullModel>
+    <EyeCatcher>CLUTCH KIT✅£35 R’TAX✅W'NTY</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>90500</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures>12V Socket - Centre Console, Bluetooth Telephone Preparation for Hands Free Profile Enabled Telephones, Colour Screen - 5in, DAB+ - Digital Radio Reception, Dash-mounted MP3 Compatible CD Player, MDI - Multi Device Interface, RNS 315 Touch Screen Satellite Navigation and Radio System, SD Card Reader, Speakers x8, Analogue Clock, Cruise Control, Driver Alert System, Flat Tyre Indicator, Multifunction Computer - Colour, Parking Sensors - Front and Rear, Parking Sensors - Rear, Tyre Pressure Indicator, Warning Light for Low Washer Fluid, Warning Lights for Open Boot Lid and Doors, 18in Alloy Wheels - Chicago, 18in Alloy Wheels - Interlagos, Anti-Theft Wheel Bolts, Body Coloured Door Handles, Bumpers - Body Coloured Front and Bumper Strips, Door Mirrors - Body Coloured with Integrated Indicators LED, Door Mirrors - Electrically Adjustable and Heated, Electric Windows - Front and Rear, Grey exterior colour, Heated Windscreen Washer Jets, Radiator Grille - Gloss Black with Chrome Trimmed Surround and Louvres, Spare Wheel - Full Size Alloy, Tinted Glass - Heat Insulating Rear 65 Percent Light Absorbing from B Pillar Backwards, Bi-Xenon Headlights, Daytime Running Lights, Front Fog Lights, Headlight Washer System, Headlights - Automatic Range Adjustment, Headlights - Coming-Leaving Home Function, Headlights - Dusk Sensor - Automatic Driving Lights, High Level 3rd Brake Light, Rear Tail Lights and Rear Number Plate Lights - LED, 2 Zone Electronic Climate Control with Automatic Air Recirculation, Armrest - Front Centre with Storage Compartment, Automatic Dimming Rear View Mirror, Black full leather interior, Carpet Mats - Front and Rear, Cup Holders - Front x2, Cup Holders - Rear x2, Drivers Seat Height Adjustment, Front Seat Back Storage Pockets, Glovebox - Illuminated - Cooled - Lockable, Head Restraints - Front 4-Way Adjustment, Heated Front Seats, Height and Reach Adjustable Steering Column, Interior Lighting - Front and Rear with Interior Delay and Dimming Function, Intermittent Windscreen Wiper Control, Leather Trimmed Three-Spoke Steering Wheel and Gear Knob, Load Lashing Points x2 in Luggage Compartment, Load-Through Provision, Nappa Leather - Black, Press and Drive Key, Rain Sensor, Reading Lights - Front x2, Reading Lights - Rear, Rear Centre Armrest, Seats - Drivers 6-Way Electric Adjustment, Seats - Front Lumbar Support, Seats - Front Sports, Seats - Height Adjustment - Front Passenger, Seats - Split Folding Rear, Stainless Steel Door Sills - Front and Rear, Steering Wheel - Multifunction, Storage Compartment in Roof Console, Storage Compartments in Doors, Storage Tray in Centre Console, Sun Visors - Vanity Mirrors and Illuminated, Three Rear Head Restraints, Trim - Interior - Dark Brushed Aluminium Decorative Inserts in Dashboard-Centre Console and Doors, Two Rear Air Vents, Power Assisted Steering - Speed Sensitive, Suspension - Sports - Lowered by Approx 15mm, ABS - Anti-Lock Braking System, ASR - Anti Slip Regulation, Airbags - Curtain, Airbags - Driver, Airbags - Front Passenger, Airbags - Front Passenger with Deactivation Switch, Airbags - Front Seat Side Impact, Alarm with Interior Protection, BAS - Brake Assist System, Central Locking with Remote Control, Countersteer Support, Differential Lock - Electronic, Door Side Impact Protection, EBD - Electronic Brake Pressure Distribution, ESP - Electronic Stability Programme, Electronic Engine Immobiliser, Electronic Parking Brake with Auto Hold Function, Height-Adjustable Front Three-Point Seat Belts with Tensioners, Hill Hold Assist, ISOFIX Child Seat Preparation - Outer Rear, Seatbelt Reminder, Warning Triangle</ExtraFeatures>
+    <Reg>VN64 AOV</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen CC 2.0 TDI BlueMotion Tech GT Euro 5 (s/s) 4dr Diesel Manual Grey</MetaTag>
+    <Description>
+      Available now is this sleek and well-presented 2014 (64) Volkswagen CC 2.0 TDI BlueMotion Technology GT, a stylish executive coupe-saloon offering premium comfort, refined performance, and excellent fuel economy.
+      Powered by the smooth and efficient 2.0 TDI diesel engine, it delivers strong MPG, effortless motorway cruising, and the solid build quality Volkswagen is known for — making it ideal for commuting, long-distance driving, or everyday executive comfort.
+      ✅ GT Spec • Executive Coupe Styling • Excellent MPG
+      Key Features Include:
+      • GT specification
+      • Leather / Alcantara interior
+      • Heated front seats
+      • Touchscreen infotainment system
+      • Satellite navigation
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Dual-zone climate control
+      • Front and rear parking sensors
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • LED daytime running lights
+      Drives beautifully — smooth, refined, and comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve VN64 AOV with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen CC 2.0 TDI GT with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/2dd6516a81104d81a8334ea636de5b99.jpg,https://m.atcdn.co.uk/a/media/{resize}/a95c501a258841529e6831737a220a51.jpg,https://m.atcdn.co.uk/a/media/{resize}/b1f59a2f7e054c86ba68e875157a71c7.jpg,https://m.atcdn.co.uk/a/media/{resize}/da915199e54145e98beb28e7bb360855.jpg,https://m.atcdn.co.uk/a/media/{resize}/8fe22df74ab142d1b70a0d46d10c8dea.jpg,https://m.atcdn.co.uk/a/media/{resize}/b96f5b36f2bb492b959a1ca6825578e1.jpg,https://m.atcdn.co.uk/a/media/{resize}/50cee7d98f324a2dbdc4b87e062ac0c1.jpg,https://m.atcdn.co.uk/a/media/{resize}/0d6fc5526f504497a49588a248c91019.jpg,https://m.atcdn.co.uk/a/media/{resize}/e265e7d79b6f4524b56b85bf678c45a5.jpg,https://m.atcdn.co.uk/a/media/{resize}/c738f477f6cb4bf2b77e1ba5d03e7799.jpg,https://m.atcdn.co.uk/a/media/{resize}/de9afdc9609e4156b168614c226bda20.jpg,https://m.atcdn.co.uk/a/media/{resize}/e2ba856fdcc2433386c019bacd2fc57f.jpg,https://m.atcdn.co.uk/a/media/{resize}/40a734da235647fc835d3c33ae3fb244.jpg,https://m.atcdn.co.uk/a/media/{resize}/bb718284bcdb490880d066ceb8d8da01.jpg,https://m.atcdn.co.uk/a/media/{resize}/0d8fca2f48e54005963ab45d4e559638.jpg,https://m.atcdn.co.uk/a/media/{resize}/73bd5de0d4a54dc19f043dd3d80a6c8b.jpg,https://m.atcdn.co.uk/a/media/{resize}/3b6d04dd380b4cb680dbabedb0a3478c.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed432e9b63e44b6683db18929a12380b.jpg,https://m.atcdn.co.uk/a/media/{resize}/1e5185fd65874a8583a82edaff11d13b.jpg,https://m.atcdn.co.uk/a/media/{resize}/de2048d167fe46a9ad81ccea5d2b9896.jpg,https://m.atcdn.co.uk/a/media/{resize}/bb7af76d1bff4b3ebab26cdea26a754a.jpg,https://m.atcdn.co.uk/a/media/{resize}/555a2c623f8148c6a8eb1041b2397234.jpg,https://m.atcdn.co.uk/a/media/{resize}/ef76bb1937fd4f2688c82ec9d42f6a67.jpg,https://m.atcdn.co.uk/a/media/{resize}/9f93fb8b080b43289624b6cb6fb313ae.jpg,https://m.atcdn.co.uk/a/media/{resize}/124f39512e8545b3ae6afde1301329a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/39e20e4e25084a11b9946aa2fa9d8fff.jpg,https://m.atcdn.co.uk/a/media/{resize}/1507f6d9ac204d5c93c9b73af03ecb76.jpg,https://m.atcdn.co.uk/a/media/{resize}/d0a590d0b442418f8cf70785dff5f15c.jpg,https://m.atcdn.co.uk/a/media/{resize}/23ca7080bf6f4dd2b5743d956f7ad1db.jpg,https://m.atcdn.co.uk/a/media/{resize}/9254e49a1e884737b83083e4d70a8030.jpg,https://m.atcdn.co.uk/a/media/{resize}/312c2ea1f2544f1881d9ef468d1e1a32.jpg,https://m.atcdn.co.uk/a/media/{resize}/ce5dd2784df646648354302b7b58dcf3.jpg,https://m.atcdn.co.uk/a/media/{resize}/dd10192b54294af7bbc05d35ab81db80.jpg,https://m.atcdn.co.uk/a/media/{resize}/75b0679c56be492187f0b397f1c2193a.jpg,https://m.atcdn.co.uk/a/media/{resize}/8aee488fbfed4ca4a7eb8d1fefc32dae.jpg,https://m.atcdn.co.uk/a/media/{resize}/a22becacbeae4841947b077d3e04cd9c.jpg,https://m.atcdn.co.uk/a/media/{resize}/288e948f767a49d99653b198e1d81551.jpg,https://m.atcdn.co.uk/a/media/{resize}/ba271b777b50494dbc64a3e9688f1133.jpg,https://m.atcdn.co.uk/a/media/{resize}/7093cc354c324bdd91b8aa81b078520b.jpg,https://m.atcdn.co.uk/a/media/{resize}/0882215eff054e7788e19f09e71a74ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/7fd4f4db94a14f118d97764b69a586d2.jpg,https://m.atcdn.co.uk/a/media/{resize}/fbe04a77843d4d02b8328ea1f8fbe134.jpg,https://m.atcdn.co.uk/a/media/{resize}/7cbbf1f2698a4e07ba7131afaa585e3d.jpg,https://m.atcdn.co.uk/a/media/{resize}/72a6c38f43e34b699a7c78d5020cb3f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/c41ff0b2dfd9417b96ac140e2805fa96.jpg,https://m.atcdn.co.uk/a/media/{resize}/ee56d9e5b4ed4ac78735574f110d9148.jpg,https://m.atcdn.co.uk/a/media/{resize}/fb5f019080ca4d87a918e4b07c4ad5ac.jpg,https://m.atcdn.co.uk/a/media/{resize}/21924a44dcc1462e94783a81968d097a.jpg,https://m.atcdn.co.uk/a/media/{resize}/8fc3a859f17b432b97e6da71b1f776a4.jpg,https://m.atcdn.co.uk/a/media/{resize}/f809876315334781b21fa9ce8619f8bd.jpg,https://m.atcdn.co.uk/a/media/{resize}/951bd16b617c48f1bac13cb00d32864d.jpg</Image>
+    <Tax>35</Tax>
+    <Insurance>24E</Insurance>
+    <Mpg>61.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202602210117186?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
 </Cars>
