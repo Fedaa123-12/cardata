@@ -1,4 +1,118 @@
- <Car>
+<Car>
+    <ID>7</ID>
+    <Name>Mazda</Name>
+    <Model>Mazda3</Model>
+    <FullModel>2.0 SKYACTIV-G SE-L Nav Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>£35 R’TAX✅MOT✅1 PREV OWNER✅</EyeCatcher>
+    <Value>5999</Value>
+    <Mileage>83820</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>12V Power Socket - Front, AUX Socket, Aha App and Stitcher App Integration, Audio Systems - AM-FM Radio-CD Player, Integrated Bluetooth System, Satellite Navigation - European Mapping with 3-years Map Updates, Satellite Navigation System, Shark Fin Antenna, Speakers x6, Touch Screen - 7in Colour TFT, USB - iPod Connectivity, USB Connection x2, Analogue Speedometer, Cruise Control, Multimedia Commander, Rear Parking Sensors, Trip Computer, Tyre Pressure Monitoring System, 16in Alloy Wheels, Body Coloured Door Mirrors, Door Handles - Body Coloured, Door Mirrors - Electrically Adjustable-Heated-Folding, Electric Windows - Front and Rear with One Touch Auto Up and Down on Drivers Side, Privacy Glass - Rear and Rear Side Windows, Spoiler - Rear Roof, Tailpipes - Dual Chrome, Tyre Repair Kit, White exterior colour, Dusk Sensing Automatic Headlights, Front Fog Lights, Headlights - Automatic Levelling, Headlights - Bi-Xenon, Headlights - Cleaning, LED Daytime Running Lights, Rear Lights - LED, Air Conditioning - Dual Zone Climate Control, Armrest - Front Centre with Storage Box, Armrest - Rear, Auto Dimming Rear View Mirror, Black cloth interior, Cloth - Black, Cupholder - Front x2, Cupholder - Rear x2, Dashboard Decoration Panel - Piano Black, Door Pockets - Front, Engine Start-Stop Button, Gear Knob - Leather, Glovebox Illumination, Grab Handles - Front Passenger and Two Rear with Coat Hooks, Handbrake - Leather Wrapped, Head Restraints - Rear, Interior Light Dome with Integral Spot Light, Luggage Compartment - Light, Overhead Console with Sunglassess Holder, Pollen Filter, Rain-Sensing Front Wipers, Seatback Pocket - Passenger Side, Seats - 60-40 Split Folding Rear, Seats - Drivers Dial Reclining and Height Adjustment, Seats - Drivers Manual Lumbar Adjustment, Seats - Front Heated, Steering Wheel - Leather, Steering Wheel - Mounted Audio and Bluetooth Controls, Steering Wheel - Tilt and Height Adjustment, Sunvisors - Drivers and Passengers with Covered Vanity Mirror-Ticket Holder-Illumination, Wipers - Front Adjustable Speed with Intermittent, Adjustable Speed Limiter, Power Assisted Steering - Electronic, ABS - Anti Lock Braking System, Airbags - Curtain Front, Airbags - Curtain Rear, Airbags - Driver, Airbags - Front Passenger, Airbags - Front Passenger Deactivation System, DSC - Dynamic Stability Control, Deadlocking, Emergency Stop Signalling System - ESS, Front Side Airbags, Hill Hold Assist, ISOFIX Child Seat Anchorage for Outer Rear Seats, Immobiliser, Remote Central Locking, SCR - Secondary Collision Reduction, Seatbelt Reminder for Front and Rear, Smart City Brake Support, TCS - Traction Control System, Thatcham Category 1 Alarm and Immobiliser, Wipers - Rear Adjustable Speed with Intermittent</ExtraFeatures>
+    <Reg>YK65 ZRN</Reg>
+    <Video></Video>
+    <MetaTag>Mazda Mazda3 2.0 SKYACTIV-G SE-L Nav Euro 6 (s/s) 5dr Petrol Manual White</MetaTag>
+    <Description>
+      Available now is this stylish and reliable 2015 (65) Mazda Mazda3 2.0 SKYACTIV-G SE-L Nav, a sporty hatchback offering excellent performance, strong fuel economy, and Mazda’s renowned driving experience.
+      Powered by the responsive 2.0 SKYACTIV-G petrol engine, it delivers smooth power, impressive efficiency, and is ULEZ compliant, making it ideal for commuting, motorway driving, or everyday family use.
+      ✅ SKYACTIV Technology • ULEZ Compliant • Sporty and Economical
+      Key Features Include:
+      • Heated front seats
+      • SE-L Nav specification
+      • Satellite navigation system
+      • Touchscreen infotainment system
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Dual-zone climate control
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Rear parking sensors
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, responsive, and comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve YK65 ZRN with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Mazda Mazda3 2.0 SKYACTIV-G SE-L Nav with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/f0d31599710d482f8041f4b663751c08.jpg,https://m.atcdn.co.uk/a/media/{resize}/aa6446aa4ab94abebd1b0a501616312f.jpg,https://m.atcdn.co.uk/a/media/{resize}/aebaa2f5ae834df98e31090aaecc4f1a.jpg,https://m.atcdn.co.uk/a/media/{resize}/7c0342654b00446880455ca3d9f8cb4d.jpg,https://m.atcdn.co.uk/a/media/{resize}/8cc65412fcd14b4fb09123a5f6cab88d.jpg,https://m.atcdn.co.uk/a/media/{resize}/c2a3628e74844501a86d21d289095c14.jpg,https://m.atcdn.co.uk/a/media/{resize}/a831c8284ab742ee988a86cdb9cc8e43.jpg,https://m.atcdn.co.uk/a/media/{resize}/7b98ceece5fd482fa1b2b71bb0b1eafa.jpg,https://m.atcdn.co.uk/a/media/{resize}/453ce23d3c054bfb80d6c2842c2e5bac.jpg,https://m.atcdn.co.uk/a/media/{resize}/afd809464908434dadb086acc01660b9.jpg,https://m.atcdn.co.uk/a/media/{resize}/4ed2f636a456403fbdec8a9f25399482.jpg,https://m.atcdn.co.uk/a/media/{resize}/6a63fbd41f01411d92a30ce29befed42.jpg,https://m.atcdn.co.uk/a/media/{resize}/578b38afc5264e5db27675bfae1c96a5.jpg,https://m.atcdn.co.uk/a/media/{resize}/8b62f2ee8b2f484b91cdbe1a22c2b993.jpg,https://m.atcdn.co.uk/a/media/{resize}/3fabbd91bac746ea8c7cfb8577958f27.jpg,https://m.atcdn.co.uk/a/media/{resize}/dec1e48a60484d8f9fda5fa9af936d50.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2b45d17059d48e5a24a8429fe6039fd.jpg,https://m.atcdn.co.uk/a/media/{resize}/84f7e0a03bf34190982f0ef95c8d9710.jpg,https://m.atcdn.co.uk/a/media/{resize}/23862cf8a5f54ffd8309227cc69a4bc4.jpg,https://m.atcdn.co.uk/a/media/{resize}/ac0f5e74a2d44c45acb6b30cb16266f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a35c1ed160344ce2a0a8987874425e0c.jpg,https://m.atcdn.co.uk/a/media/{resize}/34e7b6f95afd4add837ec6d605a95f0f.jpg,https://m.atcdn.co.uk/a/media/{resize}/cd5bc7aac1bb43ccb90d47ff244b1401.jpg,https://m.atcdn.co.uk/a/media/{resize}/22158951dcbe4163bfed65509a396447.jpg,https://m.atcdn.co.uk/a/media/{resize}/95f4597085284b1c8b1bce5ea1a42531.jpg,https://m.atcdn.co.uk/a/media/{resize}/b59bf4ce5ea24f598ca53f0895966af1.jpg,https://m.atcdn.co.uk/a/media/{resize}/cd22cb48c5bb49b48c83d29c0eec12ca.jpg,https://m.atcdn.co.uk/a/media/{resize}/532003bf82774be1b18c121f055c0366.jpg,https://m.atcdn.co.uk/a/media/{resize}/a416bb0437e64bf68a3ef8c6a8108242.jpg,https://m.atcdn.co.uk/a/media/{resize}/e6ac28cbb1d64e06a3acb4e0cfdb3cae.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed7bbf6d7c264b44a43fe6e1af47db04.jpg,https://m.atcdn.co.uk/a/media/{resize}/b60f2e14e6f449a8ad0e496e81602c88.jpg,https://m.atcdn.co.uk/a/media/{resize}/cdc23c9c2cd14dd2ada632d311ad9629.jpg,https://m.atcdn.co.uk/a/media/{resize}/7506f069de704f7893a974d319a4498d.jpg,https://m.atcdn.co.uk/a/media/{resize}/44c8a7de234f417395933c37995cde20.jpg,https://m.atcdn.co.uk/a/media/{resize}/d017bf84adc54374909bf5a2f15740b2.jpg,https://m.atcdn.co.uk/a/media/{resize}/d05a68203cc8418d8f37288ecfed4f18.jpg,https://m.atcdn.co.uk/a/media/{resize}/54971358f16d4aad8240c8d45f25b7c1.jpg,https://m.atcdn.co.uk/a/media/{resize}/d232d60ff1dd4076b983da586084bab5.jpg,https://m.atcdn.co.uk/a/media/{resize}/d35b2fab1aa14a8a85e5423f00f70a6e.jpg,https://m.atcdn.co.uk/a/media/{resize}/3c745bd9912b4bb89c461dc7d74d31ea.jpg,https://m.atcdn.co.uk/a/media/{resize}/d428c671623f4756bece24d8d7b09a99.jpg,https://m.atcdn.co.uk/a/media/{resize}/baa4822ed865429bb44fa230dccdc47a.jpg,https://m.atcdn.co.uk/a/media/{resize}/4826a3fa14d34c569f5f014fd05df339.jpg,https://m.atcdn.co.uk/a/media/{resize}/c2af0884e70445b4b1b9bdaf8df1096d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3f251738aabb488f855c5f82d6777266.jpg,https://m.atcdn.co.uk/a/media/{resize}/316c86b94c0f473d93529ec893654e28.jpg,https://m.atcdn.co.uk/a/media/{resize}/6ac69f80df3c41bead5739cc0552856e.jpg,https://m.atcdn.co.uk/a/media/{resize}/b29c425c6cb84c3990884157b39de7de.jpg,https://m.atcdn.co.uk/a/media/{resize}/967805b834044341a606caffbc1c81dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/8b38ffec40c44b83985873051baed573.jpg,https://m.atcdn.co.uk/a/media/{resize}/a213412849664f26a24cba6b46481959.jpg</Image>
+    <Tax>35</Tax>
+    <Insurance>18E</Insurance>
+    <Mpg>55.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605122334171?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=ff495823-2677-4f3b-a386-f6cddc54419d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=DL11ND&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3DDL11ND%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=600&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>1.6 TDI BlueMotion Tech Match DSG Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>AUTO✅9 STAMPS✅T-BELT✅MOT✅ULEZ✅</EyeCatcher>
+    <Value>6799</Value>
+    <Mileage>102000</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>12V Socket, 12V Socket - Luggage Compartment, Aux-In Socket, Bluetooth Audio Connection, Bluetooth Telephone Preparation, Colour Touch Screen - 6.5in, Composition Media System, DAB - Digital Radio Reception, MDI - Multi Device Interface with USB - iPod Connection Cables, Radio Aerial Integrated into Rear Windscreen, SD Card Reader, Single CD Player, Sound Output - 4x20 Watt, Speakers x8, Brake Pad Wear Indicator, Car Information Display, Cruise Control - Adaptive, Driver Alert System, Driver Profile Choices, Gear Shift Indicator, Low Washer Fluid Warning Light, Multifunction Computer - 3.5in Display, Parking Sensors - Front and Rear, Parking Sensors - Rear, Service Interval Display, Temperature Display - External, Think Blue - Trainer - Driver Tips - Journey Analysis, Tyre Pressure Indicator, 16in Alloy Wheels - Dover, Anti-Theft Wheel Bolts, Black Front Air Intake and Radiator Grille with Chrome Trimmed Inserts, Body Coloured Bumpers, Body Coloured Door Handles, Body-Coloured Door Mirrors with Integrated Indicators, Door Mirrors - Electrically Adjustable-Heated and Folding, Door Mirrors - Reverse Activated Kerb View Adjustment on Passengers, Electric Windows - Front and Rear, Heated Rear Windscreen, Heated Windscreen Washer Jets, Mirror Pack, Rear Diffuser - Black, Spare Wheel - Space Saver Steel, Spoiler - Tailgate, Tinted Glass - Heat Insulating Green, White exterior colour, Daytime Running Lights, Door Mirrors - Puddle Lights, Front Fog Lights with Cornering Lights, Headlight Washer System, Headlights - Coming-Leaving Home Function, Headlights - Dusk Sensor - Automatic Driving Lights, Headlights - Halogen Clear - Range Adjustable, High Level 3rd Brake Light - LED, Lights on Warning Buzzer, Air Conditioning - Manual, Air Vent Surrounds - Chrome Effect, Armrest - Front Centre with Ventilation Nozzles x2, Automatic Dimming Rear View Mirror, Black cloth interior, Carpet - Black, Chrome-Plated Light Switch Surround, Convenience Pack, Cup Holders - Front x2, Cup Holders - Rear Armrest x2, Dashboard - Brushed Dark Silver Decorative Inserts, Dashboard - Titan Black, Door Panels - Brushed Dark Silver Decorative Inserts, Dust and Pollen Filter, First-Aid Kit and Warning Triangle - Holder Only, Front Seat Back Storage Pockets, Glovebox - Illuminated - Cooled - Lockable, Grab Handles - Front x2 Rear x2 with Coat Hooks, Head Restraints - Front Whiplash Optimised, Heated Front Seats, Height and Reach Adjustable Steering Column, Instrument Lighting - White Adjustable Panel Illumination, Interior Lighting Delay, Leather Trimmed Gear Knob, Leather Trimmed Three-Spoke Steering Wheel and Gear Knob, Load Lashing Points x4 in Luggage Compartment, Load-Through Provision, Load-through Provision Converts to Table Function, Luggage Compartment - Hooks, Luggage Compartment Cover, Luggage Compartment Light, Luggage Compartment Storage Area on Right, Rain Sensor, Reading Lights - Front x2 and Rear x2, Rear Centre Armrest, Reflectors in Doors, SMS Functionality - Read - Compose and Send SMS Messages Using Touch Screen Display - Android Compatible Smartphones Only, Seats - Front Comfort, Seats - Front Lumbar Support, Seats - Height Adjustment - Front, Simultaneous Pairing of 2 Compatible Mobile Devices, Split Folding Rear Backrests 60-40, Steering Wheel - Audio Controls, Storage - Cover for Area in Roof Console, Storage Compartment in Centre Console Covered, Storage Compartment in Front Doors, Storage Compartment in Rear Doors, Storage Compartment in Roof Console, Sun Visors - Vanity Mirrors and Illuminated, Three Rear Head Restraints, Title and Cover Art Display, Under Seat Drawers - Front Passenger, Variable Boot Floor, Windscreen Wipers with Intermittent Wipe and 4 Position Delay, Winter Pack, Power Assisted Steering - Speed Sensitive, Speed Limiter, ABS - Anti-Lock Braking System, ASR - Anti Slip Regulation, Airbags - Curtain Front, Airbags - Curtain Rear, Airbags - Driver, Airbags - Drivers Knee, Airbags - Front Passenger, Airbags - Front Passenger with Deactivation Switch, Airbags - Front Seat Side Impact, Alarm with Interior Protection, Automatic Post-Collision Braking System, Central Locking - Remote with 2 Remote Keys, Child Locks in Rear Doors, Differential Lock - Electronic, ESP - Electronic Stability Programme, Electronic Engine Immobiliser, Electronic Parking Brake with Auto Hold Function, Front Assist including City Emergency Braking, HBA - Hydraulic Brake Assist, Height-Adjustable Front Three-Point Seat Belts with Tensioners, ISOFIX Child Seat Preparation for 2 Rear Seats, Keys - Folding x 2, LED Rear Number Plate Lights, Misfuel Prevention Device, Optical Parking Display via Vehicles Audio System, Pre-Crash Preventive Occupant Protection, Radar Sensor Controlled Distance Monitoring System, Warning Buzzer and Light for Front Seat Belts if Unfastened, XDS Electronic Differential Lock</ExtraFeatures>
+    <Reg>DG65 MFA</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Golf 1.6 TDI BlueMotion Tech Match DSG Euro 6 (s/s) 5dr Diesel Automatic White</MetaTag>
+    <Description>
+      Available now is this well-presented and economical 2015 (65) Volkswagen Golf 1.6 TDI BlueMotion Technology Match DSG, a practical and refined hatchback offering excellent fuel economy, premium comfort, and the convenience of automatic driving.
+      Powered by the efficient 1.6 TDI diesel engine and paired with Volkswagen’s smooth DSG automatic gearbox, it delivers outstanding MPG, effortless driving, and low running costs — making it ideal for commuting, motorway journeys, or everyday family use.
+      This example benefits from 9 service history stamps and will be supplied with a new timing belt at the point of sale, giving added peace of mind for the next owner.
+      ✅ DSG Automatic • BlueMotion Technology • Excellent MPG
+      ✅ 9 Service History Stamps • New Timing Belt at Point of Sale
+      Key Features Include:
+      • DSG automatic transmission
+      • Match specification
+      • Front and rear parking sensors
+      • Adaptive cruise control
+      • Bluetooth and media connectivity
+      • Touchscreen infotainment system
+      • Air conditioning
+      • Multifunction steering wheel
+      • Alloy wheels
+      • Electric windows and mirrors
+      • Auto lights and wipers
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, comfortable, and extremely economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve DG65 MFA with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 1.6 TDI BlueMotion Tech Match DSG with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/58a4da11973245e09d1d921e4c70a931.jpg,https://m.atcdn.co.uk/a/media/{resize}/ce883115d1814dd9bbdd955c6e668921.jpg,https://m.atcdn.co.uk/a/media/{resize}/4847dee8f0434372880043b138de39df.jpg,https://m.atcdn.co.uk/a/media/{resize}/34036da3b7204577ad92061c2969876a.jpg,https://m.atcdn.co.uk/a/media/{resize}/91b8da1c47cb4c9aa4d4bb4bfa7f2579.jpg,https://m.atcdn.co.uk/a/media/{resize}/0dfbb7cfcb454501997657b53caffc6f.jpg,https://m.atcdn.co.uk/a/media/{resize}/133a9348c3524a35b59b04ae215e6757.jpg,https://m.atcdn.co.uk/a/media/{resize}/6c350898e8be4071a13a44122009d906.jpg,https://m.atcdn.co.uk/a/media/{resize}/bc8b7350917f4a92b09f85f5cd3d6763.jpg,https://m.atcdn.co.uk/a/media/{resize}/4bb8fed51da6457091fa0df0b1d63080.jpg,https://m.atcdn.co.uk/a/media/{resize}/a695ec84308a4a7696e9cf7dfea6c079.jpg,https://m.atcdn.co.uk/a/media/{resize}/68d38a3b54604ad88d5e53f272769b24.jpg,https://m.atcdn.co.uk/a/media/{resize}/cd3b3092e088451d9b307f9e3067a820.jpg,https://m.atcdn.co.uk/a/media/{resize}/4fc88cc10b4f4093ae9822d49c22e7f2.jpg,https://m.atcdn.co.uk/a/media/{resize}/5f234e0edc1e4c7ba3f7fb57354d88c5.jpg,https://m.atcdn.co.uk/a/media/{resize}/3dee413ec5c24776a6f3b671c37ddef5.jpg,https://m.atcdn.co.uk/a/media/{resize}/cb64d6111f894098ae4acd58ece27c83.jpg,https://m.atcdn.co.uk/a/media/{resize}/0a017ad49d63468db22fb6df3edec7d4.jpg,https://m.atcdn.co.uk/a/media/{resize}/8d25720baa164b12b145fcc5ffe70394.jpg,https://m.atcdn.co.uk/a/media/{resize}/8885cacddeea4698bbe3ce6c076a744e.jpg,https://m.atcdn.co.uk/a/media/{resize}/2b9e28e8f882408e92f92893746ba735.jpg,https://m.atcdn.co.uk/a/media/{resize}/01b36c229ead4d7087e3143d2f41cc76.jpg,https://m.atcdn.co.uk/a/media/{resize}/a714076b9e874a9cbf38cfe2fcdbfdc3.jpg,https://m.atcdn.co.uk/a/media/{resize}/7b126f3ddfa9429084f05b8cf84f5413.jpg,https://m.atcdn.co.uk/a/media/{resize}/2b7f0c499b3343a98510fd7d61699348.jpg,https://m.atcdn.co.uk/a/media/{resize}/6ca09f0a34324c3d88cb1c371509e743.jpg,https://m.atcdn.co.uk/a/media/{resize}/07b9b7135f9a4d8ab5e74f7a6b787fc6.jpg,https://m.atcdn.co.uk/a/media/{resize}/38b3ddba78714ef994040e070b7a31a9.jpg,https://m.atcdn.co.uk/a/media/{resize}/993a2c4f330a449bbf6d2c31037f1527.jpg,https://m.atcdn.co.uk/a/media/{resize}/e73e92d38ab04818a8b937a90ace8205.jpg,https://m.atcdn.co.uk/a/media/{resize}/07c9dc8e504d49128f968ecd2e8202c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/37a75f6731e246c29bfbcb88f19ae1f7.jpg,https://m.atcdn.co.uk/a/media/{resize}/fd984d687f39483bbf96f0cb9decfd48.jpg,https://m.atcdn.co.uk/a/media/{resize}/58751b8a6f2744a0b8a48a37573ff00e.jpg,https://m.atcdn.co.uk/a/media/{resize}/4ddfb16457fd43278872c672e079c34b.jpg,https://m.atcdn.co.uk/a/media/{resize}/07a7a5027a4846c4b7b65f73fd4ee3a9.jpg,https://m.atcdn.co.uk/a/media/{resize}/d0b033ae88fb4c2d9ef2fae12d604683.jpg,https://m.atcdn.co.uk/a/media/{resize}/e0bc6db027614d1e8d923145245601ca.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab0ad1f126ac414092dc8cf6e9128be7.jpg,https://m.atcdn.co.uk/a/media/{resize}/7cf5b05ba99a4c71a430f80e6b7a0dc9.jpg,https://m.atcdn.co.uk/a/media/{resize}/c0bdda9410c94ea99b5f89cad683b2ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/2feef29314a84049816384f74987540c.jpg,https://m.atcdn.co.uk/a/media/{resize}/948469310c204bb8ac8bb3a5545ba1b3.jpg,https://m.atcdn.co.uk/a/media/{resize}/a300cfa94bd04795b3f522973809de99.jpg,https://m.atcdn.co.uk/a/media/{resize}/1103e8ca37e24edab1672938059683ed.jpg,https://m.atcdn.co.uk/a/media/{resize}/3bd615a5588c48e48593d9e845db68b8.jpg,https://m.atcdn.co.uk/a/media/{resize}/e37c4364dcf94a69a01a62648350c3d9.jpg,https://m.atcdn.co.uk/a/media/{resize}/fb285c4c05274a6e8d9930a1f7fc10b6.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>72.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202606093145853?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=34b451d0-ff7b-4188-8f12-0f58c50855cf&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=DL11ND&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3DDL11ND%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000&amp;calc-selected-product=HP</AT>
+  </Car>
+<Car>
     <ID>2</ID>
     <Name>Renault</Name>
     <Model>Clio</Model>
