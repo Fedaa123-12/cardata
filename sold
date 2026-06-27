@@ -1,4 +1,120 @@
 <Car>
+    <ID>4</ID>
+    <Name>Volkswagen</Name>
+    <Model>Polo</Model>
+    <FullModel>1.4 Match Edition Euro 5 5dr</FullModel>
+    <EyeCatcher>MATCH ED✅WARRANTY✅DELIVERY✅</EyeCatcher>
+    <Value>3850</Value>
+    <Mileage>93200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Bluetooth Connection - Touch Phone Kit, DAB+ - Digital Radio Reception, MDI - Multi Device Interface, RCD 310 Radio - MP3 Compatible CD Player, Cruise Control, Multifunction Computer, Parking Sensors - Rear, Tyre Pressure Indicator, 15in Alloy Wheels - Castille, Body Coloured Bumpers, Body Coloured Side Sills, Body-Coloured Door Mirrors with Integrated Indicators, Door Mirrors - Electrically Adjustable and Heated, Electric Windows - Front and Rear, Full Size Steel Spare Wheel, Heated Rear Windscreen - Automatically Switches Off, Load Lip Protective Shield, Radiator Grille - Gloss Black with Chrome Trimmed Louvre, Tinted Glass - Heat Insulating Rear 65 Percent Light Absorbing from B Pillar Backwards, White exterior colour, Daytime Running Lights, Front Fog Lights, Headlights - Halogen Clear - Range Adjustable, High Level 3rd Brake Light, Air Conditioning - Manual, Air Vent Surrounds - Matt Chrome, Black cloth interior, Centre Console with Open Storage and 12V Socket with Cover, Cup Holders - Front x2, Drivers Seat Height Adjustment, Dust and Pollen Filter, Front Seat Back Storage Pockets, Glovebox, Grab Handles - Front x2 Rear x2 with Coat Hooks, Head Restraints - Front Whiplash Optimised, Heating and Ventilation System with 4 Speed Fan and Air Recirculation Switch, Height and Reach Adjustable Steering Column, Instrument Lighting - White Adjustable Panel Illumination, Interior Lighting Delay, Luggage Compartment - Hooks, Luggage Compartment Cover - Removable, Luggage Compartment Light, Matt Chrome - Gear Lever Gaiter Surround, Matt Chrome - Handbrake Grip Button, Matt Chrome - Internal Door Handles, Reading Lights - Front x2 and Rear x1, Split Folding Rear Backrests 60-40, Storage Compartment Light, Storage Compartment in Rear Doors, Storage Compartments in Front Doors, Sun Visors - Vanity Mirrors and Illuminated, Three Rear Head Restraints, Three-Spoke Steering Wheel, Variable Boot Floor, Power Assisted Steering - Speed Sensitive, ABS - Anti-Lock Braking System, ASR - Anti Slip Regulation, Airbags - Driver, Airbags - Front Passenger, Airbags - Side Head and Thorax for Front Passenger, Alarm with Interior Protection, Central Locking - Remote with 2 Remote Keys, Differential Lock - Electronic, ESP - Electronic Stability Programme, Electronic Engine Immobiliser, HBA - Hydraulic Brake Assist, ISOFIX Child Seat Preparation for 2 Rear Seats, Seatbelt Reminder</ExtraFeatures>
+    <Reg>ST13 WHL</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Polo 1.4 Match Edition Euro 5 5dr Petrol Manual White</MetaTag>
+    <Description>
+      Available now is this smart and economical 2013 Volkswagen Polo 1.4 Match Edition, a reliable and practical hatchback offering low running costs, excellent build quality, and great everyday usability.
+      Powered by the dependable 1.4 petrol engine, it’s smooth, easy to drive, and ideal for new drivers, commuting, or everyday family use.
+      ✅ Match Edition • Reliable Hatchback • Great MPG
+      Key Features Include:
+      • Match Edition specification
+      • Alloy wheels
+      • Air conditioning
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Rear parking sensors
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Remote central locking
+      • ISOFIX
+      • Trip computer
+      Drives great — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve ST13 WHL with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Polo 1.4 Match Edition with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/b04a212281bf4c399f67b86d3adb538b.jpg,https://m.atcdn.co.uk/a/media/{resize}/adba5db06070458a91267007c2c5b0d3.jpg,https://m.atcdn.co.uk/a/media/{resize}/8d4af8bdd27c48398b7c031bce1bc936.jpg,https://m.atcdn.co.uk/a/media/{resize}/03f08712d780451ebd5d1342ea42bfb8.jpg,https://m.atcdn.co.uk/a/media/{resize}/83046efeabf34005b5d94cc62386b928.jpg,https://m.atcdn.co.uk/a/media/{resize}/bdbe644877c244d6b6e44455fb1a4140.jpg,https://m.atcdn.co.uk/a/media/{resize}/8789170ac6bf4f169f50a13ea1cdbf9d.jpg,https://m.atcdn.co.uk/a/media/{resize}/292081806fa744aa91412ba7110c28c0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a09425b4ae084646a50502eec58e6d9d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3df17add4e9446b680ba4d50d3b86140.jpg,https://m.atcdn.co.uk/a/media/{resize}/bd69a38638994086913a99912de68353.jpg,https://m.atcdn.co.uk/a/media/{resize}/e68a71d3fbd24be68c39f964d89d9e9b.jpg,https://m.atcdn.co.uk/a/media/{resize}/dd397b2491814006a87f89f7232b40c2.jpg,https://m.atcdn.co.uk/a/media/{resize}/8e250531e30549fdb1c76a147832efb2.jpg,https://m.atcdn.co.uk/a/media/{resize}/c8ef65a0e19346278c60f9a0aa97313a.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1c94130facc472bb64e1c1d0c6ccea8.jpg,https://m.atcdn.co.uk/a/media/{resize}/75a7658ef09d4f8fa7ec22b3ad155e3b.jpg,https://m.atcdn.co.uk/a/media/{resize}/3929f15f3d8941d58285f704422c804d.jpg,https://m.atcdn.co.uk/a/media/{resize}/ef77c29140134a2aa85d6e1661739bdf.jpg,https://m.atcdn.co.uk/a/media/{resize}/cac763a2359f4147b70125bc3e94094a.jpg,https://m.atcdn.co.uk/a/media/{resize}/97ee7a594f74406c9ff91107d063bb9a.jpg,https://m.atcdn.co.uk/a/media/{resize}/e13eec32f81e441f9d3756f1432081be.jpg,https://m.atcdn.co.uk/a/media/{resize}/90a85384598b4365987bc33e919bfedf.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a895da81c9b4e798b300bab072d1b9c.jpg,https://m.atcdn.co.uk/a/media/{resize}/0e3ac4dcec1341f28f085650d80acb21.jpg,https://m.atcdn.co.uk/a/media/{resize}/9512396397254a9693a2274efdadd010.jpg,https://m.atcdn.co.uk/a/media/{resize}/112494fcab83454d967ec48ba34c8d11.jpg,https://m.atcdn.co.uk/a/media/{resize}/1a53dc98b2604ea38e5585649b4b3bf4.jpg,https://m.atcdn.co.uk/a/media/{resize}/c48d457253324fa3804aca2f751ea592.jpg,https://m.atcdn.co.uk/a/media/{resize}/b82c0c851aa746bea107055aeee070c3.jpg,https://m.atcdn.co.uk/a/media/{resize}/04b1d8e6b9ba4d2caafa54cb21782314.jpg,https://m.atcdn.co.uk/a/media/{resize}/3d5007617b2641c0a3d062c22e6bfa30.jpg,https://m.atcdn.co.uk/a/media/{resize}/ecdb7b1a4934402cbb13c0cc79c8a6f2.jpg,https://m.atcdn.co.uk/a/media/{resize}/3430c9b2d3194fe48bd6f1198d266914.jpg,https://m.atcdn.co.uk/a/media/{resize}/aebd87016dcc45baa58b11b21e5f4230.jpg,https://m.atcdn.co.uk/a/media/{resize}/63d7bcc163df4cafa1a76c56ee0a3ec6.jpg,https://m.atcdn.co.uk/a/media/{resize}/8fff134ec8f648c4835aa567fbc63956.jpg,https://m.atcdn.co.uk/a/media/{resize}/1a28eaa512284ef382683bdb2b754097.jpg,https://m.atcdn.co.uk/a/media/{resize}/5c87155c21ab498b82b0a5de8ff4a0c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/138375cbf42d4ffdb020aed9cfd1266b.jpg,https://m.atcdn.co.uk/a/media/{resize}/354085b9414d4eafb3747440a616d815.jpg,https://m.atcdn.co.uk/a/media/{resize}/f491ce572a774eaca942cc0c8199d54c.jpg,https://m.atcdn.co.uk/a/media/{resize}/267c62b034f74c91aa220cd3e7ff31c5.jpg,https://m.atcdn.co.uk/a/media/{resize}/6fcecb95265b4ffb9049318219289204.jpg,https://m.atcdn.co.uk/a/media/{resize}/e97278f109004ea784cbe4245414a02b.jpg,https://m.atcdn.co.uk/a/media/{resize}/2f0c9e1972d04e53b85ed0b9f167dca0.jpg,https://m.atcdn.co.uk/a/media/{resize}/2bc3f2b7781e439fb4bec5b9735ca700.jpg,https://m.atcdn.co.uk/a/media/{resize}/82bccefd99014b1bad0e8e98da453833.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>47.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605072212456?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=425&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>4</ID>
+    <Name>Ford</Name>
+    <Model>Kuga</Model>
+    <FullModel>2.0 TDCi Titanium X AWD Euro 5 5dr</FullModel>
+    <EyeCatcher>DELIVERY✅FULL S’ HISTORY</EyeCatcher>
+    <Value>4499</Value>
+    <Mileage>91200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Bluetooth Handsfree and Voice Control, Centre Console - additional 12V power socket, Emergency Assistance, Ford SYNC, MP3 Compatibility, Portable Audio Device Connector, Sony DAB Digital Radio, Sony DAB Navigation System with Rear View Camera, Sony Radio CD with 8 Speakers - MP3 Compatible, Speakers - x8, TFT Display screen, Cruise Control with Speed Limiter, DDS - Deflation Detection System, Parking Sensor - Rear, 18in Alloy Wheels, 19in Alloy Wheels, Appearance Pack, Body Colour Exterior Mirrors, Door Handles - Body Colour, Door Lever - Aluminium, Door Mirrors - Electrically Operated and Heated, Door Mirrors - Puddle Lights, Door Mirrors with Integrated Indicators, Electric Windows - Front and Rear with One Touch, Front lower grille - Moondust Silver colour surround, Front upper grille - High-gloss black with chrome bar, Heated Front Windscreen, Heated Washer Jets, Locking Wheel Nuts, Panorama Roof, Rear Spoiler - Body Colour, Scuff plates - front moondust silver colour, Spare Wheel - Mini Steel, Tinted Glass - Green, Twin Exhaust Outlet, White exterior colour, Bi-Xenon Headlights, Front Fog Lights, Headlights - Automatic, Headlights - Courtesy Delay, Headlights - Jet Wash, Headlights - Levelling System - Automatic, LED Daytime Running Lights, Rear Lights - LED, Air Conditioning - Dual Zone Electronic Automatic Temperature Control, Automatic Dimming Rear View Mirror, Automatic Rain Sensing Wipers, Black full leather interior, Centre Console - Sliding Armrest, Courtesy Light - Footwell Illumination, Courtesy Light - Front and Rear Reading Lights, Courtesy Light - LED Overhead with Theatre Style Dimming Ambient Lighting, Drivers Seat Lumbar Support, Floor Mats - Carpet - Front, Ford Power Engine Start-Stop Button, Front Seat - Passengers Manual Lumbar Support Adjustment, Gearshift Knob - Leather, Heated Driver and Passenger Seats, Large Stowage Bin, Rear Seat - Folding Centre Armrest with 2 Integrated Cup Holders and Flip up Storage, Seats - 60-40 Rear Split Back, Seats - Drivers Manual Height and Fore-Aft Adjustment, Seats - Front Sports, Steering Column - Rake and Reach Adjustment, Steering Wheel - 4 Spoke Leather Trimmed, Steering Wheel - Multifunction, Storage - Upper Instrument Panel, Stowage Pockets - Front Seatback, Torino Leather - Charcoal Black, Variable Dimming of Instrument Cluster and Radio Screen Display, EPAS - Electric Power Assisted Steering, Front suspension - Independent with MacPherson Struts, Rear suspension - Independent control blade multi-link system and anti-roll bar, Variable sensitivity adjustment, Visual AWD Monitor, ABS - Anti-lock Braking System, Airbags - Drivers Knee, Airbags - Front Passenger, Airbags - Front and 2nd Row Curtain, Airbags - Side Impact, Alarm - Thatcham Category 1 with Volume Sensing and Perimeter, Bounce-Back Sensors, Drivers Airbag, EBA - Emergency Brake Assist, EBD - Electronic Brakeforce Distribution, ESP - Electronic Stability Programme, Emergency Brake Warning, Ford Easy-Fuel Capless Refuelling System, HLA - Hill Launch Assist, IPS - Intelligent Protection System, ISOFIX, Keyless Opening with Hands Free Power Tailgate, RSC - Roll Stability Control, Remote Central Locking, TSC - Trailer Stability Programme, TVC - Torque Vectoring Control, Traction Control - TC</ExtraFeatures>
+    <Reg>YC13 VFZ</Reg>
+    <Video></Video>
+    <MetaTag>Ford Kuga 2.0 TDCi Titanium X AWD Euro 5 5dr Diesel Manual White</MetaTag>
+    <Description>
+      Available now is this well-presented and high-spec 2013 Ford Kuga 2.0 TDCi Titanium X AWD, a spacious and capable SUV offering strong performance, excellent comfort, and great practicality.
+      Powered by the reliable 2.0 TDCi diesel engine paired with All-Wheel Drive, it delivers confident handling in all conditions while maintaining excellent fuel economy — perfect for family use, commuting, or long-distance driving.
+      This example benefits from full service history, showing it has been well maintained throughout its life.
+      ✅ Titanium X Spec • AWD • Full Service History
+      Key Features Include:
+      • Full panoramic sunroof
+      • Reverse camera
+      • Driver’s electric seat
+      • Sony infotainment system
+      • Full leather interior
+      • Heated front seats
+      • Satellite navigation
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Dual-zone climate control
+      • Front and rear parking sensors
+      • Power folding door mirrors
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, powerful, and comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 09/03/2027
+      ✅ Drive away today – reserve YC13 VFZ with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Ford Kuga titanium X with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/eefc214dc3894c359cb1708ef70587b3.jpg,https://m.atcdn.co.uk/a/media/{resize}/f8004900cbfa4e1ba22d94c18c7d80bc.jpg,https://m.atcdn.co.uk/a/media/{resize}/b9e4dc0379b546b4a116eaac3aaec397.jpg,https://m.atcdn.co.uk/a/media/{resize}/e7de50892ec144ca87dd7db83e179b04.jpg,https://m.atcdn.co.uk/a/media/{resize}/916b01644ab2498f976d8ba47854492f.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcd5f0cd7fc74b5eb7041d8ca4005475.jpg,https://m.atcdn.co.uk/a/media/{resize}/465ea51cf9224e3ab8b790cc81d9cb69.jpg,https://m.atcdn.co.uk/a/media/{resize}/ee3c46a2a97740458e702198f8f4281b.jpg,https://m.atcdn.co.uk/a/media/{resize}/a89094803ce34d8db7f7bc48ecb94591.jpg,https://m.atcdn.co.uk/a/media/{resize}/8608c7ba19e14855b4a185b4ff328431.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab77d4773a70425bbb9e749925a7ddd4.jpg,https://m.atcdn.co.uk/a/media/{resize}/1b9cf05392e54a9ca51855a4d4a06701.jpg,https://m.atcdn.co.uk/a/media/{resize}/b0faff1e6d3f4ad3b48bde73360f2cad.jpg,https://m.atcdn.co.uk/a/media/{resize}/4eaa9148ee264e25a30a7db630521141.jpg,https://m.atcdn.co.uk/a/media/{resize}/c09bbd3abc1e43798a4a4ddf24e0d44d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3ac111ee257c4bd4bb975abffe6bd684.jpg,https://m.atcdn.co.uk/a/media/{resize}/107d084dfdcf4339bc2af41812984ed3.jpg,https://m.atcdn.co.uk/a/media/{resize}/799090d5bf4b4689a2dd0696768b28b4.jpg,https://m.atcdn.co.uk/a/media/{resize}/de8343b0dc71411cae804ab21a999ab2.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ff75f5a826a4df1a6ace3c15f191f10.jpg,https://m.atcdn.co.uk/a/media/{resize}/9e330c7616e745f99d508677846a2f10.jpg,https://m.atcdn.co.uk/a/media/{resize}/662d3a23a27d4fc9a4c77bbc254aaa56.jpg,https://m.atcdn.co.uk/a/media/{resize}/40ce4b2e40bc4ff8b36ac10158d8985b.jpg,https://m.atcdn.co.uk/a/media/{resize}/c4acc7e492f44dae8ae6882e32dcf797.jpg,https://m.atcdn.co.uk/a/media/{resize}/f05760964ebd4d6cb5952ec7915baf2c.jpg,https://m.atcdn.co.uk/a/media/{resize}/f8542f7b61914f95bde6f0a11bf7c2a6.jpg,https://m.atcdn.co.uk/a/media/{resize}/d7c35e5d4e30412095bfb35d1df4d66c.jpg,https://m.atcdn.co.uk/a/media/{resize}/fa5786beed874a2d8d1476cac717c9e9.jpg,https://m.atcdn.co.uk/a/media/{resize}/6e1b8588822348c5b971dabd6f002513.jpg,https://m.atcdn.co.uk/a/media/{resize}/39fb6869f7c64f4fb1be10afda4e8813.jpg,https://m.atcdn.co.uk/a/media/{resize}/7299e3f237a7426686d503bdf32742b0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a7569b99172847a7b30acc963b0cec36.jpg,https://m.atcdn.co.uk/a/media/{resize}/954413499889478093f598a921bd7cb9.jpg,https://m.atcdn.co.uk/a/media/{resize}/0ee46fa91b604473a67611d1fdfb59e4.jpg,https://m.atcdn.co.uk/a/media/{resize}/72d0175e726b40e0bde50cf71fb13bff.jpg,https://m.atcdn.co.uk/a/media/{resize}/8f40de72b7c34b35a52fa45c2031fbbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/f18258fdaa634a35ad8d757bea45cb24.jpg,https://m.atcdn.co.uk/a/media/{resize}/9a0bcdf6bd0942bf8fc6b8aff52cc656.jpg,https://m.atcdn.co.uk/a/media/{resize}/3003af24ca734f848dbf38e922e11861.jpg,https://m.atcdn.co.uk/a/media/{resize}/ad7d2c30a0a04221b5ac67a6d8aa12e0.jpg,https://m.atcdn.co.uk/a/media/{resize}/3b37f21d73c94801bba42e599a705cbe.jpg,https://m.atcdn.co.uk/a/media/{resize}/4afdc3292b984e5e8ea2200003d6de93.jpg,https://m.atcdn.co.uk/a/media/{resize}/e42bdd1a7a134a41a39ea5cf8093e832.jpg,https://m.atcdn.co.uk/a/media/{resize}/24fe03e8e7e74235a2e62796e9d4d7e7.jpg,https://m.atcdn.co.uk/a/media/{resize}/7794cea339c34106b9c79939cdf0870c.jpg,https://m.atcdn.co.uk/a/media/{resize}/b543fc4880944497b5307af859f89201.jpg,https://m.atcdn.co.uk/a/media/{resize}/11290a3abfb34b7a96eddb309e0ef779.jpg,https://m.atcdn.co.uk/a/media/{resize}/777b0a0ab3bd44d9b29d5e11b89ae2f5.jpg,https://m.atcdn.co.uk/a/media/{resize}/7dd4f29af053458886e443b5cbfe88cb.jpg,https://m.atcdn.co.uk/a/media/{resize}/17c6cfe61f764453a7cea7d723b9b8c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/a49b53b5772949e5b923dbdd9999c36d.jpg,https://m.atcdn.co.uk/a/media/{resize}/02420de01ad840cea1cc151a2c3c9691.jpg,https://m.atcdn.co.uk/a/media/{resize}/b04f68740f1d4567a7c935a32cc06fbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/c33475f33c964411b9d5cbe5089e43cd.jpg,https://m.atcdn.co.uk/a/media/{resize}/7a557e956d004f50be2524703bfb561f.jpg,https://m.atcdn.co.uk/a/media/{resize}/f1b378d5f12f45ec8827525c86e29608.jpg,https://m.atcdn.co.uk/a/media/{resize}/91632c5fdced4e96901e46890b1b0d89.jpg,https://m.atcdn.co.uk/a/media/{resize}/558d11cedfc84f5297c547e7b7b80af7.jpg,https://m.atcdn.co.uk/a/media/{resize}/9eba318107ff423fbffc4b570966b87a.jpg,https://m.atcdn.co.uk/a/media/{resize}/99e33f8a98b840d094dacd1594bf3370.jpg,https://m.atcdn.co.uk/a/media/{resize}/8d913121f7f048309dffe8b7343fa0da.jpg</Image>
+    <Tax>275</Tax>
+    <Insurance>24E</Insurance>
+    <Mpg>47.9</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202603100587476?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c7f8b8b1-065c-48bf-aa72-b904fddf9aed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+
+<Car>
     <ID>6</ID>
     <Name>Honda</Name>
     <Model>Civic</Model>
