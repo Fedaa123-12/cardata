@@ -1,4 +1,60 @@
 <Car>
+    <ID>7</ID>
+    <Name>Nissan</Name>
+    <Model>Juke</Model>
+    <FullModel>1.6 Acenta Premium Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>REV CAM✅ACENTA PREMIUM SPEC✅</EyeCatcher>
+    <Value>2950</Value>
+    <Mileage>92000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures>Acenta Premium specification, Reverse camera, Satellite navigation, Bluetooth and media connectivity, Cruise control with speed limiter, Climate control, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, USB and AUX connectivity, ISOFIX, Daytime running lights</ExtraFeatures>
+    <Reg>MFZ7059</Reg>
+    <Video></Video>
+    <MetaTag>Nissan Juke 1.6 Acenta Premium Euro 5 (s/s) 5dr Petrol Manual Blue</MetaTag>
+    <Description>
+      Available now is this stylish and practical 2013 (62) Nissan Juke 1.6 Acenta Premium, a popular compact SUV offering a higher driving position, low running costs, and distinctive styling.
+      Powered by the reliable 1.6 petrol engine, it delivers smooth performance, excellent reliability, and is ULEZ compliant, making it ideal for commuting, city driving, or everyday family use.
+      ✅ ULEZ Compliant • Acenta Premium Spec • Popular Compact SUV
+      Key Features Include:
+      • Acenta Premium specification
+      • Reverse camera
+      • Satellite navigation
+      • Bluetooth and media connectivity
+      • Cruise control with speed limiter
+      • Climate control
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • USB and AUX connectivity
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, comfortable, and economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 11/03/2027
+      ✅ Drive away today – reserve MFZ7059 with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Nissan Juke 1.6 Acenta Premium with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/c55a330e397245d59cabd79116e994a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/d32a70dab74d46fca552b6d82e5e8b55.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcb4e96fd67245b681cff746b0970da0.jpg,https://m.atcdn.co.uk/a/media/{resize}/5942f899be1f4ebe918a900f7f77333d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f25036f1a69e4eea91626f0428e5e9d8.jpg,https://m.atcdn.co.uk/a/media/{resize}/0fdd96aae1e2463a912ef1d811e7c043.jpg,https://m.atcdn.co.uk/a/media/{resize}/a57df775b6b643bfb4d0bb127f0b4627.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>12E</Insurance>
+    <Mpg>48.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202606032951688?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=ef20a9d1-18a8-4362-99ca-031fefcac7bb&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=295&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+
+<Car>
     <ID>2</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
