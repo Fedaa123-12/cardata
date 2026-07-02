@@ -341,61 +341,6 @@
   </Car>
   <Car>
     <ID>7</ID>
-    <Name>Nissan</Name>
-    <Model>Juke</Model>
-    <FullModel>1.6 Acenta Premium Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>REV CAM✅ACENTA PREMIUM SPEC✅</EyeCatcher>
-    <Value>2950</Value>
-    <Mileage>92000</Mileage>
-    <YearOfManu>2013</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Blue</Colour>
-    <ExtraFeatures>Acenta Premium specification, Reverse camera, Satellite navigation, Bluetooth and media connectivity, Cruise control with speed limiter, Climate control, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, USB and AUX connectivity, ISOFIX, Daytime running lights</ExtraFeatures>
-    <Reg>MFZ7059</Reg>
-    <Video></Video>
-    <MetaTag>Nissan Juke 1.6 Acenta Premium Euro 5 (s/s) 5dr Petrol Manual Blue</MetaTag>
-    <Description>
-      Available now is this stylish and practical 2013 (62) Nissan Juke 1.6 Acenta Premium, a popular compact SUV offering a higher driving position, low running costs, and distinctive styling.
-      Powered by the reliable 1.6 petrol engine, it delivers smooth performance, excellent reliability, and is ULEZ compliant, making it ideal for commuting, city driving, or everyday family use.
-      ✅ ULEZ Compliant • Acenta Premium Spec • Popular Compact SUV
-      Key Features Include:
-      • Acenta Premium specification
-      • Reverse camera
-      • Satellite navigation
-      • Bluetooth and media connectivity
-      • Cruise control with speed limiter
-      • Climate control
-      • Alloy wheels
-      • Multifunction steering wheel
-      • Electric windows and mirrors
-      • USB and AUX connectivity
-      • ISOFIX
-      • Daytime running lights
-      Drives superb — smooth, comfortable, and economical. No warning lights or mechanical issues.
-      • Recently serviced and inspected
-      • MOT expires 11/03/2027
-      ✅ Drive away today – reserve MFZ7059 with a refundable £100 deposit (TandCs apply).
-      🚚 Nationwide delivery available at competitive rates.
-      ⸻
-      Why Buy from AFM | Affordable Motors Billingham?
-      We provide:
-      • Full mechanical inspection
-      • Free comprehensive warranty
-      • HPI clear vehicles (unless otherwise stated)
-      • Fresh valet inside and out
-      • Friendly, honest, and pressure-free service
-      📞 Call or message us today to arrange a viewing or reserve this Nissan Juke 1.6 Acenta Premium with AFM | Affordable Motors Billingham.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/c55a330e397245d59cabd79116e994a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/d32a70dab74d46fca552b6d82e5e8b55.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcb4e96fd67245b681cff746b0970da0.jpg,https://m.atcdn.co.uk/a/media/{resize}/5942f899be1f4ebe918a900f7f77333d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f25036f1a69e4eea91626f0428e5e9d8.jpg,https://m.atcdn.co.uk/a/media/{resize}/0fdd96aae1e2463a912ef1d811e7c043.jpg,https://m.atcdn.co.uk/a/media/{resize}/a57df775b6b643bfb4d0bb127f0b4627.jpg</Image>
-    <Tax>200</Tax>
-    <Insurance>12E</Insurance>
-    <Mpg>48.7</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202606032951688?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=ef20a9d1-18a8-4362-99ca-031fefcac7bb&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=295&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>8</ID>
     <Name>Mercedes-Benz</Name>
     <Model>A Class</Model>
     <FullModel>1.5 A180d Sport Euro 6 (s/s) 5dr</FullModel>
@@ -449,7 +394,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606223524806?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=efa54ae2-b190-467b-aa97-fedf077d6ec3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=650&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
     <FullModel>1.6 TDI BlueMotion Tech SE Euro 5 (s/s) 5dr</FullModel>
@@ -505,7 +450,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606253625298?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=034611ef-08fe-444d-9024-56e2779643ed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDI Black Edition Euro 5 (s/s) 4dr</FullModel>
@@ -562,5 +507,64 @@
     <Insurance>28E</Insurance>
     <Mpg>61.4</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>£20 R’TAX✅T-BELT KIT✅SERVICED✅</EyeCatcher>
+    <Value>4999</Value>
+    <Mileage>138700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures>GTD styling package, Sports seats with iconic tartan upholstery, Satellite navigation, Touchscreen infotainment system, Bluetooth and media connectivity, Adaptive cruise control, Front and rear parking sensors, Dual-zone climate control, Multifunction steering wheel, Alloy wheels, Electric windows and mirrors, Auto lights and wipers, ISOFIX, LED daytime running lights</ExtraFeatures>
+    <Reg>PO14 YDC</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Golf 2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr Diesel Manual Red</MetaTag>
+    <Description>
+      Available now is this stunning 2014 Volkswagen Golf 2.0 TDI BlueMotion Technology GTD, a sporty hatchback combining GTI-inspired styling with exceptional diesel economy, strong performance, and Volkswagen’s renowned build quality.
+      Powered by the punchy 2.0 TDI diesel engine, it delivers impressive torque, excellent MPG, and a refined yet engaging driving experience, making it perfect for commuting, motorway driving, or anyone looking for a practical hot hatch.
+      For added peace of mind, this vehicle will be supplied with a new timing belt fitted at the point of sale.
+      ✅ GTD Performance • BlueMotion Technology • Excellent MPG
+      ✅ New Timing Belt at Point of Sale
+      Key Features Include:
+      • GTD styling package
+      • Sports seats with iconic tartan upholstery
+      • Satellite navigation
+      • Touchscreen infotainment system
+      • Bluetooth and media connectivity
+      • Adaptive cruise control
+      • Front and rear parking sensors
+      • Dual-zone climate control
+      • Multifunction steering wheel
+      • Alloy wheels
+      • Electric windows and mirrors
+      • Auto lights and wipers
+      • ISOFIX
+      • LED daytime running lights
+      Drives superb — smooth, responsive, and powerful. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 13/05/2027
+      ✅ Drive away today – reserve PO14 YDC with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 2.0 TDI BlueMotion Tech GTD with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/df8708ba2310464a901e076fe7d8d16f.jpg,https://m.atcdn.co.uk/a/media/{resize}/1b5e8282a0bb40c3b68b32215364867a.jpg,https://m.atcdn.co.uk/a/media/{resize}/b370f16d8efc4e3eac51a45d87314195.jpg,https://m.atcdn.co.uk/a/media/{resize}/3c6da5c71e5846e2a0a89d765de431fb.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f2507c3ac0d45879bf1eb31fbfbea0b.jpg,https://m.atcdn.co.uk/a/media/{resize}/ca09180ba88b4f32a6bc0290e1dc5bf4.jpg,https://m.atcdn.co.uk/a/media/{resize}/5964d38db40f400988a97a3dbec10f8e.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>26E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607023825041?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=487bfee9-1125-4a45-9d87-0648b646267a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
 </Cars>
