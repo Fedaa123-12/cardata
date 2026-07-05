@@ -508,4 +508,59 @@
     <Mpg>61.4</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Volkswagen</Name>
+    <Model>Polo</Model>
+    <FullModel>1.2 TDI Match Edition Euro 5 5dr</FullModel>
+    <EyeCatcher>£20 ROAD TAX✅WARRANTY✅P’SENSOR</EyeCatcher>
+    <Value>3999</Value>
+    <Mileage>86000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Match Edition specification, Rear parking sensors, Air conditioning, Bluetooth and media connectivity, Cruise control, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, Remote central locking, Trip computer, ISOFIX, Daytime running lights</ExtraFeatures>
+    <Reg>SB63 AHN</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Polo 1.2 TDI Match Edition Euro 5 5dr Diesel Manual White</MetaTag>
+    <Description>
+      Available now is this economical and well-presented 2013 (63) Volkswagen Polo 1.2 TDI Match Edition, a reliable hatchback offering exceptional fuel economy, low running costs, and Volkswagen’s renowned build quality.
+      Powered by the efficient 1.2 TDI diesel engine, it delivers excellent MPG, smooth performance, and affordable running costs, making it an ideal choice for commuting, first-time drivers, or everyday use.
+      ✅ Match Edition • Excellent MPG • Low Running Costs
+      Key Features Include:
+      • Match Edition specification
+      • Rear parking sensors
+      • Air conditioning
+      • Bluetooth and media connectivity
+      • Cruise control
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Remote central locking
+      • Trip computer
+      • ISOFIX
+      • Daytime running lights
+      Drives superb — smooth, comfortable, and extremely economical. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 08/05/2027
+      ✅ Drive away today – reserve SB63 AHN with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Polo 1.2 TDI Match Edition with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/97dbd7ced100414584fad1348934dadf.jpg,https://m.atcdn.co.uk/a/media/{resize}/69e312c3e30d4023a24dcd0b728754ae.jpg,https://m.atcdn.co.uk/a/media/{resize}/b6077a9893ef4e65bd047023ea22c088.jpg,https://m.atcdn.co.uk/a/media/{resize}/74922c2be06b4fad84b54177f0b26b6c.jpg,https://m.atcdn.co.uk/a/media/{resize}/e8c9239556fd483abbae3aaeb9ef46bd.jpg,https://m.atcdn.co.uk/a/media/{resize}/fefde940015245b899dacb5ce5cedb46.jpg,https://m.atcdn.co.uk/a/media/{resize}/e61d20f91916465ba7a66b4beba771ef.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>09E</Insurance>
+    <Mpg>72.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202605172473431?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=35104e6d-7f48-467e-bb4c-b88b77bfa0be&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
 </Cars>
