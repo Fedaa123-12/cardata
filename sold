@@ -1,4 +1,68 @@
 <Car>
+    <ID>1</ID>
+    <Name>Mercedes-Benz</Name>
+    <Model>GLA</Model>
+    <FullModel>2.1 GLA200d AMG Line (Premium Plus) 7G-DCT 4MATIC Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>PANROOF✅PREMIUM PLUS✅REV CAM✅</EyeCatcher>
+    <Value>11495</Value>
+    <Mileage>79600</Mileage>
+    <YearOfManu>2017</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures>7G-DCT automatic transmission, 4MATIC all-wheel drive, AMG Line Premium Plus specification, Panoramic glass sunroof, Full leather interior, Heated front seats, Electric memory seats, Keyless entry, Keyless start, Satellite navigation, Reverse camera, Front and rear parking sensors, Bluetooth and media connectivity, Cruise control with speed limiter, Dual-zone climate control, Power folding mirrors, LED headlights and daytime running lights, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, ISOFIX</ExtraFeatures>
+    <Reg>SO17 OZU</Reg>
+    <Video></Video>
+    <MetaTag>Mercedes-Benz GLA 2.1 GLA200d AMG Line (Premium Plus) 7G-DCT 4MATIC Euro 6 (s/s) 5dr Diesel Automatic Black</MetaTag>
+    <Description>
+      Available now is this stunning 2017 Mercedes-Benz GLA 200d AMG Line Premium Plus 4MATIC 7G-DCT, a premium compact SUV offering sporty styling, luxurious comfort, and outstanding all-weather capability.
+      Powered by the efficient 2.1 diesel engine and paired with the smooth 7G-DCT automatic gearbox and Mercedes-Benz 4MATIC all-wheel drive, it delivers excellent performance, impressive fuel economy, and a refined driving experience.
+      ✅ AMG Line Premium Plus • Automatic • 4MATIC All-Wheel Drive
+      Key Features Include:
+      • 7G-DCT automatic transmission
+      • 4MATIC all-wheel drive
+      • AMG Line Premium Plus specification
+      • Panoramic glass sunroof
+      • Full leather interior
+      • Heated front seats
+      • Electric memory seats
+      • Keyless entry
+      • Keyless start
+      • Satellite navigation
+      • Reverse camera
+      • Front and rear parking sensors
+      • Bluetooth and media connectivity
+      • Cruise control with speed limiter
+      • Dual-zone climate control
+      • Power folding mirrors
+      • LED headlights and daytime running lights
+      • Alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • ISOFIX
+      Drives superb — smooth, powerful, and exceptionally comfortable. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 08/02/2027
+      ✅ Drive away today – reserve SO17 OZU with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Mercedes-Benz GLA 200d AMG Line Premium Plus 4MATIC with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/7f542b0b088346e5b6d4b1083f65e9b4.jpg,https://m.atcdn.co.uk/a/media/{resize}/42a9aa23481a4dbaa8815fcfba4df772.jpg,https://m.atcdn.co.uk/a/media/{resize}/787f162a9dd94d3481bdd593b0f76a29.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc260a270b6f457c90affee1f0630d48.jpg,https://m.atcdn.co.uk/a/media/{resize}/d68649b76d554e7babb3dcbd97d7ae50.jpg,https://m.atcdn.co.uk/a/media/{resize}/e3147f0b186444f9b25f93bfc3aaa1a3.jpg,https://m.atcdn.co.uk/a/media/{resize}/df1e5f5ee677497193c0cb19f0be31fa.jpg</Image>
+    <Tax>170</Tax>
+    <Insurance>20E</Insurance>
+    <Mpg>56.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607013799519?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=bcea7488-9f19-47d8-b522-761b4c226e1e&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=1150&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+<Car>
     <ID>4</ID>
     <Name>Citroen</Name>
     <Model>C3</Model>
