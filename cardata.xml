@@ -1,70 +1,6 @@
 <Cars>
   <Car>
     <ID>1</ID>
-    <Name>Mercedes-Benz</Name>
-    <Model>GLA</Model>
-    <FullModel>2.1 GLA200d AMG Line (Premium Plus) 7G-DCT 4MATIC Euro 6 (s/s) 5dr</FullModel>
-    <EyeCatcher>PANROOF✅PREMIUM PLUS✅REV CAM✅</EyeCatcher>
-    <Value>11495</Value>
-    <Mileage>79600</Mileage>
-    <YearOfManu>2017</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures>7G-DCT automatic transmission, 4MATIC all-wheel drive, AMG Line Premium Plus specification, Panoramic glass sunroof, Full leather interior, Heated front seats, Electric memory seats, Keyless entry, Keyless start, Satellite navigation, Reverse camera, Front and rear parking sensors, Bluetooth and media connectivity, Cruise control with speed limiter, Dual-zone climate control, Power folding mirrors, LED headlights and daytime running lights, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, ISOFIX</ExtraFeatures>
-    <Reg>SO17 OZU</Reg>
-    <Video></Video>
-    <MetaTag>Mercedes-Benz GLA 2.1 GLA200d AMG Line (Premium Plus) 7G-DCT 4MATIC Euro 6 (s/s) 5dr Diesel Automatic Black</MetaTag>
-    <Description>
-      Available now is this stunning 2017 Mercedes-Benz GLA 200d AMG Line Premium Plus 4MATIC 7G-DCT, a premium compact SUV offering sporty styling, luxurious comfort, and outstanding all-weather capability.
-      Powered by the efficient 2.1 diesel engine and paired with the smooth 7G-DCT automatic gearbox and Mercedes-Benz 4MATIC all-wheel drive, it delivers excellent performance, impressive fuel economy, and a refined driving experience.
-      ✅ AMG Line Premium Plus • Automatic • 4MATIC All-Wheel Drive
-      Key Features Include:
-      • 7G-DCT automatic transmission
-      • 4MATIC all-wheel drive
-      • AMG Line Premium Plus specification
-      • Panoramic glass sunroof
-      • Full leather interior
-      • Heated front seats
-      • Electric memory seats
-      • Keyless entry
-      • Keyless start
-      • Satellite navigation
-      • Reverse camera
-      • Front and rear parking sensors
-      • Bluetooth and media connectivity
-      • Cruise control with speed limiter
-      • Dual-zone climate control
-      • Power folding mirrors
-      • LED headlights and daytime running lights
-      • Alloy wheels
-      • Multifunction steering wheel
-      • Electric windows and mirrors
-      • ISOFIX
-      Drives superb — smooth, powerful, and exceptionally comfortable. No warning lights or mechanical issues.
-      • Recently serviced and inspected
-      • MOT expires 08/02/2027
-      ✅ Drive away today – reserve SO17 OZU with a refundable £100 deposit (TandCs apply).
-      🚚 Nationwide delivery available at competitive rates.
-      ⸻
-      Why Buy from AFM | Affordable Motors Billingham?
-      We provide:
-      • Full mechanical inspection
-      • Free comprehensive warranty
-      • HPI clear vehicles (unless otherwise stated)
-      • Fresh valet inside and out
-      • Friendly, honest, and pressure-free service
-      📞 Call or message us today to arrange a viewing or reserve this Mercedes-Benz GLA 200d AMG Line Premium Plus 4MATIC with AFM | Affordable Motors Billingham.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/7f542b0b088346e5b6d4b1083f65e9b4.jpg,https://m.atcdn.co.uk/a/media/{resize}/42a9aa23481a4dbaa8815fcfba4df772.jpg,https://m.atcdn.co.uk/a/media/{resize}/787f162a9dd94d3481bdd593b0f76a29.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc260a270b6f457c90affee1f0630d48.jpg,https://m.atcdn.co.uk/a/media/{resize}/d68649b76d554e7babb3dcbd97d7ae50.jpg,https://m.atcdn.co.uk/a/media/{resize}/e3147f0b186444f9b25f93bfc3aaa1a3.jpg,https://m.atcdn.co.uk/a/media/{resize}/df1e5f5ee677497193c0cb19f0be31fa.jpg</Image>
-    <Tax>170</Tax>
-    <Insurance>20E</Insurance>
-    <Mpg>56.5</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202607013799519?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=bcea7488-9f19-47d8-b522-761b4c226e1e&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=1150&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>2</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
     <FullModel>2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr</FullModel>
@@ -119,12 +55,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202605132362488?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=b924ce81-9e5d-4882-9df0-584dd5a4cfa4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>3</ID>
+    <ID>2</ID>
     <Name>Ford</Name>
     <Model>Fiesta</Model>
     <FullModel>1.25 Zetec 5dr</FullModel>
     <EyeCatcher>SERVICE HIST✅WARRANTY✅DELIVERY</EyeCatcher>
-    <Value>2499</Value>
+    <Value>2495</Value>
     <Mileage>75100</Mileage>
     <YearOfManu>2012</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -174,7 +110,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606063062825?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=34b451d0-ff7b-4188-8f12-0f58c50855cf&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=DL11ND&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3DDL11ND%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=325&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>4</ID>
+    <ID>3</ID>
     <Name>Mercedes-Benz</Name>
     <Model>A Class</Model>
     <FullModel>1.5 A180d Sport Euro 6 (s/s) 5dr</FullModel>
@@ -228,7 +164,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606223524806?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=efa54ae2-b190-467b-aa97-fedf077d6ec3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=650&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>5</ID>
+    <ID>4</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
     <FullModel>1.6 TDI BlueMotion Tech SE Euro 5 (s/s) 5dr</FullModel>
@@ -284,12 +220,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202606253625298?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=034611ef-08fe-444d-9024-56e2779643ed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>6</ID>
+    <ID>5</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDI Black Edition Euro 5 (s/s) 4dr</FullModel>
     <EyeCatcher>0 OWNERS✅£35 R’TAX✅FSH✅T-BELT✅</EyeCatcher>
-    <Value>6499</Value>
+    <Value>6795</Value>
     <Mileage>96000</Mileage>
     <YearOfManu>2013</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -343,7 +279,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>7</ID>
+    <ID>6</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
     <FullModel>2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr</FullModel>
@@ -400,7 +336,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607023825041?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=487bfee9-1125-4a45-9d87-0648b646267a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>7</ID>
     <Name>Volkswagen</Name>
     <Model>Polo</Model>
     <FullModel>1.2 TDI Match Edition Euro 5 5dr</FullModel>
@@ -455,12 +391,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202605172473431?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=35104e6d-7f48-467e-bb4c-b88b77bfa0be&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>Volvo</Name>
     <Model>V40</Model>
     <FullModel>1.6 D2 ES Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>!READ DESCRIPTION!</EyeCatcher>
-    <Value>1799</Value>
+    <Value>1795</Value>
     <Mileage>101000</Mileage>
     <YearOfManu>2014</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -511,12 +447,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202605132371680?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5179e6a5-2d5f-4522-aefa-564418e895e6&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDIe Technik Euro 5 (s/s) 4dr</FullModel>
     <EyeCatcher>---PX WELCOME---</EyeCatcher>
-    <Value>1799</Value>
+    <Value>1495</Value>
     <Mileage>112400</Mileage>
     <YearOfManu>2010</YearOfManu>
     <CatStat>HPI Clear</CatStat>
