@@ -392,6 +392,84 @@
   </Car>
   <Car>
     <ID>8</ID>
+    <Name>Suzuki</Name>
+    <Model>Swift</Model>
+    <FullModel>1.2 Dualjet SZ4 Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>MAY 2027 MOT|SERVICE HISTORY</EyeCatcher>
+    <Value>4995</Value>
+    <Mileage>77800</Mileage>
+    <YearOfManu>2016</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NJ16 ONW</Reg>
+    <Video></Video>
+    <MetaTag>Suzuki Swift 1.2 Dualjet SZ4 Euro 6 (s/s) 5dr Petrol Manual White</MetaTag>
+    <Description>
+      Suzuki Swift 1.2 Dualjet SZ4 5 door, This Suzuki Swift is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, DAB Radio, USB and AUX Connectivity, Keyless Entry, Push Button Start, Air Conditioning, Alloy Wheels, Central Locking, Electric Windows, Electric Mirrors, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection, all of which is FREE of charge, All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/1a9a8dd10fc04721967b0936e6c1540f.jpg,https://m.atcdn.co.uk/a/media/{resize}/f86966b6403746fc817930e14b75f7f8.jpg,https://m.atcdn.co.uk/a/media/{resize}/2bfc58d2e7a8466c9be59cda14ddedbb.jpg,https://m.atcdn.co.uk/a/media/{resize}/83a3c653385048c5ab0ada29df2205f4.jpg,https://m.atcdn.co.uk/a/media/{resize}/d8adfc3e69444b25b3b01b4ab9011935.jpg,https://m.atcdn.co.uk/a/media/{resize}/50f9ecadb76640169e333112af0b89ee.jpg,https://m.atcdn.co.uk/a/media/{resize}/90bb181d37e841d08d81a8c10860dfe7.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>11E</Insurance>
+    <Mpg>65.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607114093598?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=51f4689a-d9a9-43a4-9ff5-61f865bcef7b&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>9</ID>
+    <Name>Renault</Name>
+    <Model>Clio</Model>
+    <FullModel>1.5 dCi Dynamique S MediaNav Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>7 SERVICES|PARKING SENSORS</EyeCatcher>
+    <Value>3295</Value>
+    <Mileage>86700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>yr64 ovc</Reg>
+    <Video></Video>
+    <MetaTag>Renault Clio 1.5 dCi Dynamique S MediaNav Euro 5 (s/s) 5dr Diesel Manual Red</MetaTag>
+    <Description>
+      Detailed Service History. Finished in Flame Red with Red Gloss Interior Pack, 17" 5 Spoke Alloy Wheels, Cruise Control, Rear Parking Sensors, Bluetooth, AC and Much More - AFM Billingham is one of the UK's leading multi award-winning independent car specialists, offering an exceptional collection of luxury, performance and high specification vehicles. We carefully hand select every vehicle for its provenance, specification and condition, ensuring only the finest examples are offered for sale. Each vehicle is professionally prepared to an exceptional standard, HPI checked and thoroughly inspected to provide complete peace of mind. Competitive warranty options of up to 12 months are available. Conveniently located opposite Tesco in Billingham TS23 3TA, we combine exceptional vehicles with first class customer service to deliver a buying experience that is second to none.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/12225b77e0874caba225419a3713c07d.jpg,https://m.atcdn.co.uk/a/media/{resize}/9bab1e5bfbc94c4b9fdfd75c556240dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/90d2af97d1eb43f889eea2eb8379d4fe.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2d0cbcdd4a84e6d849314a3cbade8af.jpg,https://m.atcdn.co.uk/a/media/{resize}/bbd2262aad654aa39c93ccd843dc4936.jpg,https://m.atcdn.co.uk/a/media/{resize}/a15313e5415440b2bfbd73b623c2555c.jpg,https://m.atcdn.co.uk/a/media/{resize}/f1ec1b9d79a44b8ca2c7eacc29e92e0f.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>78.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607084015254?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=2977f912-b24b-46e4-8625-ec9fe59ef4b8&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=330&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>SEAT</Name>
+    <Model>Leon</Model>
+    <FullModel>1.4 TSI FR Technology Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>11 SERVICE STAMPS | FR STYLING</EyeCatcher>
+    <Value>6795</Value>
+    <Mileage>82000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>NX64 VDO</Reg>
+    <Video></Video>
+    <MetaTag>SEAT Leon 1.4 TSI FR Technology Euro 6 (s/s) 5dr Petrol Manual White</MetaTag>
+    <Description>
+      SEAT Leon 1.4 TSI FR Technology Hatchback 5 door, This SEAT Leon is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Front and Rear Parking Sensors, DAB Radio, Air Conditioning, Alloy Wheels, LED Daytime Running Lights, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/6c13128b728c415f9edb0eb9aa529140.jpg,https://m.atcdn.co.uk/a/media/{resize}/31821d6c221a46fc91ad80d501458524.jpg,https://m.atcdn.co.uk/a/media/{resize}/744a3023d2b2491db03177b1347a7108.jpg,https://m.atcdn.co.uk/a/media/{resize}/87e73002388141e7945a9707bdad6ae9.jpg,https://m.atcdn.co.uk/a/media/{resize}/701102d074d74b6da2e0d604e26254cc.jpg,https://m.atcdn.co.uk/a/media/{resize}/0588548b8706437ab8776f80629a5882.jpg,https://m.atcdn.co.uk/a/media/{resize}/b4ff31814e9a49ab9c931e40d8f076d3.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>16E</Insurance>
+    <Mpg>54.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607104074852?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9457ea98-4533-49be-8ba1-b5d74475c866&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>11</ID>
     <Name>Volvo</Name>
     <Model>V40</Model>
     <FullModel>1.6 D2 ES Euro 5 (s/s) 5dr</FullModel>
@@ -447,7 +525,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202605132371680?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5179e6a5-2d5f-4522-aefa-564418e895e6&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>12</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDIe Technik Euro 5 (s/s) 4dr</FullModel>
