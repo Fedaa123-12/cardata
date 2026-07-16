@@ -1,4 +1,87 @@
 <Car>
+    <ID>6</ID>
+    <Name>Volkswagen</Name>
+    <Model>Golf</Model>
+    <FullModel>2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>£20 R’TAX✅SERVICED✅</EyeCatcher>
+    <Value>4995</Value>
+    <Mileage>138700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures>GTD styling package, Sports seats with iconic tartan upholstery, Satellite navigation, Touchscreen infotainment system, Bluetooth and media connectivity, Adaptive cruise control, Front and rear parking sensors, Dual-zone climate control, Multifunction steering wheel, Alloy wheels, Electric windows and mirrors, Auto lights and wipers, ISOFIX, LED daytime running lights</ExtraFeatures>
+    <Reg>PO14 YDC</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Golf 2.0 TDI BlueMotion Tech GTD Euro 6 (s/s) 5dr Diesel Manual Red</MetaTag>
+    <Description>
+      Available now is this stunning 2014 Volkswagen Golf 2.0 TDI BlueMotion Technology GTD, a sporty hatchback combining GTI-inspired styling with exceptional diesel economy, strong performance, and Volkswagen’s renowned build quality.
+      Powered by the punchy 2.0 TDI diesel engine, it delivers impressive torque, excellent MPG, and a refined yet engaging driving experience, making it perfect for commuting, motorway driving, or anyone looking for a practical hot hatch.
+      ✅ GTD Performance • BlueMotion Technology • Excellent MPG
+      Key Features Include:
+      • GTD styling package
+      • Sports seats with iconic tartan upholstery
+      • Satellite navigation
+      • Touchscreen infotainment system
+      • Bluetooth and media connectivity
+      • Adaptive cruise control
+      • Front and rear parking sensors
+      • Dual-zone climate control
+      • Multifunction steering wheel
+      • Alloy wheels
+      • Electric windows and mirrors
+      • Auto lights and wipers
+      • ISOFIX
+      • LED daytime running lights
+      Drives superb — smooth, responsive, and powerful. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT expires 13/05/2027
+      ✅ Drive away today – reserve PO14 YDC with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Volkswagen Golf 2.0 TDI BlueMotion Tech GTD with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/df8708ba2310464a901e076fe7d8d16f.jpg,https://m.atcdn.co.uk/a/media/{resize}/1b5e8282a0bb40c3b68b32215364867a.jpg,https://m.atcdn.co.uk/a/media/{resize}/b370f16d8efc4e3eac51a45d87314195.jpg,https://m.atcdn.co.uk/a/media/{resize}/3c6da5c71e5846e2a0a89d765de431fb.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f2507c3ac0d45879bf1eb31fbfbea0b.jpg,https://m.atcdn.co.uk/a/media/{resize}/ca09180ba88b4f32a6bc0290e1dc5bf4.jpg,https://m.atcdn.co.uk/a/media/{resize}/5964d38db40f400988a97a3dbec10f8e.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>26E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607023825041?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=487bfee9-1125-4a45-9d87-0648b646267a&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>8</ID>
+    <Name>Renault</Name>
+    <Model>Clio</Model>
+    <FullModel>1.5 dCi Dynamique S MediaNav Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>7 SERVICES|PARKING SENSORS</EyeCatcher>
+    <Value>3295</Value>
+    <Mileage>86700</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>yr64 ovc</Reg>
+    <Video></Video>
+    <MetaTag>Renault Clio 1.5 dCi Dynamique S MediaNav Euro 5 (s/s) 5dr Diesel Manual Red</MetaTag>
+    <Description>
+      Detailed Service History. Finished in Flame Red with Red Gloss Interior Pack, 17" 5 Spoke Alloy Wheels, Cruise Control, Rear Parking Sensors, Bluetooth, AC and Much More - AFM Billingham is one of the UK's leading multi award-winning independent car specialists, offering an exceptional collection of luxury, performance and high specification vehicles. We carefully hand select every vehicle for its provenance, specification and condition, ensuring only the finest examples are offered for sale. Each vehicle is professionally prepared to an exceptional standard, HPI checked and thoroughly inspected to provide complete peace of mind. Competitive warranty options of up to 12 months are available. Conveniently located opposite Tesco in Billingham TS23 3TA, we combine exceptional vehicles with first class customer service to deliver a buying experience that is second to none.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/12225b77e0874caba225419a3713c07d.jpg,https://m.atcdn.co.uk/a/media/{resize}/9bab1e5bfbc94c4b9fdfd75c556240dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/90d2af97d1eb43f889eea2eb8379d4fe.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2d0cbcdd4a84e6d849314a3cbade8af.jpg,https://m.atcdn.co.uk/a/media/{resize}/bbd2262aad654aa39c93ccd843dc4936.jpg,https://m.atcdn.co.uk/a/media/{resize}/a15313e5415440b2bfbd73b623c2555c.jpg,https://m.atcdn.co.uk/a/media/{resize}/f1ec1b9d79a44b8ca2c7eacc29e92e0f.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>13E</Insurance>
+    <Mpg>78.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607084015254?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=2977f912-b24b-46e4-8625-ec9fe59ef4b8&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=330&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+<Car>
     <ID>1</ID>
     <Name>Mercedes-Benz</Name>
     <Model>GLA</Model>
