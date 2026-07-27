@@ -27,6 +27,32 @@
   </Car>
   <Car>
     <ID>2</ID>
+    <Name>Mercedes-Benz</Name>
+    <Model>E Class</Model>
+    <FullModel>2.1 E220 BlueTEC AMG Night Edition G-Tronic+ Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>AMG NIGHT EDITION|FULL LEATHER</EyeCatcher>
+    <Value>8495</Value>
+    <Mileage>91700</Mileage>
+    <YearOfManu>2015</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Grey</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>sy15rfj</Reg>
+    <Video></Video>
+    <MetaTag>Mercedes-Benz E Class 2.1 E220 BlueTEC AMG Night Edition G-Tronic+ Euro 6 (s/s) 5dr Diesel Automatic Grey</MetaTag>
+    <Description>
+      Mercedes-Benz E Class 2.1 E220 BlueTEC AMG Night Edition G-Tronic+ 5 door, This Mercedes-Benz E Class is equipped with Satellite Navigation, Bluetooth, Cruise Control With Limiter, Front and Rear Parking Sensors, Heated Front Seats, Full Black Leather Interior, Dual Zone Climate Control, DAB Radio, AMG Styling, 18” Alloy Wheels, LED Daytime Running Lights, Automatic Headlights, Automatic Wipers, Electric Tailgate, Multifunction Steering Wheel, Electric Windows, Electric Folding Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/bc0880ac78ae4585baa418e1ec1c1803.jpg,https://m.atcdn.co.uk/a/media/{resize}/a06fa80603364243b8880c23fb233608.jpg,https://m.atcdn.co.uk/a/media/{resize}/0879ca7ca53247d6b9a6735f40faef40.jpg,https://m.atcdn.co.uk/a/media/{resize}/494b8f28dcf446fea299b7d71dcc4ff2.jpg,https://m.atcdn.co.uk/a/media/{resize}/bd6bcb38b92e495bb2173bf72ec46205.jpg,https://m.atcdn.co.uk/a/media/{resize}/52308ac35b084c4ebb93ef940c2b8599.jpg,https://m.atcdn.co.uk/a/media/{resize}/92243ba932ba40e8a1f17690a5e0c714.jpg</Image>
+    <Tax>170</Tax>
+    <Insurance>33E</Insurance>
+    <Mpg>56.5</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607254508962?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=02c40623-78a7-45f7-afd8-5231c792a9aa&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>3</ID>
     <Name>Volkswagen</Name>
     <Model>Golf</Model>
     <FullModel>1.6 TDI BlueMotion Tech SE Euro 5 (s/s) 5dr</FullModel>
@@ -82,7 +108,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606253625298?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=034611ef-08fe-444d-9024-56e2779643ed&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>3</ID>
+    <ID>4</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDI Black Edition Euro 5 (s/s) 4dr</FullModel>
@@ -141,7 +167,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>4</ID>
+    <ID>5</ID>
     <Name>Volkswagen</Name>
     <Model>Polo</Model>
     <FullModel>1.2 TDI Match Edition Euro 5 5dr</FullModel>
@@ -196,7 +222,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202605172473431?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=35104e6d-7f48-467e-bb4c-b88b77bfa0be&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>5</ID>
+    <ID>6</ID>
     <Name>Suzuki</Name>
     <Model>Swift</Model>
     <FullModel>1.2 Dualjet SZ4 Euro 6 (s/s) 5dr</FullModel>
@@ -222,7 +248,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607114093598?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=51f4689a-d9a9-43a4-9ff5-61f865bcef7b&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>6</ID>
+    <ID>7</ID>
     <Name>SEAT</Name>
     <Model>Leon</Model>
     <FullModel>1.4 TSI FR Technology Euro 6 (s/s) 5dr</FullModel>
@@ -246,32 +272,6 @@
     <Insurance>16E</Insurance>
     <Mpg>54.3</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202607104074852?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9457ea98-4533-49be-8ba1-b5d74475c866&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>7</ID>
-    <Name>Volkswagen</Name>
-    <Model>Golf</Model>
-    <FullModel>1.6 TDI BlueMotion Tech Match DSG Euro 6 (s/s) 5dr</FullModel>
-    <EyeCatcher>AUTO|SERVICE HISTORY|FULL MOT</EyeCatcher>
-    <Value>5495</Value>
-    <Mileage>124100</Mileage>
-    <YearOfManu>2015</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>mh15 ctv</Reg>
-    <Video></Video>
-    <MetaTag>Volkswagen Golf 1.6 TDI BlueMotion Tech Match DSG Euro 6 (s/s) 5dr Diesel Automatic Black</MetaTag>
-    <Description>
-      Volkswagen Golf 1.6 TDI BlueMotion Tech Match DSG 5 door, This Volkswagen Golf is equipped with Service History, Satellite Navigation, Bluetooth, Front and Rear Parking Sensors, Adaptive Cruise Control, DAB Radio, Air Conditioning, Alloy Wheels, Automatic Headlights, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and Auto Hold. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/635c58b81e2640289d099e049376d12d.jpg,https://m.atcdn.co.uk/a/media/{resize}/dede92747ebf4eb89213e16af87a4464.jpg,https://m.atcdn.co.uk/a/media/{resize}/8e3a569b82d94bc4b1d81295f6c7b2f5.jpg,https://m.atcdn.co.uk/a/media/{resize}/495ca8269ab74bd8975068dd4918361f.jpg,https://m.atcdn.co.uk/a/media/{resize}/71598d1acf3b40d78599d4d7fe4cd67d.jpg,https://m.atcdn.co.uk/a/media/{resize}/f834bb641467425e8a41efbbbfd40473.jpg,https://m.atcdn.co.uk/a/media/{resize}/afd541c3c82b481fac895a7d8ff2ff0f.jpg</Image>
-    <Tax>20</Tax>
-    <Insurance>11E</Insurance>
-    <Mpg>72.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202607164243485?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=e85d122b-6bf6-41e1-95f6-4ba94303bd7e&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
     <ID>8</ID>
@@ -327,67 +327,11 @@
   </Car>
   <Car>
     <ID>10</ID>
-    <Name>Volvo</Name>
-    <Model>V40</Model>
-    <FullModel>1.6 D2 ES Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>!READ DESCRIPTION!</EyeCatcher>
-    <Value>1795</Value>
-    <Mileage>101000</Mileage>
-    <YearOfManu>2014</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Grey</Colour>
-    <ExtraFeatures>ES specification, Bluetooth and media connectivity, Cruise control, Climate control, Alloy wheels, Multifunction steering wheel, Electric windows and mirrors, City Safety braking system, ISOFIX, Daytime running lights</ExtraFeatures>
-    <Reg>NG14 UJY</Reg>
-    <Video></Video>
-    <MetaTag>Volvo V40 1.6 D2 ES Euro 5 (s/s) 5dr Diesel Manual Grey</MetaTag>
-    <Description>
-      ✅✅TRADE SALE NO WARRANTY, VEHICLE HAS AN UNDIAGNOSED COOLANT FLOW ISSUE✅✅
-      Available now is this economical and well-presented 2014 Volvo V40 1.6 D2 ES, a premium hatchback offering outstanding fuel economy, excellent comfort, and Volvo’s renowned safety and reliability.
-      Powered by the efficient 1.6 D2 diesel engine, it delivers excellent MPG, low running costs, and a smooth refined drive — ideal for commuting, motorway driving, or everyday family use.
-      This example benefits from service history and has had the timing belt replaced, giving added peace of mind for the next owner.
-      ✅ £20 road tax • Excellent MPG • Premium Hatchback
-      ✅ Service history • Timing belt completed
-      Key Features Include:
-      • ES specification
-      • Bluetooth and media connectivity
-      • Cruise control
-      • Climate control
-      • Alloy wheels
-      • Multifunction steering wheel
-      • Electric windows and mirrors
-      • City Safety braking system
-      • ISOFIX
-      • Daytime running lights
-      Drives superb — smooth, comfortable, and very economical. No warning lights or mechanical issues.
-      • Recently serviced and inspected
-      • MOT to be renewed at point of sale
-      ✅ Drive away today – reserve NG14 UJY with a refundable £100 deposit (TandCs apply).
-      🚚 Nationwide delivery available at competitive rates.
-      ⸻
-      Why Buy from AFM | Affordable Motors Billingham?
-      We provide:
-      • Full mechanical inspection
-      • Free comprehensive warranty
-      • HPI clear vehicles (unless otherwise stated)
-      • Fresh valet inside and out
-      • Friendly, honest, and pressure-free service
-      📞 Call or message us today to arrange a viewing or reserve this Volvo V40 1.6 D2 ES with AFM | Affordable Motors Billingham.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/a45ea977555548e9aba31e2c07714c80.jpg,https://m.atcdn.co.uk/a/media/{resize}/eb33e6ffbad84c549380e7be187eb97e.jpg,https://m.atcdn.co.uk/a/media/{resize}/ddcd9dc543e54fcabf0e9ca122f0d0d2.jpg,https://m.atcdn.co.uk/a/media/{resize}/471880b1ddfa4f5b868734eca3c304d6.jpg,https://m.atcdn.co.uk/a/media/{resize}/30a86ef9a5f0464eae7b3ff348eed7e0.jpg,https://m.atcdn.co.uk/a/media/{resize}/deb4cbea5e684741bd2e93a01c7f0ce2.jpg,https://m.atcdn.co.uk/a/media/{resize}/3abc5f39742647f18762e6d465621529.jpg</Image>
-    <Tax>20</Tax>
-    <Insurance>17E</Insurance>
-    <Mpg>83.1</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202605132371680?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5179e6a5-2d5f-4522-aefa-564418e895e6&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>11</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDIe Technik Euro 5 (s/s) 4dr</FullModel>
     <EyeCatcher>---PX WELCOME---</EyeCatcher>
-    <Value>1495</Value>
+    <Value>1300</Value>
     <Mileage>112400</Mileage>
     <YearOfManu>2010</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -399,6 +343,9 @@
     <Video></Video>
     <MetaTag>Audi A4 2.0 TDIe Technik Euro 5 (s/s) 4dr Diesel Manual Grey</MetaTag>
     <Description>
+      - AIRBAG LIGHT - SEAT POSITION SENSOR.
+      - ENGINE LIGHT - OIL LEVEL SENSOR & FLAP POSITION SENSOR.
+      - FRONT INNER PARKING SENSOR MALFUNCTION.
       Available now is this well-presented and economical 2010 (60) Audi A4 2.0 TDIe Technik, a premium saloon offering excellent fuel economy, refined comfort, and Audi’s renowned build quality.
       Powered by the efficient 2.0 TDIe diesel engine, it delivers strong MPG, smooth motorway cruising, and low running costs — making it ideal for commuting, long-distance driving, or everyday use.
       ✅ £35 road tax • TDIe Efficiency • Great MPG • Premium Comfort
