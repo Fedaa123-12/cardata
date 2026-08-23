@@ -219,6 +219,32 @@
   </Car>
   <Car>
     <ID>7</ID>
+    <Name>Volkswagen</Name>
+    <Model>Polo</Model>
+    <FullModel>1.2 Match Euro 5 5dr</FullModel>
+    <EyeCatcher>1 OWNER|FULL HISTORY 12 STAMPS</EyeCatcher>
+    <Value>5495</Value>
+    <Mileage>43800</Mileage>
+    <YearOfManu>2012</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>na12wgj</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Polo 1.2 Match Euro 5 5dr Petrol Manual Silver</MetaTag>
+    <Description>
+      Volkswagen Polo 1.2 Match 5 door, This Volkswagen Polo has only 1 Owner From New and is equipped with Full Service History with 12 Service Stamps, Bluetooth, Air Conditioning, Alloy Wheels, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/b09d90518deb429092a0acd84c7cbb52.jpg,https://m.atcdn.co.uk/a/media/{resize}/0c82923b020e4d4581a5ae0c0d2be9fd.jpg,https://m.atcdn.co.uk/a/media/{resize}/1acd29c0721a4107ac75ae6ba39e1d98.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1488ab026ba49c8a9d9b1b33fbf5057.jpg,https://m.atcdn.co.uk/a/media/{resize}/b25ab139be8f455cb773493f7f5c3d21.jpg,https://m.atcdn.co.uk/a/media/{resize}/51de2c7a2b214692991682c66f7704aa.jpg,https://m.atcdn.co.uk/a/media/{resize}/bf6c7de083bc48e9950a1c8fde25e5fb.jpg</Image>
+    <Tax>170</Tax>
+    <Insurance>04E</Insurance>
+    <Mpg>51.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202608225338402?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=b465c33c-9e12-424e-a0d0-ce8fdb4d8adc&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>8</ID>
     <Name>Ford</Name>
     <Model>Focus</Model>
     <FullModel>1.6 TDCi Titanium X Euro 5 (s/s) 5dr</FullModel>
@@ -244,7 +270,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607184294767?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371212b8-46cc-4b75-9175-bdf9bd7cf301&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=380&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>9</ID>
     <Name>BMW</Name>
     <Model>4 Series</Model>
     <FullModel>2.0 420i Luxury Auto Euro 6 (s/s) 2dr</FullModel>
@@ -270,7 +296,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202608034768068?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=374acc98-6dec-472e-b28c-a4c57e02a927&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>10</ID>
     <Name>SEAT</Name>
     <Model>Leon</Model>
     <FullModel>1.4 TSI FR Technology Euro 6 (s/s) 5dr</FullModel>
@@ -296,7 +322,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607104074852?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9457ea98-4533-49be-8ba1-b5d74475c866&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>11</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.2 DIG-T N-Connecta Euro 6 (s/s) 5dr</FullModel>
@@ -322,7 +348,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607174271472?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=90ed00d7-4875-48a0-a658-a07ce74821d3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>12</ID>
     <Name>Peugeot</Name>
     <Model>208</Model>
     <FullModel>1.6 BlueHDi GT Line Euro 6 5dr</FullModel>
@@ -348,7 +374,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202608064872242?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5fc6a659-796e-4f3b-9bec-1fd3a9ed8a2d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>12</ID>
+    <ID>13</ID>
     <Name>Kia</Name>
     <Model>Ceed</Model>
     <FullModel>1.6 CRDi EcoDynamics 4 Tech Euro 5 (s/s) 5dr</FullModel>
