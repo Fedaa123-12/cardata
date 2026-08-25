@@ -373,30 +373,4 @@
     <Mpg>80.7</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202608064872242?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5fc6a659-796e-4f3b-9bec-1fd3a9ed8a2d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
-  <Car>
-    <ID>13</ID>
-    <Name>Kia</Name>
-    <Model>Ceed</Model>
-    <FullModel>1.6 CRDi EcoDynamics 4 Tech Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>PANROOF|FULL LEATHERS|REV CAM</EyeCatcher>
-    <Value>4495</Value>
-    <Mileage>88100</Mileage>
-    <YearOfManu>2014</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>NV14 KUH</Reg>
-    <Video></Video>
-    <MetaTag>Kia Ceed 1.6 CRDi EcoDynamics 4 Tech Euro 5 (s/s) 5dr Diesel Manual White</MetaTag>
-    <Description>
-      Kia Ceed 1.6 CRDi EcoDynamics 4 Tech 5 door, This Kia Ceed is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Front and Rear Parking Sensors, Reversing Camera, Lane Assist, Full Leather Interior, Heated Front Seats, Electric Memory Seat Function, Heated Steering Wheel, Dual Zone Climate Control, DAB Radio, Panoramic Glass Sunroof, Alloy Wheels, Automatic Headlights, Automatic Wipers, Keyless Entry, Push Button Start, Multifunction Steering Wheel, Electric Windows, Electric Folding Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/a128bc77e34c4491842203450462f9af.jpg,https://m.atcdn.co.uk/a/media/{resize}/dcfdf8c94fae4b2ab808d6ba87cbf744.jpg,https://m.atcdn.co.uk/a/media/{resize}/30de10d0771747308cf2543981cab3d3.jpg,https://m.atcdn.co.uk/a/media/{resize}/60680b1756c74e68837ba5d4c0ed020a.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed4150f67bac4769b3be8afa0cf98eac.jpg,https://m.atcdn.co.uk/a/media/{resize}/5b87eefcf4ec43bead16063303cace41.jpg,https://m.atcdn.co.uk/a/media/{resize}/694a3bf9096f41328241ea1cf8094948.jpg</Image>
-    <Tax>35</Tax>
-    <Insurance>15E</Insurance>
-    <Mpg>55.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202608195243855?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=798dd46d-fba5-4dc6-9c8c-5d2a81afbb23&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
 </Cars>
