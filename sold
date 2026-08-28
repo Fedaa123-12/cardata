@@ -1,3 +1,63 @@
+  <Car>
+    <ID>4</ID>
+    <Name>Audi</Name>
+    <Model>A4</Model>
+    <FullModel>2.0 TDI Black Edition Euro 5 (s/s) 4dr</FullModel>
+    <EyeCatcher>0 OWNERS✅£35 R’TAX✅FSH✅T-BELT✅</EyeCatcher>
+    <Value>5995</Value>
+    <Mileage>99000</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures>Black Edition styling package, Half leather and Alcantara sports interior, Satellite navigation, Bluetooth and media connectivity, Audi MMI infotainment system, Cruise control, Dual-zone climate control, Front and rear parking sensors, Black Edition alloy wheels, Multifunction steering wheel, Electric windows and mirrors, Auto lights and wipers, ISOFIX, LED daytime running lights</ExtraFeatures>
+    <Reg>GX63 MWC</Reg>
+    <Video></Video>
+    <MetaTag>Audi A4 2.0 TDI Black Edition Euro 5 (s/s) 4dr Diesel Manual White</MetaTag>
+    <Description>
+      Available now is this stunning 2013 (63) Audi A4 2.0 TDI Black Edition, a premium executive saloon offering sporty styling, exceptional comfort, and excellent fuel economy.
+      Powered by the efficient 2.0 TDI diesel engine, it delivers impressive performance, outstanding motorway refinement, and low running costs, making it the perfect choice for commuting, long-distance driving, or everyday executive motoring.
+      This exceptional example benefits from 0 previous owners, full service history, and has had the timing belt replaced twice, demonstrating just how well it has been maintained throughout its life.
+      ✅ 0 Previous Owners • Full Service History • Timing Belt Replaced Twice
+      ✅ £35 yearly road tax • Black Edition • Excellent MPG
+      Key Features Include:
+      • Black Edition styling package
+      • Half leather and Alcantara sports interior
+      • Satellite navigation
+      • Bluetooth and media connectivity
+      • Audi MMI infotainment system
+      • Cruise control
+      • Dual-zone climate control
+      • Front and rear parking sensors
+      • Black Edition alloy wheels
+      • Multifunction steering wheel
+      • Electric windows and mirrors
+      • Auto lights and wipers
+      • ISOFIX
+      • LED daytime running lights
+      Drives superb — smooth, powerful, and refined. No warning lights or mechanical issues.
+      • Recently serviced and inspected
+      • MOT to be renewed at point of sale
+      ✅ Drive away today – reserve GX63 MWC with a refundable £100 deposit (TandCs apply).
+      🚚 Nationwide delivery available at competitive rates.
+      ⸻
+      Why Buy from AFM | Affordable Motors Billingham?
+      We provide:
+      • Full mechanical inspection
+      • Free comprehensive warranty
+      • HPI clear vehicles (unless otherwise stated)
+      • Fresh valet inside and out
+      • Friendly, honest, and pressure-free service
+      📞 Call or message us today to arrange a viewing or reserve this Audi A4 2.0 TDI Black Edition with AFM | Affordable Motors Billingham.
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/79ca1d2cb68640a190b5128e64702728.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2219095870443a8a419b64329c194e1.jpg,https://m.atcdn.co.uk/a/media/{resize}/2866a9d7b39240a98186a595e0da66ac.jpg,https://m.atcdn.co.uk/a/media/{resize}/4f32581b19684b01aa3e6d6592f2a00a.jpg,https://m.atcdn.co.uk/a/media/{resize}/77f8803982e24f0fb416b5891c2f8c2b.jpg,https://m.atcdn.co.uk/a/media/{resize}/f9cf838018aa4b9694c2116201d3df99.jpg,https://m.atcdn.co.uk/a/media/{resize}/6374cc3cddf5439291c587a652c233b7.jpg</Image>
+    <Tax>35</Tax>
+    <Insurance>28E</Insurance>
+    <Mpg>61.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+
 <Car>
     <ID>7</ID>
     <Name>Volkswagen</Name>
