@@ -5,7 +5,7 @@
     <Model>1 Series</Model>
     <FullModel>2.0 120d M Sport Auto Euro 6 (s/s) 5dr</FullModel>
     <EyeCatcher>FULL LEATHERS|M SPORT|AUTO|MOT</EyeCatcher>
-    <Value>7995</Value>
+    <Value>7795</Value>
     <Mileage>122600</Mileage>
     <YearOfManu>2018</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -79,70 +79,11 @@
   </Car>
   <Car>
     <ID>4</ID>
-    <Name>Audi</Name>
-    <Model>A4</Model>
-    <FullModel>2.0 TDI Black Edition Euro 5 (s/s) 4dr</FullModel>
-    <EyeCatcher>0 OWNERS✅£35 R’TAX✅FSH✅T-BELT✅</EyeCatcher>
-    <Value>5995</Value>
-    <Mileage>99000</Mileage>
-    <YearOfManu>2013</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>White</Colour>
-    <ExtraFeatures>Black Edition styling package, Half leather and Alcantara sports interior, Satellite navigation, Bluetooth and media connectivity, Audi MMI infotainment system, Cruise control, Dual-zone climate control, Front and rear parking sensors, Black Edition alloy wheels, Multifunction steering wheel, Electric windows and mirrors, Auto lights and wipers, ISOFIX, LED daytime running lights</ExtraFeatures>
-    <Reg>GX63 MWC</Reg>
-    <Video></Video>
-    <MetaTag>Audi A4 2.0 TDI Black Edition Euro 5 (s/s) 4dr Diesel Manual White</MetaTag>
-    <Description>
-      Available now is this stunning 2013 (63) Audi A4 2.0 TDI Black Edition, a premium executive saloon offering sporty styling, exceptional comfort, and excellent fuel economy.
-      Powered by the efficient 2.0 TDI diesel engine, it delivers impressive performance, outstanding motorway refinement, and low running costs, making it the perfect choice for commuting, long-distance driving, or everyday executive motoring.
-      This exceptional example benefits from 0 previous owners, full service history, and has had the timing belt replaced twice, demonstrating just how well it has been maintained throughout its life.
-      ✅ 0 Previous Owners • Full Service History • Timing Belt Replaced Twice
-      ✅ £35 yearly road tax • Black Edition • Excellent MPG
-      Key Features Include:
-      • Black Edition styling package
-      • Half leather and Alcantara sports interior
-      • Satellite navigation
-      • Bluetooth and media connectivity
-      • Audi MMI infotainment system
-      • Cruise control
-      • Dual-zone climate control
-      • Front and rear parking sensors
-      • Black Edition alloy wheels
-      • Multifunction steering wheel
-      • Electric windows and mirrors
-      • Auto lights and wipers
-      • ISOFIX
-      • LED daytime running lights
-      Drives superb — smooth, powerful, and refined. No warning lights or mechanical issues.
-      • Recently serviced and inspected
-      • MOT to be renewed at point of sale
-      ✅ Drive away today – reserve GX63 MWC with a refundable £100 deposit (TandCs apply).
-      🚚 Nationwide delivery available at competitive rates.
-      ⸻
-      Why Buy from AFM | Affordable Motors Billingham?
-      We provide:
-      • Full mechanical inspection
-      • Free comprehensive warranty
-      • HPI clear vehicles (unless otherwise stated)
-      • Fresh valet inside and out
-      • Friendly, honest, and pressure-free service
-      📞 Call or message us today to arrange a viewing or reserve this Audi A4 2.0 TDI Black Edition with AFM | Affordable Motors Billingham.
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/79ca1d2cb68640a190b5128e64702728.jpg,https://m.atcdn.co.uk/a/media/{resize}/f2219095870443a8a419b64329c194e1.jpg,https://m.atcdn.co.uk/a/media/{resize}/2866a9d7b39240a98186a595e0da66ac.jpg,https://m.atcdn.co.uk/a/media/{resize}/4f32581b19684b01aa3e6d6592f2a00a.jpg,https://m.atcdn.co.uk/a/media/{resize}/77f8803982e24f0fb416b5891c2f8c2b.jpg,https://m.atcdn.co.uk/a/media/{resize}/f9cf838018aa4b9694c2116201d3df99.jpg,https://m.atcdn.co.uk/a/media/{resize}/6374cc3cddf5439291c587a652c233b7.jpg</Image>
-    <Tax>35</Tax>
-    <Insurance>28E</Insurance>
-    <Mpg>61.4</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202606253625596?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=41a0c48e-9287-4f23-b575-ea5a0c7bc9e4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=700&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>5</ID>
     <Name>Volkswagen</Name>
     <Model>Polo</Model>
     <FullModel>1.2 TDI Match Edition Euro 5 5dr</FullModel>
     <EyeCatcher>£20 ROAD TAX✅WARRANTY✅P’SENSOR</EyeCatcher>
-    <Value>4250</Value>
+    <Value>3995</Value>
     <Mileage>86000</Mileage>
     <YearOfManu>2013</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -192,7 +133,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202605172473431?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=35104e6d-7f48-467e-bb4c-b88b77bfa0be&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>6</ID>
+    <ID>5</ID>
     <Name>Suzuki</Name>
     <Model>Swift</Model>
     <FullModel>1.2 Dualjet SZ4 Euro 6 (s/s) 5dr</FullModel>
@@ -218,7 +159,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607114093598?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=51f4689a-d9a9-43a4-9ff5-61f865bcef7b&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>7</ID>
+    <ID>6</ID>
     <Name>Ford</Name>
     <Model>Focus</Model>
     <FullModel>1.6 TDCi Titanium X Euro 5 (s/s) 5dr</FullModel>
@@ -244,7 +185,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607184294767?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371212b8-46cc-4b75-9175-bdf9bd7cf301&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=380&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>7</ID>
     <Name>BMW</Name>
     <Model>4 Series</Model>
     <FullModel>2.0 420i Luxury Auto Euro 6 (s/s) 2dr</FullModel>
@@ -270,7 +211,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202608034768068?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=374acc98-6dec-472e-b28c-a4c57e02a927&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>SEAT</Name>
     <Model>Leon</Model>
     <FullModel>1.4 TSI FR Technology Euro 6 (s/s) 5dr</FullModel>
@@ -296,7 +237,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607104074852?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9457ea98-4533-49be-8ba1-b5d74475c866&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.2 DIG-T N-Connecta Euro 6 (s/s) 5dr</FullModel>
@@ -322,7 +263,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607174271472?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=90ed00d7-4875-48a0-a658-a07ce74821d3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>10</ID>
     <Name>Peugeot</Name>
     <Model>208</Model>
     <FullModel>1.6 BlueHDi GT Line Euro 6 5dr</FullModel>
