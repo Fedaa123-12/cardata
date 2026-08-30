@@ -160,32 +160,6 @@
   </Car>
   <Car>
     <ID>6</ID>
-    <Name>Ford</Name>
-    <Model>Focus</Model>
-    <FullModel>1.6 TDCi Titanium X Euro 5 (s/s) 5dr</FullModel>
-    <EyeCatcher>10 SERVICES|REVERSE CAMERA|MOT</EyeCatcher>
-    <Value>3495</Value>
-    <Mileage>97000</Mileage>
-    <YearOfManu>2014</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Red</Colour>
-    <ExtraFeatures></ExtraFeatures>
-    <Reg>AF64 UXR</Reg>
-    <Video></Video>
-    <MetaTag>Ford Focus 1.6 TDCi Titanium X Euro 5 (s/s) 5dr Diesel Manual Red</MetaTag>
-    <Description>
-      Ford Focus 1.6 TDCi Titanium X 5 door, This Ford Focus is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Front and Rear Parking Sensors, Reverse Camera, Active Park Assist, Heated Front Seats, Heated Steering Wheel, Half Leather Interior, Dual Zone Climate Control, DAB Radio, Alloy Wheels, Automatic Headlights, Automatic Wipers, Keyless Entry, Push Button Start, Multifunction Steering Wheel, Electric Windows, Electric Folding Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/d452d4cea78e45f8af40b50c0201857d.jpg,https://m.atcdn.co.uk/a/media/{resize}/34399ede404a469cb43797557367d1b7.jpg,https://m.atcdn.co.uk/a/media/{resize}/f4fc2019fc794d5890851f06732078c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/06335987507b4d7f80e8f668ac99e81a.jpg,https://m.atcdn.co.uk/a/media/{resize}/a489674418b444e5aadf7700ec68eb4f.jpg,https://m.atcdn.co.uk/a/media/{resize}/789d8c6c0a5842f59ce90c6e28d99f0d.jpg,https://m.atcdn.co.uk/a/media/{resize}/b452783e8d81419d85f4f93e74dc67ba.jpg</Image>
-    <Tax>20</Tax>
-    <Insurance>16E</Insurance>
-    <Mpg>67.3</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202607184294767?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371212b8-46cc-4b75-9175-bdf9bd7cf301&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=380&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>7</ID>
     <Name>BMW</Name>
     <Model>4 Series</Model>
     <FullModel>2.0 420i Luxury Auto Euro 6 (s/s) 2dr</FullModel>
@@ -211,7 +185,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202608034768068?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=374acc98-6dec-472e-b28c-a4c57e02a927&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>7</ID>
     <Name>SEAT</Name>
     <Model>Leon</Model>
     <FullModel>1.4 TSI FR Technology Euro 6 (s/s) 5dr</FullModel>
@@ -237,7 +211,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607104074852?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=9457ea98-4533-49be-8ba1-b5d74475c866&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=680&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.2 DIG-T N-Connecta Euro 6 (s/s) 5dr</FullModel>
@@ -263,7 +237,7 @@
     <AT>https://www.autotrader.co.uk/car-details/202607174271472?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=90ed00d7-4875-48a0-a658-a07ce74821d3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=550&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Peugeot</Name>
     <Model>208</Model>
     <FullModel>1.6 BlueHDi GT Line Euro 6 5dr</FullModel>
@@ -287,5 +261,83 @@
     <Insurance>21D</Insurance>
     <Mpg>80.7</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202608064872242?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5fc6a659-796e-4f3b-9bec-1fd3a9ed8a2d&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>10</ID>
+    <Name>Citroen</Name>
+    <Model>DS3</Model>
+    <FullModel>1.6 e-HDi Airdream DSport Plus Euro 5 (s/s) 3dr</FullModel>
+    <EyeCatcher>NEW CLUTCH|8 SERVICES|£20 TAX</EyeCatcher>
+    <Value>3299</Value>
+    <Mileage>60400</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Black</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>nk63hpo</Reg>
+    <Video></Video>
+    <MetaTag>Citroen DS3 1.6 e-HDi Airdream DSport Plus Euro 5 (s/s) 3dr Diesel Manual Black</MetaTag>
+    <Description>
+      Citroen DS3 1.6 e-HDi Airdream DSport Plus 3 door, This Citroen DS3 has had a Brand New Clutch Fitted and benefits from just £20 Road Tax for the Year. This Citroen DS3 is equipped with Service History, Bluetooth, Cruise Control, Rear Parking Sensors, Full Leather Interior, Climate Control, DAB Radio, Alloy Wheels, LED Daytime Running Lights, Automatic Headlights, Automatic Wipers, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/12ae492678a14674b097bc5793e826e3.jpg,https://m.atcdn.co.uk/a/media/{resize}/33aee593928b4230b4615f35b08bc9a6.jpg,https://m.atcdn.co.uk/a/media/{resize}/0fc3e98654a746a487ea977fc02e10fe.jpg,https://m.atcdn.co.uk/a/media/{resize}/913deb48cd824a838b85b131dcea6d3d.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a93e4698bd442a7a15eb1f9ab02f456.jpg,https://m.atcdn.co.uk/a/media/{resize}/cdde6a10fa844453bccee2228320b551.jpg,https://m.atcdn.co.uk/a/media/{resize}/ab3e7bc0f3b84461aef6d4a2a81db889.jpg,https://m.atcdn.co.uk/a/media/{resize}/990e7be310e8469882491a3ae8278a4e.jpg,https://m.atcdn.co.uk/a/media/{resize}/84f150c237bf4610897aa64ea7a0072d.jpg,https://m.atcdn.co.uk/a/media/{resize}/44fdb58301ce416c99cbf1bf8a1d249a.jpg,https://m.atcdn.co.uk/a/media/{resize}/364f07c38b934bffa30c04fafea5b2ae.jpg,https://m.atcdn.co.uk/a/media/{resize}/7d7577bc3b1c4f749ce20c0658bd9ef0.jpg,https://m.atcdn.co.uk/a/media/{resize}/79dc26daff8343358a2e4774c16ec29b.jpg,https://m.atcdn.co.uk/a/media/{resize}/02662858354b4b59b478605f580593fc.jpg,https://m.atcdn.co.uk/a/media/{resize}/97f020e255a54572ae45a0c659b3927a.jpg,https://m.atcdn.co.uk/a/media/{resize}/4c0380d29fed485d805b084aa2df1556.jpg,https://m.atcdn.co.uk/a/media/{resize}/887884cb8bd14d79908c6f4f0178459c.jpg,https://m.atcdn.co.uk/a/media/{resize}/108c330253b94016beb2f5314077de97.jpg,https://m.atcdn.co.uk/a/media/{resize}/69e8b4923ee142b890acf088e1fa4313.jpg,https://m.atcdn.co.uk/a/media/{resize}/4f7d53cd86064c5e8fa7d7d815f5170e.jpg,https://m.atcdn.co.uk/a/media/{resize}/1e41eabf39a440b9986d2960abb6b32d.jpg,https://m.atcdn.co.uk/a/media/{resize}/c29d58ccc5f94a1e86fb0f3dfdaa9586.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f134862eb544974a42288fa9a11416f.jpg,https://m.atcdn.co.uk/a/media/{resize}/df98c77364c14af487f4af3ce880db5d.jpg,https://m.atcdn.co.uk/a/media/{resize}/5ba12e79e43e4004b594a34dc251492d.jpg,https://m.atcdn.co.uk/a/media/{resize}/c0b24d4737e840d59a3f4be47c2ce491.jpg,https://m.atcdn.co.uk/a/media/{resize}/834f45dd0e144e95a1932ba37e671b3a.jpg,https://m.atcdn.co.uk/a/media/{resize}/34028092b751487685ddc299c46a89f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/93746f4b39dd48a98efd175b212c50c3.jpg,https://m.atcdn.co.uk/a/media/{resize}/30debac4c8f54cc2bbd45cb23325ba9b.jpg,https://m.atcdn.co.uk/a/media/{resize}/811850a21b1542d3a855ec5051bfa738.jpg,https://m.atcdn.co.uk/a/media/{resize}/12f3c53d274d4ad19231e691758103f3.jpg,https://m.atcdn.co.uk/a/media/{resize}/611cc4a2feba44edaad7a47da93a4c42.jpg,https://m.atcdn.co.uk/a/media/{resize}/483433ca115e4d72ba8d0c97644e3721.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f04db69a4dc44b5af47d02806e62bf1.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>19E</Insurance>
+    <Mpg></Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202608265460881?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=5da04c63-6d80-43ab-9a7c-b473a2af6f13&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=330&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>11</ID>
+    <Name>Volkswagen</Name>
+    <Model>Tiguan</Model>
+    <FullModel>2.0 TDI BlueMotion Tech SE DSG 4WD Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>AUTO|11 SERVICES|SELF PARKING</EyeCatcher>
+    <Value>6495</Value>
+    <Mileage>85200</Mileage>
+    <YearOfManu>2013</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>nd13gzw</Reg>
+    <Video></Video>
+    <MetaTag>Volkswagen Tiguan 2.0 TDI BlueMotion Tech SE DSG 4WD Euro 5 (s/s) 5dr Diesel Automatic Silver</MetaTag>
+    <Description>
+      Volkswagen Tiguan 2.0 TDI BlueMotion Tech SE DSG 4WD 5 door, This Volkswagen Tiguan is equipped with Full Service History with 11 Service Stamps, Satellite Navigation, Bluetooth, Front and Rear Parking Sensors, Dual Zone Climate Control, DAB Radio, Alloy Wheels, Automatic Headlights, Automatic Wipers, Auto Hold, Electronic Parking Brake, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control, Start/Stop Technology and 4WD. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/de0553857f634ceca2c6a4b4aa4169a7.jpg,https://m.atcdn.co.uk/a/media/{resize}/7f340067409e4f27a2760ba7ebdad58a.jpg,https://m.atcdn.co.uk/a/media/{resize}/52187f81c787458a833566168fb5ae39.jpg,https://m.atcdn.co.uk/a/media/{resize}/bba5f893681248ec85696e96c466a941.jpg,https://m.atcdn.co.uk/a/media/{resize}/07a9f532cdd44381a990cf8dbba2b924.jpg,https://m.atcdn.co.uk/a/media/{resize}/ad77510116e647dd9b74759ef43d3738.jpg,https://m.atcdn.co.uk/a/media/{resize}/070dd4dd914943b796071c40c51680c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/e12f01b305de42d7a921689ed3150c44.jpg,https://m.atcdn.co.uk/a/media/{resize}/c4f4798492b3470f9439b6f3bec343c8.jpg,https://m.atcdn.co.uk/a/media/{resize}/992ffb3a4f834f6e86b77e14b678d5fd.jpg,https://m.atcdn.co.uk/a/media/{resize}/ad7af0c2d9c34114b600d27e0b2d9b18.jpg,https://m.atcdn.co.uk/a/media/{resize}/46153e4b6f3c43d29e9a05c45235b38a.jpg,https://m.atcdn.co.uk/a/media/{resize}/67ceee9d4e794f5490e79e882b12efc2.jpg,https://m.atcdn.co.uk/a/media/{resize}/9c6a61a673094943aa8af4bfa77054fa.jpg,https://m.atcdn.co.uk/a/media/{resize}/c4255217d8b445e8b8261f7d6b092185.jpg,https://m.atcdn.co.uk/a/media/{resize}/2f815446e65946469bbef800fbd8d3d0.jpg,https://m.atcdn.co.uk/a/media/{resize}/0d0f031fe2c64096b57d78722c13c305.jpg,https://m.atcdn.co.uk/a/media/{resize}/c3e54b309b0c40458f912792b9eb42a8.jpg,https://m.atcdn.co.uk/a/media/{resize}/320ee674fefe42f797b288432142a50d.jpg,https://m.atcdn.co.uk/a/media/{resize}/3cd2e687dd0f468da0b89ecc1fb072f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/4d445ab3a6cc497e9943e375071c2249.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ecc6c1f948c4a7281111b49d5a924dc.jpg,https://m.atcdn.co.uk/a/media/{resize}/2051280c37bc464cbd21dd98af967f85.jpg,https://m.atcdn.co.uk/a/media/{resize}/a5cf671a99ad405f99b99b3550b2b1d5.jpg,https://m.atcdn.co.uk/a/media/{resize}/3ac19a7578354d0c8c9bd06f01243686.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc3d013fd652464a9b0e09b62bb36b0f.jpg,https://m.atcdn.co.uk/a/media/{resize}/0365e274d4cd42228c7b146eba9bbfdd.jpg,https://m.atcdn.co.uk/a/media/{resize}/4a39185fde5d4cf48868a4d77cde40ca.jpg,https://m.atcdn.co.uk/a/media/{resize}/2c0e3902b0db4c33ab749e728da315be.jpg,https://m.atcdn.co.uk/a/media/{resize}/f8893b10ca7643d7900375dec3c49392.jpg,https://m.atcdn.co.uk/a/media/{resize}/0c4060606d1041c09d2f6b0ef4e911a4.jpg,https://m.atcdn.co.uk/a/media/{resize}/94d8e58a89b0467eb21195097a4f318f.jpg,https://m.atcdn.co.uk/a/media/{resize}/2209b13093de4a48ab475d6ce32145dd.jpg,https://m.atcdn.co.uk/a/media/{resize}/6cdfb5ffe79140f390efa940976a3187.jpg,https://m.atcdn.co.uk/a/media/{resize}/996a697fe02547be9abb7b1b4c75f85b.jpg,https://m.atcdn.co.uk/a/media/{resize}/866780f90a254a18a34a0246fce808e4.jpg,https://m.atcdn.co.uk/a/media/{resize}/a67c4b6773384b03b36e72fdf0efe07e.jpg,https://m.atcdn.co.uk/a/media/{resize}/471c0b976e3f4488a8ca7dc38abc54d5.jpg,https://m.atcdn.co.uk/a/media/{resize}/2c1f923288244abf917b96a688b7dd30.jpg,https://m.atcdn.co.uk/a/media/{resize}/696567f857db47dcb1c38fac5be02375.jpg,https://m.atcdn.co.uk/a/media/{resize}/b89a8e3552a84215b37a667f80bc7edd.jpg,https://m.atcdn.co.uk/a/media/{resize}/48a11d83bddc49c08536f2b5a04a3fd9.jpg,https://m.atcdn.co.uk/a/media/{resize}/619f1ba660c34eedb7b64a4100a2dba1.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ce189101db64122939d72e230d2aafc.jpg,https://m.atcdn.co.uk/a/media/{resize}/b0f7d126417145cfb943284e3019fff2.jpg,https://m.atcdn.co.uk/a/media/{resize}/d3151459d7654571a874f931afcdc112.jpg,https://m.atcdn.co.uk/a/media/{resize}/63b0b6cf395943e5845279b336dbba1b.jpg,https://m.atcdn.co.uk/a/media/{resize}/a1f62d67ae514135a5182b6891307407.jpg,https://m.atcdn.co.uk/a/media/{resize}/bbe604bc69924aaaac9964680cc68e44.jpg,https://m.atcdn.co.uk/a/media/{resize}/5391356840f0497a8e85c74b01e9cccc.jpg,https://m.atcdn.co.uk/a/media/{resize}/e25281dd1fb44f5fbe5df638013dc8c8.jpg,https://m.atcdn.co.uk/a/media/{resize}/9a0b4b35b6a5458f8853378df0fcb0cd.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2763e0c6036482fbdb8f94d8df5b783.jpg,https://m.atcdn.co.uk/a/media/{resize}/cc505ae871c7407abc9b1cef2e07e690.jpg,https://m.atcdn.co.uk/a/media/{resize}/822074aafe4848e6af360f0c56065d40.jpg</Image>
+    <Tax>275</Tax>
+    <Insurance>18E</Insurance>
+    <Mpg></Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202608295552947?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=2174697b-9dc8-4dbc-bbf3-7aa6b11d49d4&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=650&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+  <Car>
+    <ID>12</ID>
+    <Name>Kia</Name>
+    <Model>Rio</Model>
+    <FullModel>1.1 CRDi EcoDynamics 2 Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>FULL MOT|11 SERVICES|£20 TAX</EyeCatcher>
+    <Value>2995</Value>
+    <Mileage>80200</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Blue</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>nx64uek</Reg>
+    <Video></Video>
+    <MetaTag>Kia Rio 1.1 CRDi EcoDynamics 2 Euro 5 (s/s) 5dr Diesel Manual Blue</MetaTag>
+    <Description>
+      Kia Rio 1.1 CRDi EcoDynamics 2 5 door, This Kia Rio is equipped with Full Service History with 11 Service Stamps and benefits from just £20 Road Tax for the Year, Bluetooth, Air Conditioning, DAB Radio, USB and AUX Connectivity, Alloy Wheels, LED Daytime Running Lights, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and Start/Stop Technology. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/45edfaff857747c0b24abc116921df51.jpg,https://m.atcdn.co.uk/a/media/{resize}/fc32b99f859d446aada389136005c6ad.jpg,https://m.atcdn.co.uk/a/media/{resize}/5f23c1cddf2c4689903cdbab21cdb4a1.jpg,https://m.atcdn.co.uk/a/media/{resize}/54cf65dd9e5c4660b93bce78752046cc.jpg,https://m.atcdn.co.uk/a/media/{resize}/6a243819e9f04b76bc34eef76cd1b155.jpg,https://m.atcdn.co.uk/a/media/{resize}/a7c7a9c4c1b849c4acd7bf5f694d50d7.jpg,https://m.atcdn.co.uk/a/media/{resize}/ca8cf828d6e44852aecce3c59ee781ea.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>03E</Insurance>
+    <Mpg></Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202608295550734?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=13dc4cf3-3434-4c7c-9174-24bd01f162a1&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=300&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
 </Cars>
