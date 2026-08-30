@@ -1,4 +1,30 @@
-  <Car>
+ <Car>
+    <ID>6</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel>1.6 TDCi Titanium X Euro 5 (s/s) 5dr</FullModel>
+    <EyeCatcher>10 SERVICES|REVERSE CAMERA|MOT</EyeCatcher>
+    <Value>3495</Value>
+    <Mileage>97000</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>AF64 UXR</Reg>
+    <Video></Video>
+    <MetaTag>Ford Focus 1.6 TDCi Titanium X Euro 5 (s/s) 5dr Diesel Manual Red</MetaTag>
+    <Description>
+      Ford Focus 1.6 TDCi Titanium X 5 door, This Ford Focus is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Front and Rear Parking Sensors, Reverse Camera, Active Park Assist, Heated Front Seats, Heated Steering Wheel, Half Leather Interior, Dual Zone Climate Control, DAB Radio, Alloy Wheels, Automatic Headlights, Automatic Wipers, Keyless Entry, Push Button Start, Multifunction Steering Wheel, Electric Windows, Electric Folding Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/d452d4cea78e45f8af40b50c0201857d.jpg,https://m.atcdn.co.uk/a/media/{resize}/34399ede404a469cb43797557367d1b7.jpg,https://m.atcdn.co.uk/a/media/{resize}/f4fc2019fc794d5890851f06732078c9.jpg,https://m.atcdn.co.uk/a/media/{resize}/06335987507b4d7f80e8f668ac99e81a.jpg,https://m.atcdn.co.uk/a/media/{resize}/a489674418b444e5aadf7700ec68eb4f.jpg,https://m.atcdn.co.uk/a/media/{resize}/789d8c6c0a5842f59ce90c6e28d99f0d.jpg,https://m.atcdn.co.uk/a/media/{resize}/b452783e8d81419d85f4f93e74dc67ba.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>16E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607184294767?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=371212b8-46cc-4b75-9175-bdf9bd7cf301&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=380&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+<Car>
     <ID>4</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
