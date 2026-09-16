@@ -1,4 +1,32 @@
- <Car>
+<Car>
+    <ID>1</ID>
+    <Name>BMW</Name>
+    <Model>1 Series</Model>
+    <FullModel>2.0 120d M Sport Auto Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>FULL LEATHERS|M SPORT|AUTO|MOT</EyeCatcher>
+    <Value>7495</Value>
+    <Mileage>122600</Mileage>
+    <YearOfManu>2018</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Automatic</Transmission>
+    <Colour>White</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>EG18 BXB</Reg>
+    <Video></Video>
+    <MetaTag>BMW 1 Series 2.0 120d M Sport Auto Euro 6 (s/s) 5dr Diesel Automatic White</MetaTag>
+    <Description>
+      BMW 1 Series 2.0 120d M Sport Auto 5 door, This BMW 1 Series is equipped with Satellite Navigation, Bluetooth, Speed Limiter, Rear Parking Sensors, DAB Radio, Automatic Headlights, Automatic Wipers, M Sport Styling, Alloy Wheels, LED Daytime Running Lights, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and Driving Modes. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/459fd3a2f95b4d4b922de7724a8a45e0.jpg,https://m.atcdn.co.uk/a/media/{resize}/b003036683d7415e92b311ba5b571b63.jpg,https://m.atcdn.co.uk/a/media/{resize}/81c9218b31e9463fb26af1fff5f72119.jpg,https://m.atcdn.co.uk/a/media/{resize}/180b65236c964ac88530b3b0f4cb77ee.jpg,https://m.atcdn.co.uk/a/media/{resize}/83f5740978b1439eb7fa0137a28d2d2f.jpg,https://m.atcdn.co.uk/a/media/{resize}/f5ac1580e3b1423a8d6b1e9da54fecd0.jpg,https://m.atcdn.co.uk/a/media/{resize}/82839a627c75418185d6f151d2ca82bc.jpg,https://m.atcdn.co.uk/a/media/{resize}/02c9d51166b64e30b44dbff501ff0bb8.jpg,https://m.atcdn.co.uk/a/media/{resize}/37ae1b0bead04816bcc989bf4d8df090.jpg,https://m.atcdn.co.uk/a/media/{resize}/d86e28f764a641ba94a90fa3a3077c21.jpg,https://m.atcdn.co.uk/a/media/{resize}/a6ce8c63416b4cfbae2ddfc2edee322a.jpg,https://m.atcdn.co.uk/a/media/{resize}/069aacde5c844e17873fc7eaed1a3db2.jpg,https://m.atcdn.co.uk/a/media/{resize}/0f01efca87cc4872919629ca775b5c8d.jpg,https://m.atcdn.co.uk/a/media/{resize}/e7a177c05e144d2c82c2f56f1858aff5.jpg,https://m.atcdn.co.uk/a/media/{resize}/d0c067b01ba54b619a7183c0f56a1a29.jpg,https://m.atcdn.co.uk/a/media/{resize}/9f612a362c704f84812a05a0ae35d830.jpg,https://m.atcdn.co.uk/a/media/{resize}/8504bb965df04055b77d60fff5811baf.jpg,https://m.atcdn.co.uk/a/media/{resize}/e1689cf0f9e14a2ea1f9242e7127d1ad.jpg,https://m.atcdn.co.uk/a/media/{resize}/0ec5becad60f4697a6ac5c6a02fa9173.jpg,https://m.atcdn.co.uk/a/media/{resize}/c8de67062ae84cb2b4551bcc1555025e.jpg,https://m.atcdn.co.uk/a/media/{resize}/afb966d6bb214ed3b25aec7a0a7be49f.jpg,https://m.atcdn.co.uk/a/media/{resize}/eefdfbdf6bc54ff4b73ddae4b1c08ddd.jpg,https://m.atcdn.co.uk/a/media/{resize}/670adb03820a4a37820d55c879c4a76b.jpg,https://m.atcdn.co.uk/a/media/{resize}/75f6a757d6f740d584204d582125a4cf.jpg,https://m.atcdn.co.uk/a/media/{resize}/55481ac5ba3f44e8a99cbf059302af8b.jpg,https://m.atcdn.co.uk/a/media/{resize}/640546b93cbd4e398c37662e8184991e.jpg,https://m.atcdn.co.uk/a/media/{resize}/846b4ff46ea9422ea6530d30290c6711.jpg,https://m.atcdn.co.uk/a/media/{resize}/291be0a70ec84d938b441b970d64b281.jpg,https://m.atcdn.co.uk/a/media/{resize}/8c66395f151140249b230247c6503798.jpg,https://m.atcdn.co.uk/a/media/{resize}/82beef506bd6411aa7a86d078900f9c6.jpg,https://m.atcdn.co.uk/a/media/{resize}/562b3a0a42324af396d405b8921ac3af.jpg,https://m.atcdn.co.uk/a/media/{resize}/f10cf3795f264607bfd7dde7584ae79d.jpg,https://m.atcdn.co.uk/a/media/{resize}/df1fcd2b0e5445f7bcaa5e0e4a03baa4.jpg,https://m.atcdn.co.uk/a/media/{resize}/3b7c35acfdc945f1a4d337cb3aac3510.jpg,https://m.atcdn.co.uk/a/media/{resize}/b770c5d1558d48bc93f91d729ff55ebd.jpg,https://m.atcdn.co.uk/a/media/{resize}/13da710ea1b24d83b96c573ad76af788.jpg,https://m.atcdn.co.uk/a/media/{resize}/9c0931916dd94ab7acc720aeb498417b.jpg,https://m.atcdn.co.uk/a/media/{resize}/0746509a3f7844848e2fac339e094224.jpg,https://m.atcdn.co.uk/a/media/{resize}/1e046e4c44b644d7b48a35da89a0f3c3.jpg,https://m.atcdn.co.uk/a/media/{resize}/3dfb700ca1224becb6fef000036d52ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/1f6b310fdf80487db0b446c2c82bec27.jpg,https://m.atcdn.co.uk/a/media/{resize}/5d39f01923024302bf2963d2469d835c.jpg,https://m.atcdn.co.uk/a/media/{resize}/53a2d6a7d76a4af881de5a6804048408.jpg,https://m.atcdn.co.uk/a/media/{resize}/73bc2f1ca5fe41619024c98e43190420.jpg,https://m.atcdn.co.uk/a/media/{resize}/5eb2a387b7a4415d81f57a65aad12378.jpg,https://m.atcdn.co.uk/a/media/{resize}/a0a9a162264047e3bbaa83a83a9e30ca.jpg,https://m.atcdn.co.uk/a/media/{resize}/d6046b8524cd4980bde50a4c092dad4c.jpg,https://m.atcdn.co.uk/a/media/{resize}/6caa492b5e70411a9a4ddbd9d3c607fa.jpg,https://m.atcdn.co.uk/a/media/{resize}/c3ef20543764482fb0036a1c75a927ba.jpg,https://m.atcdn.co.uk/a/media/{resize}/c7f7eae0a4e94805888b8c65ea7ccb07.jpg,https://m.atcdn.co.uk/a/media/{resize}/ca60cefedfd54f06b8cf6cb98d8d7372.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ecd1d7fff124dd09145e443011a0bce.jpg,https://m.atcdn.co.uk/a/media/{resize}/f16743c3ac56491fb468b0ad2d2acb56.jpg,https://m.atcdn.co.uk/a/media/{resize}/8da399ab7962431d95b132c863a04147.jpg,https://m.atcdn.co.uk/a/media/{resize}/80698b749fbb479488e578023f73b3f9.jpg,https://m.atcdn.co.uk/a/media/{resize}/ac5960eb9caa4390a8ad19e7f709b281.jpg,https://m.atcdn.co.uk/a/media/{resize}/9b768ac4627b47469e853af830ea1de8.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>25E</Insurance>
+    <Mpg>61.4</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202607164243081?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=a3a72d0d-8339-4035-aa25-2a5427a3db11&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+
+
+<Car>
     <ID>11</ID>
     <Name>Mercedes-Benz</Name>
     <Model>A Class</Model>
