@@ -259,4 +259,30 @@
     <Mpg>54.3</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202609156059985?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=8a678329-1aec-4a04-9875-c887b0c5a78b&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=350&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
+  <Car>
+    <ID>11</ID>
+    <Name>Nissan</Name>
+    <Model>Qashqai</Model>
+    <FullModel>1.2 DIG-T Tekna 2WD Euro 6 (s/s) 5dr</FullModel>
+    <EyeCatcher>PANROOF|SERVICE HISTORY|1OWNER</EyeCatcher>
+    <Value>4995</Value>
+    <Mileage>91000</Mileage>
+    <YearOfManu>2017</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Petrol</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Silver</Colour>
+    <ExtraFeatures></ExtraFeatures>
+    <Reg>ye17jcj</Reg>
+    <Video></Video>
+    <MetaTag>Nissan Qashqai 1.2 DIG-T Tekna 2WD Euro 6 (s/s) 5dr Petrol Manual Silver</MetaTag>
+    <Description>
+      Nissan Qashqai 1.2 DIG-T Tekna 2WD 5 door, This Nissan Qashqai has only 1 Previous Owner and is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, 360 Around View Camera, Front and Rear Parking Sensors, Lane Assist, Blind Spot Monitoring, Full Leather Interior, Heated Front Seats, Panoramic Glass Roof, Dual Zone Climate Control, DAB Radio, Alloy Wheels, LED Daytime Running Lights, Automatic Headlights, Automatic Wipers, Keyless Entry, Push Button Start, Multifunction Steering Wheel, Electric Windows, Electric Folding Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and Start/Stop Technology. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/eca620f0d75b4ad3b6c36ca50b5aca9a.jpg,https://m.atcdn.co.uk/a/media/{resize}/1eb20c59ac624a348aacb89b7c093dbe.jpg,https://m.atcdn.co.uk/a/media/{resize}/6e3e793c48fe4e688b6bbe83636ecdef.jpg,https://m.atcdn.co.uk/a/media/{resize}/490c8c645c2f40e1ad24f2462c8357ec.jpg,https://m.atcdn.co.uk/a/media/{resize}/fc4d1fdf328449d9be5454c7aa185779.jpg,https://m.atcdn.co.uk/a/media/{resize}/9d88c1a87c294121bbf051a73e3e42b7.jpg,https://m.atcdn.co.uk/a/media/{resize}/192def18a6174bb2bf3e3150063b45a9.jpg</Image>
+    <Tax>200</Tax>
+    <Insurance>14E</Insurance>
+    <Mpg>48.7</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202609025642549?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=494514ed-a032-416b-9279-59c66ecb6192&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
 </Cars>
