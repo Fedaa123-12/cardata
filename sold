@@ -1,4 +1,30 @@
- <Car>
+Car>
+    <ID>10</ID>
+    <Name>Ford</Name>
+    <Model>Focus</Model>
+    <FullModel></FullModel>
+    <EyeCatcher>11 STAMPS|NEW T-BELT|ZETEC S</EyeCatcher>
+    <Value>3995</Value>
+    <Mileage>82900</Mileage>
+    <YearOfManu>2014</YearOfManu>
+    <CatStat>HPI Clear</CatStat>
+    <FuelType>Diesel</FuelType>
+    <Transmission>Manual</Transmission>
+    <Colour>Red</Colour>
+    <ExtraFeatures>4.2in TFT Display, Bluetooth - Audio Streaming, Colour TFT Instrument Cluster Display, Emergency Assistance, Ford AM-FM CD Audio System, Ford DAB Audio System with SYNC, Ford SYNC, USB Connection, Ford Eco Mode - Driver Information System, Trip Computer, Tyre Pressure Monitoring System, Voice Control - Audio, 17in Alloy Wheels - 5x2 Spoke, Chrome Finish on Upper Door Line, Door Handles - Body Colour, Door Mirrors - Heated - Electric - Integrated Side Indicators - Body Coloured, Electric Windows - Front with One Touch Lowering Drivers, Full Body Styling Kit, Heated Front Windscreen, Rear Spoiler - Body Colour, Red exterior colour, Front Fog Lights, LED Daytime Running Lights, Air Conditioning, Black cloth interior, Keyless Start, MyKey, Pedals - Sports, Premium Centre Console, Premium Centre Console - Sliding Armrest, Seats - Drivers Lumbar Support, Seats - Front Sports, Sports Style Front Seats - Inidividual Red Stitching, Steering Column - Rake and Reach Adjustment, Steering Wheel - Audio Controls, EPAS - Electric Power Assisted Steering, Suspension - Sports, ABS - Anti-lock Braking System, Airbag - Front Passenger, Airbags - Curtain, Airbags - Drivers and Front Passenger Side Airbag, Drivers Airbag, EBA - Emergency Brake Assist, ESP - Electronic Stability Programme, Ford Easy-Fuel Capless Refuelling System, Hill Start Assist, IPS - Intelligent Protection System, ISOFIX - Child Seat Attachments, KeyFree System, Remote Central Locking, TVC - Torque Vectoring Control, Thatcham Category 1 Alarm, Traction Control - TC</ExtraFeatures>
+    <Reg>na64tnu</Reg>
+    <Video></Video>
+    <MetaTag>Ford Focus Diesel Manual Red</MetaTag>
+    <Description>
+      Ford Focus 1.6 TDCi Zetec S 5 door, This Ford Focus is equipped with Full Service History with 11 Service Stamps and has recently had a Timing Belt Kit Changed, Bluetooth, Air Conditioning, DAB Radio, USB and AUX Connectivity, Zetec S Styling, Alloy Wheels, Front Fog Lights, Heated Front Windscreen, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and Start/Stop Technology. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
+    </Description>
+    <Image>https://m.atcdn.co.uk/a/media/{resize}/382f3372f1154ba5984089fb9efde9a5.jpg,https://m.atcdn.co.uk/a/media/{resize}/1e78832e852647ad939984ceaeaf8e5c.jpg,https://m.atcdn.co.uk/a/media/{resize}/d1863520477d49c78e96662c946910ea.jpg,https://m.atcdn.co.uk/a/media/{resize}/39a6ecd4ba13455b8bf9b65fe6bd009c.jpg,https://m.atcdn.co.uk/a/media/{resize}/09e0be67f7df426aae0c7cc19fb0729f.jpg,https://m.atcdn.co.uk/a/media/{resize}/44028350d36448c9a2ea3f9f17123c27.jpg,https://m.atcdn.co.uk/a/media/{resize}/385d30c7799d435caee06c72e0a97fa8.jpg</Image>
+    <Tax>20</Tax>
+    <Insurance>15E</Insurance>
+    <Mpg>67.3</Mpg>
+    <AT>https://www.autotrader.co.uk/car-details/202609226277776?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=8ef41d08-8d29-4dfc-ab36-8470c4b3f92e&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=400&amp;calc-term=48&amp;calc-mileage=10000</AT>
+  </Car>
+<Car>
     <ID>7</ID>
     <Name>Nissan</Name>
     <Model>Qashqai</Model>
