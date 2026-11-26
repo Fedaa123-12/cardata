@@ -5,7 +5,7 @@
     <Model>E Class</Model>
     <FullModel></FullModel>
     <EyeCatcher>HEATED SEATS|REVERSE CAMERA</EyeCatcher>
-    <Value>4995</Value>
+    <Value>5000</Value>
     <Mileage>101200</Mileage>
     <YearOfManu>2011</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -31,7 +31,7 @@
     <Model>Qashqai</Model>
     <FullModel></FullModel>
     <EyeCatcher>SUNROOF|SERVICE HISTORY|NAV</EyeCatcher>
-    <Value>3995</Value>
+    <Value>4000</Value>
     <Mileage>108300</Mileage>
     <YearOfManu>2015</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -53,37 +53,11 @@
   </Car>
   <Car>
     <ID>3</ID>
-    <Name>Citroen</Name>
-    <Model>C3</Model>
-    <FullModel></FullModel>
-    <EyeCatcher>7 SERVICES|NEW TIMING BELT KIT</EyeCatcher>
-    <Value>4995</Value>
-    <Mileage>63300</Mileage>
-    <YearOfManu>2017</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Petrol</FuelType>
-    <Transmission>Manual</Transmission>
-    <Colour>Black</Colour>
-    <ExtraFeatures>12 Volt Socket in Cabin, 7 inch Touchscreen, Bluetooth Handsfree and Media Streaming with USB Socket and Jack, Citroen Connect DAB Radio with 6 Speakers, Mirror Screen with MirrorLink and Apple CarPlay, Coffee Break Alert, Cruise Control with Speed Limiter, Exterior Temperature Display, GEI - Gear Efficiency Indicator, Lane Departure Warning System, Multi-Function On-Board Trip Computer, Rear Parking Sensors, Rev Counter, Reversing Camera, Tyre Pressure Monitor, 16in Alloy Wheels - Matrix, Airbump - Black, Black exterior colour, Body Colour Painted Door Handles, Dark Tinted Rear Windows, Electrically Adjustable Door Mirrors, Front Electric Windows - One Touch with Anti-Pinch, Locking Wheel Nuts, Rear Electric Windows - One Touch with Anti-Pinch, Roof - Sport Red, Space Saver Spare Wheel, Wheel Arch Extensions, Automatic Lights and Windscreen Wipers, Front Fog Lights, Height Adjustable Halogen Headlights, LED Daytime Running Lights, Auto-Dimming Electrochrome Rear View Mirror, Automatic Air Conditioning, Boot Light, ConnectedCAM Citroen, Cupholders, Drivers and Passengers Sunvisor with Courtesy Mirror, Front Courtesy Reading Lights, Height Adjustable Drivers Seat, Height and Reach Adjustable Steering Wheel, Lashing Eyes in the Boot, Leather Gear Knob, Leather Steering Wheel with Satin Chrome and Bright Black Inserts, Luggage Style Interior Door Handles, Rear Split - Folding Seats, Steering Wheel Mounted Controls, Variable-Assistance Power Steering, ABS with Electronic Brakeforce Distribution and Emergency Braking Assistance, Alarm, Driver - Front Passenger - Front Lateral and Curtain Airbags, Drivers - Passengers and Rear Seats Unfastened Seat Belt Warning, Electric Child Locks, Electronic Stability Control - ESC, Five Three-Point Inertia Reel Seat Belts, Front Seat Belt Pretensioners, Hill Start Assist, Immobiliser, Passenger Seat ISOFIX Mountings and Rear ISOFIX Mounting Points, Remote Central Locking with Deadlocks, Speed Limit Recognition and Speed Warning</ExtraFeatures>
-    <Reg>NL17ULS</Reg>
-    <Video></Video>
-    <MetaTag>Citroen C3 Petrol Manual Black</MetaTag>
-    <Description>
-      Citroen C3 1.2 PureTech Flair 5 door, This Citroen C3 will come with a Brand New Timing Belt Kit Fitted Prior to Sale and is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Rear Parking Sensors, Reversing Camera, DAB Radio, Air Conditioning, Alloy Wheels, LED Daytime Running Lights, Automatic Headlights, Automatic Wipers, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX and Traction Control. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/5895fb82b307495284912f7963471ccd.jpg,https://m.atcdn.co.uk/a/media/{resize}/680a114beb534571ab9e1dc8d084befc.jpg,https://m.atcdn.co.uk/a/media/{resize}/d4ee0b32082f458eb356416edb00f43a.jpg,https://m.atcdn.co.uk/a/media/{resize}/b6ebe8400ede43c5a4271d929615a8a9.jpg,https://m.atcdn.co.uk/a/media/{resize}/76218e1cf87b4a17995730a96bb4970c.jpg,https://m.atcdn.co.uk/a/media/{resize}/ddcf78e7592a40a5a486aa31f9c12b14.jpg,https://m.atcdn.co.uk/a/media/{resize}/e30965e42a204dada5e7dfe8efcbd10b.jpg,https://m.atcdn.co.uk/a/media/{resize}/a868cc992d81488f9250b7e71267a810.jpg,https://m.atcdn.co.uk/a/media/{resize}/145ed43bd0a84bb1ba1acf2a55549d4a.jpg,https://m.atcdn.co.uk/a/media/{resize}/16135212a79448db901605a38a30e1da.jpg,https://m.atcdn.co.uk/a/media/{resize}/66e66ada84a34228a9132fb4acbdae84.jpg,https://m.atcdn.co.uk/a/media/{resize}/004878a1342e409f94efc84b14eab1f2.jpg,https://m.atcdn.co.uk/a/media/{resize}/1f6edb56ee774810aed2b30019330aa7.jpg,https://m.atcdn.co.uk/a/media/{resize}/8a20e0ef1ad744958885d51c38a01d1f.jpg,https://m.atcdn.co.uk/a/media/{resize}/ecb6589f11a040818d66edab31702103.jpg,https://m.atcdn.co.uk/a/media/{resize}/e74d4714e83d475e9f629557c5d9bf15.jpg,https://m.atcdn.co.uk/a/media/{resize}/70d36c6d8c5f4bbbb3c4fefcdb985144.jpg,https://m.atcdn.co.uk/a/media/{resize}/577777a365b3444da292a19871d67f21.jpg,https://m.atcdn.co.uk/a/media/{resize}/c1ad8a68d867420691ddb952e9e7bb6e.jpg,https://m.atcdn.co.uk/a/media/{resize}/0ef7f748e8a1467a9b1b3abbfb2b0d01.jpg,https://m.atcdn.co.uk/a/media/{resize}/9e904682ead64516b4bdfbf8b83da5ff.jpg,https://m.atcdn.co.uk/a/media/{resize}/9a9e73f1b6f849dd9607f07baf11354a.jpg,https://m.atcdn.co.uk/a/media/{resize}/400d1984cb79472b9539ebb931819509.jpg,https://m.atcdn.co.uk/a/media/{resize}/a12b795eba044afaa3de37871cb3e617.jpg,https://m.atcdn.co.uk/a/media/{resize}/cb550af6f4de45dc865bde93e35edbfe.jpg,https://m.atcdn.co.uk/a/media/{resize}/2b4ecc5c13134b808fe63be3b467eafd.jpg,https://m.atcdn.co.uk/a/media/{resize}/51b96ade3e2349aaad156cd3e1fe756f.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2ba126f2a344b43aafd6fdf37de530e.jpg,https://m.atcdn.co.uk/a/media/{resize}/534381a3a799477a8a24d2ac7bf1bf37.jpg,https://m.atcdn.co.uk/a/media/{resize}/a159fcbb33354232b1b1c2e16849c4a5.jpg,https://m.atcdn.co.uk/a/media/{resize}/cff8577ef40f44aeb6354cf4bb8d90c8.jpg,https://m.atcdn.co.uk/a/media/{resize}/ac0902f928bc412296a6812655674ab0.jpg,https://m.atcdn.co.uk/a/media/{resize}/aacd1eb00db7471f9356c0a0aca2f1aa.jpg,https://m.atcdn.co.uk/a/media/{resize}/b5b62ae81be940419c2749ab3f08e704.jpg,https://m.atcdn.co.uk/a/media/{resize}/8f2b4978203442879e8ef9bfb4c88218.jpg,https://m.atcdn.co.uk/a/media/{resize}/b30e59a467f844b2b9b2b782d92b4ce1.jpg,https://m.atcdn.co.uk/a/media/{resize}/4bea9e4333684f5eb75c4f109632c0a0.jpg,https://m.atcdn.co.uk/a/media/{resize}/7f467104436b43bc8cf3864bc21a76f0.jpg,https://m.atcdn.co.uk/a/media/{resize}/a89130d73cba4793afb0c736b245328c.jpg,https://m.atcdn.co.uk/a/media/{resize}/112d0eb132644aa1b718b75584b03c9f.jpg,https://m.atcdn.co.uk/a/media/{resize}/64716ccadc864dfba0f37de26900dc3c.jpg,https://m.atcdn.co.uk/a/media/{resize}/681cab0c27ce400089fffde44b42c0f1.jpg,https://m.atcdn.co.uk/a/media/{resize}/d554e29743cf439ea123ec6c14fd9057.jpg,https://m.atcdn.co.uk/a/media/{resize}/268b9ec9dae444ccb3400784588e9b5c.jpg,https://m.atcdn.co.uk/a/media/{resize}/34cc851ed4d74c0aaeed17d21ab59af9.jpg,https://m.atcdn.co.uk/a/media/{resize}/28a4bbc1c7d844a49b9ce93f48517ba5.jpg,https://m.atcdn.co.uk/a/media/{resize}/2867e1a21d6c4b0c9cb856dbdcf491c5.jpg,https://m.atcdn.co.uk/a/media/{resize}/942831fb598a40219fb28ca112a03a3f.jpg,https://m.atcdn.co.uk/a/media/{resize}/88105a750efe4f84ab946417de594f0b.jpg</Image>
-    <Tax>20</Tax>
-    <Insurance>10E</Insurance>
-    <Mpg>60.1</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202610267339050?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=25bff306-6607-4228-a84b-23e0b18fd7f8&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>4</ID>
     <Name>Mercedes-Benz</Name>
     <Model>A Class</Model>
     <FullModel>1.5 A180 CDI SE 7G-DCT Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>SERVICE HISTORY|AUTOMATIC</EyeCatcher>
-    <Value>6295</Value>
+    <Value>7000</Value>
     <Mileage>76300</Mileage>
     <YearOfManu>2015</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -104,12 +78,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202610297427094?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=f15dee9d-51d5-4614-acc7-11093912ff60&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=650&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>5</ID>
+    <ID>4</ID>
     <Name>Audi</Name>
     <Model>A4</Model>
     <FullModel>2.0 TDI Black Edition quattro Euro 5 (s/s) 4dr</FullModel>
     <EyeCatcher>SERVICE HISTORY|SEPT 2027 MOT</EyeCatcher>
-    <Value>4995</Value>
+    <Value>5500</Value>
     <Mileage>106700</Mileage>
     <YearOfManu>2013</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -130,12 +104,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202611047617418?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=d9f07007-732c-46c5-9663-7eee5d4f24fa&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>6</ID>
+    <ID>5</ID>
     <Name>Nissan</Name>
     <Model>Pulsar</Model>
     <FullModel>1.5 dCi Tekna Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>8 SERVICES|HEATED SEATS|£20TAX</EyeCatcher>
-    <Value>3495</Value>
+    <Value>3500</Value>
     <Mileage>82200</Mileage>
     <YearOfManu>2014</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -156,12 +130,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202610317497864?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=7ef43601-68ce-4627-aa27-ba7654f2fffb&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=350&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>7</ID>
+    <ID>6</ID>
     <Name>Nissan</Name>
     <Model>Qashqai</Model>
     <FullModel>1.5 dCi n-tec+ 2WD Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>SUNROOF | £20 TAX | SATNAV</EyeCatcher>
-    <Value>3995</Value>
+    <Value>4000</Value>
     <Mileage>92700</Mileage>
     <YearOfManu>2015</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -182,12 +156,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202610297430799?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=f15857bb-c0f6-4c20-a663-a95b80b495e3&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=430&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>8</ID>
+    <ID>7</ID>
     <Name>BMW</Name>
     <Model>4 Series</Model>
     <FullModel>2.0 420i Luxury Auto Euro 6 (s/s) 2dr</FullModel>
     <EyeCatcher>ELECTRIC MEMORY SEAT|HTD SEATS</EyeCatcher>
-    <Value>7495</Value>
+    <Value>7500</Value>
     <Mileage>89000</Mileage>
     <YearOfManu>2014</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -208,12 +182,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202608034768068?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=374acc98-6dec-472e-b28c-a4c57e02a927&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3D%26retailerId%3D%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=850&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>9</ID>
+    <ID>8</ID>
     <Name>Mercedes-Benz</Name>
     <Model>A Class</Model>
     <FullModel>1.5 A180 CDI ECO SE Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>SERVICE HISTORY|£20 ROAD TAX</EyeCatcher>
-    <Value>4895</Value>
+    <Value>5000</Value>
     <Mileage>95000</Mileage>
     <YearOfManu>2014</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -234,12 +208,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202611107780575?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=f1a6debb-41ea-431a-89ab-789fc3b3b592&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=500&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>10</ID>
+    <ID>9</ID>
     <Name>Audi</Name>
     <Model>A5</Model>
     <FullModel>2.0 TDI S line Euro 5 (s/s) 2dr</FullModel>
     <EyeCatcher>1 OWNER |FSH|IMMACULATE</EyeCatcher>
-    <Value>4495</Value>
+    <Value>5800</Value>
     <Mileage>107300</Mileage>
     <YearOfManu>2012</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -260,12 +234,12 @@
     <AT>https://www.autotrader.co.uk/car-details/202611127845909?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=c9b223ea-cf4d-4600-82f7-cbfb1dbb4bd7&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=450&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
   <Car>
-    <ID>11</ID>
+    <ID>10</ID>
     <Name>Vauxhall</Name>
     <Model>Astra</Model>
     <FullModel>2.0 CDTi ecoFLEX Elite Euro 5 (s/s) 5dr</FullModel>
     <EyeCatcher>FULL SPEC|£35 ROAD TAX|MOT</EyeCatcher>
-    <Value>2995</Value>
+    <Value>3000</Value>
     <Mileage>78300</Mileage>
     <YearOfManu>2015</YearOfManu>
     <CatStat>HPI Clear</CatStat>
@@ -284,31 +258,5 @@
     <Insurance>20E</Insurance>
     <Mpg>47.9</Mpg>
     <AT>https://www.autotrader.co.uk/car-details/202611147907727?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=ed49c562-2940-4edd-8a71-14873e65f8ef&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=300&amp;calc-term=48&amp;calc-mileage=10000</AT>
-  </Car>
-  <Car>
-    <ID>12</ID>
-    <Name>Audi</Name>
-    <Model>A4</Model>
-    <FullModel>3.0 TDI S line quattro 4dr</FullModel>
-    <EyeCatcher>SERVICE HISTORY|QUATTRO|3.0 V6</EyeCatcher>
-    <Value>2495</Value>
-    <Mileage>108700</Mileage>
-    <YearOfManu>2006</YearOfManu>
-    <CatStat>HPI Clear</CatStat>
-    <FuelType>Diesel</FuelType>
-    <Transmission>Automatic</Transmission>
-    <Colour>Grey</Colour>
-    <ExtraFeatures>3 Spoke Steering Wheel  Paddle Shift Tip/M-Tronic, BOSE Sound System, Cruise Control, Electric Lumbar Support, Front Sports Seats, Heated Front Seats, Aluminium Trim Strips Framing Side Windows, Grey exterior colour, Black full leather interior, Sports Suspension, Acoustic Parking Aid - Rear</ExtraFeatures>
-    <Reg>nw06pco</Reg>
-    <Video></Video>
-    <MetaTag>Audi A4 3.0 TDI S line quattro 4dr Diesel Automatic Grey</MetaTag>
-    <Description>
-      Audi A4 3.0 TDI S line quattro 4 door, This Audi A4 is equipped with Service History, Satellite Navigation, Bluetooth, Cruise Control, Full Two Tone Leather Interior, 6 Stage Heated Seats, Dual Zone Climate Control, Alloy Wheels, Xenon Headlights, Front Fog Lights, S line Styling, Multifunction Steering Wheel, Electric Windows, Electric Mirrors, Central Locking, Power Assisted Steering, Adjustable Steering, Airbags, Steering Wheel Controls, ABS, ISOFIX, Traction Control and quattro All-Wheel Drive. Buying from AFM Billingham means that you can buy with confidence, this vehicle comes to you with a Warranty, 72 Point Pre Delivery Inspection and a minimum of 6 months MOT, all of which is FREE of charge. All our cars are HPI Clear, full valet, friendly staff, debit/credit cards taken, generous part exchange deals. Call us now on our 24hr sales lines 07497670847, SatNav TS23 3TA, WWW.AFMBILLINGHAM.COM Facebook: AFM Billingham, Instagram: AFM Billingham, TikTok: AFM Billingham
-    </Description>
-    <Image>https://m.atcdn.co.uk/a/media/{resize}/a07b13a573b04705809e3abd95566e5e.jpg,https://m.atcdn.co.uk/a/media/{resize}/5ac7d5f25e9c435d806f1e6652d9e5fb.jpg,https://m.atcdn.co.uk/a/media/{resize}/69de1b05ac84443181100cf3966b4722.jpg,https://m.atcdn.co.uk/a/media/{resize}/75386ad7cb81438b86bfaba714c8d667.jpg,https://m.atcdn.co.uk/a/media/{resize}/4c4e7537f6d04deb952cf52891efbc16.jpg,https://m.atcdn.co.uk/a/media/{resize}/13c05608901f4469be65743ed70cead7.jpg,https://m.atcdn.co.uk/a/media/{resize}/8ac52ab2e44748c8a9a6be23252dc57c.jpg,https://m.atcdn.co.uk/a/media/{resize}/40f0c30e919e4ff5be252c80cc4ede02.jpg,https://m.atcdn.co.uk/a/media/{resize}/d0c721da74dd4ddd8e1205c71ac3ca96.jpg,https://m.atcdn.co.uk/a/media/{resize}/686717a1c29e4edbbef2820123f7903f.jpg,https://m.atcdn.co.uk/a/media/{resize}/a9c1e6ab56a84a23b502c6252e5a3c1c.jpg,https://m.atcdn.co.uk/a/media/{resize}/1ec2e0c616144a63932eeab3b971a9be.jpg,https://m.atcdn.co.uk/a/media/{resize}/294ed2143d35428e9e6fb1b7d83b6b67.jpg,https://m.atcdn.co.uk/a/media/{resize}/cf019924b0c34fd39f31cfae2f400e7e.jpg,https://m.atcdn.co.uk/a/media/{resize}/2c4a7ef5c96546aa9fc1f2003166f629.jpg,https://m.atcdn.co.uk/a/media/{resize}/055916c1924541a7ad7ad11dabd666ca.jpg,https://m.atcdn.co.uk/a/media/{resize}/ffbbb9eecf684852834b9a6a4c620767.jpg,https://m.atcdn.co.uk/a/media/{resize}/6ba20b10e0d84c2d8fa0e3589dbcd123.jpg,https://m.atcdn.co.uk/a/media/{resize}/7a33ae4486174b91b1d2783b850978d2.jpg,https://m.atcdn.co.uk/a/media/{resize}/7a7b3c97325c4b0f876da9e10a80d3e4.jpg,https://m.atcdn.co.uk/a/media/{resize}/73b88c6f5f0f47d389d63d7d9dfe0cb8.jpg,https://m.atcdn.co.uk/a/media/{resize}/686469d2f142451e877ce16aa56d7c2c.jpg,https://m.atcdn.co.uk/a/media/{resize}/592aac3c73ad4880a2bbb0eb0c803f01.jpg,https://m.atcdn.co.uk/a/media/{resize}/396779b3202e4c9f9638e1e3dedd7011.jpg,https://m.atcdn.co.uk/a/media/{resize}/c5ed6bd1aa4845469f3b4130a34521d2.jpg,https://m.atcdn.co.uk/a/media/{resize}/9bcb065c51ba4013914b0d1f2d31bc4d.jpg,https://m.atcdn.co.uk/a/media/{resize}/74ff0a1818a44828b8545fb99c23ef00.jpg,https://m.atcdn.co.uk/a/media/{resize}/f0ef65b6ac6e4d69bc589db183f3b9e0.jpg,https://m.atcdn.co.uk/a/media/{resize}/b8069b5c6c1e4231ada3c54f679b2be7.jpg,https://m.atcdn.co.uk/a/media/{resize}/05ea93d38be34ba28a1aec6b295d4f8f.jpg,https://m.atcdn.co.uk/a/media/{resize}/c52a20d7df784761822f102a48cc1e4e.jpg,https://m.atcdn.co.uk/a/media/{resize}/ae41f11059da45d7ba9e3c83ad77bccb.jpg,https://m.atcdn.co.uk/a/media/{resize}/174cb43e158f4b9db6aa21c1602c5d5c.jpg,https://m.atcdn.co.uk/a/media/{resize}/818c4f2be52d4247b3b8372c5ec2a12d.jpg,https://m.atcdn.co.uk/a/media/{resize}/1427fbf05e8344a8a32797d50381cd41.jpg,https://m.atcdn.co.uk/a/media/{resize}/53326b726207462bb45e58167736ce84.jpg,https://m.atcdn.co.uk/a/media/{resize}/d82046c8144d4d29b3870f283f1c3603.jpg,https://m.atcdn.co.uk/a/media/{resize}/ed5426c0bb46484eb648e45ae11b8eaa.jpg,https://m.atcdn.co.uk/a/media/{resize}/55643ff4ed2c432a82d081048d1b6380.jpg,https://m.atcdn.co.uk/a/media/{resize}/d2a35c4fc7c64e228a3ac6af3b1c26c6.jpg,https://m.atcdn.co.uk/a/media/{resize}/a1d2a5d139f34633a64712757d11800e.jpg,https://m.atcdn.co.uk/a/media/{resize}/22a8a762299b483c9f6a2128ea38a6d9.jpg,https://m.atcdn.co.uk/a/media/{resize}/51e47d6da084479992b00d1453995100.jpg,https://m.atcdn.co.uk/a/media/{resize}/4b2ce50690c9436ca8151f6e4ffaab6e.jpg,https://m.atcdn.co.uk/a/media/{resize}/643eb6c55f0a4a94ab732037db7ec5c2.jpg,https://m.atcdn.co.uk/a/media/{resize}/080578a9c39c4eb8b22ab03e90696683.jpg,https://m.atcdn.co.uk/a/media/{resize}/d4c8fd3d2c724e70b3abf4e18aca8710.jpg,https://m.atcdn.co.uk/a/media/{resize}/fa36ef7360a04a84a26260a31c2d7907.jpg</Image>
-    <Tax>445</Tax>
-    <Insurance>34E</Insurance>
-    <Mpg>33.6</Mpg>
-    <AT>https://www.autotrader.co.uk/car-details/202611208080096?journey=DEALER_STOCK_LIST_JOURNEY&amp;sort=price-asc&amp;twcs=true&amp;searchId=0d898815-d3db-4761-9883-5695678c3b17&amp;advertising-location=at_profile_cars&amp;advertising-location=at_cars&amp;page=1&amp;postcode=ts233ta&amp;fromsra=&amp;fromDealerSearchResults=&amp;backLinkQueryParams=advertising-location%3Dat_cars%26advertising-location%3Dat_profile_cars%26onesearchad%3DUsed%26onesearchad%3DNearly%2520New%26onesearchad%3DNew%26postcode%3Dts233ta%26retailerId%3D10041187%26sort%3Dprice-asc%26flrfc%3D1&amp;calc-deposit=250&amp;calc-term=48&amp;calc-mileage=10000</AT>
   </Car>
 </Cars>
